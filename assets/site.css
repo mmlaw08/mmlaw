@@ -660,3 +660,18 @@ html.sheet-open { overflow: hidden; }
 .faq-gh { display: flex; flex-wrap: wrap; gap: 8px 16px; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
 .faq-gh .h3 { margin: 0; }
 .faq-gh .link-arrow { margin: 0; }
+
+/* nav pair: უცხოელებისთვის | ემიგრანტებისთვის */
+.nav-sep { align-self: center; color: var(--line-strong); font-weight: 400; margin: 0 -4px; }
+
+/* Georgians abroad band (home) */
+.abroad-band { display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: space-between; padding: 40px; border: 1px solid var(--line); border-radius: 20px; background: var(--soft); }
+.abroad-l { flex: 1 1 440px; display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.abroad-l .h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); }
+.abroad-chips { flex: 1 1 320px; list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.abroad-chips li { display: flex; gap: 10px; align-items: center; padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); font-size: 14px; font-weight: 500; }
+.abroad-chips svg { color: var(--accent); flex: none; }
+@media (max-width: 640px) {
+  .abroad-band { padding: 22px 18px; gap: 24px; }
+  .abroad-chips { grid-template-columns: 1fr; }
+}
