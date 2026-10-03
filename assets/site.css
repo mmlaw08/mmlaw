@@ -114,9 +114,9 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .brand-name { font-size: 18px; font-weight: 700; letter-spacing: -0.02em; }
 .brand-sub { white-space: nowrap; font-size: 11px; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
 .nav { display: flex; flex-wrap: nowrap; gap: 2px; font-size: 14px; font-weight: 500; }
-.nav a { padding: 8px 10px; border-radius: 6px; white-space: nowrap; }
-.nav a:hover { background: var(--soft2); color: var(--fg); }
-.nav a[aria-current] { background: var(--soft2); }
+.nav > a, .nav-dd > a { padding: 8px 10px; border-radius: 6px; white-space: nowrap; }
+.nav > a:hover, .nav-dd > a:hover { background: var(--soft2); color: var(--fg); }
+
 .hdr-actions { display: flex; gap: 8px; align-items: center; }
 .menu-btn { display: none; width: 40px; height: 40px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); align-items: center; justify-content: center; cursor: pointer; color: var(--fg); }
 .menu-btn .i-close, .menu-btn[aria-expanded="true"] .i-open { display: none; }
@@ -597,9 +597,9 @@ html.sheet-open { overflow: hidden; }
 @media (max-width: 640px) { .svc-row h3 { font-size: 18px; } }
 
 /* ---------- active menu item: accent underline */
-.nav a { position: relative; }
-.nav a[aria-current] { background: none; }
-.nav a[aria-current]::after { content: ""; position: absolute; left: 10px; right: 10px; bottom: 2px; height: 2px; border-radius: 2px; background: var(--accent); }
+.nav > a, .nav-dd > a { position: relative; }
+.nav > a[aria-current], .nav-dd > a[aria-current] { background: none; }
+.nav > a[aria-current]::after, .nav-dd > a[aria-current]::after { content: ""; position: absolute; left: 10px; right: 10px; bottom: 2px; height: 2px; border-radius: 2px; background: var(--accent); }
 .nav-dd > a[aria-current]::after { right: 28px; }
 
 /* ---------- services mega menu (desktop) */
@@ -625,9 +625,6 @@ html.sheet-open { overflow: hidden; }
 .mega-card-t:hover { color: var(--accent); background: none; }
 .mega-card p { font-size: 13px; line-height: 1.5; color: var(--muted); margin-bottom: 4px; }
 .mega-card .btn { height: 40px; font-size: 14px; padding: 0 12px; }
-.mega-card .btn:hover { background: var(--ink-hover); }
-.mega-card .btn-outline:hover { background: var(--soft2); }
 .mega-foot { display: flex; gap: 24px; margin-top: 20px; padding-top: 14px; border-top: 1px solid var(--line); }
 .mega-foot .link-arrow { margin: 0; padding: 0; }
 .mega-foot .link-arrow:hover { background: none; }
-.mega .mega-card-t { padding: 0; }
