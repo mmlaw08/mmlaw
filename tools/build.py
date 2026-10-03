@@ -194,7 +194,7 @@ def head(lang, path, title, desc, og_type="website", image=None, ld=(), noindex=
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&family=Noto+Sans+Georgian:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="/assets/site.css?v={ASSET_V}">
 <script type="application/ld+json">{graph}</script>
 </head>"""
@@ -746,13 +746,13 @@ def og_images():
     for lang in LANGS:
         t = T[lang]
         doc = f"""<!doctype html><html lang="{lang}"><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Geist:wght@500;600;700&family=Noto+Sans+Georgian:wght@500;600;700&display=block" rel="stylesheet">
-<style>*{{margin:0;box-sizing:border-box}}body{{width:1200px;height:630px;font-family:Geist,'Noto Sans Georgian',sans-serif;background:#fff;color:#09090b;
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@500;600;700&display=block" rel="stylesheet">
+<style>*{{margin:0;box-sizing:border-box}}body{{width:1200px;height:630px;font-family:HelveticaNeue,'Helvetica Neue',Arial,Helvetica,'Noto Sans Georgian',sans-serif;background:#fff;color:#09090b;
 background-image:linear-gradient(#f0f0f2 1px,transparent 1px),linear-gradient(90deg,#f0f0f2 1px,transparent 1px);background-size:48px 48px;
 display:flex;flex-direction:column;justify-content:space-between;padding:72px 80px}}
 .b{{display:flex;gap:18px;align-items:center}}.m{{width:72px;height:72px;border-radius:16px;background:#18181b;color:#fafafa;display:flex;align-items:center;justify-content:center}}
 .n{{font-size:44px;font-weight:700;letter-spacing:-.02em;line-height:1}}.s{{font-size:20px;color:#52525b;margin-top:6px}}
-h1{{font-size:{76 if lang == "en" else 64}px;line-height:1.05;font-weight:600;letter-spacing:{"-.045em" if lang != "ka" else "-.01em"}}}
+h1{{font-size:{76 if lang == "en" else 64}px;line-height:1.05;font-weight:600;letter-spacing:{"-.03em" if lang != "ka" else "-.01em"}}}
 .f{{display:flex;justify-content:space-between;align-items:center;font-size:26px;color:#3f3f46}}.d{{color:{SITE["accent"]};font-weight:600}}</style></head>
 <body><div class="b"><span class="m">{icon("scale", 40, 1.6)}</span><div><div class="n">MMLAW</div><div class="s">{e(tag[lang])}</div></div></div>
 <h1>{t["hero_h1"]}</h1>
