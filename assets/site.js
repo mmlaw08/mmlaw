@@ -119,6 +119,7 @@
     if (/^00\d{8,15}$/.test(v)) return "+" + v.slice(2);
     if (/^995\d{9}$/.test(v)) return "+" + v;
     if (/^0?[345]\d{8}$/.test(v)) return "+995" + v.replace(/^0/, "");
+    if (/^\d{10,15}$/.test(v)) return "+" + v; // international number typed without "+"
     return null;
   }
 
