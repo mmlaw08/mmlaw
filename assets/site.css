@@ -547,8 +547,9 @@ html.sheet-open { overflow: hidden; }
 .sh-head h2:focus { outline: none; }
 
 /* theme switch next to the language switch */
-.tb-right { display: flex; gap: 8px; align-items: center; }
-.theme-sm { width: 32px; height: 32px; border-radius: 8px; }
+.tb-right { display: flex; gap: 6px; align-items: stretch; }
+.theme-sm { width: 32px; height: auto; border-radius: 8px; }
+.theme-sm svg { width: 15px; height: 15px; }
 .theme-hdr { display: none; }
 @media (max-width: 640px) {
   .theme-hdr { display: inline-flex; width: 36px; height: 36px; }
