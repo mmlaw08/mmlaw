@@ -27,7 +27,7 @@ T = {
         "nav_home": "მთავარი", "nav_about": "ჩვენს შესახებ", "nav_services": "მომსახურება",
         "nav_blog": "ბლოგი", "nav_contact": "კონტაქტი", "menu": "მენიუ",
         "m_call": "დარეკვა", "m_cta": "კონსულტაცია",
-        "theme": "თემის შეცვლა", "close": "დახურვა",
+        "desc_tail": "პირველი კონსულტაცია უფასოა.", "theme": "თემის შეცვლა", "close": "დახურვა",
         "sh_title": "როგორ გნებავთ დაგვიკავშირდეთ?", "sh_sub": "ორშ–პარ 10:00–18:00. პირველი კონსულტაცია უფასოა.",
         "sh_call": "დარეკვა ახლავე", "sh_wa": "WhatsApp", "sh_wa_sub": "მოგვწერეთ ან დაგვირეკეთ WhatsApp-ით",
         "sh_req": "მოითხოვეთ ზარი", "sh_req_sub": "დაგვიტოვეთ ნომერი — დაგირეკავთ",
@@ -41,7 +41,7 @@ T = {
         "skip": "მთავარ შინაარსზე გადასვლა",
         "badge": "უფასო", "badge_text": "პირველი კონსულტაცია უფასოა",
         "hero_h1": "ჩვენ ვიბრძვით<br>თქვენი უფლებებისთვის.",
-        "hero_p": "მაღალკვალიფიციური საადვოკატო მომსახურება თბილისში — 25 წელზე მეტი გამოცდილება სისხლის, სამოქალაქო, ადმინისტრაციულ და კორპორატიულ სამართალში. ერთგულება კანონისადმი, პატიოსნება ყველა საქმეში.",
+        "hero_p": "მაღალკვალიფიციური საადვოკატო მომსახურება თბილისში — 10 წელზე მეტი გამოცდილება სისხლის, სამოქალაქო, ადმინისტრაციულ და კორპორატიულ სამართალში. ერთგულება კანონისადმი, პატიოსნება ყველა საქმეში.",
         "btn_book": "დაჯავშნეთ უფასო კონსულტაცია", "btn_practice": "პრაქტიკის სფეროები",
         "check1": "მკაცრი კონფიდენციალურობა", "check2": "ქართული · ინგლისური · რუსული",
         "check3": "წარმომადგენლობა ყველა ინსტანციის სასამართლოში",
@@ -61,7 +61,7 @@ T = {
         "svc_all": "ყველა სერვისი",
         "about_eyebrow": "MMLAW-ის შესახებ",
         "about_h2": "ერთგულება კანონისადმი.<br>პატიოსნება ყველა საქმეში.",
-        "about_p": "25 წელზე მეტია, MMLAW იცავს ფიზიკური და იურიდიული პირების ინტერესებს სისხლის, სამოქალაქო და კორპორატიულ საქმეებში. ჩვენ ვაერთიანებთ სასამართლო პრაქტიკის დიდ გამოცდილებას და ინდივიდუალურ მიდგომას — თითოეული კლიენტი უშუალოდ ადვოკატთან მუშაობს.",
+        "about_p": "10 წელზე მეტია, MMLAW იცავს ფიზიკური და იურიდიული პირების ინტერესებს სისხლის, სამოქალაქო და კორპორატიულ საქმეებში. ჩვენ ვაერთიანებთ სასამართლო პრაქტიკის დიდ გამოცდილებას და ინდივიდუალურ მიდგომას — თითოეული კლიენტი უშუალოდ ადვოკატთან მუშაობს.",
         "about_more": "მეტი ბიუროს შესახებ",
         "principles": [
             ("პირდაპირი კავშირი ადვოკატთან", "თქვენ ესაუბრებით ადვოკატს, რომელიც თქვენს საქმეს წარმართავს — და არა ასისტენტს."),
@@ -108,7 +108,7 @@ T = {
         "nav_home": "Home", "nav_about": "About", "nav_services": "Services",
         "nav_blog": "Blog", "nav_contact": "Contact", "menu": "Menu",
         "m_call": "Call", "m_cta": "Consultation",
-        "theme": "Switch theme", "close": "Close",
+        "desc_tail": "Free first consultation.", "theme": "Switch theme", "close": "Close",
         "sh_title": "How would you like to reach us?", "sh_sub": "Mon–Fri 10:00–18:00. The first consultation is free.",
         "sh_call": "Call now", "sh_wa": "WhatsApp", "sh_wa_sub": "Message or call us on WhatsApp",
         "sh_req": "Request a call back", "sh_req_sub": "Leave your number — we'll call you",
@@ -122,7 +122,7 @@ T = {
         "skip": "Skip to main content",
         "badge": "Free", "badge_text": "Initial consultation is free",
         "hero_h1": "We fight for<br>your rights.",
-        "hero_p": "Premium legal representation in Tbilisi — over 25 years of experience in criminal, civil, administrative and corporate law. Loyal to the law, committed to integrity.",
+        "hero_p": "Premium legal representation in Tbilisi — over 10 years of experience in criminal, civil, administrative and corporate law. Loyal to the law, committed to integrity.",
         "btn_book": "Book a free consultation", "btn_practice": "Practice areas",
         "check1": "Strict confidentiality", "check2": "Georgian · English · Russian",
         "check3": "Representation in courts of all instances",
@@ -142,7 +142,7 @@ T = {
         "svc_all": "All services",
         "about_eyebrow": "About MMLAW",
         "about_h2": "Loyalty to the law.<br>Integrity in every case.",
-        "about_p": "For more than 25 years MMLAW has represented individuals and companies in criminal, civil and corporate matters. We combine deep courtroom experience with a personal approach — every client works directly with an attorney.",
+        "about_p": "For more than 10 years MMLAW has represented individuals and companies in criminal, civil and corporate matters. We combine deep courtroom experience with a personal approach — every client works directly with an attorney.",
         "about_more": "More about the firm",
         "principles": [
             ("Direct attorney access", "You speak with the lawyer handling your case — not an assistant."),
@@ -189,7 +189,7 @@ T = {
         "nav_home": "Главная", "nav_about": "О нас", "nav_services": "Услуги",
         "nav_blog": "Блог", "nav_contact": "Контакты", "menu": "Меню",
         "m_call": "Позвонить", "m_cta": "Консультация",
-        "theme": "Сменить тему", "close": "Закрыть",
+        "desc_tail": "Первая консультация бесплатна.", "theme": "Сменить тему", "close": "Закрыть",
         "sh_title": "Как вам удобнее связаться?", "sh_sub": "Пн–Пт 10:00–18:00. Первая консультация бесплатна.",
         "sh_call": "Позвонить сейчас", "sh_wa": "WhatsApp", "sh_wa_sub": "Напишите или позвоните в WhatsApp",
         "sh_req": "Заказать обратный звонок", "sh_req_sub": "Оставьте номер — мы перезвоним",
@@ -203,7 +203,7 @@ T = {
         "skip": "Перейти к основному содержанию",
         "badge": "Бесплатно", "badge_text": "Первая консультация бесплатна",
         "hero_h1": "Мы боремся<br>за ваши права.",
-        "hero_p": "Премиальное юридическое представительство в Тбилиси — более 25 лет опыта в уголовном, гражданском, административном и корпоративном праве. Верность закону и честность в каждом деле.",
+        "hero_p": "Премиальное юридическое представительство в Тбилиси — более 10 лет опыта в уголовном, гражданском, административном и корпоративном праве. Верность закону и честность в каждом деле.",
         "btn_book": "Записаться на бесплатную консультацию", "btn_practice": "Области практики",
         "check1": "Строгая конфиденциальность", "check2": "Грузинский · английский · русский",
         "check3": "Представительство в судах всех инстанций",
@@ -223,7 +223,7 @@ T = {
         "svc_all": "Все услуги",
         "about_eyebrow": "О MMLAW",
         "about_h2": "Верность закону.<br>Честность в каждом деле.",
-        "about_p": "Более 25 лет MMLAW представляет интересы частных лиц и компаний в уголовных, гражданских и корпоративных делах. Мы сочетаем большой судебный опыт с индивидуальным подходом — каждый клиент работает напрямую с адвокатом.",
+        "about_p": "Более 10 лет MMLAW представляет интересы частных лиц и компаний в уголовных, гражданских и корпоративных делах. Мы сочетаем большой судебный опыт с индивидуальным подходом — каждый клиент работает напрямую с адвокатом.",
         "about_more": "Подробнее о фирме",
         "principles": [
             ("Прямой доступ к адвокату", "Вы общаетесь с адвокатом, который ведёт ваше дело, — а не с ассистентом."),
@@ -272,19 +272,19 @@ T = {
 PAGES = {
     "home": {
         "ka": ("ადვოკატი თბილისში — MMLAW საადვოკატო ბიურო | უფასო კონსულტაცია",
-               "MMLAW — საადვოკატო ბიურო თბილისში. 25+ წლის გამოცდილება სისხლის, სამოქალაქო, ადმინისტრაციულ, შრომით, კორპორატიულ და საოჯახო სამართალში. პირველი კონსულტაცია უფასოა."),
-        "en": ("Lawyer in Tbilisi, Georgia — MMLAW Law Firm | Free consultation",
-               "MMLAW is a law firm in Tbilisi, Georgia with 25+ years of experience in criminal, civil, administrative, labour, corporate and family law. Consultations in English, Georgian and Russian. First consultation free."),
-        "ru": ("Адвокат в Тбилиси — юридическая фирма MMLAW | Бесплатная консультация",
-               "MMLAW — юридическая фирма в Тбилиси, Грузия. Более 25 лет опыта в уголовном, гражданском, административном, трудовом, корпоративном и семейном праве. Консультации на русском. Первая консультация бесплатна."),
+               "საადვოკატო ბიურო თბილისში — 10+ წლის გამოცდილება სისხლის, სამოქალაქო, ადმინისტრაციულ, შრომით, კორპორატიულ და საოჯახო სამართალში. პირველი კონსულტაცია უფასოა."),
+        "en": ("Lawyer in Tbilisi, Georgia — MMLAW Law Firm",
+               "Tbilisi law firm with 10+ years of experience in criminal, civil, labour, corporate and family law. English, Georgian and Russian. Free first consultation."),
+        "ru": ("Адвокат в Тбилиси — юридическая фирма MMLAW",
+               "Юридическая фирма в Тбилиси: более 10 лет опыта в уголовном, гражданском, трудовом, корпоративном и семейном праве. Консультации на русском. Первая — бесплатно."),
     },
     "about": {
         "ka": ("ჩვენს შესახებ — MMLAW საადვოკატო ბიურო, თბილისი",
-               "MMLAW — თბილისის საადვოკატო ბიურო 25 წელზე მეტი პრაქტიკით. ჩვენი ღირებულებები, მიდგომა და პრინციპები."),
+               "MMLAW — თბილისის საადვოკატო ბიურო 10 წელზე მეტი პრაქტიკით. ჩვენი ღირებულებები, მიდგომა და პრინციპები."),
         "en": ("About MMLAW Law Firm — Attorneys in Tbilisi, Georgia",
-               "MMLAW is a Tbilisi law firm with over 25 years of legal practice. Our values, our approach and how we work with clients in Georgian, English and Russian."),
+               "MMLAW is a Tbilisi law firm with over 10 years of legal practice. Our values, our approach and how we work with clients in Georgian, English and Russian."),
         "ru": ("О нас — юридическая фирма MMLAW, Тбилиси",
-               "MMLAW — юридическая фирма в Тбилиси с более чем 25-летней практикой. Наши ценности, подход и принципы работы с клиентами."),
+               "MMLAW — юридическая фирма в Тбилиси с более чем 10-летней практикой. Наши ценности, подход и принципы работы с клиентами."),
     },
     "services": {
         "ka": ("იურიდიული მომსახურება — პრაქტიკის სფეროები | MMLAW",
@@ -292,7 +292,7 @@ PAGES = {
         "en": ("Legal services in Georgia — Practice areas | MMLAW Law Firm",
                "Criminal defense, civil litigation, administrative, labour, corporate, real estate, family, intellectual property law and juvenile justice in Tbilisi, Georgia."),
         "ru": ("Юридические услуги в Грузии — области практики | MMLAW",
-               "Уголовная защита, гражданские споры, административное, трудовое, корпоративное, семейное право, недвижимость, интеллектуальная собственность и ювенальная юстиция."),
+               "Уголовная защита, гражданские споры, административное, трудовое, корпоративное и семейное право, недвижимость, интеллектуальная собственность в Грузии."),
     },
     "blog": {
         "ka": ("ბლოგი — სამართლებრივი სტატიები და რჩევები | MMLAW",
@@ -311,9 +311,9 @@ PAGES = {
                "Звоните +995 551 00 43 00, пишите в WhatsApp или на info@mmlaw.ge. Пн–Пт 10:00–18:00, Тбилиси. Первая консультация бесплатна."),
     },
     "privacy": {
-        "ka": ("კონფიდენციალურობის პოლიტიკა | MMLAW", "როგორ ვამუშავებთ და ვიცავთ თქვენს პერსონალურ მონაცემებს."),
-        "en": ("Privacy policy | MMLAW Law Firm", "How MMLAW processes and protects your personal data."),
-        "ru": ("Политика конфиденциальности | MMLAW", "Как MMLAW обрабатывает и защищает ваши персональные данные."),
+        "ka": ("კონფიდენციალურობის პოლიტიკა | MMLAW", "როგორ ვამუშავებთ და ვიცავთ თქვენს პერსონალურ მონაცემებს: რას ვაგროვებთ, რისთვის ვიყენებთ და რა უფლებები გაქვთ."),
+        "en": ("Privacy policy | MMLAW Law Firm", "How MMLAW processes and protects your personal data: what we collect, why we use it and what rights you have."),
+        "ru": ("Политика конфиденциальности | MMLAW", "Как MMLAW обрабатывает и защищает ваши персональные данные: что мы собираем, зачем используем и какие у вас права."),
     },
 }
 
@@ -762,7 +762,7 @@ SERVICES = [
 ABOUT = {
     "ka": {
         "h1": "ერთგულება კანონისადმი. პატიოსნება ყველა საქმეში.",
-        "lead": "MMLAW — თბილისის საადვოკატო ბიურო, რომლის გუნდსაც 25 წელზე მეტი იურიდიული პრაქტიკა აქვს.",
+        "lead": "MMLAW — თბილისის საადვოკატო ბიურო, რომლის გუნდსაც 10 წელზე მეტი იურიდიული პრაქტიკა აქვს.",
         "body": [
             "ვიცავთ ფიზიკური და იურიდიული პირების ინტერესებს სისხლის, სამოქალაქო, ადმინისტრაციულ, შრომით, კორპორატიულ, უძრავი ქონების, საოჯახო და ინტელექტუალური საკუთრების საქმეებში — მოლაპარაკებებზე, სახელმწიფო ორგანოებში და საქართველოს ყველა ინსტანციის სასამართლოში.",
             "ჩვენი მიდგომა მარტივია: თითოეული კლიენტი უშუალოდ ადვოკატთან მუშაობს, იღებს საქმის გულწრფელ შეფასებას და მოქმედების მკაფიო გეგმას. ვმუშაობთ ქართულ, ინგლისურ და რუსულ ენებზე, ამიტომ უცხოელ კლიენტებსა და კომპანიებსაც შეუძლიათ იურიდიული დახმარების მიღება მათთვის გასაგებ ენაზე.",
@@ -776,7 +776,7 @@ ABOUT = {
     },
     "en": {
         "h1": "Loyalty to the law. Integrity in every case.",
-        "lead": "MMLAW is a Tbilisi law firm whose team brings more than 25 years of legal practice.",
+        "lead": "MMLAW is a Tbilisi law firm whose team brings more than 10 years of legal practice.",
         "body": [
             "We represent individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family and intellectual property matters — in negotiations, before public authorities and in courts of every instance in Georgia.",
             "Our approach is simple: every client works directly with an attorney, gets an honest assessment of their case and a clear plan of action. We work in Georgian, English and Russian, so foreign clients and companies can get legal help in a language they understand.",
@@ -790,7 +790,7 @@ ABOUT = {
     },
     "ru": {
         "h1": "Верность закону. Честность в каждом деле.",
-        "lead": "MMLAW — юридическая фирма в Тбилиси, команда которой имеет более 25 лет юридической практики.",
+        "lead": "MMLAW — юридическая фирма в Тбилиси, команда которой имеет более 10 лет юридической практики.",
         "body": [
             "Мы представляем частных лиц и компании в уголовных, гражданских, административных, трудовых, корпоративных делах, делах о недвижимости, семейных спорах и вопросах интеллектуальной собственности — на переговорах, в государственных органах и в судах всех инстанций Грузии.",
             "Наш подход прост: каждый клиент работает напрямую с адвокатом, получает честную оценку дела и чёткий план действий. Мы работаем на грузинском, английском и русском языках, поэтому иностранные клиенты и компании могут получить юридическую помощь на понятном им языке.",
@@ -974,7 +974,7 @@ POSTS = [
         "image": "/assets/blog/judge.jpg", "minutes": 3,
         "ka": {
             "title": "იცოდე, ვინ არის მოსამართლე",
-            "desc": "მოსამართლე არის პირი, რომელსაც მინიჭებული აქვს უფლებამოსილება, მოისმინოს და გადაწყვიტოს საქმეები სასამართლოში. როგორ არის მოწყობილი სასამართლო სისტემა საქართველოში.",
+            "desc": "ვინ არის მოსამართლე, როგორ არის მოწყობილი საქართველოს სასამართლო სისტემა და ვინ შეიძლება გახდეს მოსამართლე.",
             "body": [
                 ("p", "მოსამართლე არის პირი, რომელსაც მინიჭებული აქვს უფლებამოსილება, მოისმინოს და გადაწყვიტოს საქმეები სასამართლოში. იგი განიხილავს როგორც ადმინისტრაციულ, ისე სამოქალაქო და სისხლის სამართლის საქმეებს."),
                 ("h2", "სასამართლო სისტემა საქართველოში"),
@@ -1025,3 +1025,32 @@ POSTS = [
         },
     },
 ]
+
+# ---------------------------------------------------------------- URL words per language
+# Page keys (English) map to localized address words. Georgian uses the national
+# romanization (ხ=kh, ც/წ=ts, ჭ/ჩ=ch, ქ/კ=k, ფ/პ=p). English slugs are the keys themselves.
+SLUGS = {
+    "sections": {
+        "about": {"ka": "chvens-shesakheb", "en": "about", "ru": "o-nas"},
+        "services": {"ka": "momsakhureba", "en": "services", "ru": "uslugi"},
+        "blog": {"ka": "blogi", "en": "blog", "ru": "blog"},
+        "contact": {"ka": "kontakti", "en": "contact", "ru": "kontakty"},
+        "privacy": {"ka": "konfidentsialuroba", "en": "privacy", "ru": "konfidentsialnost"},
+    },
+    "services": {
+        "criminal-defense": {"ka": "siskhlis-samartali", "ru": "ugolovnaya-zashchita"},
+        "civil-litigation": {"ka": "samokalako-samartali", "ru": "grazhdanskie-spory"},
+        "administrative-law": {"ka": "administratsiuli-samartali", "ru": "administrativnoe-pravo"},
+        "juvenile-justice": {"ka": "arasrultslovanta-martlmsajuleba", "ru": "yuvenalnaya-yustitsiya"},
+        "labor-law": {"ka": "shromiti-davebi", "ru": "trudovye-spory"},
+        "corporate-law": {"ka": "korporatiuli-samartali", "ru": "korporativnoe-pravo"},
+        "real-estate": {"ka": "udzravi-koneba", "ru": "nedvizhimost"},
+        "family-law": {"ka": "saojakho-samartali", "ru": "semeynoe-pravo"},
+        "intellectual-property": {"ka": "intelektualuri-sakutreba", "ru": "intellektualnaya-sobstvennost"},
+    },
+    "posts": {
+        "what-to-do-if-detained": {"ka": "tkveni-uplebebi-dakavebisas", "en": "what-to-do-if-detained", "ru": "zaderzhanie-v-gruzii-vashi-prava"},
+        "divorce-in-georgia": {"ka": "gankortsineba-sakartveloshi", "en": "divorce-in-georgia", "ru": "razvod-v-gruzii"},
+        "itsode-vin-aris-mosamartle": {"ka": "itsode-vin-aris-mosamartle", "en": "who-is-a-judge-in-georgia", "ru": "kto-takoy-sudya"},
+    },
+}

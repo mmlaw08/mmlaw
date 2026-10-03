@@ -16,7 +16,7 @@ import tempfile
 
 sys.path.insert(0, os.path.dirname(__file__))
 from content import (SITE, LANGS, DEFAULT_LANG, LOCALES, LANG_LABEL, LANG_NAME, T, PAGES,
-                     HOME_FAQ, SERVICES, ABOUT, PRIVACY, POSTS)
+                     HOME_FAQ, SERVICES, ABOUT, PRIVACY, POSTS, SLUGS)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = SITE["domain"]
@@ -28,13 +28,30 @@ e = html.escape
 
 
 # ------------------------------------------------------------------ helpers
+def localize(lang, key):
+    """Page key ('services/criminal-defense/') -> address words in that language."""
+    parts = [x for x in key.split("/") if x]
+    if not parts:
+        return ""
+    out = [SLUGS["sections"][parts[0]][lang]]
+    if len(parts) > 1:
+        group = "services" if parts[0] == "services" else "posts"
+        out.append(SLUGS[group].get(parts[1], {}).get(lang, parts[1]))
+    return "/".join(out) + "/"
+
+
 def url(lang, path=""):
-    """Site-relative URL for a page path ('' = home, 'about/' ...)."""
-    return f"/{lang}/" + path
+    """Site-relative URL for a page key ('' = home, 'about/', 'services/<slug>/' ...)."""
+    return f"/{lang}/" + localize(lang, path)
 
 
 def abs_url(lang, path=""):
     return D + url(lang, path)
+
+
+def with_brand(title):
+    """Append the brand only when the title still fits in a search result."""
+    return f"{title} | MMLAW" if len(title) <= 52 else title
 
 
 def svc(slug):
@@ -106,7 +123,10 @@ def firm_ld(lang):
         "telephone": SITE["phone"],
         "email": SITE["email"],
         "address": {"@type": "PostalAddress", "addressLocality": "Tbilisi", "addressCountry": "GE"},
-        "areaServed": {"@type": "Country", "name": "Georgia"},
+        "areaServed": [{"@type": "City", "name": "Tbilisi"}, {"@type": "Country", "name": "Georgia"}],
+        "knowsAbout": [s[lang]["name"] for s in SERVICES],
+        "makesOffer": {"@type": "Offer", "name": t["s4"], "price": "0", "priceCurrency": "GEL",
+                       "description": t["badge_text"]},
         "knowsLanguage": ["ka", "en", "ru"],
         "openingHoursSpecification": [{
             "@type": "OpeningHoursSpecification",
@@ -166,8 +186,16 @@ def webpage_ld(lang, path, title, desc, kind="WebPage", trail=None):
 
 
 # ------------------------------------------------------------------ layout
-def head(lang, path, title, desc, og_type="website", image=None, ld=(), noindex=False):
+IMAGE_SIZES = {"/assets/blog/judge.jpg": (900, 900)}
+
+
+def head(lang, path, title, desc, og_type="website", image=None, ld=(), noindex=False, extra=""):
     image = image or f"/assets/og-{lang}.png"
+    iw, ih = IMAGE_SIZES.get(image, (1200, 630))
+    fonts = ("""<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@400;500;600;700&display=swap">
+""" if lang == "ka" else "")
     alts = "".join(f'<link rel="alternate" hreflang="{l}" href="{abs_url(l, path)}">' for l in LANGS)
     alts += f'<link rel="alternate" hreflang="x-default" href="{abs_url(DEFAULT_LANG, path)}">'
     og_alt = "".join(f'<meta property="og:locale:alternate" content="{LOCALES[l]}">' for l in LANGS if l != lang)
@@ -189,9 +217,13 @@ def head(lang, path, title, desc, og_type="website", image=None, ld=(), noindex=
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{abs_url(lang, path)}">
 <meta property="og:image" content="{D}{image}">
+<meta property="og:image:width" content="{iw}">
+<meta property="og:image:height" content="{ih}">
+<meta property="og:image:alt" content="{e(title)}">
 <meta property="og:locale" content="{LOCALES[lang]}">
 {og_alt}
 <meta name="twitter:card" content="summary_large_image">
+<meta name="author" content="MMLAW">{extra}
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#09090b" media="(prefers-color-scheme: dark)">
@@ -200,10 +232,7 @@ def head(lang, path, title, desc, og_type="website", image=None, ld=(), noindex=
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@400;500;600;700&display=swap">
-<link rel="stylesheet" href="/assets/site.css?v={ASSET_V}">
+{fonts}<link rel="stylesheet" href="/assets/site.css?v={ASSET_V}">
 <script type="application/ld+json">{graph}</script>
 </head>"""
 
@@ -302,8 +331,8 @@ def footer(lang):
 <script src="/assets/site.js?v={ASSET_V}" defer></script>"""
 
 
-def page(lang, path, title, desc, main, active=None, ld=(), og_type="website", image=None, noindex=False):
-    return (head(lang, path, title, desc, og_type, image, ld, noindex) + "\n<body>\n" + header(lang, path, active)
+def page(lang, path, title, desc, main, active=None, ld=(), og_type="website", image=None, noindex=False, extra=""):
+    return (head(lang, path, title, desc, og_type, image, ld, noindex, extra) + "\n<body>\n" + header(lang, path, active)
             + f'\n<main id="main">\n{main}\n</main>\n' + footer(lang) + mobile_bar(lang) + call_sheet(lang) + "\n</body>\n</html>\n" + GENERATED_MARK + "\n")
 
 
@@ -467,7 +496,7 @@ def principles_grid(lang, dark=True):
 
 def stats(lang):
     t = T[lang]
-    data = [("25+", t["s1"]), (str(len(SERVICES)), t["s2"]), ("3", t["s3"]), (t["s4v"], t["s4"])]
+    data = [("10+", t["s1"]), (str(len(SERVICES)), t["s2"]), ("3", t["s3"]), (t["s4v"], t["s4"])]
     return (f'<section class="stats" aria-label="{e(t["stats_label"])}"><div class="wrap stats-in">' + "".join(
         f'<div class="stat"><span class="stat-v">{e(v)}</span><span class="stat-l">{e(l)}</span></div>' for v, l in data)
         + "</div></section>")
@@ -556,12 +585,21 @@ def build_services(lang):
     return page(lang, "services/", title, desc, main, "services", ld)
 
 
+def related_posts(lang, slug):
+    posts = [p for p in POSTS if p["cat"] == slug]
+    if not posts:
+        return ""
+    t = T[lang]
+    return (f'<section class="sec bb"><div class="wrap stack">{eyebrow_h2(t["blog_eyebrow"], t["blog_h2"])}'
+            + '<div class="post-grid">' + "".join(post_card(lang, p) for p in posts) + "</div></div></section>")
+
+
 def build_service(lang, s):
     t = T[lang]
     d = s[lang]
     path = f"services/{s['slug']}/"
-    title = f'{d["title"]} | MMLAW'
-    desc = d["lead"]
+    title = with_brand(d["title"])
+    desc = f'{d["short"]} {t["desc_tail"]}'
     trail = [(t["nav_home"], ""), (t["nav_services"], "services/"), (d["name"], path)]
     items = "".join(f"<li>{icon('check', 16, 2.25, 'acc')}<span>{e(x)}</span></li>" for x in d["items"])
     body = "".join(f"<p>{e(p)}</p>" for p in d["body"])
@@ -575,6 +613,7 @@ def build_service(lang, s):
             + f'<div class="stack-sm">{faq_block(lang, d["faq"], t["svc_faq"], d["name"])}</div>'
             + f'</div>{aside_card(lang, s["slug"])}</div></section>'
             + f'<section class="sec soft bb"><div class="wrap form-wrap">{consult_form(lang, "consult", s["slug"])}</div></section>'
+            + related_posts(lang, s["slug"])
             + f'<section class="sec"><div class="wrap stack">{eyebrow_h2(t["svc_eyebrow"], t["other_areas"])}'
             + '<div class="svc-grid">' + "".join(svc_card(lang, o) for o in others) + "</div></div></section>")
     service_ld = {
@@ -620,7 +659,7 @@ def build_post(lang, p):
     t = T[lang]
     d = p[lang]
     path = f"blog/{p['slug']}/"
-    title = f'{d["title"]} | MMLAW'
+    title = with_brand(d["title"])
     trail = [(t["nav_home"], ""), (t["nav_blog"], "blog/"), (d["title"], path)]
     s = svc(p["cat"])
     meta = (f'<p class="post-meta mono"><span class="tag">{e(s[lang]["name"])}</span>'
@@ -643,7 +682,10 @@ def build_post(lang, p):
         "mainEntityOfPage": {"@id": abs_url(lang, path) + "#webpage"}, "about": {"@type": "Thing", "name": s[lang]["name"]},
     }
     ld = [firm_ld(lang), website_ld(), webpage_ld(lang, path, title, d["desc"], "WebPage", trail), crumbs_ld(lang, trail), art]
-    return page(lang, path, title, d["desc"], main, "blog", ld, "article", image)
+    extra = (f'\n<meta property="article:published_time" content="{p["date"]}">'
+             f'\n<meta property="article:modified_time" content="{max(p["date"], SITE["updated"])}">'
+             f'\n<meta property="article:section" content="{e(s[lang]["name"])}">')
+    return page(lang, path, title, d["desc"], main, "blog", ld, "article", image, extra=extra)
 
 
 def build_contact(lang):
@@ -765,7 +807,7 @@ def llms_txt():
     t = T["en"]
     lines = [
         "# MMLAW Law Firm (mmlaw.ge)", "",
-        "> MMLAW is a law firm in Tbilisi, Georgia, with more than 25 years of legal practice. It represents individuals and "
+        "> MMLAW is a law firm in Tbilisi, Georgia, with more than 10 years of legal practice. It represents individuals and "
         "companies in criminal, civil, administrative, labour, corporate, real estate, family, intellectual property and "
         "juvenile justice matters, before courts of all instances in Georgia. Consultations in Georgian, English and Russian; "
         "the first consultation is free. Formerly at lfs.ge.", "",
@@ -781,8 +823,39 @@ def llms_txt():
               f"- [Contact]({abs_url('en', 'contact/')})",
               f"- [Frequently asked questions]({abs_url('en')}#faq)", "", "## Articles", ""]
     lines += [f"- [{p['en']['title']}]({abs_url('en', 'blog/' + p['slug'] + '/')}): {p['en']['desc']}" for p in POSTS]
-    lines += ["", "## Optional", "", f"- [Sitemap]({D}/sitemap.xml)", ""]
+    lines += ["", "## Optional", "", f"- [Full text of the site in English]({D}/llms-full.txt)", f"- [Sitemap]({D}/sitemap.xml)", ""]
     return "\n".join(lines)
+
+
+def llms_full():
+    """Complete English content in one plain-text file for AI assistants."""
+    en = "en"
+    t = T[en]
+    out = [llms_txt().split("## Practice areas")[0].rstrip(), "", "## About the firm", ""]
+    out += ABOUT[en]["body"] + [""]
+    out += [f"- {a}: {b}" for a, b in ABOUT[en]["values"]] + [""]
+    out += ["## How we work", ""] + [f"{i + 1}. {a} — {b}" for i, (a, b) in enumerate(t["process"])] + [""]
+    out += ["## Frequently asked questions", ""]
+    for q, a in HOME_FAQ[en]:
+        out += [f"### {q}", a, ""]
+    for sv in SERVICES:
+        d = sv[en]
+        out += [f"## {d['title']}", f"URL: {abs_url(en, 'services/' + sv['slug'] + '/')}", "", d["lead"], ""]
+        out += d["body"] + [""] + [f"{t['what_we_handle']}:"] + [f"- {x}" for x in d["items"]] + [""]
+        for q, a in d["faq"]:
+            out += [f"### {q}", a, ""]
+    for p in sorted(POSTS, key=lambda x: x["date"], reverse=True):
+        d = p[en]
+        out += [f"## {d['title']}", f"URL: {abs_url(en, 'blog/' + p['slug'] + '/')} — published {p['date']}", ""]
+        for kind, val in d["body"]:
+            if kind == "h2":
+                out += [f"### {val}"]
+            elif kind == "p":
+                out += [val, ""]
+            else:
+                out += [f"- {x}" for x in val] + [""]
+    out += ["", t["disclaimer"], ""]
+    return "\n".join(out)
 
 
 def clean_generated():
@@ -831,24 +904,31 @@ h1{{font-size:{76 if lang == "en" else 64}px;line-height:1.05;font-weight:600;le
 def main():
     clean_generated()
     for lang in LANGS:
-        pre = f"{lang}/"
-        write(pre + "index.html", build_home(lang))
-        write(pre + "about/index.html", build_about(lang))
-        write(pre + "services/index.html", build_services(lang))
+        loc = lambda key: f"{lang}/" + localize(lang, key) + "index.html"
+        write(loc(""), build_home(lang))
+        write(loc("about/"), build_about(lang))
+        write(loc("services/"), build_services(lang))
         for s in SERVICES:
-            write(pre + f"services/{s['slug']}/index.html", build_service(lang, s))
-        write(pre + "blog/index.html", build_blog(lang))
+            write(loc(f"services/{s['slug']}/"), build_service(lang, s))
+        write(loc("blog/"), build_blog(lang))
         for p in POSTS:
-            write(pre + f"blog/{p['slug']}/index.html", build_post(lang, p))
-        write(pre + "contact/index.html", build_contact(lang))
-        write(pre + "privacy/index.html", build_privacy(lang))
+            write(loc(f"blog/{p['slug']}/"), build_post(lang, p))
+        write(loc("contact/"), build_contact(lang))
+        write(loc("privacy/"), build_privacy(lang))
     write("404.html", build_404())
-    # The bare domain and root-level paths forward to the Georgian (default) pages.
-    for path in all_paths():
-        write(f"{path}index.html", redirect_stub(url(DEFAULT_LANG, path)))
+    # Forwarding: bare domain + root paths -> Georgian; older English-word addresses
+    # (incl. lfs.ge's /ka/... and /ru/... links) -> the localized ones.
+    real = {url(l, k) for l in LANGS for k in all_paths()}
+    for key in all_paths():
+        write(f"{key}index.html", redirect_stub(url(DEFAULT_LANG, key)))
+        for lang in LANGS:
+            old = f"/{lang}/{key}"
+            if old not in real:
+                write(f"{lang}/{key}index.html", redirect_stub(url(lang, key)))
     write("sitemap.xml", sitemap())
     write("robots.txt", robots())
     write("llms.txt", llms_txt())
+    write("llms-full.txt", llms_full())
     if "--og" in sys.argv:
         og_images()
     n = sum(1 for _ in all_paths()) * len(LANGS)

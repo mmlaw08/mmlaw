@@ -21,7 +21,10 @@ python3 tools/build.py --og   # also re-render social share images (needs Google
 
 - `hreflang` alternates + `x-default` on every page, canonical URLs, Open Graph / Twitter cards
 - JSON-LD: `LegalService` (firm), `WebSite`, `WebPage`, `BreadcrumbList`, `Service`, `FAQPage`, `BlogPosting`
-- `sitemap.xml` with language alternates, `robots.txt` (AI crawlers allowed), `llms.txt`
+- Localized address words per language (`SLUGS` in `tools/content.py`), e.g. `/ka/momsakhureba/siskhlis-samartali/`,
+  `/en/services/criminal-defense/`, `/ru/uslugi/ugolovnaya-zashchita/`; older addresses forward automatically
+- `sitemap.xml` with language alternates, `robots.txt` (AI crawlers allowed), `llms.txt` + `llms-full.txt`
+- IndexNow: after publishing, run `python3 tools/indexnow.py` to notify Bing/Yandex
 - Root paths (`/`, `/about/`…) forward to `/ka/…`, which also matches the old lfs.ge `/ka/` URLs
 
 ## To do

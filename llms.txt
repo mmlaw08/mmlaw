@@ -1,6 +1,6 @@
 # MMLAW Law Firm (mmlaw.ge)
 
-> MMLAW is a law firm in Tbilisi, Georgia, with more than 25 years of legal practice. It represents individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family, intellectual property and juvenile justice matters, before courts of all instances in Georgia. Consultations in Georgian, English and Russian; the first consultation is free. Formerly at lfs.ge.
+> MMLAW is a law firm in Tbilisi, Georgia, with more than 10 years of legal practice. It represents individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family, intellectual property and juvenile justice matters, before courts of all instances in Georgia. Consultations in Georgian, English and Russian; the first consultation is free. Formerly at lfs.ge.
 
 - Phone / WhatsApp: +995 551 00 43 00
 - Email: info@mmlaw.ge
@@ -29,8 +29,9 @@
 
 - [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/): Your key rights if you are arrested in Georgia: the right to remain silent, to a lawyer, to an interpreter and to inform a relative — and the 48/72-hour rule.
 - [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/): When you can divorce at the Public Service Hall and when only a court can decide — plus children, alimony and division of property in Georgia.
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/itsode-vin-aris-mosamartle/): A judge is a person vested with the authority to hear and decide cases in court. How the court system in Georgia is organised and who can become a judge.
+- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/): A judge is a person vested with the authority to hear and decide cases in court. How the court system in Georgia is organised and who can become a judge.
 
 ## Optional
 
+- [Full text of the site in English](https://mmlaw.ge/llms-full.txt)
 - [Sitemap](https://mmlaw.ge/sitemap.xml)
