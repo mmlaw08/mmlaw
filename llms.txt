@@ -1,0 +1,36 @@
+# MMLAW Law Firm (mmlaw.ge)
+
+> MMLAW is a law firm in Tbilisi, Georgia, with more than 25 years of legal practice. It represents individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family, intellectual property and juvenile justice matters, before courts of all instances in Georgia. Consultations in Georgian, English and Russian; the first consultation is free. Formerly at lfs.ge.
+
+- Phone / WhatsApp: +995 551 00 43 00
+- Email: info@mmlaw.ge
+- Office: Tbilisi, Georgia. Hours: Monday–Friday, 10:00–18:00
+- Languages: Georgian (default, https://mmlaw.ge/), English (https://mmlaw.ge/en/), Russian (https://mmlaw.ge/ru/)
+
+## Practice areas
+
+- [Criminal defense](https://mmlaw.ge/en/services/criminal-defense/): MMLAW criminal defense lawyers represent suspects, accused persons and victims at every stage of a criminal case in Georgia — from the first questioning to the Supreme Court.
+- [Civil litigation](https://mmlaw.ge/en/services/civil-litigation/): We represent individuals and companies in civil disputes in Georgia — from pre-trial negotiation through all three court instances.
+- [Administrative law](https://mmlaw.ge/en/services/administrative-law/): We help individuals and businesses challenge unlawful decisions of public authorities and navigate licensing, permit and regulatory procedures in Georgia.
+- [Juvenile justice](https://mmlaw.ge/en/services/juvenile-justice/): We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
+- [Labor disputes](https://mmlaw.ge/en/services/labor-law/): We represent employees and employers in labour disputes under the Labour Code of Georgia — from unlawful dismissal to drafting contracts and workplace policies.
+- [Corporate law](https://mmlaw.ge/en/services/corporate-law/): Strategic legal support for businesses in Georgia — from company registration to mergers and acquisitions, compliance and restructuring.
+- [Real estate](https://mmlaw.ge/en/services/real-estate/): Full legal support for real estate in Georgia — checking the property, structuring and signing the deal, registering ownership and resolving disputes.
+- [Family law](https://mmlaw.ge/en/services/family-law/): Discreet, professional representation in divorce, child residence, alimony and division of marital property in Georgia.
+- [Intellectual property](https://mmlaw.ge/en/services/intellectual-property/): We protect brands, creative works and inventions — from registration with Sakpatenti to disputes with infringers.
+
+## Key pages
+
+- [About the firm](https://mmlaw.ge/en/about/)
+- [Contact](https://mmlaw.ge/en/contact/)
+- [Frequently asked questions](https://mmlaw.ge/en/#faq)
+
+## Articles
+
+- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/): Your key rights if you are arrested in Georgia: the right to remain silent, to a lawyer, to an interpreter and to inform a relative — and the 48/72-hour rule.
+- [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/): When you can divorce at the Public Service Hall and when only a court can decide — plus children, alimony and division of property in Georgia.
+- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/itsode-vin-aris-mosamartle/): A judge is a person vested with the authority to hear and decide cases in court. How the court system in Georgia is organised and who can become a judge.
+
+## Optional
+
+- [Sitemap](https://mmlaw.ge/sitemap.xml)
