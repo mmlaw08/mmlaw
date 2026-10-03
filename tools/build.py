@@ -206,7 +206,9 @@ def webpage_ld(lang, path, title, desc, kind="WebPage", trail=None):
 # Live addresses that were later renamed -> (lang, page key)
 LEGACY = {"/ka/momsakhureba/siskhlis-samartali/": ("ka", "services/criminal-defense/"),
           "/ru/uslugi/ugolovnaya-zashchita/": ("ru", "services/criminal-defense/"),
-          "/ka/chvens-shesakheb/": ("ka", "about/")}
+          "/ka/chvens-shesakheb/": ("ka", "about/"),
+          "/en/lawyer-in-tbilisi/": ("en", "lawyer/"),
+          "/ru/advokat-v-tbilisi/": ("ru", "lawyer/")}
 
 IMAGE_SIZES = {"/assets/blog/judge.jpg": (900, 900)}
 
@@ -389,8 +391,8 @@ def call_sheet(lang):
 <button class="sh-opt" type="button" data-sheet-req><span class="sh-ic">{icon("callback", 20, 1.75)}</span><span><b>{e(t["sh_req"])}</b><small>{e(t["sh_req_sub"])}</small></span>{icon("arrow", 16, cls="sh-go")}</button>
 </div>
 <form class="sh-form" data-callback {form_attrs(lang, t["cb_subject"])} hidden>
-<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" placeholder="{e(t["f_name_ph"])}" maxlength="80" required></label>
-<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="+995 5__ __ __ __" maxlength="20" required></label>
+<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" maxlength="80" required></label>
+<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" inputmode="tel" maxlength="20" required></label>
 {HONEYPOT}
 <button type="submit" class="btn btn-primary btn-block">{icon("callback")}{e(t["cb_submit"])}</button>
 <button type="button" class="btn btn-ghost btn-block" data-sheet-back>{icon("back", 15)}{e(t["cb_back"])}</button>
@@ -410,11 +412,11 @@ def consult_form(lang, fid="consult", selected=None, heading="h2"):
 <div class="cf-head"><{heading} class="cf-title">{e(t["form_title"])}</{heading}><p>{e(t["form_sub"])}</p></div>
 <div class="cf-body">
 <div class="row2">
-<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" placeholder="{e(t["f_name_ph"])}" maxlength="80" required></label>
-<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="+995 5__ __ __ __" maxlength="20" required></label>
+<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" maxlength="80" required></label>
+<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" inputmode="tel" maxlength="20" required></label>
 </div>
 <label>{e(t["f_area"])}<select name="area">{opts}</select></label>
-<label>{e(t["f_msg"])}<textarea name="message" rows="4" placeholder="{e(t["f_msg_ph"])}" maxlength="2000"></textarea></label>
+<label>{e(t["f_msg"])}<textarea name="message" rows="4" maxlength="2000"></textarea></label>
 {HONEYPOT}
 </div>
 <div class="cf-foot">
@@ -970,7 +972,7 @@ def llms_txt():
     t = T["en"]
     lines = [
         "# MMLAW Law Firm (mmlaw.ge)", "",
-        "> MMLAW is a law firm in Tbilisi, Georgia, with more than 10 years of legal practice. It represents individuals and "
+        "> MMLAW is a law firm in Georgia (office in Tbilisi) with more than 10 years of legal practice. It represents individuals and "
         "companies in criminal, civil, administrative, labour, corporate, real estate, family, intellectual property and "
         "juvenile justice matters, before courts of all instances in Georgia. Consultations in Georgian, English and Russian; "
         "the first consultation is free. Formerly at lfs.ge.", "",
@@ -1049,7 +1051,7 @@ def clean_generated():
 
 def og_images():
     chrome = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-    tag = {"ka": "საადვოკატო ბიურო · თბილისი", "en": "Law Firm · Tbilisi, Georgia", "ru": "Юридическая фирма · Тбилиси"}
+    tag = {"ka": "საადვოკატო ბიურო · საქართველო", "en": "Law Firm · Georgia", "ru": "Юридическая фирма · Грузия"}
     for lang in LANGS:
         t = T[lang]
         doc = f"""<!doctype html><html lang="{lang}"><head><meta charset="utf-8">

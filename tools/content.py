@@ -40,8 +40,8 @@ T = {
         "hours_long": "ორშაბათი–პარასკევი, 10:00–18:00",
         "skip": "მთავარ შინაარსზე გადასვლა",
         "badge": "უფასო", "badge_text": "პირველი კონსულტაცია უფასოა",
-        "hero_kicker": "ადვოკატი თბილისში", "hero_h1": "ჩვენ ვიბრძვით<br>თქვენი უფლებებისთვის.",
-        "hero_p": "გამოცდილი ადვოკატი თბილისში — 10 წელზე მეტი პრაქტიკა სისხლის, სამოქალაქო, ადმინისტრაციულ და კორპორატიულ სამართალში. სისხლის სამართლის ადვოკატი დაკავების მომენტიდან, უფასო პირველი კონსულტაცია.",
+        "hero_kicker": "ადვოკატი საქართველოში", "hero_h1": "ჩვენ ვიბრძვით<br>თქვენი უფლებებისთვის.",
+        "hero_p": "გამოცდილი ადვოკატი საქართველოში — 10 წელზე მეტი პრაქტიკა სისხლის, სამოქალაქო, ადმინისტრაციულ და კორპორატიულ სამართალში. სისხლის სამართლის ადვოკატი დაკავების მომენტიდან, უფასო პირველი კონსულტაცია.",
         "btn_book": "დაჯავშნეთ უფასო კონსულტაცია", "btn_practice": "პრაქტიკის სფეროები",
         "check1": "მკაცრი კონფიდენციალურობა", "check2": "ქართული · ინგლისური · რუსული",
         "check3": "წარმომადგენლობა ყველა ინსტანციის სასამართლოში",
@@ -121,8 +121,8 @@ T = {
         "hours_long": "Monday–Friday, 10:00–18:00",
         "skip": "Skip to main content",
         "badge": "Free", "badge_text": "Initial consultation is free",
-        "hero_kicker": "Lawyer in Tbilisi, Georgia", "hero_h1": "We fight for<br>your rights.",
-        "hero_p": "Premium legal representation in Tbilisi — over 10 years of experience in criminal, civil, administrative and corporate law. Loyal to the law, committed to integrity.",
+        "hero_kicker": "Lawyer in Georgia", "hero_h1": "We fight for<br>your rights.",
+        "hero_p": "Premium legal representation across Georgia — over 10 years of experience in criminal, civil, administrative and corporate law. Loyal to the law, committed to integrity.",
         "btn_book": "Book a free consultation", "btn_practice": "Practice areas",
         "check1": "Strict confidentiality", "check2": "Georgian · English · Russian",
         "check3": "Representation in courts of all instances",
@@ -202,8 +202,8 @@ T = {
         "hours_long": "Понедельник–пятница, 10:00–18:00",
         "skip": "Перейти к основному содержанию",
         "badge": "Бесплатно", "badge_text": "Первая консультация бесплатна",
-        "hero_kicker": "Адвокат в Тбилиси", "hero_h1": "Мы боремся<br>за ваши права.",
-        "hero_p": "Премиальное юридическое представительство в Тбилиси — более 10 лет опыта в уголовном, гражданском, административном и корпоративном праве. Верность закону и честность в каждом деле.",
+        "hero_kicker": "Адвокат в Грузии", "hero_h1": "Мы боремся<br>за ваши права.",
+        "hero_p": "Премиальное юридическое представительство по всей Грузии — более 10 лет опыта в уголовном, гражданском, административном и корпоративном праве. Верность закону и честность в каждом деле.",
         "btn_book": "Записаться на бесплатную консультацию", "btn_practice": "Области практики",
         "check1": "Строгая конфиденциальность", "check2": "Грузинский · английский · русский",
         "check3": "Представительство в судах всех инстанций",
@@ -271,26 +271,26 @@ T = {
 # ---------------------------------------------------------------- pages meta
 PAGES = {
     "home": {
-        "ka": ("ადვოკატი თბილისში — MMLAW საადვოკატო ბიურო | უფასო კონსულტაცია",
-               "საადვოკატო ბიურო თბილისში — 10+ წლის გამოცდილება სისხლის, სამოქალაქო, ადმინისტრაციულ, შრომით, კორპორატიულ და საოჯახო სამართალში. პირველი კონსულტაცია უფასოა."),
-        "en": ("Lawyer in Tbilisi, Georgia — MMLAW Law Firm",
-               "Tbilisi law firm with 10+ years of experience in criminal, civil, labour, corporate and family law. English, Georgian and Russian. Free first consultation."),
-        "ru": ("Адвокат в Тбилиси — юридическая фирма MMLAW",
-               "Юридическая фирма в Тбилиси: более 10 лет опыта в уголовном, гражданском, трудовом, корпоративном и семейном праве. Консультации на русском. Первая — бесплатно."),
+        "ka": ("ადვოკატი საქართველოში — MMLAW საადვოკატო ბიურო",
+               "საადვოკატო ბიურო საქართველოში — 10+ წლის გამოცდილება სისხლის, სამოქალაქო, ადმინისტრაციულ, შრომით, კორპორატიულ და საოჯახო სამართალში. პირველი კონსულტაცია უფასოა."),
+        "en": ("Lawyer in Georgia — MMLAW Law Firm",
+               "Law firm in Georgia with 10+ years of experience in criminal, civil, labour, corporate and family law. English, Georgian and Russian. Free first consultation."),
+        "ru": ("Адвокат в Грузии — юридическая фирма MMLAW",
+               "Юридическая фирма в Грузии: более 10 лет опыта в уголовном, гражданском, трудовом, корпоративном и семейном праве. Консультации на русском. Первая — бесплатно."),
     },
     "about": {
-        "ka": ("ჩვენ შესახებ — MMLAW საადვოკატო ბიურო, თბილისი",
-               "MMLAW — თბილისის საადვოკატო ბიურო 10 წელზე მეტი პრაქტიკით. ჩვენი ღირებულებები, მიდგომა და პრინციპები."),
-        "en": ("About MMLAW Law Firm — Attorneys in Tbilisi, Georgia",
-               "MMLAW is a Tbilisi law firm with over 10 years of legal practice. Our values, our approach and how we work with clients in Georgian, English and Russian."),
-        "ru": ("О нас — юридическая фирма MMLAW, Тбилиси",
-               "MMLAW — юридическая фирма в Тбилиси с более чем 10-летней практикой. Наши ценности, подход и принципы работы с клиентами."),
+        "ka": ("ჩვენ შესახებ — MMLAW საადვოკატო ბიურო, საქართველო",
+               "MMLAW — საადვოკატო ბიურო საქართველოში, 10 წელზე მეტი პრაქტიკით. ჩვენი ღირებულებები, მიდგომა და პრინციპები."),
+        "en": ("About MMLAW Law Firm — Attorneys in Georgia",
+               "MMLAW is a law firm in Georgia with over 10 years of legal practice. Our values, our approach and how we work with clients in Georgian, English and Russian."),
+        "ru": ("О нас — юридическая фирма MMLAW, Грузия",
+               "MMLAW — юридическая фирма в Грузии с более чем 10-летней практикой. Наши ценности, подход и принципы работы с клиентами."),
     },
     "services": {
         "ka": ("იურიდიული მომსახურება — პრაქტიკის სფეროები | MMLAW",
                "სისხლის, სამოქალაქო, ადმინისტრაციული, შრომის, კორპორატიული, საოჯახო სამართალი, უძრავი ქონება, ინტელექტუალური საკუთრება და არასრულწლოვანთა მართლმსაჯულება."),
         "en": ("Legal services in Georgia — Practice areas | MMLAW Law Firm",
-               "Criminal defense, civil litigation, administrative, labour, corporate, real estate, family, intellectual property law and juvenile justice in Tbilisi, Georgia."),
+               "Criminal defense, civil litigation, administrative, labour, corporate, real estate, family, intellectual property law and juvenile justice in Georgia."),
         "ru": ("Юридические услуги в Грузии — области практики | MMLAW",
                "Уголовная защита, гражданские споры, административное, трудовое, корпоративное и семейное право, недвижимость, интеллектуальная собственность в Грузии."),
     },
@@ -354,10 +354,10 @@ SERVICES = [
     {
         "slug": "criminal-defense", "icon": "shield",
         "ka": {
-            "name": "სისხლის სამართალი", "title": "სისხლის სამართლის ადვოკატი თბილისში",
+            "name": "სისხლის სამართალი", "title": "სისხლის სამართლის ადვოკატი საქართველოში",
             "short": "დაცვა ყველა ეტაპზე — გამოძიებიდან და დაკავებიდან სასამართლომდე და გასაჩივრებამდე.",
-            "lead": "სისხლის სამართლის ადვოკატი თბილისში: MMLAW იცავს ეჭვმიტანილებს, ბრალდებულებს და დაზარალებულებს სისხლის სამართლის საქმის ყველა ეტაპზე — პირველი დაკითხვიდან უზენაეს სასამართლომდე.",
-            "meta": "სისხლის სამართლის ადვოკატი თბილისში — დაცვა დაკავების მომენტიდან სასამართლომდე და გასაჩივრებამდე. პირველი კონსულტაცია უფასოა.",
+            "lead": "სისხლის სამართლის ადვოკატი საქართველოში: MMLAW იცავს ეჭვმიტანილებს, ბრალდებულებს და დაზარალებულებს სისხლის სამართლის საქმის ყველა ეტაპზე — პირველი დაკითხვიდან უზენაეს სასამართლომდე.",
+            "meta": "სისხლის სამართლის ადვოკატი საქართველოში — დაცვა დაკავების მომენტიდან სასამართლომდე და გასაჩივრებამდე. პირველი კონსულტაცია უფასოა.",
             "body": ["სისხლის სამართლის საქმეებში დაცვა მოითხოვს გამოცდილებას, სტრატეგიულ აზროვნებას და ერთგულებას კლიენტის მიმართ. MMLAW-ის სისხლის სამართლის დეპარტამენტი უზრუნველყოფს უმაღლესი დონის საადვოკატო დაცვას ყველა სახის სისხლის სამართლის საქმეში.",
                      "ვმუშაობთ მძიმე და განსაკუთრებით მძიმე დანაშაულების, ეკონომიკური დანაშაულის, კიბერდანაშაულის, ნარკოტიკებთან დაკავშირებული და სხვა კატეგორიის საქმეებზე."],
             "items": ["დაცვა დაკავების ან დაკითხვის მომენტიდან", "წარმომადგენლობა გამოძიების ეტაპზე და წინასასამართლო სხდომაზე",
@@ -372,10 +372,10 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Criminal defense", "title": "Criminal defense lawyer in Tbilisi, Georgia",
+            "name": "Criminal defense", "title": "Criminal defense lawyer in Georgia",
             "short": "Defense at every stage — from investigation and arrest to trial and appeal.",
             "lead": "MMLAW criminal defense lawyers represent suspects, accused persons and victims at every stage of a criminal case in Georgia — from the first questioning to the Supreme Court.",
-            "meta": "Criminal defense lawyer in Tbilisi, Georgia — defense from the moment of arrest to trial and appeal. Free first consultation.",
+            "meta": "Criminal defense lawyer in Georgia — defense from the moment of arrest to trial and appeal. Free first consultation.",
             "body": ["Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW's criminal defense practice provides top-level defense in all types of criminal cases.",
                      "We handle serious and particularly serious offences, economic crime, cybercrime, drug-related cases and other categories of cases."],
             "items": ["Defense from the moment of arrest or questioning", "Representation during investigation and at pre-trial hearings",
@@ -390,10 +390,10 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Уголовная защита", "title": "Адвокат по уголовным делам в Тбилиси",
+            "name": "Уголовная защита", "title": "Адвокат по уголовным делам в Грузии",
             "short": "Защита на каждом этапе — от следствия и задержания до суда и обжалования.",
             "lead": "Адвокаты MMLAW по уголовным делам защищают подозреваемых, обвиняемых и потерпевших на всех стадиях уголовного дела в Грузии — от первого допроса до Верховного суда.",
-            "meta": "Адвокат по уголовным делам в Тбилиси — защита с момента задержания до суда и обжалования. Первая консультация бесплатна.",
+            "meta": "Адвокат по уголовным делам в Грузии — защита с момента задержания до суда и обжалования. Первая консультация бесплатна.",
             "body": ["Уголовная защита требует опыта, стратегического мышления и полной преданности интересам клиента. Практика уголовной защиты MMLAW обеспечивает защиту высшего уровня по всем видам уголовных дел.",
                      "Мы ведём дела о тяжких и особо тяжких преступлениях, экономических преступлениях, киберпреступлениях, делах, связанных с наркотиками, и других категориях."],
             "items": ["Защита с момента задержания или допроса", "Представительство на стадии следствия и досудебных заседаниях",
@@ -411,7 +411,7 @@ SERVICES = [
     {
         "slug": "civil-litigation", "icon": "gavel",
         "ka": {
-            "name": "სამოქალაქო სამართალი", "title": "სამოქალაქო დავების ადვოკატი თბილისში",
+            "name": "სამოქალაქო სამართალი", "title": "სამოქალაქო დავების ადვოკატი საქართველოში",
             "short": "ხელშეკრულებებთან, ქონებასა და ზიანის ანაზღაურებასთან დაკავშირებული დავები — მოლაპარაკებით ან სასამართლოში.",
             "lead": "ვიცავთ ფიზიკური და იურიდიული პირების ინტერესებს სამოქალაქო დავებში — წინასასამართლო მოლაპარაკებიდან სასამართლოს სამივე ინსტანციამდე.",
             "body": ["სამოქალაქო დავები მოიცავს ფართო სპექტრს — საკუთრების დავებიდან სახელშეკრულებო დარღვევებამდე. MMLAW-ის სამოქალაქო სამართლის გუნდი გთავაზობთ სრულ იურიდიულ თანხლებას პროცესის ყველა ეტაპზე.",
@@ -425,7 +425,7 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Civil litigation", "title": "Civil litigation lawyer in Tbilisi, Georgia",
+            "name": "Civil litigation", "title": "Civil litigation lawyer in Georgia",
             "short": "Contract, property and damages disputes — negotiated or argued in court.",
             "lead": "We represent individuals and companies in civil disputes in Georgia — from pre-trial negotiation through all three court instances.",
             "body": ["Civil disputes cover a wide spectrum — from property disputes to breaches of contract. MMLAW's civil litigation team provides complete legal support at every stage of the process.",
@@ -439,7 +439,7 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Гражданские споры", "title": "Адвокат по гражданским делам в Тбилиси",
+            "name": "Гражданские споры", "title": "Адвокат по гражданским делам в Грузии",
             "short": "Споры по договорам, имуществу и возмещению ущерба — переговоры или суд.",
             "lead": "Мы представляем частных лиц и компании в гражданских спорах в Грузии — от досудебных переговоров до всех трёх судебных инстанций.",
             "body": ["Гражданские споры охватывают широкий спектр — от имущественных споров до нарушений договоров. Команда MMLAW по гражданским делам обеспечивает полное юридическое сопровождение на каждом этапе.",
@@ -456,7 +456,7 @@ SERVICES = [
     {
         "slug": "administrative-law", "icon": "landmark",
         "ka": {
-            "name": "ადმინისტრაციული სამართალი", "title": "ადმინისტრაციული სამართლის ადვოკატი თბილისში",
+            "name": "ადმინისტრაციული სამართალი", "title": "ადმინისტრაციული სამართლის ადვოკატი საქართველოში",
             "short": "სახელმწიფო ორგანოების გადაწყვეტილებების, ჯარიმების, ნებართვებისა და ლიცენზიების გასაჩივრება.",
             "lead": "ვეხმარებით ფიზიკურ პირებსა და ბიზნესს საჯარო დაწესებულებების უკანონო გადაწყვეტილებების გასაჩივრებაში, ლიცენზირებისა და ნებართვების პროცედურებში.",
             "body": ["ადმინისტრაციული სამართალი მოიცავს სახელმწიფო ორგანოებთან ურთიერთობას, ლიცენზირებას, ნებართვებს და მარეგულირებელ საკითხებს. MMLAW დაგეხმარებათ ბიუროკრატიული პროცესების ეფექტურად მართვაში.",
@@ -470,7 +470,7 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Administrative law", "title": "Administrative law lawyer in Tbilisi, Georgia",
+            "name": "Administrative law", "title": "Administrative law lawyer in Georgia",
             "short": "Challenging decisions of public bodies, fines, permits and licences.",
             "lead": "We help individuals and businesses challenge unlawful decisions of public authorities and navigate licensing, permit and regulatory procedures in Georgia.",
             "body": ["Administrative law covers relations with government agencies, licensing, permits and regulatory matters. MMLAW helps you manage bureaucratic processes effectively.",
@@ -484,7 +484,7 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Административное право", "title": "Адвокат по административным делам в Тбилиси",
+            "name": "Административное право", "title": "Адвокат по административным делам в Грузии",
             "short": "Обжалование решений госорганов, штрафов, разрешений и лицензий.",
             "lead": "Помогаем частным лицам и бизнесу обжаловать незаконные решения государственных органов и проходить процедуры лицензирования и получения разрешений в Грузии.",
             "body": ["Административное право охватывает отношения с государственными органами, лицензирование, разрешения и регуляторные вопросы. MMLAW поможет эффективно пройти бюрократические процедуры.",
@@ -546,7 +546,7 @@ SERVICES = [
     {
         "slug": "labor-law", "icon": "briefcase",
         "ka": {
-            "name": "შრომითი დავები", "title": "შრომის სამართლის ადვოკატი თბილისში",
+            "name": "შრომითი დავები", "title": "შრომის სამართლის ადვოკატი საქართველოში",
             "short": "უკანონო გათავისუფლება, აუნაზღაურებელი ხელფასი და შრომითი ხელშეკრულებები — დასაქმებულებისა და დამსაქმებლებისთვის.",
             "lead": "ვიცავთ დასაქმებულებსა და დამსაქმებლებს შრომით დავებში საქართველოს შრომის კოდექსის შესაბამისად — უკანონო გათავისუფლებიდან ხელშეკრულებებისა და შიდა რეგულაციების შედგენამდე.",
             "body": ["შრომითი დავები საქართველოში სულ უფრო აქტუალური ხდება. MMLAW გთავაზობთ კვალიფიციურ იურიდიულ მხარდაჭერას დამსაქმებლებსა და დასაქმებულებს შორის წარმოშობილ დავებში.",
@@ -560,7 +560,7 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Labor disputes", "title": "Employment and labour lawyer in Tbilisi, Georgia",
+            "name": "Labor disputes", "title": "Employment and labour lawyer in Georgia",
             "short": "Unlawful dismissal, unpaid wages and employment contracts — for employees and employers.",
             "lead": "We represent employees and employers in labour disputes under the Labour Code of Georgia — from unlawful dismissal to drafting contracts and workplace policies.",
             "body": ["Labour disputes are increasingly relevant in Georgia. MMLAW offers qualified legal support in disputes between employers and employees.",
@@ -574,7 +574,7 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Трудовые споры", "title": "Адвокат по трудовым спорам в Тбилиси",
+            "name": "Трудовые споры", "title": "Адвокат по трудовым спорам в Грузии",
             "short": "Незаконное увольнение, невыплата зарплаты и трудовые договоры — для работников и работодателей.",
             "lead": "Представляем работников и работодателей в трудовых спорах по Трудовому кодексу Грузии — от незаконного увольнения до составления договоров и внутренних правил.",
             "body": ["Трудовые споры становятся всё более актуальными в Грузии. MMLAW предлагает квалифицированную юридическую поддержку в спорах между работодателями и работниками.",
@@ -591,7 +591,7 @@ SERVICES = [
     {
         "slug": "corporate-law", "icon": "building",
         "ka": {
-            "name": "კორპორატიული სამართალი", "title": "კორპორატიული სამართლის ადვოკატი თბილისში",
+            "name": "კორპორატიული სამართალი", "title": "კორპორატიული სამართლის ადვოკატი საქართველოში",
             "short": "კომპანიის რეგისტრაცია, ხელშეკრულებები, კომპლაიანსი და პარტნიორთა საკითხები.",
             "lead": "სტრატეგიული იურიდიული მხარდაჭერა ბიზნესისთვის საქართველოში — კომპანიის რეგისტრაციიდან შერწყმა-შესყიდვებამდე, კომპლაიანსამდე და რესტრუქტურიზაციამდე.",
             "body": ["კორპორატიული სამართალი მოიცავს ყველა ასპექტს კომპანიის შექმნიდან რესტრუქტურიზაციამდე. MMLAW ეხმარება ბიზნესს სამართლებრივი რისკების მინიმიზაციასა და კანონთან შესაბამისობის უზრუნველყოფაში.",
@@ -605,7 +605,7 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Corporate law", "title": "Corporate lawyer in Tbilisi, Georgia",
+            "name": "Corporate law", "title": "Corporate lawyer in Georgia",
             "short": "Company formation, contracts, compliance and shareholder matters.",
             "lead": "Strategic legal support for businesses in Georgia — from company registration to mergers and acquisitions, compliance and restructuring.",
             "body": ["Corporate law covers every stage from company formation to restructuring. MMLAW helps businesses minimise legal risk and stay compliant.",
@@ -619,7 +619,7 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Корпоративное право", "title": "Корпоративный юрист в Тбилиси",
+            "name": "Корпоративное право", "title": "Корпоративный юрист в Грузии",
             "short": "Регистрация компаний, договоры, комплаенс и вопросы участников.",
             "lead": "Стратегическая юридическая поддержка бизнеса в Грузии — от регистрации компании до слияний и поглощений, комплаенса и реструктуризации.",
             "body": ["Корпоративное право охватывает все этапы — от создания компании до реструктуризации. MMLAW помогает бизнесу минимизировать правовые риски и соблюдать требования закона.",
@@ -636,7 +636,7 @@ SERVICES = [
     {
         "slug": "real-estate", "icon": "home",
         "ka": {
-            "name": "უძრავი ქონება", "title": "უძრავი ქონების ადვოკატი თბილისში",
+            "name": "უძრავი ქონება", "title": "უძრავი ქონების ადვოკატი საქართველოში",
             "short": "ქონების შემოწმება, ნასყიდობის ხელშეკრულებები, რეგისტრაცია და ქონებრივი დავები.",
             "lead": "სრული იურიდიული თანხლება უძრავ ქონებასთან დაკავშირებით საქართველოში — ქონების შემოწმებიდან გარიგების გაფორმებამდე, საკუთრების რეგისტრაციამდე და დავების გადაწყვეტამდე.",
             "body": ["უძრავი ქონების სფეროში იურიდიული თანხლება კრიტიკულად მნიშვნელოვანია. MMLAW გთავაზობთ სრულ სერვისს — ნასყიდობის ხელშეკრულებებიდან მშენებლობის ნებართვებამდე.",
@@ -650,7 +650,7 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Real estate", "title": "Real estate lawyer in Tbilisi, Georgia",
+            "name": "Real estate", "title": "Real estate lawyer in Georgia",
             "short": "Due diligence, purchase agreements, registration and property disputes.",
             "lead": "Full legal support for real estate in Georgia — checking the property, structuring and signing the deal, registering ownership and resolving disputes.",
             "body": ["Legal support in real estate is critically important. MMLAW offers a full service — from purchase agreements to construction permits.",
@@ -664,7 +664,7 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Недвижимость", "title": "Юрист по недвижимости в Тбилиси",
+            "name": "Недвижимость", "title": "Юрист по недвижимости в Грузии",
             "short": "Проверка объекта, договоры купли-продажи, регистрация и имущественные споры.",
             "lead": "Полное юридическое сопровождение сделок с недвижимостью в Грузии — проверка объекта, оформление сделки, регистрация права собственности и разрешение споров.",
             "body": ["Юридическое сопровождение в сфере недвижимости критически важно. MMLAW предлагает полный сервис — от договоров купли-продажи до разрешений на строительство.",
@@ -681,7 +681,7 @@ SERVICES = [
     {
         "slug": "family-law", "icon": "users",
         "ka": {
-            "name": "საოჯახო სამართალი", "title": "საოჯახო სამართლის ადვოკატი თბილისში",
+            "name": "საოჯახო სამართალი", "title": "საოჯახო სამართლის ადვოკატი საქართველოში",
             "short": "განქორწინება, ბავშვის საცხოვრებელი ადგილი, ალიმენტი და ქონების გაყოფა — დისკრეტულად.",
             "lead": "დისკრეტული და პროფესიონალური წარმომადგენლობა განქორწინების, ბავშვის საცხოვრებელი ადგილის განსაზღვრის, ალიმენტისა და მეუღლეთა ქონების გაყოფის საქმეებში.",
             "body": ["საოჯახო სამართალი ემოციურად რთული სფეროა. MMLAW-ის ადვოკატები მგრძნობიარე და პროფესიონალური მიდგომით იცავენ თქვენს და თქვენი ოჯახის ინტერესებს განქორწინების, მეურვეობისა და ქონების გაყოფის საქმეებში.",
@@ -695,7 +695,7 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Family law", "title": "Family and divorce lawyer in Tbilisi, Georgia",
+            "name": "Family law", "title": "Family and divorce lawyer in Georgia",
             "short": "Divorce, custody, alimony and division of property — handled with discretion.",
             "lead": "Discreet, professional representation in divorce, child residence, alimony and division of marital property in Georgia.",
             "body": ["Family law is an emotionally difficult field. MMLAW attorneys protect your and your family's interests in divorce, custody and property division cases with sensitivity and professionalism.",
@@ -709,7 +709,7 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Семейное право", "title": "Адвокат по семейным делам и разводам в Тбилиси",
+            "name": "Семейное право", "title": "Адвокат по семейным делам и разводам в Грузии",
             "short": "Развод, место жительства ребёнка, алименты и раздел имущества — деликатно.",
             "lead": "Деликатное и профессиональное представительство в делах о разводе, определении места жительства ребёнка, алиментах и разделе имущества супругов в Грузии.",
             "body": ["Семейное право — эмоционально сложная сфера. Адвокаты MMLAW защищают ваши интересы и интересы вашей семьи в делах о разводе, опеке и разделе имущества — чутко и профессионально.",
@@ -726,7 +726,7 @@ SERVICES = [
     {
         "slug": "intellectual-property", "icon": "bulb",
         "ka": {
-            "name": "ინტელექტუალური საკუთრება", "title": "ინტელექტუალური საკუთრების ადვოკატი თბილისში",
+            "name": "ინტელექტუალური საკუთრება", "title": "ინტელექტუალური საკუთრების ადვოკატი საქართველოში",
             "short": "სასაქონლო ნიშნები, საავტორო უფლებები და თქვენი შემოქმედებითი და ბიზნეს აქტივების დაცვა.",
             "lead": "ვიცავთ ბრენდებს, შემოქმედებით ნაშრომებსა და გამოგონებებს — საქპატენტში რეგისტრაციიდან უფლებების დამრღვევებთან დავამდე.",
             "body": ["ინტელექტუალური საკუთრების დაცვა თანამედროვე ბიზნესის ფუნდამენტია. MMLAW გთავაზობთ სასაქონლო ნიშნების რეგისტრაციას, საავტორო უფლებების დაცვას და პატენტურ კონსულტაციას.",
@@ -740,7 +740,7 @@ SERVICES = [
             ],
         },
         "en": {
-            "name": "Intellectual property", "title": "Intellectual property lawyer in Tbilisi, Georgia",
+            "name": "Intellectual property", "title": "Intellectual property lawyer in Georgia",
             "short": "Trademarks, copyright and protection of your creative and business assets.",
             "lead": "We protect brands, creative works and inventions — from registration with Sakpatenti to disputes with infringers.",
             "body": ["Intellectual property protection is fundamental to modern business. MMLAW offers trademark registration, copyright protection and patent consultation.",
@@ -754,7 +754,7 @@ SERVICES = [
             ],
         },
         "ru": {
-            "name": "Интеллектуальная собственность", "title": "Юрист по интеллектуальной собственности в Тбилиси",
+            "name": "Интеллектуальная собственность", "title": "Юрист по интеллектуальной собственности в Грузии",
             "short": "Товарные знаки, авторские права и защита ваших творческих и бизнес-активов.",
             "lead": "Защищаем бренды, творческие произведения и изобретения — от регистрации в Сакпатенти до споров с нарушителями.",
             "body": ["Защита интеллектуальной собственности — основа современного бизнеса. MMLAW предлагает регистрацию товарных знаков, защиту авторских прав и патентные консультации.",
@@ -774,7 +774,7 @@ SERVICES = [
 ABOUT = {
     "ka": {
         "h1": "ერთგულება კანონისადმი. პატიოსნება ყველა საქმეში.",
-        "lead": "MMLAW — თბილისის საადვოკატო ბიურო, რომლის გუნდსაც 10 წელზე მეტი იურიდიული პრაქტიკა აქვს.",
+        "lead": "MMLAW — საადვოკატო ბიურო საქართველოში, რომლის გუნდსაც 10 წელზე მეტი იურიდიული პრაქტიკა აქვს.",
         "body": [
             "ვიცავთ ფიზიკური და იურიდიული პირების ინტერესებს სისხლის, სამოქალაქო, ადმინისტრაციულ, შრომით, კორპორატიულ, უძრავი ქონების, საოჯახო და ინტელექტუალური საკუთრების საქმეებში — მოლაპარაკებებზე, სახელმწიფო ორგანოებში და საქართველოს ყველა ინსტანციის სასამართლოში.",
             "ჩვენი მიდგომა მარტივია: თითოეული კლიენტი უშუალოდ ადვოკატთან მუშაობს, იღებს საქმის გულწრფელ შეფასებას და მოქმედების მკაფიო გეგმას. ვმუშაობთ ქართულ, ინგლისურ და რუსულ ენებზე, ამიტომ უცხოელ კლიენტებსა და კომპანიებსაც შეუძლიათ იურიდიული დახმარების მიღება მათთვის გასაგებ ენაზე.",
@@ -788,7 +788,7 @@ ABOUT = {
     },
     "en": {
         "h1": "Loyalty to the law. Integrity in every case.",
-        "lead": "MMLAW is a Tbilisi law firm whose team brings more than 10 years of legal practice.",
+        "lead": "MMLAW is a law firm in Georgia whose team brings more than 10 years of legal practice.",
         "body": [
             "We represent individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family and intellectual property matters — in negotiations, before public authorities and in courts of every instance in Georgia.",
             "Our approach is simple: every client works directly with an attorney, gets an honest assessment of their case and a clear plan of action. We work in Georgian, English and Russian, so foreign clients and companies can get legal help in a language they understand.",
@@ -802,7 +802,7 @@ ABOUT = {
     },
     "ru": {
         "h1": "Верность закону. Честность в каждом деле.",
-        "lead": "MMLAW — юридическая фирма в Тбилиси, команда которой имеет более 10 лет юридической практики.",
+        "lead": "MMLAW — юридическая фирма в Грузии, команда которой имеет более 10 лет юридической практики.",
         "body": [
             "Мы представляем частных лиц и компании в уголовных, гражданских, административных, трудовых, корпоративных делах, делах о недвижимости, семейных спорах и вопросах интеллектуальной собственности — на переговорах, в государственных органах и в судах всех инстанций Грузии.",
             "Наш подход прост: каждый клиент работает напрямую с адвокатом, получает честную оценку дела и чёткий план действий. Мы работаем на грузинском, английском и русском языках, поэтому иностранные клиенты и компании могут получить юридическую помощь на понятном им языке.",
@@ -1286,10 +1286,10 @@ SLUGS["foreigners"] = {
 # ---------------------------------------------------------------- lawyer landing page (/ka/advokati/)
 LAWYER = {
     "ka": {
-        "nav": "ადვოკატი თბილისში",
-        "title": "ადვოკატი თბილისში — იურიდიული მომსახურება | MMLAW",
-        "desc": "ადვოკატი თბილისში: სისხლის, სამოქალაქო, ადმინისტრაციული, შრომის, საოჯახო სამართალი და სხვა. 10+ წლის გამოცდილება, პირველი კონსულტაცია უფასოა.",
-        "h1": "ადვოკატი თბილისში",
+        "nav": "ადვოკატი საქართველოში",
+        "title": "ადვოკატი საქართველოში — იურიდიული მომსახურება | MMLAW",
+        "desc": "ადვოკატი საქართველოში: სისხლის, სამოქალაქო, ადმინისტრაციული, შრომის, საოჯახო სამართალი და სხვა. 10+ წლის გამოცდილება, პირველი კონსულტაცია უფასოა.",
+        "h1": "ადვოკატი საქართველოში",
         "lead": "MMLAW-ის ადვოკატები იცავენ ფიზიკური და იურიდიული პირების ინტერესებს საქართველოს ყველა ინსტანციის სასამართლოში, სახელმწიფო ორგანოებსა და მოლაპარაკებებზე. აირჩიეთ სფერო — პირველი კონსულტაცია უფასოა.",
         "list_h2": "ადვოკატის მომსახურება",
         "why_h2": "რატომ MMLAW",
@@ -1301,10 +1301,10 @@ LAWYER = {
         ],
     },
     "en": {
-        "nav": "Lawyer in Tbilisi",
-        "title": "Lawyer in Tbilisi, Georgia — all legal services | MMLAW",
-        "desc": "Lawyer in Tbilisi: criminal, civil, administrative, labour, family and corporate law and more. 10+ years of experience. Free first consultation.",
-        "h1": "Lawyer in Tbilisi, Georgia",
+        "nav": "Lawyer in Georgia",
+        "title": "Lawyer in Georgia — all legal services | MMLAW",
+        "desc": "Lawyer in Georgia: criminal, civil, administrative, labour, family and corporate law and more. 10+ years of experience. Free first consultation.",
+        "h1": "Lawyer in Georgia",
         "lead": "MMLAW lawyers represent individuals and companies before courts of every instance in Georgia, public authorities and in negotiations. Choose an area — the first consultation is free.",
         "list_h2": "Our legal services",
         "why_h2": "Why MMLAW",
@@ -1316,10 +1316,10 @@ LAWYER = {
         ],
     },
     "ru": {
-        "nav": "Адвокат в Тбилиси",
-        "title": "Адвокат в Тбилиси — все юридические услуги | MMLAW",
-        "desc": "Адвокат в Тбилиси: уголовное, гражданское, административное, трудовое, семейное и корпоративное право. Более 10 лет опыта. Первая консультация бесплатна.",
-        "h1": "Адвокат в Тбилиси",
+        "nav": "Адвокат в Грузии",
+        "title": "Адвокат в Грузии — все юридические услуги | MMLAW",
+        "desc": "Адвокат в Грузии: уголовное, гражданское, административное, трудовое, семейное и корпоративное право. Более 10 лет опыта. Первая консультация бесплатна.",
+        "h1": "Адвокат в Грузии",
         "lead": "Адвокаты MMLAW представляют интересы частных лиц и компаний в судах всех инстанций Грузии, в государственных органах и на переговорах. Выберите область — первая консультация бесплатна.",
         "list_h2": "Услуги адвоката",
         "why_h2": "Почему MMLAW",
@@ -1331,4 +1331,4 @@ LAWYER = {
         ],
     },
 }
-SLUGS["sections"]["lawyer"] = {"ka": "advokati", "en": "lawyer-in-tbilisi", "ru": "advokat-v-tbilisi"}
+SLUGS["sections"]["lawyer"] = {"ka": "advokati", "en": "lawyer-in-georgia", "ru": "advokat-v-gruzii"}
