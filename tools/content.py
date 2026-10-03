@@ -24,7 +24,7 @@ LANG_NAME = {"ka": "ქართული", "en": "English", "ru": "Русски
 
 T = {
     "ka": {
-        "nav_home": "მთავარი", "nav_about": "ჩვენს შესახებ", "nav_services": "მომსახურება",
+        "nav_home": "მთავარი", "nav_about": "ჩვენ შესახებ", "nav_services": "მომსახურება",
         "nav_blog": "ბლოგი", "nav_contact": "კონტაქტი", "menu": "მენიუ",
         "m_call": "დარეკვა", "m_cta": "კონსულტაცია",
         "desc_tail": "პირველი კონსულტაცია უფასოა.", "theme": "თემის შეცვლა", "close": "დახურვა",
@@ -279,7 +279,7 @@ PAGES = {
                "Юридическая фирма в Тбилиси: более 10 лет опыта в уголовном, гражданском, трудовом, корпоративном и семейном праве. Консультации на русском. Первая — бесплатно."),
     },
     "about": {
-        "ka": ("ჩვენს შესახებ — MMLAW საადვოკატო ბიურო, თბილისი",
+        "ka": ("ჩვენ შესახებ — MMLAW საადვოკატო ბიურო, თბილისი",
                "MMLAW — თბილისის საადვოკატო ბიურო 10 წელზე მეტი პრაქტიკით. ჩვენი ღირებულებები, მიდგომა და პრინციპები."),
         "en": ("About MMLAW Law Firm — Attorneys in Tbilisi, Georgia",
                "MMLAW is a Tbilisi law firm with over 10 years of legal practice. Our values, our approach and how we work with clients in Georgian, English and Russian."),
@@ -1043,7 +1043,7 @@ POSTS = [
 # romanization (ხ=kh, ც/წ=ts, ჭ/ჩ=ch, ქ/კ=k, ფ/პ=p). English slugs are the keys themselves.
 SLUGS = {
     "sections": {
-        "about": {"ka": "chvens-shesakheb", "en": "about", "ru": "o-nas"},
+        "about": {"ka": "chven-shesakheb", "en": "about", "ru": "o-nas"},
         "services": {"ka": "momsakhureba", "en": "services", "ru": "uslugi"},
         "blog": {"ka": "blogi", "en": "blog", "ru": "blog"},
         "contact": {"ka": "kontakti", "en": "contact", "ru": "kontakty"},

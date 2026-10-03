@@ -205,7 +205,8 @@ def webpage_ld(lang, path, title, desc, kind="WebPage", trail=None):
 # ------------------------------------------------------------------ layout
 # Live addresses that were later renamed -> (lang, page key)
 LEGACY = {"/ka/momsakhureba/siskhlis-samartali/": ("ka", "services/criminal-defense/"),
-          "/ru/uslugi/ugolovnaya-zashchita/": ("ru", "services/criminal-defense/")}
+          "/ru/uslugi/ugolovnaya-zashchita/": ("ru", "services/criminal-defense/"),
+          "/ka/chvens-shesakheb/": ("ka", "about/")}
 
 IMAGE_SIZES = {"/assets/blog/judge.jpg": (900, 900)}
 
