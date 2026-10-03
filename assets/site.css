@@ -480,7 +480,9 @@ html.menu-open { overflow: hidden; }
   .ftr-bottom { flex-direction: column; gap: 8px; }
 }
 @media (max-width: 360px) {
-  .hdr-lang { display: none; }
+  .hdr-lang .lang a { padding: 0 7px; }
+  .brand { gap: 8px; }
+  .brand-name { font-size: 16px; }
   .mbar a { font-size: 12px; gap: 4px; }
 }
 @media (prefers-reduced-motion: reduce) {
@@ -569,3 +571,19 @@ html.sheet-open { overflow: hidden; }
 .nf-grid a:hover { border-color: var(--line-strong); background: var(--soft); color: var(--fg); }
 .nf-grid svg { color: var(--accent); flex: none; }
 @media (max-width: 640px) { .nf-wrap { padding-top: 40px; padding-bottom: 56px; } }
+
+/* phone header: language, theme and menu controls share one size */
+@media (max-width: 640px) {
+  .hdr-actions { gap: 6px; align-items: center; }
+  .hdr-lang .lang { height: 36px; box-sizing: border-box; align-items: stretch; border-radius: 8px; }
+  .hdr-lang .lang a { display: inline-flex; align-items: center; padding: 0 9px; font-size: 12px; border-radius: 6px; }
+  .theme-hdr, .menu-btn { width: 36px; height: 36px; border-radius: 8px; }
+  .menu-btn svg { width: 18px; height: 18px; }
+  .theme-hdr svg { width: 16px; height: 16px; }
+}
+@media (max-width: 360px) {
+  .hdr-lang .lang a { padding: 0 7px; }
+}
+@media (max-width: 340px) {
+  .brand-txt { display: none; }
+}
