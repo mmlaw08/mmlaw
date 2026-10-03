@@ -647,7 +647,7 @@ def build_topic(lang, x):
             + '<div class="svc-grid">' + "".join(topic_card(lang, o) for o in others) + "</div></div></section>")
     service_ld = {
         "@type": "Service", "@id": abs_url(lang, path) + "#service", "name": d["title"], "serviceType": d["name"],
-        "description": d["lead"], "url": abs_url(lang, path), "inLanguage": lang,
+        "description": d["lead"], "url": abs_url(lang, path),
         "provider": {"@id": D + "/#firm"}, "areaServed": {"@type": "Country", "name": "Georgia"},
         "audience": {"@type": "Audience", "audienceType": "Foreign nationals in Georgia"},
     }
@@ -709,7 +709,7 @@ def build_service(lang, s):
             + '<div class="svc-grid">' + "".join(svc_card(lang, o) for o in others) + "</div></div></section>")
     service_ld = {
         "@type": "Service", "@id": abs_url(lang, path) + "#service", "name": d["name"], "serviceType": d["name"],
-        "description": d["lead"], "url": abs_url(lang, path), "inLanguage": lang,
+        "description": d["lead"], "url": abs_url(lang, path),
         "provider": {"@id": D + "/#firm"}, "areaServed": {"@type": "Country", "name": "Georgia"},
         "audience": {"@type": "Audience", "audienceType": "Individuals and businesses"},
     }
