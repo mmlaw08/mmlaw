@@ -108,6 +108,115 @@
     el.hidden = false;
   }
 
+  // ---------- modern select (keeps the native <select> underneath for the form value)
+  var CHEV = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m7 15 5 5 5-5"/><path d="m7 9 5-5 5 5"/></svg>';
+  var TICK = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>';
+  var selN = 0;
+  function enhanceSelect(sel) {
+    var id = "sel-" + (++selN);
+    var wrap = document.createElement("div");
+    wrap.className = "sel";
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "sel-trigger";
+    btn.setAttribute("aria-haspopup", "listbox");
+    btn.setAttribute("aria-expanded", "false");
+    btn.setAttribute("aria-controls", id);
+    btn.innerHTML = '<span class="sel-value"></span>' + CHEV;
+    var list = document.createElement("ul");
+    list.className = "sel-list";
+    list.id = id;
+    list.setAttribute("role", "listbox");
+    list.tabIndex = -1;
+    list.hidden = true;
+    Array.prototype.forEach.call(sel.options, function (o, i) {
+      var li = document.createElement("li");
+      li.setAttribute("role", "option");
+      li.id = id + "-" + i;
+      li.dataset.index = i;
+      li.innerHTML = '<span>' + o.text.replace(/</g, "&lt;") + '</span>' + TICK;
+      list.appendChild(li);
+    });
+    wrap.appendChild(btn);
+    wrap.appendChild(list);
+    sel.parentNode.insertBefore(wrap, sel);   // button comes first, so the <label> targets it
+    sel.classList.add("sel-native");
+    sel.tabIndex = -1;
+    sel.setAttribute("aria-hidden", "true");
+    var active = 0;
+
+    function sync() {
+      btn.querySelector(".sel-value").textContent = sel.options[sel.selectedIndex].text;
+      list.querySelectorAll("[role=option]").forEach(function (li, i) {
+        li.setAttribute("aria-selected", String(i === sel.selectedIndex));
+      });
+    }
+    function highlight(i) {
+      var items = list.querySelectorAll("[role=option]");
+      active = (i + items.length) % items.length;
+      items.forEach(function (li, j) { li.classList.toggle("is-active", j === active); });
+      list.setAttribute("aria-activedescendant", items[active].id);
+      items[active].scrollIntoView({ block: "nearest" });
+    }
+    function open() {
+      if (!list.hidden) return;
+      list.hidden = false;
+      btn.setAttribute("aria-expanded", "true");
+      wrap.classList.add("open");
+      highlight(sel.selectedIndex);
+      list.focus();
+    }
+    function close(focusBtn) {
+      if (list.hidden) return;
+      list.hidden = true;
+      btn.setAttribute("aria-expanded", "false");
+      wrap.classList.remove("open");
+      if (focusBtn) btn.focus();
+    }
+    function choose(i) {
+      sel.selectedIndex = i;
+      sel.dispatchEvent(new Event("change", { bubbles: true }));
+      sync();
+      close(true);
+    }
+    var typed = "", typedAt = 0;
+    btn.addEventListener("click", function () { list.hidden ? open() : close(true); });
+    btn.addEventListener("keydown", function (ev) {
+      if (["ArrowDown", "ArrowUp", "Enter", " "].indexOf(ev.key) > -1) { ev.preventDefault(); open(); }
+    });
+    list.addEventListener("keydown", function (ev) {
+      var n = sel.options.length;
+      if (ev.key === "ArrowDown") { ev.preventDefault(); highlight(active + 1); }
+      else if (ev.key === "ArrowUp") { ev.preventDefault(); highlight(active - 1); }
+      else if (ev.key === "Home") { ev.preventDefault(); highlight(0); }
+      else if (ev.key === "End") { ev.preventDefault(); highlight(n - 1); }
+      else if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); choose(active); }
+      else if (ev.key === "Escape") { ev.preventDefault(); ev.stopPropagation(); close(true); }
+      else if (ev.key === "Tab") { close(false); }
+      else if (ev.key.length === 1) {               // type to jump
+        var now = Date.now();
+        typed = (now - typedAt > 700 ? "" : typed) + ev.key.toLowerCase();
+        typedAt = now;
+        for (var k = 0; k < n; k++) {
+          if (sel.options[k].text.toLowerCase().indexOf(typed) === 0) { highlight(k); break; }
+        }
+      }
+    });
+    list.addEventListener("mousemove", function (ev) {
+      var li = ev.target.closest("[role=option]");
+      if (li) highlight(Number(li.dataset.index));
+    });
+    list.addEventListener("click", function (ev) {
+      ev.preventDefault(); // the list sits inside a <label>: don't let the click re-activate the trigger
+      var li = ev.target.closest("[role=option]");
+      if (li) choose(Number(li.dataset.index));
+    });
+    document.addEventListener("click", function (ev) { if (!wrap.contains(ev.target)) close(false); });
+    if (sel.form) sel.form.addEventListener("reset", function () { setTimeout(sync, 0); });
+    sync();
+  }
+  document.querySelectorAll("form select").forEach(enhanceSelect);
+
   // ---------- validation
   var LOADED = Date.now();
   var NAME_RE = /^[\p{L}][\p{L}\p{M}' .\-]*$/u;
