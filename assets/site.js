@@ -42,6 +42,12 @@
     window.addEventListener("resize", function () { if (window.innerWidth > 900 && !panel.hidden) setMenu(false); });
   }
 
+  // Services mega menu: Esc closes it for keyboard users
+  document.addEventListener("keydown", function (ev) {
+    var dd = document.activeElement && document.activeElement.closest(".nav-dd");
+    if (ev.key === "Escape" && dd) { var t = dd.querySelector("a"); t.focus(); t.blur(); }
+  });
+
   // Bottom bar "Consultation" jumps to the form when the page has one
   if (document.getElementById("consult")) {
     document.querySelectorAll("[data-consult-link]").forEach(function (a) { a.setAttribute("href", "#consult"); });
