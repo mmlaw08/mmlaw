@@ -98,7 +98,9 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .topbar { border-bottom: 1px solid var(--line); background: var(--soft); }
 .topbar-in { padding-top: 8px; padding-bottom: 8px; display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; align-items: center; font-size: 13px; color: var(--muted); }
 .topbar-info { display: flex; flex-wrap: wrap; gap: 8px 20px; }
-.topbar-info span { display: inline-flex; gap: 6px; align-items: center; }
+.topbar-info span, .tb-phone { display: inline-flex; gap: 6px; align-items: center; }
+.tb-phone { color: var(--fg); font-weight: 500; }
+.hdr-phone { display: none; }
 .lang { display: inline-flex; padding: 2px; gap: 2px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
 .lang a { font-size: 12px; font-weight: 500; border-radius: 6px; padding: 4px 10px; color: var(--muted); }
 .lang a:hover { background: var(--soft2); color: var(--fg); }
@@ -110,9 +112,9 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .logo-mark { border-radius: 8px; background: var(--ink); color: var(--on-ink); display: inline-flex; align-items: center; justify-content: center; flex: none; }
 .brand-txt { display: flex; flex-direction: column; line-height: 1.1; }
 .brand-name { font-size: 18px; font-weight: 700; letter-spacing: -0.02em; }
-.brand-sub { font-size: 11px; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
-.nav { display: flex; flex-wrap: wrap; gap: 4px; font-size: 14px; font-weight: 500; }
-.nav a { padding: 8px 12px; border-radius: 6px; }
+.brand-sub { white-space: nowrap; font-size: 11px; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
+.nav { display: flex; flex-wrap: nowrap; gap: 2px; font-size: 14px; font-weight: 500; }
+.nav a { padding: 8px 10px; border-radius: 6px; white-space: nowrap; }
 .nav a:hover { background: var(--soft2); color: var(--fg); }
 .nav a[aria-current] { background: var(--soft2); }
 .hdr-actions { display: flex; gap: 8px; align-items: center; }
@@ -337,9 +339,11 @@ html.menu-open { overflow: hidden; }
 @media (max-width: 1080px) {
   .hdr-phone { display: none; }
 }
-@media (max-width: 900px) {
+@media (max-width: 1199px) {
   .nav, .hdr-cta { display: none; }
   .menu-btn { display: inline-flex; }
+}
+@media (max-width: 900px) {
   .two-col { grid-template-columns: minmax(0, 1fr); gap: 40px; }
   .side { position: static; }
 }
