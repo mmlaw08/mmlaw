@@ -174,8 +174,27 @@
     return !first;
   }
 
+  // Block characters that can't belong in the field (typing and pasting), keeping the cursor in place
+  var CLEAN = {
+    name: function (v) { return v.replace(/[^\p{L}\p{M}' .\-]/gu, ""); },
+    phone: function (v) {
+      v = v.replace(/[^\d+()\-\s]/g, "").replace(/^\s+/, "");
+      return v.charAt(0) + v.slice(1).replace(/\+/g, ""); // a single "+" and only at the start
+    }
+  };
+  function filterField(el) {
+    var clean = CLEAN[el.name](el.value);
+    if (clean === el.value) return;
+    var pos = el.selectionStart - (el.value.length - clean.length);
+    el.value = clean;
+    try { el.setSelectionRange(Math.max(0, pos), Math.max(0, pos)); } catch (e) {}
+  }
+
   document.querySelectorAll("form[data-consult], form[data-callback]").forEach(function (form) {
     var tried = false;
+    form.querySelectorAll("input[name=name], input[name=phone]").forEach(function (el) {
+      el.addEventListener("input", function () { filterField(el); });
+    });
     form.querySelectorAll("input[name=name], input[name=phone], textarea[name=message]").forEach(function (el) {
       el.addEventListener("blur", function () { if (tried || el.value.trim()) checkField(form, el); });
       el.addEventListener("input", function () { if (tried || el.hasAttribute("aria-invalid")) checkField(form, el); });
