@@ -628,3 +628,26 @@ html.sheet-open { overflow: hidden; }
 .mega-foot { display: flex; gap: 24px; margin-top: 20px; padding-top: 14px; border-top: 1px solid var(--line); }
 .mega-foot .link-arrow { margin: 0; padding: 0; }
 .mega-foot .link-arrow:hover { background: none; }
+
+/* legal basis (links to official texts) */
+.laws { display: flex; flex-direction: column; gap: 10px; }
+.laws .h3 { margin-bottom: 4px; }
+.law-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.law-list a { display: flex; gap: 10px; align-items: center; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font-size: 14.5px; font-weight: 500; color: var(--fg); }
+.law-list a:hover { border-color: var(--line-strong); background: var(--soft); color: var(--fg); }
+.law-list a > svg:first-child { color: var(--accent); flex: none; }
+.law-list a span { flex: 1; }
+.law-go { color: var(--faint); flex: none; transform: rotate(-45deg); }
+.law-note { font-size: 12.5px; color: var(--muted); }
+.article .laws { margin-top: 2em; }
+.article .laws ul { padding-left: 0; }
+.article .law-list li + li { margin-top: 0; }
+
+/* FAQ page */
+.faq-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.faq-chips a { padding: 6px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: 13.5px; font-weight: 500; }
+.faq-chips a:hover { border-color: var(--line-strong); background: var(--soft2); color: var(--fg); }
+.faq-group { scroll-margin-top: 96px; }
+.faq-gh { display: flex; flex-wrap: wrap; gap: 8px 16px; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+.faq-gh .h3 { margin: 0; }
+.faq-gh .link-arrow { margin: 0; }
