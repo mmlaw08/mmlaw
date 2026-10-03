@@ -545,3 +545,26 @@ html.sheet-open { overflow: hidden; }
   .theme-btn { width: 36px; height: 36px; }
 }
 .sh-head h2:focus { outline: none; }
+
+/* theme switch next to the language switch */
+.tb-right { display: flex; gap: 8px; align-items: center; }
+.theme-sm { width: 32px; height: 32px; border-radius: 8px; }
+.theme-hdr { display: none; }
+@media (max-width: 640px) {
+  .theme-hdr { display: inline-flex; width: 36px; height: 36px; }
+}
+
+/* home H1 keyword line */
+.h1-kicker { display: block; font-size: 15px; font-weight: 600; letter-spacing: .02em; line-height: 1.4; color: var(--accent); margin-bottom: 14px; }
+:lang(ka) .h1-kicker { letter-spacing: 0; }
+
+/* 404 */
+.nf-wrap { padding-top: 72px; padding-bottom: 96px; display: flex; flex-direction: column; gap: 24px; max-width: 44rem; }
+.nf-code { font-size: clamp(5rem, 16vw, 9rem); line-height: .9; font-weight: 700; letter-spacing: -0.05em; color: var(--line-strong); }
+.nf-links-h { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-top: 16px; }
+:lang(ka) .nf-links-h { text-transform: none; letter-spacing: 0; }
+.nf-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 8px; }
+.nf-grid a { display: flex; gap: 10px; align-items: center; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font-size: 14px; font-weight: 500; }
+.nf-grid a:hover { border-color: var(--line-strong); background: var(--soft); color: var(--fg); }
+.nf-grid svg { color: var(--accent); flex: none; }
+@media (max-width: 640px) { .nf-wrap { padding-top: 40px; padding-bottom: 56px; } }

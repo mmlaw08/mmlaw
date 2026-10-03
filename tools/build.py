@@ -156,7 +156,8 @@ def firm_ld(lang):
 
 def website_ld():
     return {
-        "@type": "WebSite", "@id": D + "/#website", "url": D + "/", "name": "MMLAW — mmlaw.ge",
+        "@type": "WebSite", "@id": D + "/#website", "url": D + "/", "name": "MMLAW",
+        "alternateName": ["MMLAW Law Firm", "mmlaw.ge", "MMLAW საადვოკატო ბიურო"],
         "inLanguage": LANGS, "publisher": {"@id": D + "/#firm"},
     }
 
@@ -183,6 +184,7 @@ def webpage_ld(lang, path, title, desc, kind="WebPage", trail=None):
         "@type": kind, "@id": abs_url(lang, path) + "#webpage", "url": abs_url(lang, path),
         "name": title, "description": desc, "inLanguage": lang,
         "isPartOf": {"@id": D + "/#website"}, "about": {"@id": D + "/#firm"},
+        "primaryImageOfPage": {"@type": "ImageObject", "url": D + f"/assets/og-{lang}.png"},
         "dateModified": SITE["updated"],
     }
     if trail:
@@ -191,6 +193,10 @@ def webpage_ld(lang, path, title, desc, kind="WebPage", trail=None):
 
 
 # ------------------------------------------------------------------ layout
+# Live addresses that were later renamed -> (lang, page key)
+LEGACY = {"/ka/momsakhureba/siskhlis-samartali/": ("ka", "services/criminal-defense/"),
+          "/ru/uslugi/ugolovnaya-zashchita/": ("ru", "services/criminal-defense/")}
+
 IMAGE_SIZES = {"/assets/blog/judge.jpg": (900, 900)}
 
 
@@ -265,12 +271,18 @@ def brand(lang, small=False):
             f'{"" if small else f"<span class=brand-sub>{e(T[lang]["law_firm"])}</span>"}</span>')
 
 
+def theme_btn(lang, cls):
+    t = T[lang]
+    return (f'<button class="{cls}" type="button" data-theme-toggle aria-label="{e(t["theme"])}" title="{e(t["theme"])}">'
+            f'{icon("moon", 16, cls="i-moon")}{icon("sun", 16, cls="i-sun")}</button>')
+
+
 def header(lang, path, active):
     t = T[lang]
     return f"""<a class="skip" href="#main">{e(t["skip"])}</a>
 <div class="topbar"><div class="wrap topbar-in">
 <div class="topbar-info"><a class="tb-phone" href="tel:{SITE["phone"]}">{icon("phone", 14)}{SITE["phone_display"]}</a><span>{icon("pin", 14)}{e(t["city"])}</span><span class="hide-sm">{icon("clock", 14)}{e(t["hours"])}</span></div>
-{lang_switch(lang, path)}
+<div class="tb-right">{lang_switch(lang, path)}{theme_btn(lang, "theme-btn theme-sm")}</div>
 </div></div>
 <header class="hdr"><div class="wrap hdr-in">
 <a class="brand" href="{url(lang)}" aria-label="MMLAW — {e(t["nav_home"])}">{brand(lang)}</a>
@@ -279,7 +291,7 @@ def header(lang, path, active):
 <a class="btn btn-outline mono hdr-phone" href="tel:{SITE["phone"]}">{icon("phone")}{SITE["phone_display"]}</a>
 <a class="btn btn-primary hdr-cta" href="{url(lang, "contact/")}">{e(t["cta"])}</a>
 <div class="hdr-lang">{lang_switch(lang, path)}</div>
-<button class="theme-btn" type="button" data-theme-toggle aria-label="{e(t["theme"])}" title="{e(t["theme"])}">{icon("moon", 18, cls="i-moon")}{icon("sun", 18, cls="i-sun")}</button>
+{theme_btn(lang, "theme-btn theme-hdr")}
 <button class="menu-btn" type="button" aria-expanded="false" aria-controls="mnav" aria-label="{e(t["menu"])}">{icon("menu", 20, cls="i-open")}{icon("x", 20, cls="i-close")}</button>
 </div>
 </div>
@@ -524,7 +536,7 @@ def build_home(lang):
     hero = f"""<section class="hero grid-bg" id="top"><div class="wrap hero-in">
 <div class="hero-l">
 <span class="pill"><span class="pill-tag">{e(t["badge"])}</span>{e(t["badge_text"])}</span>
-<h1 class="h1">{t["hero_h1"]}</h1>
+<h1 class="h1"><span class="h1-kicker">{e(t["hero_kicker"])}</span>{t["hero_h1"]}</h1>
 <p class="lead">{e(t["hero_p"])}</p>
 <div class="btns"><a class="btn btn-primary btn-lg" href="#consult">{e(t["btn_book"])}{icon("arrow")}</a>
 <a class="btn btn-outline btn-lg" href="#services">{e(t["btn_practice"])}</a></div>
@@ -678,7 +690,7 @@ def build_service(lang, s):
     d = s[lang]
     path = f"services/{s['slug']}/"
     title = with_brand(d["title"])
-    desc = f'{d["short"]} {t["desc_tail"]}'
+    desc = d.get("meta") or f'{d["short"]} {t["desc_tail"]}'
     trail = [(t["nav_home"], ""), (t["nav_services"], "services/"), (d["name"], path)]
     items = "".join(f"<li>{icon('check', 16, 2.25, 'acc')}<span>{e(x)}</span></li>" for x in d["items"])
     body = "".join(f"<p>{e(p)}</p>" for p in d["body"])
@@ -757,7 +769,12 @@ def build_post(lang, p):
     art = {
         "@type": "BlogPosting", "@id": abs_url(lang, path) + "#article", "headline": d["title"], "description": d["desc"],
         "inLanguage": lang, "datePublished": p["date"], "dateModified": max(p["date"], SITE["updated"]),
-        "image": D + image, "author": {"@id": D + "/#firm"}, "publisher": {"@id": D + "/#firm"},
+        "image": {"@type": "ImageObject", "url": D + image, "width": IMAGE_SIZES.get(image, (1200, 630))[0],
+                  "height": IMAGE_SIZES.get(image, (1200, 630))[1]},
+        "author": {"@type": "Organization", "@id": D + "/#firm", "name": SITE["legal_name"], "url": D + "/"},
+        "publisher": {"@type": "Organization", "@id": D + "/#firm", "name": SITE["legal_name"],
+                      "logo": {"@type": "ImageObject", "url": D + "/icon-512.png"}},
+        "wordCount": sum(len((v if isinstance(v, str) else " ".join(v)).split()) for _, v in d["body"]),
         "mainEntityOfPage": {"@id": abs_url(lang, path) + "#webpage"}, "about": {"@type": "Thing", "name": s[lang]["name"]},
     }
     ld = [firm_ld(lang), website_ld(), webpage_ld(lang, path, title, d["desc"], "WebPage", trail), crumbs_ld(lang, trail), art]
@@ -792,16 +809,35 @@ def build_privacy(lang):
     return page(lang, "privacy/", title, desc, main, None, ld)
 
 
-def build_404():
-    lang = DEFAULT_LANG
+def build_404(lang):
     t = T[lang]
-    links = " · ".join(f'<a href="{url(l)}" lang="{l}">{T[l]["nf_home"]}</a>' for l in LANGS)
-    main = (f'<section class="page-hero grid-bg nf"><div class="wrap"><div class="ph-in">'
-            f'<span class="eyebrow">404</span><h1 class="h1-page">{e(t["nf_title"])}</h1>'
-            f'<p class="lead">{e(t["nf_p"])} <span lang="en">{e(T["en"]["nf_p"])}</span> <span lang="ru">{e(T["ru"]["nf_p"])}</span></p>'
-            f'<p class="nf-links">{links}</p></div></div></section>')
+    popular = [("shield", "services/criminal-defense/", svc("criminal-defense")[lang]["name"]),
+               ("users", "services/family-law/", svc("family-law")[lang]["name"]),
+               ("briefcase", "services/", t["nav_services"]),
+               ("globe", "foreigners/", FOREIGN_UI[lang]["nav"]),
+               ("building", "about/", t["nav_about"]),
+               ("mail", "contact/", t["nav_contact"])]
+    grid = "".join(f'<a href="{url(lang, p)}">{icon(ic, 16, 1.75)}{e(n)}</a>' for ic, p, n in popular)
+    main = (f'<section class="grid-bg bb"><div class="wrap"><div class="nf-wrap">'
+            f'<span class="nf-code" aria-hidden="true">404</span>'
+            f'<h1 class="h1-page">{e(t["nf_title"])}</h1>'
+            f'<p class="lead">{e(t["nf_p"])} {e(t["nf_p2"])}</p>'
+            f'<div class="btns"><a class="btn btn-primary btn-lg" href="{url(lang)}">{icon("back", 16)}{e(t["nf_home"])}</a>'
+            f'<a class="btn btn-outline btn-lg" href="tel:{SITE["phone"]}">{icon("phone")}{SITE["phone_display"]}</a></div>'
+            f'<span class="nf-links-h">{e(t["nf_popular"])}</span><div class="nf-grid">{grid}</div>'
+            f'</div></div></section>')
     html_ = page(lang, "", t["nf_title"] + " | MMLAW", t["nf_p"], main, None, [], noindex=True)
-    return html_.replace(f'<link rel="canonical" href="{abs_url(lang)}">', "")
+    # not a real page: no canonical / language alternates
+    html_ = "\n".join(l for l in html_.split("\n") if 'rel="canonical"' not in l and '<link rel="alternate" hreflang=' not in l)
+    if lang == DEFAULT_LANG:
+        # GitHub Pages serves one 404.html for every missing address: show the English or
+        # Russian version for /en/... and /ru/... addresses, keeping the address bar as is.
+        swap = ('<script>(function(){var m=location.pathname.match(/^\\/(en|ru)\\//);if(!m)return;'
+                'var d=document.documentElement;d.style.visibility="hidden";'
+                'fetch("/"+m[1]+"/404/").then(function(r){return r.text()}).then(function(h){document.open();document.write(h);document.close()})'
+                '.catch(function(){d.style.visibility=""})})()</script>')
+        html_ = html_.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n' + swap, 1)
+    return html_
 
 
 def redirect_stub(target):
@@ -1009,7 +1045,10 @@ def main():
         write(loc("foreigners/"), build_foreigners(lang))
         for x in FOREIGN_TOPICS:
             write(loc(f"foreigners/{x['slug']}/"), build_topic(lang, x))
-    write("404.html", build_404())
+    write("404.html", build_404(DEFAULT_LANG))
+    for lang in LANGS:
+        if lang != DEFAULT_LANG:
+            write(f"{lang}/404/index.html", build_404(lang))
     # Forwarding: bare domain + root paths -> Georgian; older English-word addresses
     # (incl. lfs.ge's /ka/... and /ru/... links) -> the localized ones.
     real = {url(l, k) for l in LANGS for k in all_paths()}
@@ -1020,6 +1059,8 @@ def main():
             old = f"/{lang}/{key}"
             if old not in real:
                 write(f"{lang}/{key}index.html", redirect_stub(url(lang, key)))
+    for old, key in LEGACY.items():
+        write(old.lstrip("/") + "index.html", redirect_stub(url(key[0], key[1])))
     # mmlaw.ge/ka/ shows the same Georgian home page (canonical: the bare domain)
     write("ka/index.html", build_home(DEFAULT_LANG))
     write("sitemap.xml", sitemap())
