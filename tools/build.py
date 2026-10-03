@@ -18,7 +18,7 @@ import tempfile
 sys.path.insert(0, os.path.dirname(__file__))
 from content import (SITE, LANGS, DEFAULT_LANG, LOCALES, LANG_LABEL, LANG_NAME, T, PAGES,
                      HOME_FAQ, SERVICES, ABOUT, PRIVACY, POSTS, SLUGS,
-                     FOREIGN_UI, FOREIGN_HUB, FOREIGN_TOPICS)
+                     FOREIGN_UI, FOREIGN_HUB, FOREIGN_TOPICS, LAWYER)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = SITE["domain"]
@@ -331,7 +331,7 @@ def mobile_bar(lang):
 
 def footer(lang):
     t = T[lang]
-    firm = [(t["nav_about"], "about/"), (t["nav_services"], "services/"), (FOREIGN_UI[lang]["nav"], "foreigners/"),
+    firm = [(LAWYER[lang]["nav"], "lawyer/"), (t["nav_about"], "about/"), (t["nav_services"], "services/"), (FOREIGN_UI[lang]["nav"], "foreigners/"),
             (t["nav_blog"], "blog/"), (t["nav_contact"], "contact/")]
     prac = SERVICES[:5]
     return f"""<footer class="ftr"><div class="wrap ftr-in">
@@ -372,7 +372,9 @@ HONEYPOT = '<input class="hp" type="text" name="_honey" tabindex="-1" autocomple
 def form_attrs(lang, subject):
     t = T[lang]
     return (f'action="{FORM_ENDPOINT}" method="post" data-email="{SITE["email"]}" data-wa="{SITE["whatsapp"]}" '
-            f'data-subject="{e(subject)}" data-sending="{e(t["sending"])}" data-ok="{e(t["sent_ok"])}" data-err="{e(t["sent_err"])}"')
+            f'data-subject="{e(subject)}" data-sending="{e(t["sending"])}" data-ok="{e(t["sent_ok"])}" data-err="{e(t["sent_err"])}" '
+            f'data-v-name="{e(t["v_name"])}" data-v-name-bad="{e(t["v_name_bad"])}" data-v-phone="{e(t["v_phone"])}" '
+            f'data-v-msg="{e(t["v_msg"])}" data-v-wait="{e(t["v_wait"])}" novalidate')
 
 
 def call_sheet(lang):
@@ -387,8 +389,8 @@ def call_sheet(lang):
 <button class="sh-opt" type="button" data-sheet-req><span class="sh-ic">{icon("callback", 20, 1.75)}</span><span><b>{e(t["sh_req"])}</b><small>{e(t["sh_req_sub"])}</small></span>{icon("arrow", 16, cls="sh-go")}</button>
 </div>
 <form class="sh-form" data-callback {form_attrs(lang, t["cb_subject"])} hidden>
-<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" placeholder="{e(t["f_name_ph"])}" required></label>
-<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" placeholder="+995 5__ __ __ __" required></label>
+<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" placeholder="{e(t["f_name_ph"])}" maxlength="80" required></label>
+<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="+995 5__ __ __ __" maxlength="20" required></label>
 {HONEYPOT}
 <button type="submit" class="btn btn-primary btn-block">{icon("callback")}{e(t["cb_submit"])}</button>
 <button type="button" class="btn btn-ghost btn-block" data-sheet-back>{icon("back", 15)}{e(t["cb_back"])}</button>
@@ -408,11 +410,11 @@ def consult_form(lang, fid="consult", selected=None, heading="h2"):
 <div class="cf-head"><{heading} class="cf-title">{e(t["form_title"])}</{heading}><p>{e(t["form_sub"])}</p></div>
 <div class="cf-body">
 <div class="row2">
-<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" placeholder="{e(t["f_name_ph"])}" required></label>
-<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" placeholder="+995 5__ __ __ __" required></label>
+<label>{e(t["f_name"])}<input type="text" name="name" autocomplete="name" placeholder="{e(t["f_name_ph"])}" maxlength="80" required></label>
+<label>{e(t["f_phone"])}<input type="tel" name="phone" autocomplete="tel" inputmode="tel" placeholder="+995 5__ __ __ __" maxlength="20" required></label>
 </div>
 <label>{e(t["f_area"])}<select name="area">{opts}</select></label>
-<label>{e(t["f_msg"])}<textarea name="message" rows="4" placeholder="{e(t["f_msg_ph"])}"></textarea></label>
+<label>{e(t["f_msg"])}<textarea name="message" rows="4" placeholder="{e(t["f_msg_ph"])}" maxlength="2000"></textarea></label>
 {HONEYPOT}
 </div>
 <div class="cf-foot">
@@ -667,6 +669,39 @@ def build_topic(lang, x):
     return page(lang, path, title, desc, main, "foreigners", ld)
 
 
+def build_lawyer(lang):
+    t, L = T[lang], LAWYER[lang]
+    path = "lawyer/"
+    trail = [(t["nav_home"], ""), (L["h1"], path)]
+    rows = "".join(
+        f'<article class="svc-row"><span class="icon-box">{icon(s["icon"], 20, 1.75)}</span><div>'
+        f'<h3><a href="{url(lang, "services/" + s["slug"] + "/")}">{e(s[lang]["title"])}</a></h3>'
+        f'<p class="svc-lead">{e(s[lang]["short"])}</p>'
+        f'<ul class="mini-list">{"".join(f"<li>{e(i)}</li>" for i in s[lang]["items"][:4])}</ul>'
+        f'<a class="link-arrow" href="{url(lang, "services/" + s["slug"] + "/")}">{e(t["read_more"])}{icon("arrow", 15)}</a></div></article>'
+        for s in SERVICES)
+    f = FOREIGN_UI[lang]
+    rows += (f'<article class="svc-row"><span class="icon-box">{icon("globe", 20, 1.75)}</span><div>'
+             f'<h3><a href="{url(lang, "foreigners/")}">{e(FOREIGN_HUB[lang]["h1"])}</a></h3>'
+             f'<p class="svc-lead">{e(FOREIGN_HUB[lang]["lead"])}</p>'
+             f'<a class="link-arrow" href="{url(lang, "foreigners/")}">{e(f["more"])}{icon("arrow", 15)}</a></div></article>')
+    hero_extra = (f'<div class="btns"><a class="btn btn-primary btn-lg" href="#consult">{e(t["btn_book"])}{icon("arrow")}</a>'
+                  f'<a class="btn btn-outline btn-lg" href="tel:{SITE["phone"]}">{icon("phone")}{SITE["phone_display"]}</a></div>')
+    main = (page_hero(lang, trail, L["h1"], L["lead"], t["svc_eyebrow"], hero_extra)
+            + stats(lang)
+            + f'<section class="sec bb"><div class="wrap stack"><h2 class="h2">{e(L["list_h2"])}</h2><div class="svc-rows">{rows}</div></div></section>'
+            + f'<section class="dark"><div class="wrap stack sec-pad"><h2 class="h2">{e(L["why_h2"])}</h2>{principles_grid(lang)}</div></section>'
+            + f'<section class="sec bb"><div class="wrap stack narrow">{faq_block(lang, L["faq"])}</div></section>'
+            + f'<section class="sec soft bb"><div class="wrap form-wrap">{consult_form(lang)}</div></section>'
+            + cta_section(lang))
+    item_list = {"@type": "ItemList", "name": L["list_h2"], "itemListElement": [
+        {"@type": "ListItem", "position": i + 1, "url": abs_url(lang, f"services/{s['slug']}/"), "name": s[lang]["title"]}
+        for i, s in enumerate(SERVICES)]}
+    ld = [firm_ld(lang), website_ld(), webpage_ld(lang, path, L["title"], L["desc"], "WebPage", trail),
+          crumbs_ld(lang, trail), item_list, faq_ld(lang, path, L["faq"])]
+    return page(lang, path, L["title"], L["desc"], main, "services", ld)
+
+
 def build_services(lang):
     t = T[lang]
     title, desc = PAGES["services"][lang]
@@ -872,13 +907,14 @@ def all_paths():
     paths += [f"services/{s['slug']}/" for s in SERVICES]
     paths += [f"blog/{p['slug']}/" for p in POSTS]
     paths += ["foreigners/"] + [f"foreigners/{x['slug']}/" for x in FOREIGN_TOPICS]
+    paths += ["lawyer/"]
     return paths
 
 
 def priority(path):
     if path == "":
         return "1.0"
-    if path.startswith(("services", "foreigners")):
+    if path.startswith(("services", "foreigners", "lawyer")):
         return "0.9"
     if path in ("about/", "contact/"):
         return "0.8"
@@ -1054,6 +1090,7 @@ def main():
         write(loc("contact/"), build_contact(lang))
         write(loc("privacy/"), build_privacy(lang))
         write(loc("foreigners/"), build_foreigners(lang))
+        write(loc("lawyer/"), build_lawyer(lang))
         for x in FOREIGN_TOPICS:
             write(loc(f"foreigners/{x['slug']}/"), build_topic(lang, x))
     write("404.html", build_404(DEFAULT_LANG))

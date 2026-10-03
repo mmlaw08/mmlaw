@@ -102,13 +102,89 @@
     el.hidden = false;
   }
 
+  // ---------- validation
+  var LOADED = Date.now();
+  var NAME_RE = /^[\p{L}][\p{L}\p{M}' .\-]*$/u;
+
+  // Returns the phone as +<digits>, or null if it isn't a plausible number.
+  function normalizePhone(raw) {
+    var v = raw.replace(/[\s\-().\/]/g, "");
+    if (/^\+\d{8,15}$/.test(v)) return v;
+    if (/^00\d{8,15}$/.test(v)) return "+" + v.slice(2);
+    if (/^995\d{9}$/.test(v)) return "+" + v;
+    if (/^0?[345]\d{8}$/.test(v)) return "+995" + v.replace(/^0/, "");
+    return null;
+  }
+
+  function fieldError(form, el, msg) {
+    var label = el.closest("label") || el.parentNode;
+    var box = label.querySelector(".f-err");
+    if (!box) {
+      box = document.createElement("span");
+      box.className = "f-err";
+      box.id = "err-" + Math.random().toString(36).slice(2, 9);
+      box.setAttribute("aria-live", "polite");
+      label.appendChild(box);
+    }
+    if (msg) {
+      box.textContent = msg;
+      box.hidden = false;
+      el.setAttribute("aria-invalid", "true");
+      el.setAttribute("aria-describedby", box.id);
+    } else {
+      box.textContent = "";
+      box.hidden = true;
+      el.removeAttribute("aria-invalid");
+      el.removeAttribute("aria-describedby");
+    }
+    return !msg;
+  }
+
+  function checkField(form, el) {
+    var v = el.value.trim();
+    var ds = form.dataset;
+    if (el.name === "name") {
+      if (!v) return fieldError(form, el, ds.vName);
+      var letters = (v.match(/\p{L}/gu) || []).length;
+      if (letters < 2 || v.length > 80 || !NAME_RE.test(v)) return fieldError(form, el, ds.vNameBad);
+      return fieldError(form, el, "");
+    }
+    if (el.name === "phone") {
+      return fieldError(form, el, normalizePhone(v) ? "" : ds.vPhone);
+    }
+    if (el.name === "message") {
+      return fieldError(form, el, v.length > 2000 ? ds.vMsg : "");
+    }
+    return true;
+  }
+
+  function validate(form) {
+    var first = null;
+    form.querySelectorAll("input[name=name], input[name=phone], textarea[name=message]").forEach(function (el) {
+      if (!checkField(form, el) && !first) first = el;
+    });
+    if (first) first.focus();
+    return !first;
+  }
+
   document.querySelectorAll("form[data-consult], form[data-callback]").forEach(function (form) {
+    var tried = false;
+    form.querySelectorAll("input[name=name], input[name=phone], textarea[name=message]").forEach(function (el) {
+      el.addEventListener("blur", function () { if (tried || el.value.trim()) checkField(form, el); });
+      el.addEventListener("input", function () { if (tried || el.hasAttribute("aria-invalid")) checkField(form, el); });
+    });
+
     form.addEventListener("submit", function (ev) {
       ev.preventDefault();
-      if (!form.reportValidity()) return;
+      tried = true;
+      if (!validate(form)) return;
       var data = fields(form);
-      if (data._honey) return; // bot
+      if (data._honey || Date.now() - LOADED < 3000) { status(form, form.dataset.ok, "ok"); return; } // bot
+      var last = Number(form.dataset.sentAt || 0);
+      if (Date.now() - last < 30000) { status(form, form.dataset.vWait, "err"); return; }
       var submit = form.querySelector('button[type="submit"]');
+      data.phone = normalizePhone(data.phone);
+      data.name = data.name.replace(/\s+/g, " ");
       data._subject = form.dataset.subject;
       data._template = "table";
       data._captcha = "false";
@@ -122,8 +198,10 @@
         body: JSON.stringify(data)
       }).then(function (r) { return r.json(); }).then(function (res) {
         if (String(res.success) !== "true") throw new Error(res.message || "failed");
+        form.dataset.sentAt = String(Date.now());
         status(form, form.dataset.ok, "ok");
         form.reset();
+        tried = false;
       }).catch(function () {
         status(form, form.dataset.err, "err");
         // last resort: open the visitor's email app with the message ready
@@ -131,6 +209,7 @@
           encodeURIComponent(form.dataset.subject) + "&body=" + encodeURIComponent(summary(form));
       }).then(function () { submit.disabled = false; });
     });
+
     var wa = form.querySelector("[data-wa-link]");
     if (wa) wa.addEventListener("click", function () {
       wa.href = form.dataset.wa + "?text=" + encodeURIComponent(summary(form));

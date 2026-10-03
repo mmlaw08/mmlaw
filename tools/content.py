@@ -27,7 +27,7 @@ T = {
         "nav_home": "მთავარი", "nav_about": "ჩვენ შესახებ", "nav_services": "მომსახურება",
         "nav_blog": "ბლოგი", "nav_contact": "კონტაქტი", "menu": "მენიუ",
         "m_call": "დარეკვა", "m_cta": "კონსულტაცია",
-        "desc_tail": "პირველი კონსულტაცია უფასოა.", "theme": "თემის შეცვლა", "close": "დახურვა",
+        "v_name": "გთხოვთ, მიუთითოთ სახელი და გვარი.", "v_name_bad": "სახელი უნდა შეიცავდეს მხოლოდ ასოებს (მინიმუმ 2).", "v_phone": "მიუთითეთ სწორი ტელეფონის ნომერი, მაგ.: 555 00 43 00 ან +995 555 00 43 00.", "v_msg": "შეტყობინება ძალიან გრძელია (მაქს. 2000 სიმბოლო).", "v_wait": "გთხოვთ, ცოტა ხანში სცადოთ თავიდან.", "desc_tail": "პირველი კონსულტაცია უფასოა.", "theme": "თემის შეცვლა", "close": "დახურვა",
         "sh_title": "როგორ გნებავთ დაგვიკავშირდეთ?", "sh_sub": "ორშ–პარ 10:00–18:00. პირველი კონსულტაცია უფასოა.",
         "sh_call": "დარეკვა ახლავე", "sh_wa": "WhatsApp", "sh_wa_sub": "მოგვწერეთ ან დაგვირეკეთ WhatsApp-ით",
         "sh_req": "მოითხოვეთ ზარი", "sh_req_sub": "დაგვიტოვეთ ნომერი — დაგირეკავთ",
@@ -108,7 +108,7 @@ T = {
         "nav_home": "Home", "nav_about": "About", "nav_services": "Services",
         "nav_blog": "Blog", "nav_contact": "Contact", "menu": "Menu",
         "m_call": "Call", "m_cta": "Consultation",
-        "desc_tail": "Free first consultation.", "theme": "Switch theme", "close": "Close",
+        "v_name": "Please enter your full name.", "v_name_bad": "Your name should contain letters only (at least 2).", "v_phone": "Enter a valid phone number, e.g. 555 00 43 00 or +995 555 00 43 00.", "v_msg": "Your message is too long (max 2,000 characters).", "v_wait": "Please wait a moment before sending again.", "desc_tail": "Free first consultation.", "theme": "Switch theme", "close": "Close",
         "sh_title": "How would you like to reach us?", "sh_sub": "Mon–Fri 10:00–18:00. The first consultation is free.",
         "sh_call": "Call now", "sh_wa": "WhatsApp", "sh_wa_sub": "Message or call us on WhatsApp",
         "sh_req": "Request a call back", "sh_req_sub": "Leave your number — we'll call you",
@@ -189,7 +189,7 @@ T = {
         "nav_home": "Главная", "nav_about": "О нас", "nav_services": "Услуги",
         "nav_blog": "Блог", "nav_contact": "Контакты", "menu": "Меню",
         "m_call": "Позвонить", "m_cta": "Консультация",
-        "desc_tail": "Первая консультация бесплатна.", "theme": "Сменить тему", "close": "Закрыть",
+        "v_name": "Пожалуйста, укажите имя и фамилию.", "v_name_bad": "Имя должно содержать только буквы (минимум 2).", "v_phone": "Укажите корректный номер телефона, например 555 00 43 00 или +995 555 00 43 00.", "v_msg": "Сообщение слишком длинное (макс. 2000 символов).", "v_wait": "Пожалуйста, подождите немного перед повторной отправкой.", "desc_tail": "Первая консультация бесплатна.", "theme": "Сменить тему", "close": "Закрыть",
         "sh_title": "Как вам удобнее связаться?", "sh_sub": "Пн–Пт 10:00–18:00. Первая консультация бесплатна.",
         "sh_call": "Позвонить сейчас", "sh_wa": "WhatsApp", "sh_wa_sub": "Напишите или позвоните в WhatsApp",
         "sh_req": "Заказать обратный звонок", "sh_req_sub": "Оставьте номер — мы перезвоним",
@@ -1282,3 +1282,53 @@ SLUGS["foreigners"] = {
     "residence-permit": {"ka": "binadrobis-nebartva", "en": "residence-permit-in-georgia", "ru": "vid-na-zhitelstvo"},
     "criminal-and-family-cases": {"ka": "siskhlis-da-saojakho-sakmeebi", "en": "criminal-and-family-cases", "ru": "ugolovnye-i-semeynye-dela"},
 }
+
+# ---------------------------------------------------------------- lawyer landing page (/ka/advokati/)
+LAWYER = {
+    "ka": {
+        "nav": "ადვოკატი თბილისში",
+        "title": "ადვოკატი თბილისში — იურიდიული მომსახურება | MMLAW",
+        "desc": "ადვოკატი თბილისში: სისხლის, სამოქალაქო, ადმინისტრაციული, შრომის, საოჯახო სამართალი და სხვა. 10+ წლის გამოცდილება, პირველი კონსულტაცია უფასოა.",
+        "h1": "ადვოკატი თბილისში",
+        "lead": "MMLAW-ის ადვოკატები იცავენ ფიზიკური და იურიდიული პირების ინტერესებს საქართველოს ყველა ინსტანციის სასამართლოში, სახელმწიფო ორგანოებსა და მოლაპარაკებებზე. აირჩიეთ სფერო — პირველი კონსულტაცია უფასოა.",
+        "list_h2": "ადვოკატის მომსახურება",
+        "why_h2": "რატომ MMLAW",
+        "faq": [
+            ("რას აკეთებს ადვოკატი?", "ადვოკატი გაძლევთ სამართლებრივ რჩევას, ამზადებს დოკუმენტებს და წარმოგადგენთ მოლაპარაკებებზე, სახელმწიფო ორგანოებსა და სასამართლოში. სისხლის სამართლის საქმეებში ადვოკატი იცავს ეჭვმიტანილისა და ბრალდებულის უფლებებს დაკავების მომენტიდან."),
+            ("როგორ შევარჩიო ადვოკატი?", "აირჩიეთ ადვოკატი, რომელსაც თქვენი საქმის სფეროში აქვს გამოცდილება, გულწრფელად შეაფასებს რისკებს და ჰონორარს წინასწარ, წერილობით შეგითანხმებთ. MMLAW-ში პირველი კონსულტაცია უფასოა."),
+            ("რა ღირს ადვოკატის მომსახურება?", "ჰონორარი დამოკიდებულია საქმის სირთულესა და მოცულობაზე — შეიძლება იყოს ფიქსირებული, საათობრივი ან შედეგზე დაფუძნებული. პირველი კონსულტაცია უფასოა, ჰონორარს კი წინასწარ, წერილობით ვათანხმებთ."),
+            ("შეიძლება ადვოკატთან ონლაინ კონსულტაცია?", "დიახ. კონსულტაცია შესაძლებელია ოფისში, ტელეფონით, WhatsApp-ით ან ვიდეოზარით — ქართულ, ინგლისურ და რუსულ ენებზე."),
+        ],
+    },
+    "en": {
+        "nav": "Lawyer in Tbilisi",
+        "title": "Lawyer in Tbilisi, Georgia — all legal services | MMLAW",
+        "desc": "Lawyer in Tbilisi: criminal, civil, administrative, labour, family and corporate law and more. 10+ years of experience. Free first consultation.",
+        "h1": "Lawyer in Tbilisi, Georgia",
+        "lead": "MMLAW lawyers represent individuals and companies before courts of every instance in Georgia, public authorities and in negotiations. Choose an area — the first consultation is free.",
+        "list_h2": "Our legal services",
+        "why_h2": "Why MMLAW",
+        "faq": [
+            ("What does a lawyer do?", "A lawyer gives you legal advice, prepares documents and represents you in negotiations, before public authorities and in court. In criminal cases, a lawyer protects the rights of suspects and accused persons from the moment of arrest."),
+            ("How do I choose a lawyer in Georgia?", "Choose a lawyer with experience in your type of case, who gives you an honest assessment of the risks and agrees the fee in advance and in writing. At MMLAW the first consultation is free."),
+            ("How much does a lawyer cost in Georgia?", "Fees depend on the complexity and scope of the case — they can be fixed, hourly or success-based. The first consultation is free, and the fee is agreed in advance and in writing."),
+            ("Can I consult a lawyer online?", "Yes. Consultations are available at our office, by phone, on WhatsApp or by video call — in English, Georgian and Russian."),
+        ],
+    },
+    "ru": {
+        "nav": "Адвокат в Тбилиси",
+        "title": "Адвокат в Тбилиси — все юридические услуги | MMLAW",
+        "desc": "Адвокат в Тбилиси: уголовное, гражданское, административное, трудовое, семейное и корпоративное право. Более 10 лет опыта. Первая консультация бесплатна.",
+        "h1": "Адвокат в Тбилиси",
+        "lead": "Адвокаты MMLAW представляют интересы частных лиц и компаний в судах всех инстанций Грузии, в государственных органах и на переговорах. Выберите область — первая консультация бесплатна.",
+        "list_h2": "Услуги адвоката",
+        "why_h2": "Почему MMLAW",
+        "faq": [
+            ("Чем занимается адвокат?", "Адвокат даёт юридические консультации, готовит документы и представляет вас на переговорах, в государственных органах и в суде. В уголовных делах адвокат защищает права подозреваемого и обвиняемого с момента задержания."),
+            ("Как выбрать адвоката в Грузии?", "Выбирайте адвоката с опытом в вашей категории дел, который честно оценит риски и заранее письменно согласует гонорар. В MMLAW первая консультация бесплатна."),
+            ("Сколько стоят услуги адвоката в Грузии?", "Гонорар зависит от сложности и объёма дела — он может быть фиксированным, почасовым или зависящим от результата. Первая консультация бесплатна, а гонорар согласуется заранее и письменно."),
+            ("Можно ли проконсультироваться с адвокатом онлайн?", "Да. Консультации возможны в офисе, по телефону, в WhatsApp или по видеосвязи — на русском, грузинском и английском языках."),
+        ],
+    },
+}
+SLUGS["sections"]["lawyer"] = {"ka": "advokati", "en": "lawyer-in-tbilisi", "ru": "advokat-v-tbilisi"}
