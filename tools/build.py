@@ -117,6 +117,12 @@ ICONS = {
 }
 
 
+def wa_icon(size=16):
+    """WhatsApp logo (filled glyph)."""
+    return (f'<svg class="i-wa" width="{size}" height="{size}" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">'
+            f'<path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>')
+
+
 def icon(name, size=16, sw=2, cls=""):
     c = f' class="{cls}"' if cls else ""
     return (f'<svg{c} width="{size}" height="{size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" '
@@ -315,7 +321,7 @@ def header(lang, path, active):
 <div class="mnav-svc">{"".join(f'<a href="{url(lang, "services/" + s["slug"] + "/")}">{icon(s["icon"], 16, 1.75)}{e(s[lang]["name"])}</a>' for s in SERVICES)}</div></div>
 <div class="mnav-btns">
 <a class="btn btn-primary btn-block" href="tel:{SITE["phone"]}">{icon("phone")}{SITE["phone_display"]}</a>
-<a class="btn btn-outline btn-block" href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{icon("chat")}WhatsApp</a>
+<a class="btn btn-outline btn-block" href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{wa_icon(16)}WhatsApp</a>
 </div>
 <div class="mnav-lang">{lang_switch(lang, path)}</div>
 <p class="mnav-info">{icon("pin", 14)}{e(t["city"])} · {e(t["hours"])}</p>
@@ -326,7 +332,7 @@ def mobile_bar(lang):
     t = T[lang]
     return f"""<nav class="mbar" aria-label="{e(t["f_contact"])}">
 <a href="tel:{SITE["phone"]}">{icon("phone", 20, 1.75)}<span>{e(t["m_call"])}</span></a>
-<a href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{icon("chat", 20, 1.75)}<span>WhatsApp</span></a>
+<a href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{wa_icon(20)}<span>WhatsApp</span></a>
 <a class="mbar-cta" href="{url(lang, "contact/")}" data-consult-link>{icon("mail", 20, 1.75)}<span>{e(t["m_cta"])}</span></a>
 </nav>"""
 
@@ -344,7 +350,7 @@ def footer(lang):
 <div class="socials" aria-label="{e(t["socials"])}">
 <a href="{SITE["facebook"]}" rel="noopener" target="_blank" aria-label="Facebook">{icon("fb", 16)}</a>
 <a href="{SITE["linkedin"]}" rel="noopener" target="_blank" aria-label="LinkedIn">{icon("in", 16)}</a>
-<a href="{SITE["whatsapp"]}" rel="noopener" target="_blank" aria-label="WhatsApp">{icon("chat", 16)}</a>
+<a href="{SITE["whatsapp"]}" rel="noopener" target="_blank" aria-label="WhatsApp">{wa_icon(16)}</a>
 </div>
 </div>
 <div class="ftr-cols">
@@ -387,7 +393,7 @@ def call_sheet(lang):
 <button class="sh-x" type="button" data-sheet-close aria-label="{e(t["close"])}">{icon("x", 20)}</button></div>
 <div class="sh-opts" data-sheet-opts>
 <a class="sh-opt" href="tel:{SITE["phone"]}" data-direct><span class="sh-ic sh-ic-dark">{icon("phone", 20, 1.75)}</span><span><b>{e(t["sh_call"])}</b><small class="mono">{SITE["phone_display"]}</small></span>{icon("arrow", 16, cls="sh-go")}</a>
-<a class="sh-opt" href="{SITE["whatsapp"]}" rel="noopener" target="_blank"><span class="sh-ic sh-ic-wa">{icon("chat", 20, 1.75)}</span><span><b>{e(t["sh_wa"])}</b><small>{e(t["sh_wa_sub"])}</small></span>{icon("arrow", 16, cls="sh-go")}</a>
+<a class="sh-opt" href="{SITE["whatsapp"]}" rel="noopener" target="_blank"><span class="sh-ic sh-ic-wa">{wa_icon(20)}</span><span><b>{e(t["sh_wa"])}</b><small>{e(t["sh_wa_sub"])}</small></span>{icon("arrow", 16, cls="sh-go")}</a>
 <button class="sh-opt" type="button" data-sheet-req><span class="sh-ic">{icon("callback", 20, 1.75)}</span><span><b>{e(t["sh_req"])}</b><small>{e(t["sh_req_sub"])}</small></span>{icon("arrow", 16, cls="sh-go")}</button>
 </div>
 <form class="sh-form" data-callback {form_attrs(lang, t["cb_subject"])} hidden>
@@ -421,7 +427,7 @@ def consult_form(lang, fid="consult", selected=None, heading="h2"):
 </div>
 <div class="cf-foot">
 <button type="submit" class="btn btn-primary btn-block">{e(t["f_submit"])}</button>
-<a class="wa-link" href="{SITE["whatsapp"]}" data-wa-link rel="noopener" target="_blank">{icon("chat", 14)}{e(t["f_wa"])}</a>
+<a class="wa-link" href="{SITE["whatsapp"]}" data-wa-link rel="noopener" target="_blank">{wa_icon(14)}{e(t["f_wa"])}</a>
 <p class="cf-status" role="status" aria-live="polite" hidden></p>
 <p class="cf-priv">{icon("lock", 13)}{e(t["f_priv"])}</p>
 </div>
@@ -515,7 +521,7 @@ def aside_card(lang, selected=None):
     return f"""<aside class="side"><div class="side-card">
 <h2 class="side-t">{e(t["aside_title"])}</h2><p>{e(t["aside_p"])}</p>
 <a class="btn btn-primary btn-block" href="tel:{SITE["phone"]}">{icon("phone")}{SITE["phone_display"]}</a>
-<a class="btn btn-outline btn-block" href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{icon("chat")}WhatsApp</a>
+<a class="btn btn-outline btn-block" href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{wa_icon(16)}WhatsApp</a>
 <a class="btn btn-ghost btn-block" href="#consult">{e(t["request"])}{icon("arrow", 15)}</a>
 <p class="cf-priv">{icon("lock", 13)}{e(t["f_priv"])}</p>
 </div></aside>"""
@@ -621,7 +627,7 @@ def build_foreigners(lang):
     points = "".join(f'<div class="val"><span class="mono pr-n acc-t">0{i + 1}</span><h3>{e(a)}</h3><p>{e(b)}</p></div>'
                      for i, (a, b) in enumerate(h["points"]))
     hero_extra = (f'<div class="btns"><a class="btn btn-primary btn-lg" href="#consult">{e(t["request"])}{icon("arrow")}</a>'
-                  f'<a class="btn btn-outline btn-lg" href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{icon("chat")}WhatsApp</a></div>')
+                  f'<a class="btn btn-outline btn-lg" href="{SITE["whatsapp"]}" rel="noopener" target="_blank">{wa_icon(16)}WhatsApp</a></div>')
     main = (page_hero(lang, trail, h["h1"], h["lead"], f["eyebrow"], hero_extra)
             + f'<section class="sec bb"><div class="wrap stack">{eyebrow_h2(f["eyebrow"], f["topics"])}'
             + '<div class="svc-grid">' + "".join(topic_card(lang, x, "h2") for x in FOREIGN_TOPICS) + "</div>"
