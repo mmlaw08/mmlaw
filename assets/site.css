@@ -702,3 +702,7 @@ html.sheet-open { overflow: hidden; }
   .sel-trigger { height: 48px; font-size: 16px; }
   .sel-list [role=option] { padding: 11px 12px; font-size: 15px; }
 }
+
+/* mega menu: invisible bridge over the gap between the menu item and the panel,
+   so the pointer never "leaves" the menu while moving down */
+.mega::before { content: ""; position: absolute; left: 0; right: 0; top: -18px; height: 18px; }

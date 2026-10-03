@@ -42,6 +42,17 @@
     window.addEventListener("resize", function () { if (window.innerWidth > 900 && !panel.hidden) setMenu(false); });
   }
 
+  // Services mega menu: open on hover with a short grace period when the pointer leaves
+  document.querySelectorAll(".nav-dd").forEach(function (dd) {
+    var timer;
+    dd.addEventListener("mouseenter", function () { clearTimeout(timer); dd.classList.add("open"); });
+    dd.addEventListener("mouseleave", function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () { dd.classList.remove("open"); }, 280);
+    });
+    dd.addEventListener("click", function (ev) { if (ev.target.closest(".mega a")) dd.classList.remove("open"); });
+  });
+
   // Services mega menu: Esc closes it for keyboard users
   document.addEventListener("keydown", function (ev) {
     var dd = document.activeElement && document.activeElement.closest(".nav-dd");
