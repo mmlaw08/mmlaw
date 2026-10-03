@@ -83,7 +83,7 @@ button, input, select, textarea { font: inherit; color: inherit; }
 /* Georgian has no letter case and needs looser tracking */
 :lang(ka) .eyebrow, :lang(ka) .brand-sub { text-transform: none; letter-spacing: .01em; }
 :lang(ka) .h1, :lang(ka) .h2, :lang(ka) .h1-page { letter-spacing: -0.01em; }
-:lang(ka) .h1 { font-size: clamp(2.25rem, 5vw, 3.75rem); line-height: 1.12; }
+:lang(ka) .h1 { font-size: clamp(2.1rem, 4.2vw, 3.1rem); line-height: 1.15; }
 :lang(ka) .h1-page { font-size: clamp(1.9rem, 4vw, 3rem); line-height: 1.15; }
 :lang(ka) .h2 { font-size: clamp(1.6rem, 3.2vw, 2.4rem); line-height: 1.2; }
 
