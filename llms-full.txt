@@ -48,7 +48,7 @@ We provide consultations and representation in Georgian, English and Russian —
 We represent clients before courts of all instances in Georgia — district (city) courts, courts of appeal and the Supreme Court — as well as before administrative bodies and investigative authorities.
 
 ## Criminal defense lawyer in Georgia
-URL: https://mmlaw.ge/en/services/criminal-defense/
+URL: https://mmlaw.ge/en/criminal-defense-lawyer/
 
 MMLAW criminal defense lawyers represent suspects, accused persons and victims at every stage of a criminal case in Georgia — from the first questioning to the Supreme Court.
 
@@ -80,7 +80,7 @@ As early as possible — ideally as soon as you are summoned for questioning, or
 It depends on the complexity, stage and scope of the case. The first consultation is free — we assess the case and agree the fee with you in advance and in writing.
 
 ## Civil litigation lawyer in Georgia
-URL: https://mmlaw.ge/en/services/civil-litigation/
+URL: https://mmlaw.ge/en/civil-litigation-lawyer/
 
 We represent individuals and companies in civil disputes in Georgia — from pre-trial negotiation through all three court instances.
 
@@ -105,7 +105,7 @@ Yes — through negotiation, mediation or arbitration. For some categories of di
 It depends on the type of claim. Under the Civil Code of Georgia the general limitation period is 10 years, 3 years for contractual claims and 6 years for claims related to immovable property. Some claims have shorter periods, so it is best to act early.
 
 ## Administrative law lawyer in Georgia
-URL: https://mmlaw.ge/en/services/administrative-law/
+URL: https://mmlaw.ge/en/administrative-law-lawyer/
 
 We help individuals and businesses challenge unlawful decisions of public authorities and navigate licensing, permit and regulatory procedures in Georgia.
 
@@ -130,7 +130,7 @@ In some cases the law requires a complaint to the superior body before going to 
 Yes. A decision on an administrative offence can be appealed to the superior body or to the court within short statutory deadlines.
 
 ## Juvenile justice lawyer in Georgia
-URL: https://mmlaw.ge/en/services/juvenile-justice/
+URL: https://mmlaw.ge/en/juvenile-justice-lawyer/
 
 We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
 
@@ -154,7 +154,7 @@ Diversion allows a minor to avoid criminal prosecution by meeting certain condit
 No. Under the Code, lawyers, judges, prosecutors and investigators working on juvenile cases must be specialised.
 
 ## Employment and labour lawyer in Georgia
-URL: https://mmlaw.ge/en/services/labor-law/
+URL: https://mmlaw.ge/en/employment-lawyer/
 
 We represent employees and employers in labour disputes under the Labour Code of Georgia — from unlawful dismissal to drafting contracts and workplace policies.
 
@@ -179,7 +179,7 @@ An oral contract is possible, but a contract concluded for more than one month m
 Both. We help employees restore their rights, and help employers prevent disputes and represent them in court.
 
 ## Corporate lawyer in Georgia
-URL: https://mmlaw.ge/en/services/corporate-law/
+URL: https://mmlaw.ge/en/corporate-lawyer/
 
 Strategic legal support for businesses in Georgia — from company registration to mergers and acquisitions, compliance and restructuring.
 
@@ -204,7 +204,7 @@ Yes. Foreign individuals and companies can be the sole founders of a Georgian LL
 The Law of Georgia on Entrepreneurs (new version in force since 2022).
 
 ## Real estate lawyer in Georgia
-URL: https://mmlaw.ge/en/services/real-estate/
+URL: https://mmlaw.ge/en/real-estate-lawyer/
 
 Full legal support for real estate in Georgia — checking the property, structuring and signing the deal, registering ownership and resolving disputes.
 
@@ -229,7 +229,7 @@ Yes. Foreigners can freely buy apartments, houses and non-agricultural land. Pur
 The registry extract (owner, mortgage, seizure, prohibitions), the seller's authority, permits for new construction, and any utility or other debts.
 
 ## Family and divorce lawyer in Georgia
-URL: https://mmlaw.ge/en/services/family-law/
+URL: https://mmlaw.ge/en/family-lawyer/
 
 Discreet, professional representation in divorce, child residence, alimony and division of marital property in Georgia.
 
@@ -254,7 +254,7 @@ Property acquired during the marriage is the spouses' joint property and is, as 
 Parents must support their minor children. The amount depends on the child's needs and the parents' financial situation — set by agreement or by the court.
 
 ## Intellectual property lawyer in Georgia
-URL: https://mmlaw.ge/en/services/intellectual-property/
+URL: https://mmlaw.ge/en/intellectual-property-lawyer/
 
 We protect brands, creative works and inventions — from registration with Sakpatenti to disputes with infringers.
 
