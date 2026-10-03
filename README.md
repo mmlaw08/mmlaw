@@ -1,6 +1,6 @@
 # mmlaw.ge — MMLAW Law Firm
 
-Static, three-language website (Georgian default at `/`, English at `/en/`, Russian at `/ru/`),
+Static, three-language website (Georgian (default) at `/ka/`, English at `/en/`, Russian at `/ru/`; the bare domain and root paths forward to `/ka/`),
 served by GitHub Pages from the repo root. Formerly lfs.ge.
 
 ## Edit & rebuild
@@ -22,7 +22,7 @@ python3 tools/build.py --og   # also re-render social share images (needs Google
 - `hreflang` alternates + `x-default` on every page, canonical URLs, Open Graph / Twitter cards
 - JSON-LD: `LegalService` (firm), `WebSite`, `WebPage`, `BreadcrumbList`, `Service`, `FAQPage`, `BlogPosting`
 - `sitemap.xml` with language alternates, `robots.txt` (AI crawlers allowed), `llms.txt`
-- `/ka/...` stubs redirect old lfs.ge Georgian URLs to the new root
+- Root paths (`/`, `/about/`…) forward to `/ka/…`, which also matches the old lfs.ge `/ka/` URLs
 
 ## To do
 

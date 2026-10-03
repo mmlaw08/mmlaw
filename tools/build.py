@@ -30,7 +30,7 @@ e = html.escape
 # ------------------------------------------------------------------ helpers
 def url(lang, path=""):
     """Site-relative URL for a page path ('' = home, 'about/' ...)."""
-    return ("/" if lang == DEFAULT_LANG else f"/{lang}/") + path
+    return f"/{lang}/" + path
 
 
 def abs_url(lang, path=""):
@@ -686,7 +686,8 @@ def build_404():
 def redirect_stub(target):
     return (f'<!doctype html><html lang="ka"><head><meta charset="utf-8"><title>MMLAW</title>'
             f'<meta name="robots" content="noindex"><link rel="canonical" href="{D}{target}">'
-            f'<meta http-equiv="refresh" content="0; url={target}"></head>'
+            f'<meta http-equiv="refresh" content="0; url={target}">'
+            f'<script>location.replace("{target}"+location.search+location.hash)</script></head>'
             f'<body><a href="{target}">{D}{target}</a></body></html>\n{GENERATED_MARK}\n')
 
 
@@ -771,7 +772,7 @@ def llms_txt():
         f"- Phone / WhatsApp: {SITE['phone_display']}",
         f"- Email: {SITE['email']}",
         f"- Office: Tbilisi, Georgia. Hours: {t['hours_long']}",
-        "- Languages: Georgian (default, https://mmlaw.ge/), English (https://mmlaw.ge/en/), Russian (https://mmlaw.ge/ru/)", "",
+        "- Languages: Georgian (default, https://mmlaw.ge/ka/), English (https://mmlaw.ge/en/), Russian (https://mmlaw.ge/ru/)", "",
         "## Practice areas", "",
     ]
     lines += [f"- [{s['en']['name']}]({abs_url('en', 'services/' + s['slug'] + '/')}): {s['en']['lead']}" for s in SERVICES]
@@ -830,7 +831,7 @@ h1{{font-size:{76 if lang == "en" else 64}px;line-height:1.05;font-weight:600;le
 def main():
     clean_generated()
     for lang in LANGS:
-        pre = "" if lang == DEFAULT_LANG else f"{lang}/"
+        pre = f"{lang}/"
         write(pre + "index.html", build_home(lang))
         write(pre + "about/index.html", build_about(lang))
         write(pre + "services/index.html", build_services(lang))
@@ -842,9 +843,9 @@ def main():
         write(pre + "contact/index.html", build_contact(lang))
         write(pre + "privacy/index.html", build_privacy(lang))
     write("404.html", build_404())
-    # Old lfs.ge Georgian URLs lived under /ka/ — send them to the new root.
+    # The bare domain and root-level paths forward to the Georgian (default) pages.
     for path in all_paths():
-        write(f"ka/{path}index.html", redirect_stub(url(DEFAULT_LANG, path)))
+        write(f"{path}index.html", redirect_stub(url(DEFAULT_LANG, path)))
     write("sitemap.xml", sitemap())
     write("robots.txt", robots())
     write("llms.txt", llms_txt())
