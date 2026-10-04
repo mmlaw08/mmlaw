@@ -50,7 +50,7 @@ We represent clients before courts of all instances in Georgia — district (cit
 ## Criminal defense lawyer in Georgia
 URL: https://mmlaw.ge/en/criminal-defense-lawyer/
 
-MMLAW criminal defense lawyers represent suspects, accused persons and victims at every stage of a criminal case in Georgia — from the first questioning to the Supreme Court.
+MMLAW criminal defense lawyers represent suspects, accused persons, witnesses and victims at every stage of a criminal case in Georgia — from the first questioning all the way through the Supreme Court.
 
 Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW's criminal defense practice provides top-level defense in all types of criminal cases.
 We handle serious and particularly serious offences, economic crime, cybercrime, drug-related cases and other categories of cases.
@@ -62,6 +62,7 @@ What we handle:
 - Plea agreement negotiations
 - Defense at trial
 - Appeals and cassation complaints
+- Protecting witnesses' rights during questioning
 - Representation of victims
 
 ### When do I have the right to a lawyer in Georgia?
