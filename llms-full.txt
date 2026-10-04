@@ -69,7 +69,7 @@ What we handle:
 From the moment of arrest or of being charged — and before any questioning. You have the right to remain silent and to insist on your lawyer being present.
 
 ### How long can I be held without a court decision?
-Under the Constitution of Georgia, an arrested person must be brought before a court within 48 hours. If the court does not decide within the next 24 hours, the person must be released immediately.
+A person must be charged within 48 hours of arrest and brought before a court within the following 24 hours. If this doesn't happen, they must be released immediately.
 
 ### What is a plea agreement?
 An agreement between the prosecution and the accused on guilt and sentence, which must be approved by the court. A defense lawyer's participation is mandatory. Never sign anything without independent legal advice.
@@ -511,7 +511,7 @@ Being detained is stressful, but knowing your rights protects you from mistakes 
 - The right to medical assistance.
 
 ### How long can you be held?
-Under the Constitution of Georgia, a detained person must be brought before a court within 48 hours. If the court does not decide on a preventive measure within the following 24 hours, the person must be released immediately.
+A detained person must be charged within 48 hours of arrest and brought before a court — which decides on a preventive measure — within the following 24 hours. If this doesn't happen, they must be released immediately.
 
 ### What to do
 - Stay calm and do not physically resist.
