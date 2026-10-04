@@ -118,7 +118,8 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .hdr-in { padding-top: 14px; padding-bottom: 14px; display: flex; gap: 16px 28px; align-items: center; justify-content: space-between; }
 .brand { display: inline-flex; gap: 10px; align-items: center; color: var(--fg); }
 .brand:hover { color: var(--fg); }
-.logo-mark { border-radius: 8px; background: var(--ink); color: var(--on-ink); display: inline-flex; align-items: center; justify-content: center; flex: none; }
+.logo-mark { display: inline-flex; align-items: center; justify-content: center; flex: none; }
+.logo-mark img { width: 100%; height: 100%; display: block; }
 .brand-txt { display: flex; flex-direction: column; line-height: 1.1; }
 .brand-name { font-size: 18px; font-weight: 700; letter-spacing: -0.02em; }
 .brand-sub { white-space: nowrap; font-size: 11px; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
@@ -706,3 +707,14 @@ html.sheet-open { overflow: hidden; }
 /* mega menu: invisible bridge over the gap between the menu item and the panel,
    so the pointer never "leaves" the menu while moving down */
 .mega::before { content: ""; position: absolute; left: 0; right: 0; top: -18px; height: 18px; }
+
+/* MM logo: light/dark versions follow the site theme */
+.mark-d { display: none !important; }
+:root[data-theme="dark"] .mark-l { display: none !important; }
+:root[data-theme="dark"] .mark-d { display: block !important; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .mark-l { display: none !important; }
+  :root:not([data-theme="light"]) .mark-d { display: block !important; }
+}
+.mega-mark { width: 44px; height: 44px; display: inline-flex; }
+.mega-mark img { width: 44px; height: 44px; }
