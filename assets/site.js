@@ -362,3 +362,39 @@
     });
   });
 })();
+
+// ---------- cookie consent (Google Analytics loads only after "Accept")
+(function () {
+  var box = document.getElementById("ck");
+  if (!box) return;
+  function get() { try { return localStorage.getItem("consent"); } catch (e) { return null; } }
+  function clearGa() {
+    var host = location.hostname.replace(/^www\./, "");
+    document.cookie.split(";").forEach(function (c) {
+      var n = c.split("=")[0].trim();
+      if (n === "_ga" || n.indexOf("_ga_") === 0 || n === "_gid") {
+        ["", "; domain=" + host, "; domain=." + host].forEach(function (d) {
+          document.cookie = n + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/" + d;
+        });
+      }
+    });
+  }
+  function choose(v) {
+    try { localStorage.setItem("consent", v); } catch (e) {}
+    box.hidden = true;
+    if (v === "granted") { if (window.mmGA) window.mmGA(); }
+    else {
+      if (window.gtag) window.gtag("consent", "update", { analytics_storage: "denied" });
+      clearGa();
+      if (window.mmGAon) location.reload();
+    }
+  }
+  box.addEventListener("click", function (ev) {
+    var b = ev.target.closest("[data-ck]");
+    if (b) choose(b.getAttribute("data-ck"));
+  });
+  document.querySelectorAll("[data-ck-open]").forEach(function (b) {
+    b.addEventListener("click", function () { box.hidden = false; var f = box.querySelector("button"); if (f) f.focus(); });
+  });
+  if (!get()) box.hidden = false;
+})();

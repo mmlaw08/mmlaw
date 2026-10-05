@@ -802,3 +802,20 @@ html.sheet-open { overflow: hidden; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .cta-band { background: #16130d; border-color: rgba(214,168,92,.28); }
 }
+
+/* ---------- cookie banner */
+.ck { position: fixed; left: 16px; bottom: 16px; z-index: 35; width: min(440px, calc(100% - 32px)); border: 1px solid var(--line); border-radius: 14px; background: var(--surface); color: var(--fg); box-shadow: 0 16px 48px -12px rgba(0,0,0,.28); animation: sheet-in .2s ease-out; }
+.ck-in { padding: 16px; display: flex; flex-direction: column; gap: 12px; }
+.ck p { font-size: 14px; line-height: 1.6; color: var(--fg2); margin: 0; }
+.ck p b { color: var(--fg); font-weight: 600; }
+.ck p a { color: var(--fg); text-decoration: underline; text-underline-offset: 3px; }
+.ck-btns { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.ck-btns .btn { height: 42px; font-weight: 600; }
+.ftr-legal { display: inline-flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; }
+.ftr-ck { padding: 0; border: 0; background: none; color: var(--muted); font-size: 13px; cursor: pointer; }
+.ftr-ck:hover { color: var(--fg); }
+@media (max-width: 640px) {
+  .ck { left: 8px; right: 8px; width: auto; bottom: calc(72px + env(safe-area-inset-bottom)); }
+  html.menu-open .ck { display: none; }
+}
+@media print { .ck { display: none !important; } }
