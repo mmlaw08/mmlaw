@@ -405,7 +405,7 @@
   if (!dlg || typeof dlg.showModal !== "function") return;
   var input = dlg.querySelector("input"), list = dlg.querySelector(".cmd-list"), empty = dlg.querySelector(".cmd-empty");
   var data = null, loading = null, opts = [], active = 0;
-  var WA = '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21h.01c5.46 0 9.91-4.45 9.91-9.91A9.85 9.85 0 0 0 12.04 2Zm5.8 14.08c-.24.68-1.42 1.31-1.96 1.36-.5.05-.98.23-3.3-.69-2.8-1.1-4.58-3.96-4.72-4.15-.13-.18-1.12-1.49-1.12-2.85 0-1.35.71-2.02.96-2.3.25-.27.55-.34.73-.34h.53c.17 0 .4-.07.62.47.24.56.8 1.93.87 2.07.07.14.12.3.02.48-.09.18-.14.3-.27.46-.14.16-.29.36-.41.48-.14.14-.28.29-.12.56.16.27.71 1.17 1.52 1.9 1.05.93 1.93 1.22 2.2 1.36.28.14.44.11.6-.07.16-.18.69-.8.87-1.08.18-.27.37-.23.62-.14.25.09 1.6.75 1.87.89.28.14.46.2.53.32.07.12.07.68-.17 1.36Z"/></svg>';
+  var WA = '<svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>';
 
   function norm(s) { return (s || "").toLowerCase().replace(/[«»„“"'.,:;!?()—–\-]+/g, " "); }
   function load() {
@@ -430,12 +430,18 @@
       var forms = [w];
       if (w.length >= 5) forms.push(w.slice(0, -1));
       if (w.length >= 7) forms.push(w.slice(0, -2));
+      var nOwn = forms.length;
+      // synonyms: "ფასი" also finds "ღირს", "уволили" finds "увольнение", "scam" finds "fraud"
+      Object.keys(data.syn || {}).forEach(function (key) {
+        // only when the word is that word with an ending ("ბინა", "ბინის"), not a longer word ("ბინადრობა")
+        if ((w.indexOf(key) === 0 && w.length <= key.length + 4) || (w.length >= 3 && key.indexOf(w) === 0)) forms = forms.concat(data.syn[key]);
+      });
       for (var f = 0; f < forms.length && !hit; f++) {
         var x = forms[f];
         if (it._t.indexOf(x) > -1) hit = it._t.indexOf(x) === 0 || it._t.indexOf(" " + x) > -1 ? 12 : 9;
         else if (it._d.indexOf(x) > -1) hit = 4;
         else if (it._k.indexOf(x) > -1) hit = 1;
-        if (hit && f) hit -= 0.5;
+        if (hit && f) hit -= f >= nOwn ? 1.5 : 0.5;
       }
       if (!hit) { if (loose) continue; return 0; }
       s += hit; found++;
@@ -472,7 +478,7 @@
         opts.push(it);
         html += '<a class="cmd-item" role="option" id="cmd-o' + n + '" data-i="' + n + '" href="' + esc(it.u) + '"' +
           (it.u.indexOf("http") === 0 ? ' target="_blank" rel="noopener"' : "") + ">" +
-          '<span class="cmd-ic">' + ico(it.i) + '</span><span class="cmd-tx"><span class="cmd-t">' + esc(it.t) + "</span>" +
+          '<span class="cmd-ic' + (it.c ? " cmd-ic-" + it.c : "") + '">' + ico(it.i) + '</span><span class="cmd-tx"><span class="cmd-t">' + esc(it.t) + "</span>" +
           (it.d ? '<span class="cmd-d">' + esc(it.d) + "</span>" : "") + "</span></a>";
         n++;
       });
