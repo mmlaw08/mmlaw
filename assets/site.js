@@ -380,7 +380,7 @@
   }
   function choose(v) {
     try { localStorage.setItem("consent", v); } catch (e) {}
-    box.hidden = true;
+    hide();
     if (v === "granted") { if (window.mmGA) window.mmGA(); }
     else {
       if (window.gtag) window.gtag("consent", "update", { analytics_storage: "denied" });
@@ -393,9 +393,18 @@
     if (b) choose(b.getAttribute("data-ck"));
   });
   document.querySelectorAll("[data-ck-open]").forEach(function (b) {
-    b.addEventListener("click", function () { box.hidden = false; var f = box.querySelector("button"); if (f) f.focus(); });
+    b.addEventListener("click", function () { show(); var f = box.querySelector("button"); if (f) f.focus(); });
   });
-  if (!get()) box.hidden = false;
+  // slide in / slide out (the CSS animation restarts every time the box is shown)
+  function show() { box.classList.remove("ck-out"); box.hidden = false; }
+  function hide() {
+    if (box.hidden) return;
+    var reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduce) { box.hidden = true; return; }
+    box.classList.add("ck-out");
+    setTimeout(function () { box.hidden = true; box.classList.remove("ck-out"); }, 260);
+  }
+  if (!get()) setTimeout(show, 600);
 })();
 
 // ---------- search (⌘K): searches all three languages; the indexes load the first time the box opens
