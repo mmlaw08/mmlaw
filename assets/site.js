@@ -8,7 +8,7 @@
     return root.getAttribute("data-theme") || (darkMq && darkMq.matches ? "dark" : "light");
   }
   function paintMeta() {
-    var color = currentTheme() === "dark" ? "#09090b" : "#ffffff";
+    var color = currentTheme() === "dark" ? "#141312" : "#ffffff";
     document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
       if (root.getAttribute("data-theme")) m.setAttribute("content", color);
     });
@@ -59,10 +59,6 @@
     if (ev.key === "Escape" && dd) { var t = dd.querySelector("a"); t.focus(); t.blur(); }
   });
 
-  // Bottom bar "Consultation" jumps to the form when the page has one
-  if (document.getElementById("consult")) {
-    document.querySelectorAll("[data-consult-link]").forEach(function (a) { a.setAttribute("href", "#consult"); });
-  }
 
   // ---------- call popup: every phone link opens a choice of call / WhatsApp / call-back request
   var sheet = document.getElementById("call-sheet");
@@ -81,7 +77,7 @@
       root.classList.add("sheet-open");
     };
     document.addEventListener("click", function (ev) {
-      var a = ev.target.closest('a[href^="tel:"]');
+      var a = ev.target.closest('a[href^="tel:"], [data-sheet]');
       if (!a || a.hasAttribute("data-direct")) return;
       ev.preventDefault();
       openSheet();
@@ -399,49 +395,79 @@
   if (!get()) box.hidden = false;
 })();
 
-// ---------- search (⌘K): the index loads the first time the box opens
+// ---------- search (⌘K): searches all three languages; the indexes load the first time the box opens
 (function () {
   var dlg = document.getElementById("cmd");
   if (!dlg || typeof dlg.showModal !== "function") return;
+  var root = document.documentElement;
   var input = dlg.querySelector("input"), list = dlg.querySelector(".cmd-list"), empty = dlg.querySelector(".cmd-empty");
-  var data = null, loading = null, opts = [], active = 0;
+  var cur = dlg.getAttribute("data-lang"), LANGS = ["ka", "en", "ru"];
+  var idx = {}, loading = {}, opts = [], active = 0;
   var WA = '<svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>';
 
-  function norm(s) { return (s || "").toLowerCase().replace(/[«»„“"'.,:;!?()—–\-]+/g, " "); }
-  function load() {
-    if (loading) return loading;
-    loading = fetch(dlg.getAttribute("data-src")).then(function (r) { return r.json(); }).then(function (j) {
-      j.items.forEach(function (it) { it._t = norm(it.t); it._d = norm(it.d); it._k = norm(it.k); });
-      data = j; render();
-    }).catch(function () { loading = null; });
-    return loading;
+  // Georgian and Russian written in Latin letters ("advokati", "vnzh") -> one simple Latin form for comparing
+  var GEO = { "ა": "a", "ბ": "b", "გ": "g", "დ": "d", "ე": "e", "ვ": "v", "ზ": "z", "თ": "t", "ი": "i", "კ": "k", "ლ": "l", "მ": "m", "ნ": "n", "ო": "o", "პ": "p", "ჟ": "zh", "რ": "r", "ს": "s", "ტ": "t", "უ": "u", "ფ": "p", "ქ": "k", "ღ": "gh", "ყ": "k", "შ": "sh", "ჩ": "ch", "ც": "ts", "ძ": "dz", "წ": "ts", "ჭ": "ch", "ხ": "kh", "ჯ": "j", "ჰ": "h" };
+  var CYR = { "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ё": "e", "ж": "zh", "з": "z", "и": "i", "й": "i", "к": "k", "л": "l", "м": "m", "н": "n", "о": "o", "п": "p", "р": "r", "с": "s", "т": "t", "у": "u", "ф": "f", "х": "kh", "ц": "ts", "ч": "ch", "ш": "sh", "щ": "sch", "ъ": "", "ы": "i", "ь": "", "э": "e", "ю": "iu", "я": "ia" };
+  function fold(s) {
+    return s.replace(/['’`ʼ]/g, "").replace(/x/g, "kh").replace(/q/g, "k").replace(/w/g, "v").replace(/y/g, "i").replace(/c(?!h)/g, "ts").replace(/ph/g, "p");
   }
-  function ico(name) {
+  function latin(s) {
+    return fold(s.replace(/[ა-ჰа-яё]/g, function (c) { return GEO[c] !== undefined ? GEO[c] : (CYR[c] !== undefined ? CYR[c] : c); }));
+  }
+  function norm(s) { return (s || "").toLowerCase().replace(/[«»„“"'.,:;!?()—–\-\/]+/g, " "); }
+
+  function load(lang) {
+    if (loading[lang]) return loading[lang];
+    loading[lang] = fetch(dlg.getAttribute("data-src").replace("{lang}", lang)).then(function (r) { return r.json(); }).then(function (j) {
+      j.items.forEach(function (it) {
+        it._t = norm(it.t); it._d = norm(it.d); it._k = norm(it.k);
+        it._lt = latin(it._t); it._ld = latin(it._d); it._lk = latin(it._k);
+        it._lang = lang;
+      });
+      idx[lang] = j;
+      if (dlg.open) render();
+    }).catch(function () { loading[lang] = null; });
+    return loading[lang];
+  }
+  function ico(data, name) {
     if (name === "wa") return WA;
-    var p = data.icons[name] || data.icons.help;
+    var p = data.icons[name] || data.icons.help || "";
     return '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + p + "</svg>";
   }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
-  function score(it, toks, q, loose) {
+  function stems(w) {
+    var f = [w];
+    if (w.length >= 5) f.push(w.slice(0, -1));
+    if (w.length >= 7) f.push(w.slice(0, -2));
+    return f;
+  }
+  function find(it, x, a, b, c) {
+    var p = it[a].indexOf(x);
+    if (p > -1) return p === 0 || it[a].charAt(p - 1) === " " ? 12 : 9;
+    if (it[b].indexOf(x) > -1) return 4;
+    if (it[c].indexOf(x) > -1) return 1;
+    return 0;
+  }
+  function score(data, it, toks, q, loose) {
     var s = 0, found = 0;
     for (var i = 0; i < toks.length; i++) {
-      var w = toks[i], hit = 0;
-      // Georgian and Russian words change their endings: also try the word without its last letters
-      var forms = [w];
-      if (w.length >= 5) forms.push(w.slice(0, -1));
-      if (w.length >= 7) forms.push(w.slice(0, -2));
-      var nOwn = forms.length;
+      var w = toks[i], hit = 0, forms = stems(w), nOwn = forms.length;
       // synonyms: "ფასი" also finds "ღირს", "уволили" finds "увольнение", "scam" finds "fraud"
       Object.keys(data.syn || {}).forEach(function (key) {
         // only when the word is that word with an ending ("ბინა", "ბინის"), not a longer word ("ბინადრობა")
         if ((w.indexOf(key) === 0 && w.length <= key.length + 4) || (w.length >= 3 && key.indexOf(w) === 0)) forms = forms.concat(data.syn[key]);
       });
       for (var f = 0; f < forms.length && !hit; f++) {
-        var x = forms[f];
-        if (it._t.indexOf(x) > -1) hit = it._t.indexOf(x) === 0 || it._t.indexOf(" " + x) > -1 ? 12 : 9;
-        else if (it._d.indexOf(x) > -1) hit = 4;
-        else if (it._k.indexOf(x) > -1) hit = 1;
+        hit = find(it, forms[f], "_t", "_d", "_k");
         if (hit && f) hit -= f >= nOwn ? 1.5 : 0.5;
+      }
+      // typed in Latin letters: compare with the Latin form of Georgian / Russian text
+      if (!hit && /^[a-z0-9'’]+$/.test(w) && w.length >= 3 && it._lang !== "en") {
+        var lf = stems(fold(w));
+        for (var g = 0; g < lf.length && !hit; g++) {
+          hit = find(it, lf[g], "_lt", "_ld", "_lk");
+          if (hit) hit -= 1 + g * 0.5;
+        }
       }
       if (!hit) { if (loose) continue; return 0; }
       s += hit; found++;
@@ -452,40 +478,66 @@
     if (it.g === "svc" || it.g === "for") s += 1;
     return s;
   }
+  function search(lang, toks, q) {
+    var data = idx[lang];
+    if (!data) return [];
+    var strict = data.items.filter(function (it) { return it.g !== "act" && score(data, it, toks, q) > 0; }).length;
+    var loose = toks.length > 1 && strict < 3, seen = {};
+    return data.items.map(function (it) { return { it: it, s: it.g === "act" ? 0 : score(data, it, toks, q, loose) }; })
+      .filter(function (r) { return r.s > 0; })
+      .sort(function (a, b) { return b.s - a.s; })
+      .map(function (r) { return r.it; })
+      .filter(function (it) { var k = it.g + "|" + it._t; if (seen[k]) return false; seen[k] = 1; return true; });
+  }
+  function item(it, n) {
+    var data = idx[it._lang];
+    var ext = it.u.indexOf("http") === 0;
+    return '<a class="cmd-item" role="option" id="cmd-o' + n + '" data-i="' + n + '" href="' + esc(it.u) + '"' +
+      (ext ? ' target="_blank" rel="noopener"' : "") + (it.s ? " data-sheet" : "") + (it._lang !== cur ? ' hreflang="' + it._lang + '"' : "") + ">" +
+      '<span class="cmd-ic' + (it.c ? " cmd-ic-" + it.c : "") + '">' + ico(data, it.i) + '</span><span class="cmd-tx"><span class="cmd-t">' + esc(it.t) + "</span>" +
+      (it.d ? '<span class="cmd-d">' + esc(it.d) + "</span>" : "") + "</span>" +
+      (it._lang !== cur ? '<span class="cmd-lang">' + it._lang.toUpperCase() + "</span>" : "") + "</a>";
+  }
   function render() {
-    if (!data) { list.innerHTML = ""; return; }
-    var q = norm(input.value).trim(), toks = q.split(/\s+/).filter(Boolean), rows;
+    var main = idx[cur];
+    if (!main) { list.innerHTML = ""; return; }
+    var q = norm(input.value).trim(), toks = q.split(/\s+/).filter(Boolean);
+    var groups = [];   // [label, items]
     if (!toks.length) {
-      rows = data.items.filter(function (it) { return it.f; }).sort(function (a, b) { return (a.g === "act" ? 0 : a.f) - (b.g === "act" ? 0 : b.f); });
+      var feat = main.items.filter(function (it) { return it.f; }).sort(function (a, b) { return (a.g === "act" ? 0 : a.f) - (b.g === "act" ? 0 : b.f); });
+      ["act", "page"].forEach(function (g) { groups.push([main.labels[g], feat.filter(function (it) { return it.g === g; })]); });
     } else {
-      var loose = toks.length > 1 && data.items.filter(function (it) { return score(it, toks, q) > 0; }).length < 3;
-      rows = data.items.map(function (it) { return { it: it, s: score(it, toks, q, loose) }; })
-        .filter(function (r) { return r.s > 0; })
-        .sort(function (a, b) { return b.s - a.s; })
-        .map(function (r) { return r.it; });
-      var per = {};
-      rows = rows.filter(function (it) { per[it.g] = (per[it.g] || 0) + 1; return per[it.g] <= (it.g === "faq" ? 5 : 6); });
+      // the alphabet typed decides which language comes first
+      var first = /[Ⴀ-ჿ]/.test(q) ? "ka" : /[Ѐ-ӿ]/.test(q) ? "ru" : cur;
+      var order = [first].concat(LANGS.filter(function (l) { return l !== first; }));
+      if (order.indexOf(cur) > 0) { order.splice(order.indexOf(cur), 1); order.splice(1, 0, cur); }
+      var shown = 0;
+      order.forEach(function (lang, k) {
+        var rows = search(lang, toks, q);
+        if (!rows.length) return;
+        if (lang === cur) {
+          var per = {}, gorder = [];
+          rows = rows.filter(function (it) { per[it.g] = (per[it.g] || 0) + 1; return per[it.g] <= (it.g === "faq" ? 5 : 6); });
+          rows.forEach(function (it) { if (gorder.indexOf(it.g) < 0) gorder.push(it.g); });
+          gorder.forEach(function (g) { groups.push([main.labels[g], rows.filter(function (it) { return it.g === g; })]); });
+        } else {
+          // other languages: a short list, longer when nothing matched in this language
+          var take = k === 0 || !shown ? 6 : 3;
+          groups.push([main.langs[lang], rows.slice(0, take)]);
+        }
+        shown += rows.length;
+      });
     }
-    var order = toks.length ? [] : ["act", "page"];
-    rows.forEach(function (it) { if (order.indexOf(it.g) < 0) order.push(it.g); });
     var html = "", n = 0;
     opts = [];
-    order.forEach(function (g) {
-      var grp = rows.filter(function (it) { return it.g === g; });
-      if (!grp.length) return;
-      html += '<div class="cmd-group" role="presentation"><p class="cmd-gh">' + esc(data.labels[g] || "") + "</p>";
-      grp.forEach(function (it) {
-        opts.push(it);
-        html += '<a class="cmd-item" role="option" id="cmd-o' + n + '" data-i="' + n + '" href="' + esc(it.u) + '"' +
-          (it.u.indexOf("http") === 0 ? ' target="_blank" rel="noopener"' : "") + ">" +
-          '<span class="cmd-ic' + (it.c ? " cmd-ic-" + it.c : "") + '">' + ico(it.i) + '</span><span class="cmd-tx"><span class="cmd-t">' + esc(it.t) + "</span>" +
-          (it.d ? '<span class="cmd-d">' + esc(it.d) + "</span>" : "") + "</span></a>";
-        n++;
-      });
+    groups.forEach(function (gr) {
+      if (!gr[1].length) return;
+      html += '<div class="cmd-group" role="presentation"><p class="cmd-gh">' + esc(gr[0] || "") + "</p>";
+      gr[1].forEach(function (it) { opts.push(it); html += item(it, n++); });
       html += "</div>";
     });
     list.innerHTML = html;
-    empty.hidden = n > 0;
+    empty.hidden = n > 0 || !toks.length;
     setActive(0, false);
   }
   function setActive(i, scroll) {
@@ -503,13 +555,14 @@
     dlg.showModal();
     root.classList.add("sheet-open");
     input.focus();
-    if (data) render(); else load();
+    // this language first, the other two right after
+    load(cur).then(function () { LANGS.forEach(function (l) { if (l !== cur) load(l); }); });
+    render();
   }
-  var root = document.documentElement;
   dlg.addEventListener("close", function () { root.classList.remove("sheet-open"); });
   dlg.addEventListener("click", function (ev) {
     if (ev.target === dlg || ev.target.closest("[data-cmd-close]")) dlg.close();
-    else if (ev.target.closest(".cmd-item")) setTimeout(function () { dlg.close(); }, 0);
+    else if (ev.target.closest(".cmd-item")) setTimeout(function () { if (dlg.open) dlg.close(); }, 0);
   });
   list.addEventListener("mousemove", function (ev) {
     var a = ev.target.closest(".cmd-item");

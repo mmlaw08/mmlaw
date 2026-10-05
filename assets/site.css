@@ -65,22 +65,22 @@
 /* dark theme: system preference unless the visitor chose light; or explicit choice */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #09090b; --surface: #131316; --fg: #fafafa; --fg2: #d4d4d8; --muted: #b9b9c1; --faint: #71717a;
-    --line: #27272a; --line-strong: #3f3f46; --soft: #0f0f12; --soft2: #1c1c20; --ink: #fafafa; --on-ink: #09090b;
-    --ink-hover: #e4e4e7; --black: #09090b; --dline: #27272a; --accent: #d6a85c; --on-accent: #09090b;
+    --bg: #141312; --surface: #1c1a18; --fg: #efebe5; --fg2: #d9d4cc; --muted: #a8a29e; --faint: #78716c;
+    --line: #33302c; --line-strong: #46423d; --soft: #181715; --soft2: #24221f; --ink: #efebe5; --on-ink: #141312;
+    --ink-hover: #ffffff; --black: #141312; --dline: #33302c; --accent: #d6a85c; --on-accent: #09090b;
     --acc-soft: rgba(214,168,92,.14); --acc-bg: rgba(214,168,92,.07); --acc-line: rgba(214,168,92,.35);
-    --glass: rgba(9,9,11,.85); --dark-sec: #131316;
+    --glass: rgba(20,19,18,.86); --dark-sec: #1c1a18;
     --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 32px -12px rgba(0,0,0,.7);
     --ok-bg: rgba(34,197,94,.1); --ok-fg: #4ade80; --err-bg: rgba(239,68,68,.1); --err-fg: #f87171;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #09090b; --surface: #131316; --fg: #fafafa; --fg2: #d4d4d8; --muted: #b9b9c1; --faint: #71717a;
-  --line: #27272a; --line-strong: #3f3f46; --soft: #0f0f12; --soft2: #1c1c20; --ink: #fafafa; --on-ink: #09090b;
-  --ink-hover: #e4e4e7; --black: #09090b; --dline: #27272a; --accent: #d6a85c; --on-accent: #09090b;
+  --bg: #141312; --surface: #1c1a18; --fg: #efebe5; --fg2: #d9d4cc; --muted: #a8a29e; --faint: #78716c;
+  --line: #33302c; --line-strong: #46423d; --soft: #181715; --soft2: #24221f; --ink: #efebe5; --on-ink: #141312;
+  --ink-hover: #ffffff; --black: #141312; --dline: #33302c; --accent: #d6a85c; --on-accent: #09090b;
   --acc-soft: rgba(214,168,92,.14); --acc-bg: rgba(214,168,92,.07); --acc-line: rgba(214,168,92,.35);
-  --glass: rgba(9,9,11,.85); --dark-sec: #131316;
+  --glass: rgba(20,19,18,.86); --dark-sec: #1c1a18;
   --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 32px -12px rgba(0,0,0,.7);
   --ok-bg: rgba(34,197,94,.1); --ok-fg: #4ade80; --err-bg: rgba(239,68,68,.1); --err-fg: #f87171;
   color-scheme: dark;
@@ -805,9 +805,9 @@ html.sheet-open { overflow: hidden; }
   .cta-band p { font-size: 16px; }
 }
 @media print { .cta-band { display: none !important; } }
-:root[data-theme="dark"] .cta-band { background: #16130d; border-color: rgba(214,168,92,.28); }
+:root[data-theme="dark"] .cta-band { background: #0f0e0c; border-color: rgba(214,168,92,.28); }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .cta-band { background: #16130d; border-color: rgba(214,168,92,.28); }
+  :root:not([data-theme="light"]) .cta-band { background: #0f0e0c; border-color: rgba(214,168,92,.28); }
 }
 
 /* ---------- cookie banner */
@@ -861,3 +861,4 @@ html.sheet-open { overflow: hidden; }
 .cmd-ic-ink { background: var(--ink); border-color: var(--ink); color: var(--on-ink); }
 .cmd-ic-wa { background: #25d366; border-color: #25d366; color: #ffffff; }
 .cmd-ic-gold { background: var(--acc-soft); border-color: var(--acc-line); color: var(--accent); }
+.cmd-lang { margin-left: auto; flex: none; font-size: 10.5px; font-weight: 600; letter-spacing: .06em; padding: 2px 6px; border: 1px solid var(--line); border-radius: 5px; color: var(--muted); }
