@@ -175,7 +175,7 @@ html.menu-open { overflow: hidden; }
 
 /* ---------- hero */
 .grid-bg { background-color: var(--bg); background-image: linear-gradient(var(--soft2) 1px, transparent 1px), linear-gradient(90deg, var(--soft2) 1px, transparent 1px); background-size: 48px 48px; }
-.hero { border-bottom: 1px solid var(--line); overflow: hidden; }
+.hero { border-bottom: 1px solid var(--line); overflow-x: clip; }
 .hero-in { padding-top: 72px; padding-bottom: 64px; display: flex; flex-wrap: wrap; gap: 56px; align-items: center; }
 .hero-l { flex: 999 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 28px; }
 .pill { align-self: flex-start; display: inline-flex; gap: 8px; align-items: center; padding: 4px 12px 4px 6px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: 13px; font-weight: 500; color: var(--fg2); }
@@ -862,3 +862,4 @@ html.sheet-open { overflow: hidden; }
 .cmd-ic-wa { background: #25d366; border-color: #25d366; color: #ffffff; }
 .cmd-ic-gold { background: var(--acc-soft); border-color: var(--acc-line); color: var(--accent); }
 .cmd-lang { margin-left: auto; flex: none; font-size: 10.5px; font-weight: 600; letter-spacing: .06em; padding: 2px 6px; border: 1px solid var(--line); border-radius: 5px; color: var(--muted); }
+.sel.up .sel-list { top: auto; bottom: calc(100% + 6px); transform-origin: bottom; }

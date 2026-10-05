@@ -168,6 +168,9 @@
     function open() {
       if (!list.hidden) return;
       list.hidden = false;
+      // open upward when there isn't enough room below (like shadcn)
+      var r = btn.getBoundingClientRect(), need = Math.min(list.scrollHeight, 288) + 12;
+      wrap.classList.toggle("up", window.innerHeight - r.bottom < need && r.top > window.innerHeight - r.bottom);
       btn.setAttribute("aria-expanded", "true");
       wrap.classList.add("open");
       highlight(sel.selectedIndex);
