@@ -718,3 +718,23 @@ html.sheet-open { overflow: hidden; }
 }
 .mega-mark { width: 44px; height: 44px; display: inline-flex; }
 .mega-mark img { width: 44px; height: 44px; }
+
+/* ---------- trust badges (page headers) */
+.trust { list-style: none; padding: 0; margin: 4px 0 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.trust li { display: inline-flex; gap: 6px; align-items: center; padding: 5px 11px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: 13px; color: var(--fg2); }
+.trust svg { color: var(--accent); flex: none; }
+
+/* ---------- topics + related links */
+.sec-sm { padding: 48px 0; }
+.related { display: flex; flex-direction: column; gap: 18px; }
+.rel-head { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; }
+.rel-head .h3 { margin: 0; }
+.topics { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.topic { display: inline-block; padding: 4px 12px; border-radius: 999px; background: var(--acc-soft); color: var(--accent); font-size: 13px; font-weight: 500; }
+.topic:hover { color: var(--fg); }
+.rel-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 8px; }
+.rel { display: flex; gap: 10px; align-items: center; height: 100%; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font-size: 14px; font-weight: 500; line-height: 1.35; color: var(--fg); }
+.rel:hover { border-color: var(--line-strong); background: var(--soft); color: var(--fg); }
+.rel svg { color: var(--accent); flex: none; }
+.tag-link:hover { border-color: var(--accent); color: var(--accent); }
+@media (max-width: 640px) { .sec-sm { padding: 36px 0; } .rel-list { grid-template-columns: 1fr; } }
