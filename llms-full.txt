@@ -350,7 +350,7 @@ Yes. Most matters are handled online and by phone; where a signature is needed i
 Yes. Consultations, documents and correspondence are available in Georgian, English and Russian.
 
 ### Do my foreign documents need an apostille?
-Usually yes. Georgia is a party to the Apostille Convention: documents issued abroad generally need an apostille (or consular legalisation) and a certified Georgian translation.
+It depends on the country: documents from some countries need an apostille, others need consular legalisation, and documents from some countries need no extra certification at all. A certified Georgian translation is usually required. We'll tell you what your documents need.
 
 ## Buying property in Georgia as a foreigner
 URL: https://mmlaw.ge/en/foreigners/buying-property-in-georgia/
@@ -358,7 +358,7 @@ URL: https://mmlaw.ge/en/foreigners/buying-property-in-georgia/
 Foreigners can buy apartments, houses and non-agricultural land in Georgia on the same terms as Georgians. We check the property, prepare the contract and register your ownership — even if you are abroad.
 
 The purchase itself is quick: ownership arises once it is registered with the Public Registry. The risks are elsewhere — a mortgage or seizure on the property, a seller without full authority, or a developer of a new build without the right permits.
-If you can't come to Georgia, you can buy through a notarised power of attorney. Documents issued abroad generally need an apostille and a certified Georgian translation — we tell you exactly what to prepare.
+If you can't come to Georgia, you can buy through a notarised power of attorney. Depending on the country, documents issued abroad may need an apostille or consular legalisation (documents from some countries need neither) and a certified Georgian translation — we tell you exactly what to prepare.
 
 - Checking title, mortgages and seizures
 - Checking developers and permits for new builds
@@ -374,7 +374,7 @@ Yes. Foreign individuals and companies can buy apartments, houses, commercial pr
 Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (currently USD 100,000). The permit is not automatic — you have to apply for it.
 
 ### Can I buy property without coming to Georgia?
-Yes. You can give a notarised power of attorney (apostilled if signed abroad) to your lawyer or a trusted person, who signs and registers the purchase for you.
+Yes. You can give a notarised power of attorney (with an apostille if the country requires it) to your lawyer or a trusted person, who signs and registers the purchase for you.
 
 ## Company registration in Georgia for foreigners
 URL: https://mmlaw.ge/en/foreigners/company-registration-in-georgia/
@@ -455,7 +455,7 @@ URL: https://mmlaw.ge/en/foreigners/family-law-for-foreigners/
 Family cases with an international element follow their own rules. We help with divorce, child residence and alimony, and the recognition of foreign court decisions — in English or Russian.
 
 Which country's court is competent and which country's law applies depends on where the marriage was registered and where the spouses and children live — so we assess that first.
-Georgia is a party to the Hague Convention on international child abduction, and foreign court decisions are recognised by the Supreme Court of Georgia. Documents issued abroad generally need an apostille and a certified translation.
+Georgia is a party to the Hague Convention on international child abduction, and foreign court decisions are recognised by the Supreme Court of Georgia. Depending on the country, documents issued abroad may need an apostille or consular legalisation (documents from some countries need neither) and a certified Georgian translation.
 
 - Divorce with an international element
 - Child residence and contact arrangements
@@ -503,14 +503,15 @@ Deadlines for challenging a dismissal are short, so contact a lawyer as soon as 
 ## Accepting an inheritance in Georgia from abroad
 URL: https://mmlaw.ge/en/blog/inheritance-from-abroad/ — published 2026-10-05
 
-If you live abroad and a relative in Georgia has died, you can accept the inheritance without coming — through a power of attorney.
+If you live abroad and a family member in Georgia has died, you can accept the inheritance without coming — through a power of attorney.
 
 ### The key point: the 6-month deadline
 An inheritance must be accepted within 6 months of its opening — as a rule, the date of death. The application to the notary can be filed by your representative.
 
 ### How to issue a power of attorney
 - At a Georgian embassy or consulate — no further certification needed
-- With a local notary — then an apostille and a certified Georgian translation are needed
+- With a local notary — depending on the country, an apostille or legalisation may be needed, plus a certified Georgian translation
+- Online with a notary in Georgia — if you have a Georgian passport: you join by video call, with two witnesses present at the notary
 
 Prepare the text with your lawyer in advance so it covers all the powers needed.
 
@@ -611,7 +612,7 @@ An LLC is the most common business form in Georgia. Registration is fast if the 
 The company is registered with the Public Registry, usually within one business day. It is registered as a taxpayer at the same time.
 
 ### Can a foreigner do it?
-Yes. Foreign individuals and companies can be an LLC's sole partner and director. Documents issued abroad usually need an apostille and a certified translation.
+Yes. Foreign individuals and companies can be an LLC's sole partner and director. Depending on the country, documents issued abroad may need an apostille or consular legalisation (documents from some countries need neither) and a certified Georgian translation.
 
 ### After registration
 - Opening a bank account
@@ -640,7 +641,7 @@ Citizens of many countries can stay in Georgia visa-free for up to a year, but l
 The right type depends on why you need to live in Georgia and which documents can prove it. Choosing the wrong type is a common reason for refusal.
 
 ### Where to apply
-Applications are filed at the Public Service Hall. Documents issued abroad usually need an apostille and a certified Georgian translation.
+Applications are filed at the Public Service Hall. Depending on the country, documents issued abroad may need an apostille or consular legalisation (documents from some countries need neither) and a certified Georgian translation.
 
 ### If you are refused
 A refusal is an administrative decision and can be appealed. Deadlines are short, so contact a lawyer as soon as you receive it.
