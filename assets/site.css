@@ -330,7 +330,7 @@ html.menu-open { overflow: hidden; }
 .prose li::marker { color: var(--accent); }
 .narrow-prose { max-width: 46rem; }
 .article > p:first-of-type { font-size: 19px; color: var(--fg); }
-.post-img { width: 100%; max-width: 560px; border-radius: 12px; border: 1px solid var(--line); }
+.post-img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 14px; border: 1px solid var(--line); margin-bottom: .4em; }
 .post-meta { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; font-size: 13px; color: var(--muted); }
 .note { display: flex; gap: 10px; align-items: flex-start; font-size: 15px; line-height: 1.7; color: var(--muted); background: var(--soft); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-top: 2em !important; }
 .note svg { flex: none; margin-top: 3px; color: var(--accent); }
