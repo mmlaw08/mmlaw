@@ -398,3 +398,135 @@
   });
   if (!get()) box.hidden = false;
 })();
+
+// ---------- search (⌘K): the index loads the first time the box opens
+(function () {
+  var dlg = document.getElementById("cmd");
+  if (!dlg || typeof dlg.showModal !== "function") return;
+  var input = dlg.querySelector("input"), list = dlg.querySelector(".cmd-list"), empty = dlg.querySelector(".cmd-empty");
+  var data = null, loading = null, opts = [], active = 0;
+  var WA = '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21h.01c5.46 0 9.91-4.45 9.91-9.91A9.85 9.85 0 0 0 12.04 2Zm5.8 14.08c-.24.68-1.42 1.31-1.96 1.36-.5.05-.98.23-3.3-.69-2.8-1.1-4.58-3.96-4.72-4.15-.13-.18-1.12-1.49-1.12-2.85 0-1.35.71-2.02.96-2.3.25-.27.55-.34.73-.34h.53c.17 0 .4-.07.62.47.24.56.8 1.93.87 2.07.07.14.12.3.02.48-.09.18-.14.3-.27.46-.14.16-.29.36-.41.48-.14.14-.28.29-.12.56.16.27.71 1.17 1.52 1.9 1.05.93 1.93 1.22 2.2 1.36.28.14.44.11.6-.07.16-.18.69-.8.87-1.08.18-.27.37-.23.62-.14.25.09 1.6.75 1.87.89.28.14.46.2.53.32.07.12.07.68-.17 1.36Z"/></svg>';
+
+  function norm(s) { return (s || "").toLowerCase().replace(/[«»„“"'.,:;!?()—–\-]+/g, " "); }
+  function load() {
+    if (loading) return loading;
+    loading = fetch(dlg.getAttribute("data-src")).then(function (r) { return r.json(); }).then(function (j) {
+      j.items.forEach(function (it) { it._t = norm(it.t); it._d = norm(it.d); it._k = norm(it.k); });
+      data = j; render();
+    }).catch(function () { loading = null; });
+    return loading;
+  }
+  function ico(name) {
+    if (name === "wa") return WA;
+    var p = data.icons[name] || data.icons.help;
+    return '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + p + "</svg>";
+  }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+  function score(it, toks, q, loose) {
+    var s = 0, found = 0;
+    for (var i = 0; i < toks.length; i++) {
+      var w = toks[i], hit = 0;
+      // Georgian and Russian words change their endings: also try the word without its last letters
+      var forms = [w];
+      if (w.length >= 5) forms.push(w.slice(0, -1));
+      if (w.length >= 7) forms.push(w.slice(0, -2));
+      for (var f = 0; f < forms.length && !hit; f++) {
+        var x = forms[f];
+        if (it._t.indexOf(x) > -1) hit = it._t.indexOf(x) === 0 || it._t.indexOf(" " + x) > -1 ? 12 : 9;
+        else if (it._d.indexOf(x) > -1) hit = 4;
+        else if (it._k.indexOf(x) > -1) hit = 1;
+        if (hit && f) hit -= 0.5;
+      }
+      if (!hit) { if (loose) continue; return 0; }
+      s += hit; found++;
+    }
+    if (!found) return 0;
+    if (loose) s = s * found / toks.length;
+    if (it._t.indexOf(q) > -1) s += 15;
+    if (it.g === "svc" || it.g === "for") s += 1;
+    return s;
+  }
+  function render() {
+    if (!data) { list.innerHTML = ""; return; }
+    var q = norm(input.value).trim(), toks = q.split(/\s+/).filter(Boolean), rows;
+    if (!toks.length) {
+      rows = data.items.filter(function (it) { return it.f; }).sort(function (a, b) { return (a.g === "act" ? 0 : a.f) - (b.g === "act" ? 0 : b.f); });
+    } else {
+      var loose = toks.length > 1 && data.items.filter(function (it) { return score(it, toks, q) > 0; }).length < 3;
+      rows = data.items.map(function (it) { return { it: it, s: score(it, toks, q, loose) }; })
+        .filter(function (r) { return r.s > 0; })
+        .sort(function (a, b) { return b.s - a.s; })
+        .map(function (r) { return r.it; });
+      var per = {};
+      rows = rows.filter(function (it) { per[it.g] = (per[it.g] || 0) + 1; return per[it.g] <= (it.g === "faq" ? 5 : 6); });
+    }
+    var order = toks.length ? [] : ["act", "page"];
+    rows.forEach(function (it) { if (order.indexOf(it.g) < 0) order.push(it.g); });
+    var html = "", n = 0;
+    opts = [];
+    order.forEach(function (g) {
+      var grp = rows.filter(function (it) { return it.g === g; });
+      if (!grp.length) return;
+      html += '<div class="cmd-group" role="presentation"><p class="cmd-gh">' + esc(data.labels[g] || "") + "</p>";
+      grp.forEach(function (it) {
+        opts.push(it);
+        html += '<a class="cmd-item" role="option" id="cmd-o' + n + '" data-i="' + n + '" href="' + esc(it.u) + '"' +
+          (it.u.indexOf("http") === 0 ? ' target="_blank" rel="noopener"' : "") + ">" +
+          '<span class="cmd-ic">' + ico(it.i) + '</span><span class="cmd-tx"><span class="cmd-t">' + esc(it.t) + "</span>" +
+          (it.d ? '<span class="cmd-d">' + esc(it.d) + "</span>" : "") + "</span></a>";
+        n++;
+      });
+      html += "</div>";
+    });
+    list.innerHTML = html;
+    empty.hidden = n > 0;
+    setActive(0, false);
+  }
+  function setActive(i, scroll) {
+    if (!opts.length) { input.removeAttribute("aria-activedescendant"); return; }
+    active = (i + opts.length) % opts.length;
+    list.querySelectorAll(".cmd-item").forEach(function (el, k) { el.setAttribute("aria-selected", String(k === active)); });
+    input.setAttribute("aria-activedescendant", "cmd-o" + active);
+    if (scroll !== false) { var el = document.getElementById("cmd-o" + active); if (el) el.scrollIntoView({ block: "nearest" }); }
+  }
+  function open() {
+    if (dlg.open) return;
+    var menu = document.querySelector('.menu-btn[aria-expanded="true"]');
+    if (menu) menu.click();
+    input.value = "";
+    dlg.showModal();
+    root.classList.add("sheet-open");
+    input.focus();
+    if (data) render(); else load();
+  }
+  var root = document.documentElement;
+  dlg.addEventListener("close", function () { root.classList.remove("sheet-open"); });
+  dlg.addEventListener("click", function (ev) {
+    if (ev.target === dlg || ev.target.closest("[data-cmd-close]")) dlg.close();
+    else if (ev.target.closest(".cmd-item")) setTimeout(function () { dlg.close(); }, 0);
+  });
+  list.addEventListener("mousemove", function (ev) {
+    var a = ev.target.closest(".cmd-item");
+    if (a && +a.getAttribute("data-i") !== active) setActive(+a.getAttribute("data-i"), false);
+  });
+  input.addEventListener("input", render);
+  input.addEventListener("keydown", function (ev) {
+    if (ev.key === "ArrowDown") { ev.preventDefault(); setActive(active + 1); }
+    else if (ev.key === "ArrowUp") { ev.preventDefault(); setActive(active - 1); }
+    else if (ev.key === "Enter") {
+      ev.preventDefault();
+      var el = document.getElementById("cmd-o" + active);
+      if (el) el.click();
+    }
+  });
+  document.querySelectorAll("[data-cmd-open]").forEach(function (b) { b.addEventListener("click", open); });
+  document.addEventListener("keydown", function (ev) {
+    var typing = /^(INPUT|TEXTAREA|SELECT)$/.test((ev.target && ev.target.tagName) || "") || (ev.target && ev.target.isContentEditable);
+    if ((ev.key === "k" || ev.key === "K") && (ev.metaKey || ev.ctrlKey)) { ev.preventDefault(); dlg.open ? dlg.close() : open(); }
+    else if (ev.key === "/" && !typing && !dlg.open) { ev.preventDefault(); open(); }
+  });
+  // show Ctrl K instead of ⌘K on Windows/Linux
+  if (!/Mac|iPhone|iPad/.test(navigator.platform || navigator.userAgent)) {
+    document.querySelectorAll(".cmd-trigger kbd").forEach(function (k) { k.textContent = "Ctrl K"; });
+  }
+})();
