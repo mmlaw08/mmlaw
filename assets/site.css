@@ -108,7 +108,7 @@ button, input, select, textarea { font: inherit; color: inherit; }
 :lang(ka) .eyebrow, :lang(ka) .brand-sub { text-transform: none; letter-spacing: .01em; }
 :lang(ka) .h1, :lang(ka) .h2, :lang(ka) .h1-page { letter-spacing: -0.01em; }
 :lang(ka) .h1 { font-size: clamp(2rem, 3.6vw, 2.6rem); line-height: 1.2; }
-:lang(ka) .h1-page { font-size: clamp(1.9rem, 4vw, 3rem); line-height: 1.15; }
+:lang(ka) .h1-page { font-size: clamp(1.7rem, 3vw, 2.4rem); line-height: 1.22; }
 :lang(ka) .h2 { font-size: clamp(1.6rem, 3.2vw, 2.4rem); line-height: 1.2; }
 
 /* ---------- buttons */
@@ -317,8 +317,8 @@ html.menu-open { overflow: hidden; }
 /* ---------- inner pages */
 .page-hero { border-bottom: 1px solid var(--line); }
 .page-hero .wrap { padding-top: 24px; padding-bottom: 48px; }
-.ph-in { display: flex; flex-direction: column; gap: 16px; max-width: 52rem; padding-top: 28px; }
-.h1-page { font-size: clamp(2.25rem, 5vw, 3.5rem); line-height: 1.06; font-weight: 600; letter-spacing: -0.03em; }
+.ph-in { display: flex; flex-direction: column; gap: 18px; max-width: 52rem; padding-top: 28px; }
+.h1-page { max-width: 46rem; font-size: clamp(2rem, 4vw, 2.8rem); line-height: 1.1; font-weight: 600; letter-spacing: -0.03em; }
 .crumbs ol { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; font-size: 13px; color: var(--muted); }
 .crumbs li + li::before { content: "/"; margin-right: 6px; color: var(--faint); }
 .crumbs a { color: var(--muted); }
@@ -418,8 +418,8 @@ html.menu-open { overflow: hidden; }
   :lang(ka) .h1 { font-size: 1.75rem; line-height: 1.22; }
   .h2 { font-size: 1.85rem; line-height: 1.12; }
   :lang(ka) .h2 { font-size: 1.5rem; line-height: 1.25; }
-  .h1-page { font-size: 2.1rem; }
-  :lang(ka) .h1-page { font-size: 1.7rem; line-height: 1.2; }
+  .h1-page { font-size: 1.85rem; }
+  :lang(ka) .h1-page { font-size: 1.55rem; line-height: 1.25; }
   .lead { font-size: 16px; line-height: 1.6; }
   .eyebrow { font-size: 12px; }
 
