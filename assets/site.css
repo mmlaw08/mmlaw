@@ -911,3 +911,4 @@ html.sheet-open { overflow: hidden; }
   .stages li { padding: 16px; }
   .crim-foot .btn-lg { flex: 1 1 100%; }
 }
+.stack > .princ { flex: none; }
