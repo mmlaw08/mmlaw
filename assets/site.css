@@ -948,3 +948,5 @@ html.sheet-open { overflow: hidden; }
 @media (prefers-reduced-motion: reduce) {
   @view-transition { navigation: none; }
 }
+.cta-card { flex-direction: column; gap: 6px; border-style: solid; border-color: var(--acc-line); background: var(--acc-bg); }
+.cta-card-sub { font-size: 13px; color: var(--muted); }
