@@ -432,7 +432,7 @@
     if (loading[lang]) return loading[lang];
     loading[lang] = fetch(dlg.getAttribute("data-src").replace("{lang}", lang)).then(function (r) { return r.json(); }).then(function (j) {
       j.items.forEach(function (it) {
-        it._t = norm(it.t); it._d = norm(it.d); it._k = norm(it.k);
+        it._t = norm(it.t); it._d = norm(it.d); it._k = norm(it.k); it._w = norm(it.w);
         it._lt = latin(it._t); it._ld = latin(it._d); it._lk = latin(it._k);
         it._lang = lang;
       });
@@ -456,6 +456,7 @@
   function find(it, x, a, b, c) {
     var p = it[a].indexOf(x);
     if (p > -1) return p === 0 || it[a].charAt(p - 1) === " " ? 12 : 9;
+    if (a === "_t" && it._w && it._w.indexOf(x) > -1) return 8;
     if (it[b].indexOf(x) > -1) return 4;
     if (it[c].indexOf(x) > -1) return 1;
     return 0;
