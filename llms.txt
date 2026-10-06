@@ -1,6 +1,6 @@
 # MMLAW Law Firm (mmlaw.ge)
 
-> MMLAW is a law firm in Georgia (office in Tbilisi) with more than 10 years of legal practice. It represents individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family, intellectual property and juvenile justice matters, before courts of all instances in Georgia. Consultations in Georgian, English and Russian; the first consultation is free. Formerly at lfs.ge.
+> MMLAW is a criminal defence law firm in Georgia (office in Tbilisi) with more than 10 years of practice. Criminal law is its main practice: it defends suspects, accused persons and witnesses at every stage — arrest, questioning, search, preventive measures, trial and appeals up to the Supreme Court — including drug offences, cybercrime and juvenile cases. The firm also handles civil, administrative, labour, corporate, real estate, family, inheritance and intellectual property matters. Consultations in Georgian, English and Russian; the first consultation is free. Formerly at lfs.ge.
 
 - Phone / WhatsApp: +995 551 00 43 00
 - Email: info@mmlaw.ge
@@ -10,11 +10,11 @@
 ## Practice areas
 
 - [Criminal defense](https://mmlaw.ge/en/criminal-defense-lawyer/): MMLAW criminal defense lawyers represent suspects, accused persons, witnesses and victims at every stage of a criminal case in Georgia — from the first questioning all the way through the Supreme Court.
-- [Cybercrime](https://mmlaw.ge/en/cybercrime-lawyer/): We defend accused persons and witnesses in cybercrime cases in Georgia and help victims of online fraud, account hacking, blackmail and other digital harm.
 - [Drug offences](https://mmlaw.ge/en/drug-crime-lawyer/): Drug crime lawyer in Georgia: we defend persons suspected or accused of drug offences, and witnesses, in criminal and administrative cases — from the first minute of an arrest or search.
+- [Cybercrime](https://mmlaw.ge/en/cybercrime-lawyer/): We defend accused persons and witnesses in cybercrime cases in Georgia and help victims of online fraud, account hacking, blackmail and other digital harm.
+- [Juvenile justice](https://mmlaw.ge/en/juvenile-justice-lawyer/): We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
 - [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/): We represent individuals and companies in civil disputes in Georgia — from pre-trial negotiation through all three court instances.
 - [Administrative law](https://mmlaw.ge/en/administrative-law-lawyer/): We help individuals and businesses challenge unlawful decisions of public authorities and navigate licensing, permit and regulatory procedures in Georgia.
-- [Juvenile justice](https://mmlaw.ge/en/juvenile-justice-lawyer/): We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
 - [Labor disputes](https://mmlaw.ge/en/employment-lawyer/): We represent employees and employers in labour disputes under the Labour Code of Georgia — from unlawful dismissal to drafting contracts and workplace policies.
 - [Corporate law](https://mmlaw.ge/en/corporate-lawyer/): Strategic legal support for businesses in Georgia — from company registration to mergers and acquisitions, compliance and restructuring.
 - [Real estate](https://mmlaw.ge/en/real-estate-lawyer/): Full legal support for real estate in Georgia — checking the property, structuring and signing the deal, registering ownership and resolving disputes.

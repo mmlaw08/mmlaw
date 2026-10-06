@@ -1,6 +1,6 @@
 # MMLAW Law Firm (mmlaw.ge)
 
-> MMLAW is a law firm in Georgia (office in Tbilisi) with more than 10 years of legal practice. It represents individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family, intellectual property and juvenile justice matters, before courts of all instances in Georgia. Consultations in Georgian, English and Russian; the first consultation is free. Formerly at lfs.ge.
+> MMLAW is a criminal defence law firm in Georgia (office in Tbilisi) with more than 10 years of practice. Criminal law is its main practice: it defends suspects, accused persons and witnesses at every stage — arrest, questioning, search, preventive measures, trial and appeals up to the Supreme Court — including drug offences, cybercrime and juvenile cases. The firm also handles civil, administrative, labour, corporate, real estate, family, inheritance and intellectual property matters. Consultations in Georgian, English and Russian; the first consultation is free. Formerly at lfs.ge.
 
 - Phone / WhatsApp: +995 551 00 43 00
 - Email: info@mmlaw.ge
@@ -47,7 +47,7 @@ We provide consultations and representation in Georgian, English and Russian —
 ### Where do you represent clients?
 We represent clients before courts of all instances in Georgia — district (city) courts, courts of appeal and the Supreme Court — as well as before administrative bodies and investigative authorities.
 
-## Criminal defense lawyer in Georgia
+## Criminal defence lawyer — defence at every stage
 URL: https://mmlaw.ge/en/criminal-defense-lawyer/
 
 MMLAW criminal defense lawyers represent suspects, accused persons, witnesses and victims at every stage of a criminal case in Georgia — from the first questioning all the way through the Supreme Court.
@@ -79,34 +79,6 @@ As early as possible — ideally as soon as you are summoned for questioning, or
 
 ### How much does a criminal defense lawyer cost?
 It depends on the complexity, stage and scope of the case. The first consultation is free — we assess the case and agree the fee with you in advance and in writing.
-
-## Cybercrime lawyer in Georgia
-URL: https://mmlaw.ge/en/cybercrime-lawyer/
-
-We defend accused persons and witnesses in cybercrime cases in Georgia and help victims of online fraud, account hacking, blackmail and other digital harm.
-
-Cybercrime covers unauthorised access to computer systems, unlawful use or damage of data, and the use of tools designed for such acts. Traditional crimes — fraud, extortion, threats and invasion of privacy — are also increasingly committed online.
-In these cases, digital evidence decides everything — phones, computers, accounts and transactions. That's why a lawyer should be involved as early as possible: for victims, to preserve the evidence; for the accused, to check whether the digital evidence was obtained lawfully.
-
-What we handle:
-- Defense against cybercrime charges
-- Representing victims of online fraud
-- Hacked accounts and personal data cases
-- Online blackmail and threats
-- Cryptocurrency fraud cases
-- Review of digital evidence and expert analysis
-
-### What counts as cybercrime?
-Unauthorised access to a computer system, unlawful use or damage of data, and using tools designed for such acts. Fraud, extortion and threats committed online are criminal offences too.
-
-### I was scammed online. Can I get my money back?
-Sometimes, yes — especially if you act fast: contact your bank, keep all the evidence and talk to a lawyer. Don't trust services that promise to recover money for an upfront fee.
-
-### I'm being blackmailed with private photos. What should I do?
-Don't pay and stop replying, but don't delete anything. Contact a lawyer right away — blackmail and sharing private images are criminal offences.
-
-### Can the police take my phone?
-As a rule, seizing a device and examining its contents requires a court order. Talk to your lawyer before signing any record or giving out passwords.
 
 ## Drug crime lawyer in Georgia
 URL: https://mmlaw.ge/en/drug-crime-lawyer/
@@ -143,6 +115,58 @@ By law, a person who voluntarily hands over the substance is released from crimi
 
 ### What other consequences can there be?
 Besides a criminal record, a court may take away certain rights, including the right to drive, under the Law on Combating Drug Crime.
+
+## Cybercrime lawyer in Georgia
+URL: https://mmlaw.ge/en/cybercrime-lawyer/
+
+We defend accused persons and witnesses in cybercrime cases in Georgia and help victims of online fraud, account hacking, blackmail and other digital harm.
+
+Cybercrime covers unauthorised access to computer systems, unlawful use or damage of data, and the use of tools designed for such acts. Traditional crimes — fraud, extortion, threats and invasion of privacy — are also increasingly committed online.
+In these cases, digital evidence decides everything — phones, computers, accounts and transactions. That's why a lawyer should be involved as early as possible: for victims, to preserve the evidence; for the accused, to check whether the digital evidence was obtained lawfully.
+
+What we handle:
+- Defense against cybercrime charges
+- Representing victims of online fraud
+- Hacked accounts and personal data cases
+- Online blackmail and threats
+- Cryptocurrency fraud cases
+- Review of digital evidence and expert analysis
+
+### What counts as cybercrime?
+Unauthorised access to a computer system, unlawful use or damage of data, and using tools designed for such acts. Fraud, extortion and threats committed online are criminal offences too.
+
+### I was scammed online. Can I get my money back?
+Sometimes, yes — especially if you act fast: contact your bank, keep all the evidence and talk to a lawyer. Don't trust services that promise to recover money for an upfront fee.
+
+### I'm being blackmailed with private photos. What should I do?
+Don't pay and stop replying, but don't delete anything. Contact a lawyer right away — blackmail and sharing private images are criminal offences.
+
+### Can the police take my phone?
+As a rule, seizing a device and examining its contents requires a court order. Talk to your lawyer before signing any record or giving out passwords.
+
+## Juvenile justice lawyer in Georgia
+URL: https://mmlaw.ge/en/juvenile-justice-lawyer/
+
+We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
+
+Juvenile justice requires a special approach. MMLAW attorneys defend young people's rights in specialised proceedings, focusing on their future and rehabilitation.
+We work closely with parents and legal representatives so that the child goes through the process with as little stress as possible.
+
+What we handle:
+- Defense of minors in criminal cases
+- Diversion and mediation
+- Representation of minor victims and witnesses
+- Protecting the child's rights on arrest
+- Advice to parents and guardians
+
+### From what age is a person criminally liable in Georgia?
+From 14. Special rules of the Juvenile Justice Code apply to persons under 18.
+
+### What is diversion?
+Diversion allows a minor to avoid criminal prosecution by meeting certain conditions — for example mediation, community service or a rehabilitation programme. The decision is made by the prosecutor.
+
+### Can any lawyer defend a minor?
+No. Under the Code, lawyers, judges, prosecutors and investigators working on juvenile cases must be specialised.
 
 ## Civil litigation lawyer in Georgia
 URL: https://mmlaw.ge/en/civil-litigation-lawyer/
@@ -193,30 +217,6 @@ In some cases the law requires a complaint to the superior body before going to 
 
 ### Can a fine be appealed?
 Yes. A decision on an administrative offence can be appealed to the superior body or to the court within short statutory deadlines.
-
-## Juvenile justice lawyer in Georgia
-URL: https://mmlaw.ge/en/juvenile-justice-lawyer/
-
-We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
-
-Juvenile justice requires a special approach. MMLAW attorneys defend young people's rights in specialised proceedings, focusing on their future and rehabilitation.
-We work closely with parents and legal representatives so that the child goes through the process with as little stress as possible.
-
-What we handle:
-- Defense of minors in criminal cases
-- Diversion and mediation
-- Representation of minor victims and witnesses
-- Protecting the child's rights on arrest
-- Advice to parents and guardians
-
-### From what age is a person criminally liable in Georgia?
-From 14. Special rules of the Juvenile Justice Code apply to persons under 18.
-
-### What is diversion?
-Diversion allows a minor to avoid criminal prosecution by meeting certain conditions — for example mediation, community service or a rehabilitation programme. The decision is made by the prosecutor.
-
-### Can any lawyer defend a minor?
-No. Under the Code, lawyers, judges, prosecutors and investigators working on juvenile cases must be specialised.
 
 ## Employment and labour lawyer in Georgia
 URL: https://mmlaw.ge/en/employment-lawyer/
