@@ -979,3 +979,7 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 .ck-art { position: absolute; top: -40px; left: 16px; width: 96px; height: 64px; pointer-events: none; animation: ck-pop .7s .25s cubic-bezier(.34,1.56,.64,1) both; }
 .ck-art svg { width: 96px; height: 64px; transform-origin: 40% 60%; animation: ck-wobble 1.2s .9s ease-in-out both; filter: drop-shadow(0 6px 10px rgba(0,0,0,.12)); }
 @media (prefers-reduced-motion: reduce) { .ck-art, .ck-art svg { animation: none !important; } }
+/* topic badges: darker gold text for readable contrast on the tinted background */
+.topic { color: #7a5518; }
+:root[data-theme="dark"] .topic { color: #e2bb78; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .topic { color: #e2bb78; } }
