@@ -1059,3 +1059,6 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 @media (max-width: 640px) { .hp-floor { background-size: 44px 44px; } }
 /* inner pages: same glow + grid floor, calmer */
 .ph-persp .hp-floor { height: 150%; opacity: .6; -webkit-mask-image: linear-gradient(to top, #000 0%, rgba(0,0,0,.4) 25%, transparent 55%); mask-image: linear-gradient(to top, #000 0%, rgba(0,0,0,.4) 25%, transparent 55%); }
+/* WhatsApp logo always in WhatsApp green (white only on its own green tiles) */
+.i-wa { color: #25d366; }
+.sh-ic-wa .i-wa, .cmd-ic-wa svg { color: #ffffff; }
