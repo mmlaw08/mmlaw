@@ -8,6 +8,15 @@
 - Office: Tbilisi, Georgia. Hours: Monday–Friday, 10:00–18:00
 - Languages: Georgian (default, https://mmlaw.ge/ka/), English (https://mmlaw.ge/en/), Russian (https://mmlaw.ge/ru/)
 
+## Website features
+
+- Three languages: Georgian, English, Russian — every page exists in all three.
+- Site search across all three languages (also finds Georgian words typed in Latin letters, e.g. "advokati").
+- Text size control (A− / 100% / A+) on articles, practice-area and foreigner pages; the choice is remembered.
+- "Listen": English and Russian pages can be read aloud with the device's built-in voice.
+- Light and dark mode; works on phones with a bottom navigation bar (home, services, search, call).
+- Contact: call, WhatsApp, or a call-back request form on every page.
+
 ## About the firm
 
 We represent individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family and intellectual property matters — in negotiations, before public authorities and in courts of every instance in Georgia.
