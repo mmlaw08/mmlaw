@@ -1231,3 +1231,10 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .prose .note-btn { align-self: flex-start; margin-top: 8px; height: 40px; font-size: 14px; color: var(--on-ink); text-decoration: none; }
 @media (max-width: 640px) { .prose .note-btn { align-self: stretch; } }
 .prose .note-btn svg { color: currentColor; margin: 0; }
+/* services menu: practice areas in 3 columns on wide screens */
+.mega-col a { overflow-wrap: anywhere; }
+/* reading tools: top-right corner of the page header on larger screens */
+@media (min-width: 900px) {
+  .page-hero .wrap { position: relative; }
+  .page-hero .read-tools { position: absolute; top: 18px; right: 24px; margin: 0; }
+}
