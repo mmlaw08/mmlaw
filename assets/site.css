@@ -1222,3 +1222,11 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .rt-reset { font-size: 15px; font-weight: 500; }
 .rt-reset { min-width: 60px; font-size: 13.5px; font-weight: 600; font-variant-numeric: tabular-nums; color: var(--muted); }
 .rt-reset.is-changed { color: var(--accent); }
+/* article disclaimer with consultation button */
+.prose .note-cta { display: flex; gap: 14px; align-items: flex-start; padding: 18px 20px; border-radius: 14px; border: 1px solid var(--acc-line); background: var(--acc-bg); margin-top: 2em; }
+.note-cta > svg { flex: none; margin-top: 3px; color: var(--accent); }
+.note-body { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.prose .note-body p { margin: 0; font-size: 15px; line-height: 1.65; color: var(--fg2); }
+.prose .note-body strong { color: var(--fg); font-weight: 600; }
+.prose .note-btn { align-self: flex-start; margin-top: 8px; height: 40px; font-size: 14px; color: var(--on-ink); text-decoration: none; }
+@media (max-width: 640px) { .prose .note-btn { align-self: stretch; } }
