@@ -620,3 +620,8 @@
     if (c.querySelector(".ai")) io.observe(c);
   });
 })();
+
+// language dropdown in the phone header: close when tapping elsewhere
+document.addEventListener("click", function (ev) {
+  document.querySelectorAll(".lang-dd[open]").forEach(function (d) { if (!d.contains(ev.target)) d.removeAttribute("open"); });
+});
