@@ -7,13 +7,24 @@
   function currentTheme() {
     return root.getAttribute("data-theme") || (darkMq && darkMq.matches ? "dark" : "light");
   }
+  // Browser toolbar colour (Safari, Chrome on phones) follows the colour at the top of the page.
+  // Safari doesn't repaint when a meta tag's content changes, so the tag is replaced with a new one.
+  function topColor() {
+    // read the colour variables (they switch instantly; real backgrounds fade over .2s)
+    var bar = document.querySelector(".topbar");
+    var v = getComputedStyle(root).getPropertyValue(bar && getComputedStyle(bar).display !== "none" ? "--soft" : "--bg").trim();
+    return v || (currentTheme() === "dark" ? "#1c1917" : "#ffffff");
+  }
   function paintMeta() {
-    var color = currentTheme() === "dark" ? "#1c1917" : "#ffffff";
-    document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
-      if (root.getAttribute("data-theme")) m.setAttribute("content", color);
-    });
+    document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) { m.remove(); });
+    var m = document.createElement("meta");
+    m.name = "theme-color";
+    m.content = topColor();
+    document.head.appendChild(m);
   }
   paintMeta();
+  if (darkMq && darkMq.addEventListener) darkMq.addEventListener("change", function () { if (!root.getAttribute("data-theme")) paintMeta(); });
+  window.addEventListener("resize", function () { clearTimeout(paintMeta.t); paintMeta.t = setTimeout(paintMeta, 200); });
   document.querySelectorAll("[data-theme-toggle]").forEach(function (b) {
     b.addEventListener("click", function () {
       var next = currentTheme() === "dark" ? "light" : "dark";
