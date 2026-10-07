@@ -1153,3 +1153,24 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 .lang-menu a[aria-current] b { color: var(--accent); }
 @media (min-width: 641px) and (max-width: 1279px) { .cmd-icon { display: inline-flex; width: 36px; height: 36px; } .theme-hdr { width: 36px; height: 36px; } }
 @media (max-width: 360px) { .brand-txt { display: none; } }
+/* search: skeleton while the index loads */
+.cmd-skel { padding: 6px; display: flex; flex-direction: column; gap: 6px; }
+.cmd-sk-row { display: flex; gap: 12px; align-items: center; padding: 8px 10px; }
+.sk { display: block; border-radius: 6px; background: linear-gradient(90deg, var(--soft2) 0%, var(--line) 50%, var(--soft2) 100%); background-size: 200% 100%; animation: sk-shine 1.1s ease-in-out infinite; }
+.sk-ic { width: 30px; height: 30px; border-radius: 8px; flex: none; }
+.sk-tx { flex: 1; display: flex; flex-direction: column; gap: 7px; }
+.sk-t { height: 12px; } .sk-d { height: 9px; opacity: .7; }
+@keyframes sk-shine { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+@media (prefers-reduced-motion: reduce) { .sk { animation: none; } }
+
+/* phone bottom navigation: home / services / search / call */
+@media (max-width: 640px) {
+  .mbar { grid-template-columns: repeat(4, 1fr); gap: 0; padding: 6px 4px calc(6px + env(safe-area-inset-bottom)); }
+  .mbar > a, .mbar > button { height: 52px; flex-direction: column; gap: 3px; border: 0; border-radius: 10px; background: none; font: inherit; font-size: 11px; font-weight: 600; color: var(--muted); cursor: pointer; display: flex; align-items: center; justify-content: center; }
+  .mbar > a span, .mbar > button span { font-size: 11px; line-height: 1.2; white-space: nowrap; }
+  .mbar > a[aria-current] { color: var(--accent); }
+  .mbar > a[aria-current]::before { content: ""; position: absolute; top: 0; width: 28px; height: 2px; border-radius: 2px; background: var(--accent); }
+  .mbar > a { position: relative; }
+  .mbar .mbar-call { color: var(--on-ink); background: var(--ink); margin: 2px 4px; }
+  .mbar .mbar-call:hover { color: var(--on-ink); }
+}

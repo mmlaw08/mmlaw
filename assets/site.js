@@ -513,7 +513,11 @@
   }
   function render() {
     var main = idx[cur];
-    if (!main) { list.innerHTML = ""; return; }
+    if (!main) {   // index still loading: skeleton rows
+      var sk = '<div class="cmd-skel" aria-hidden="true">';
+      for (var i = 0; i < 6; i++) sk += '<div class="cmd-sk-row"><span class="sk sk-ic"></span><span class="sk-tx"><span class="sk sk-t" style="width:' + (55 + (i * 17) % 35) + '%"></span><span class="sk sk-d" style="width:' + (35 + (i * 23) % 40) + '%"></span></span></div>';
+      list.innerHTML = sk + "</div>"; empty.hidden = true; return;
+    }
     var q = norm(input.value).trim(), toks = q.split(/\s+/).filter(Boolean);
     var groups = [];   // [label, items]
     if (!toks.length) {
