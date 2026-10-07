@@ -1128,3 +1128,10 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
   -webkit-mask-image: linear-gradient(to bottom, #000 0%, rgba(0,0,0,.6) 45%, rgba(0,0,0,.25) 100%); mask-image: linear-gradient(to bottom, #000 0%, rgba(0,0,0,.6) 45%, rgba(0,0,0,.25) 100%); }
 .tile-card .tile-lit rect { fill: #d6a85c; }
 .tile-card pattern path { stroke: rgba(214,168,92,.14); }
+/* phone menu: languages at the bottom, full names */
+.mnav-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-top: 18px; border-top: 1px solid var(--line); }
+.mnav-langs { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; color: var(--muted); }
+.mnav-langs svg { color: var(--accent); margin-right: 4px; flex: none; }
+.mnav-langs a { padding: 6px 8px; border-radius: 8px; font-size: 15px; font-weight: 500; color: var(--muted); }
+.mnav-langs a[aria-current] { color: var(--accent); font-weight: 700; background: var(--acc-soft); }
+.mnav-foot .theme-btn { width: 40px; height: 40px; }
