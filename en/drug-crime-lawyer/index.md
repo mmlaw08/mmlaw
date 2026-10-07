@@ -53,7 +53,7 @@ A person must be charged within 48 hours of arrest, and within the following 24 
 
 - Whether the act is classified under the right article
 
-## What we handle
+## Our services
 
 - Defence against possession charges
 

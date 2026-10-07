@@ -59,7 +59,7 @@ If both spouses agree and there is no dispute about children or property, the di
 
 - Ignoring court notices
 
-## What we handle
+## Our services
 
 - Divorce by agreement or through court
 

@@ -41,7 +41,7 @@ A real estate lawyer checks the property and the seller, drafts and reviews cont
 
 - Signing a contract in a language you don't understand
 
-## What we handle
+## Our services
 
 - Legal due diligence of property
 

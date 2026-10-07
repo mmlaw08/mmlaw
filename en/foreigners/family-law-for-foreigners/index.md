@@ -13,7 +13,7 @@ Family cases with an international element follow their own rules. We help with 
 Which country's court is competent and which country's law applies depends on where the marriage was registered and where the spouses and children live — so we assess that first.
 Georgia is a party to the Hague Convention on international child abduction, and foreign court decisions are recognised by the Supreme Court of Georgia. Depending on the country, documents issued abroad may need an apostille or consular legalisation (documents from some countries need neither) and a certified Georgian translation.
 
-## What we handle
+## Our services
 
 - Divorce with an international element
 

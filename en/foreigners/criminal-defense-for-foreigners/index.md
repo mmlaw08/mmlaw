@@ -13,7 +13,7 @@ When a foreigner faces a criminal case in Georgia, language and unfamiliar proce
 If you are detained, you have the right to a lawyer, to a free interpreter and to have your country's consulate informed. Do not sign documents you don't understand — ask for your lawyer first.
 We act at every stage: questioning, preventive measures (including bail or detention), plea agreements, trial and appeal. We also keep family members abroad informed.
 
-## What we handle
+## Our services
 
 - Defense from the moment of arrest
 

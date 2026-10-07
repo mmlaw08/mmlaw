@@ -69,7 +69,7 @@ A civil litigation lawyer assesses your claim and evidence, tries to settle the 
 
 - Signing a document from the other side that you don't understand
 
-## What we handle
+## Our services
 
 - Contract disputes and debt recovery
 

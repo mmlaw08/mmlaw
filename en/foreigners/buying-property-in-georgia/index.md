@@ -13,7 +13,7 @@ Foreigners can buy apartments, houses and non-agricultural land in Georgia on th
 The purchase itself is quick: ownership arises once it is registered with the Public Registry. The risks are elsewhere — a mortgage or seizure on the property, a seller without full authority, or a developer of a new build without the right permits.
 If you can't come to Georgia, you can buy through a notarised power of attorney. Depending on the country, documents issued abroad may need an apostille or consular legalisation (documents from some countries need neither) and a certified Georgian translation — we tell you exactly what to prepare.
 
-## What we handle
+## Our services
 
 - Checking title, mortgages and seizures
 

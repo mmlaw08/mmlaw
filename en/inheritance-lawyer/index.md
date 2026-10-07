@@ -65,7 +65,7 @@ An inheritance lawyer helps you accept the inheritance on time, gather the docum
 
 - Putting off old, unregistered property
 
-## What we handle
+## Our services
 
 - Accepting an inheritance and the certificate of inheritance
 

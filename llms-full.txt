@@ -63,10 +63,10 @@ URL: https://mmlaw.ge/en/criminal-defense-lawyer/
 
 MMLAW criminal defense lawyers represent accused and convicted persons, witnesses and victims at every stage of a criminal case in Georgia — from the first contact with the investigating authority to the final decision of the Supreme Court.
 
-Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW's criminal defense practice provides top-level defense in all types of criminal cases.
+Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW defends clients in all types of criminal cases.
 We handle serious and particularly serious offences, economic crime, cybercrime, drug-related cases and other categories of cases.
 
-What we handle:
+Our services:
 - Defence from the first contact with the investigating authority
 - Representation during investigation and at pre-trial hearings
 - Challenging preventive measures, including detention
@@ -100,7 +100,7 @@ Drug crime lawyer in Georgia: we defend accused and convicted persons, witnesses
 Drug offences are covered by Chapter XXXIII of the Criminal Code of Georgia. The penalty depends mainly on the act (buying and possession, making and transporting, sale, import) and on the amount — small, large or especially large. The amounts are set in an annex to the law.
 In these cases the outcome often turns on whether the search was lawful, how the substance was seized and stored, and what the forensic examination shows. That is why a lawyer should be involved as soon as you are arrested or a search begins.
 
-What we handle:
+Our services:
 - Defence against possession charges
 - Defence in sale and supply cases
 - Import, export and parcels
@@ -136,7 +136,7 @@ We defend accused persons and witnesses in cybercrime cases in Georgia and help 
 Cybercrime covers unauthorised access to computer systems, unlawful use or damage of data, and the use of tools designed for such acts. Traditional crimes — fraud, extortion, threats and invasion of privacy — are also increasingly committed online.
 In these cases, digital evidence decides everything — phones, computers, accounts and transactions. That's why a lawyer should be involved as early as possible: for victims, to preserve the evidence; for the accused, to check whether the digital evidence was obtained lawfully.
 
-What we handle:
+Our services:
 - Defense against cybercrime charges
 - Representing victims of online fraud
 - Hacked accounts and personal data cases
@@ -164,7 +164,7 @@ Property crime lawyer in Georgia: we defend accused and convicted persons, witne
 Property crimes are covered by Chapter XXIV of the Criminal Code. The penalty depends mainly on the amount: over GEL 150 counts as significant damage, over GEL 10,000 as a large amount.
 In these cases it often comes down to how the property was valued, whether there was an intent to appropriate, and what video footage or identification shows. Sometimes what is presented as a crime is really a civil dispute.
 
-What we handle:
+Our services:
 - Theft
 - Open theft and robbery
 - Fraud
@@ -193,7 +193,7 @@ Economic crime lawyer in Georgia: we defend company directors, business owners a
 Economic crime cases often start with a tax audit, a bank report or a customs check. The right steps at that stage often decide whether the case becomes a criminal one at all.
 The evidence in these cases is mostly documents — accounts, contracts, bank statements. So a lawyer prepares the defence together with the financial and tax details.
 
-What we handle:
+Our services:
 - Tax evasion
 - Money laundering
 - Customs violations
@@ -221,7 +221,7 @@ Corruption crime lawyer in Georgia: we defend public officials, business owners 
 Corruption and official crimes are in Chapter XXXIX of the Criminal Code. These are serious charges: taking a bribe carries at least 6 years and often a ban from holding office.
 Evidence in these cases is often obtained through covert investigative actions — secret recordings, controlled handovers. So whether it was obtained lawfully is decisive for the defence.
 
-What we handle:
+Our services:
 - Taking a bribe
 - Giving a bribe
 - Trading in influence
@@ -249,7 +249,7 @@ Violent crime lawyer in Georgia: we defend accused and convicted persons, witnes
 Violent crimes are acts against life and health — from beating to homicide. The penalty depends on how serious the injury is, which a medical examination establishes, and on aggravating circumstances.
 These cases often start from a fight or conflict where both sides used force. So a lawyer should assess early whether it was self-defence.
 
-What we handle:
+Our services:
 - Beating and violence
 - Bodily injury
 - Threats
@@ -277,7 +277,7 @@ We defend children and young people in criminal and related proceedings under Ge
 Juvenile justice requires a special approach. MMLAW attorneys defend young people's rights in specialised proceedings, focusing on their future and rehabilitation.
 We work closely with parents and legal representatives so that the child goes through the process with as little stress as possible.
 
-What we handle:
+Our services:
 - Defense of minors in criminal cases
 - Diversion and mediation
 - Representation of minor victims and witnesses
@@ -301,7 +301,7 @@ We represent individuals and companies in civil disputes in Georgia — from pre
 Civil disputes cover a wide spectrum — from property disputes to breaches of contract. MMLAW's civil litigation team provides complete legal support at every stage of the process.
 We first assess whether the dispute can be resolved faster and at lower cost through negotiation or mediation. If not, we build a strong position for court.
 
-What we handle:
+Our services:
 - Contract disputes and debt recovery
 - Property and ownership disputes
 - Compensation for damage, including moral damage
@@ -326,7 +326,7 @@ We help individuals and businesses challenge unlawful decisions of public author
 Administrative law covers relations with government agencies, licensing, permits and regulatory matters. MMLAW helps you manage bureaucratic processes effectively.
 Deadlines in administrative disputes are short, so it matters to contact a lawyer as early as possible — ideally as soon as you receive the decision.
 
-What we handle:
+Our services:
 - Administrative complaints to the superior body
 - Administrative lawsuits in court
 - Fines and administrative offences
@@ -351,7 +351,7 @@ We represent employees and employers in labour disputes under the Labour Code of
 Labour disputes are increasingly relevant in Georgia. MMLAW offers qualified legal support in disputes between employers and employees.
 For employers, we help prevent risk by bringing contracts, internal regulations and policies into line with the law.
 
-What we handle:
+Our services:
 - Unlawful dismissal and reinstatement
 - Recovery of unpaid salary and compensation
 - Discrimination and harassment at work
@@ -376,7 +376,7 @@ Strategic legal support for businesses in Georgia — from company registration 
 Corporate law covers every stage from company formation to restructuring. MMLAW helps businesses minimise legal risk and stay compliant.
 We work with Georgian and foreign companies and investors — in Georgian, English and Russian.
 
-What we handle:
+Our services:
 - Company registration (LLC, JSC, branch)
 - Shareholder agreements and corporate governance
 - Mergers, acquisitions and legal due diligence
@@ -401,7 +401,7 @@ Full legal support for real estate in Georgia — checking the property, structu
 Legal support in real estate is critically important. MMLAW offers a full service — from purchase agreements to construction permits.
 A lawyer's check before the deal costs far less than fixing a disputed transaction afterwards.
 
-What we handle:
+Our services:
 - Legal due diligence of property
 - Purchase, lease and mortgage agreements
 - Registration with the Public Registry
@@ -426,7 +426,7 @@ Discreet, professional representation in divorce, child residence, alimony and d
 Family law is an emotionally difficult field. MMLAW attorneys protect your and your family's interests in divorce, custody and property division cases with sensitivity and professionalism.
 Where possible, we work towards agreement — the least painful path for children and for both parties.
 
-What we handle:
+Our services:
 - Divorce by agreement or through court
 - Child residence and contact arrangements
 - Alimony (child support)
@@ -451,7 +451,7 @@ We help you accept an inheritance in Georgia, obtain the certificate of inherita
 You can inherit under a will or by law. When there is no will, the first-line heirs are the deceased's children, spouse and parents; if there are none, the inheritance passes to the next lines.
 An inheritance must be accepted within 6 months of its opening — by applying to a notary or by actually taking possession of the property. The notary then issues a certificate of inheritance, on the basis of which the property is registered in your name with the Public Registry.
 
-What we handle:
+Our services:
 - Accepting an inheritance and the certificate of inheritance
 - Registering the property in the heir's name
 - Drafting and challenging wills
@@ -482,7 +482,7 @@ We protect brands, creative works and inventions — from registration with Sakp
 Intellectual property protection is fundamental to modern business. MMLAW offers trademark registration, copyright protection and patent consultation.
 Registering your brand early is the cheapest way to avoid disputes later.
 
-What we handle:
+Our services:
 - Trademark search and registration
 - Copyright protection and licensing
 - Patents and designs (consultation)

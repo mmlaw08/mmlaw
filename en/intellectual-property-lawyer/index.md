@@ -39,7 +39,7 @@ An intellectual property lawyer helps you search and register trademarks, protec
 
 - Missing the renewal deadline
 
-## What we handle
+## Our services
 
 - Trademark search and registration
 

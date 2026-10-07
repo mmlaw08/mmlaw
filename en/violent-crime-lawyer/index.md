@@ -41,7 +41,7 @@ By law, a person who harms an attacker while defending themselves or others agai
 
 - Whether intent has been assessed correctly
 
-## What we handle
+## Our services
 
 - Beating and violence
 

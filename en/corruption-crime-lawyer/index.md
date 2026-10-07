@@ -37,7 +37,7 @@ By law, a bribe-giver is released from criminal liability if they voluntarily re
 
 - Whether it really was a bribe and not, say, a loan or a gift
 
-## What we handle
+## Our services
 
 - Taking a bribe
 

@@ -7,7 +7,7 @@ Criminal law
 ## [Criminal defense](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 Defense at every stage — from investigation and arrest to trial and appeal.
-Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW's criminal defense practice provides top-level defense in all types of criminal cases.
+Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW defends clients in all types of criminal cases.
 [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 ## [Drug offences](https://mmlaw.ge/en/drug-crime-lawyer/)

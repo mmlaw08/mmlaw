@@ -13,7 +13,7 @@ We prepare and file residence permit applications for foreigners in Georgia, fol
 Citizens of many countries can stay in Georgia visa-free for up to a year, but living, working or doing business here long-term usually requires a residence permit. The right type depends on your situation: work, business, property ownership, family, study or investment.
 Refusals often come with little explanation. A carefully prepared application avoids most of them — and if you are refused, the decision can be challenged within short deadlines.
 
-## What we handle
+## Our services
 
 - Choosing the right type of residence permit
 

@@ -41,7 +41,7 @@ A corporate lawyer helps you set up a company, draft the charter and shareholder
 
 - Signing contracts without legal review
 
-## What we handle
+## Our services
 
 - Company registration (LLC, JSC, branch)
 

@@ -10,7 +10,7 @@ MMLAW criminal defense lawyers represent accused and convicted persons, witnesse
 
 - Courts of all instances
 
-Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW's criminal defense practice provides top-level defense in all types of criminal cases.
+Criminal defense requires experience, strategic thinking and relentless dedication to the client. MMLAW defends clients in all types of criminal cases.
 We handle serious and particularly serious offences, economic crime, cybercrime, drug-related cases and other categories of cases.
 
 ## What a criminal defense lawyer does
@@ -59,7 +59,7 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - Missing appeal deadlines — they are short
 
-## What we handle
+## Our services
 
 - Defence from the first contact with the investigating authority
 

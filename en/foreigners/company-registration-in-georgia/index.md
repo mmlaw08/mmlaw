@@ -13,7 +13,7 @@ Foreigners can own 100% of a Georgian company and run it from abroad. We registe
 Registration with the Public Registry is fast — usually one business day once the documents are ready. You need a legal address in Georgia; there is no minimum share capital for an LLC.
 Georgia taxes companies on distributed profit (the "Estonian model"), and individual entrepreneurs may qualify for small-business status with a 1% turnover tax. Eligibility depends on the activity and turnover, so we check it before you register.
 
-## What we handle
+## Our services
 
 - LLC, branch and representative office registration
 

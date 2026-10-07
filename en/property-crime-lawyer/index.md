@@ -41,7 +41,7 @@ In these cases it often comes down to how the property was valued, whether there
 
 Compensating the damage and reaching agreement with the victim can affect the sentence and the preventive measure. When and how to do it is something to decide with your lawyer.
 
-## What we handle
+## Our services
 
 - Theft
 

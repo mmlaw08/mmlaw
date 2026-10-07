@@ -37,7 +37,7 @@ A juvenile justice lawyer protects a child's rights in criminal proceedings — 
 
 - Pressuring the child to "confess"
 
-## What we handle
+## Our services
 
 - Defense of minors in criminal cases
 
