@@ -1078,6 +1078,14 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 .tile-bg { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; }
 .tile-lit rect { fill: #d6a85c; }
 .tile-grid { stroke: rgba(214,168,92,.14); }
-.tile-bg #tg path { stroke: rgba(214,168,92,.14); stroke-width: 1; }
+.tile-bg pattern path { stroke: rgba(214,168,92,.14); stroke-width: 1; }
 .cta-band::after { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
   background: radial-gradient(ellipse 55% 75% at 30% 50%, #0c0a09 20%, rgba(12,10,9,.55) 60%, transparent 100%); }
+
+/* home hero: tile pattern (light: faint gold on white; dark: like the band) */
+.hero-tiles { position: relative; isolation: isolate; overflow: hidden; background: var(--bg); }
+.tile-hero .tile-lit rect { fill: #94681f; }
+.tile-hero pattern path { stroke: var(--line); }
+.tile-hero { -webkit-mask-image: radial-gradient(ellipse 70% 90% at 32% 52%, transparent 50%, #000 95%); mask-image: radial-gradient(ellipse 70% 90% at 32% 52%, transparent 50%, #000 95%); }
+:root[data-theme="dark"] .tile-hero .tile-lit rect { fill: #d6a85c; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .tile-hero .tile-lit rect { fill: #d6a85c; } }
