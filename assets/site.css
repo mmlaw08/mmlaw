@@ -1108,3 +1108,4 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 .lw-links .btn { height: 40px; font-size: 14px; }
 .lw-links .btn svg { color: var(--accent); }
 @media (max-width: 640px) { .lw-rows > div { grid-template-columns: 1fr; gap: 6px; } .prose .lw-card { padding: 18px; } }
+.lw-photo { width: 64px; height: 64px; flex: none; border-radius: 16px; object-fit: cover; border: 1px solid var(--acc-line); box-shadow: 0 0 0 4px var(--acc-soft); }
