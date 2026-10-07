@@ -16,6 +16,8 @@
 - "Listen": English and Russian pages can be read aloud with the device's built-in voice.
 - Light and dark mode; works on phones with a bottom navigation bar (home, services, search, call).
 - Contact: call, WhatsApp, or a call-back request form on every page.
+- Every page has a clean Markdown copy: add index.md to its address (e.g. https://mmlaw.ge/en/criminal-defense-lawyer/index.md).
+- Blog RSS feeds: https://mmlaw.ge/ka/blogi/feed.xml, https://mmlaw.ge/en/blog/feed.xml, https://mmlaw.ge/ru/blog/feed.xml
 
 ## About the firm
 
