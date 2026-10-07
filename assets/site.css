@@ -983,3 +983,52 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 .topic { color: #7a5518; }
 :root[data-theme="dark"] .topic { color: #e2bb78; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .topic { color: #e2bb78; } }
+
+/* ---------- animated practice icons on hover.
+   Animation ideas ported to CSS from lucide-animated (MIT License, https://lucide-animated.com) — icons are Lucide (ISC). */
+.ai { overflow: visible; }
+.ai * { transform-box: fill-box; transform-origin: center; }
+.svc-card .icon-box, .post-card .pc-art-ic { transition: background-color .2s, border-color .2s, color .2s; }
+.svc-card:hover .icon-box, .svc-card:focus-visible .icon-box { color: var(--accent); border-color: var(--acc-line); background: var(--acc-soft); }
+@keyframes ai-draw { from { stroke-dasharray: 1; stroke-dashoffset: 1; } to { stroke-dasharray: 1; stroke-dashoffset: 0; } }
+@keyframes ai-pop { 0%, 100% { transform: scale(1); } 40% { transform: scale(1.14); } 70% { transform: scale(.96); } }
+@keyframes ai-wiggle { 0%, 100% { transform: rotate(0); } 25% { transform: rotate(-24deg); } 55% { transform: rotate(14deg); } 80% { transform: rotate(-6deg); } }
+@keyframes ai-turn { 0%, 100% { transform: rotate(0); } 40% { transform: rotate(-38deg); } 70% { transform: rotate(10deg); } }
+@keyframes ai-rise { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(2px, -2px); } }
+@keyframes ai-jump { 0%, 100% { transform: translateY(0); } 35% { transform: translateY(-4px); } 65% { transform: translateY(1px); } }
+@keyframes ai-shake { 0%, 100% { transform: rotate(0); } 20% { transform: rotate(-12deg); } 40% { transform: rotate(10deg); } 60% { transform: rotate(-7deg); } 80% { transform: rotate(4deg); } }
+@keyframes ai-hammer { 0%, 100% { transform: rotate(0); } 55% { transform: rotate(-22deg); } 78% { transform: rotate(26deg); } }
+@keyframes ai-slide { from { transform: translateX(-6px); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes ai-nod { 0%, 100% { transform: translateY(0); } 40% { transform: translateY(-2.5px); } }
+@keyframes ai-glow { 0%, 100% { transform: scale(1); filter: none; } 50% { transform: scale(1.12); filter: drop-shadow(0 0 4px currentColor); } }
+@keyframes ai-unlock { 0%, 100% { stroke-dasharray: 1 1; } 35%, 70% { stroke-dasharray: .66 1; } }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-shield { animation: ai-pop .55s cubic-bezier(.34,1.56,.64,1); }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-shield path { animation: ai-draw .7s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-pill { animation: ai-wiggle .75s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-lock path { animation: ai-unlock .9s cubic-bezier(.4,0,.2,1); }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-key { transform-origin: 30% 70%; animation: ai-turn .8s cubic-bezier(.4,0,.2,1); }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-trending { animation: ai-rise .5s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-trending polyline:first-of-type { animation: ai-draw .45s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-trending polyline:last-of-type { animation: ai-draw .3s .3s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-coins { animation: ai-jump .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-coins path:nth-of-type(2), :is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-coins path:nth-of-type(3) { animation: ai-draw .6s .15s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-alert { animation: ai-shake .6s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-child circle { animation: ai-nod .6s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-child path { animation: ai-draw .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-gavel { transform-origin: 0% 100%; animation: ai-hammer .8s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-landmark polygon { animation: ai-jump .5s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-landmark line { animation: ai-draw .5s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-briefcase { animation: ai-jump .55s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-briefcase path { animation: ai-draw .55s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-building path { animation: ai-draw .7s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-home path { animation: ai-draw .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-home polyline { animation: ai-draw .4s .35s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-users path:nth-of-type(n+2) { animation: ai-slide .55s .05s cubic-bezier(.34,1.56,.64,1) backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-file path:nth-of-type(3) { animation: ai-draw .5s .1s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-file path:nth-of-type(4) { animation: ai-draw .5s .25s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-file path:nth-of-type(5) { animation: ai-draw .5s .4s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-bulb { animation: ai-glow .8s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-idcard :is(circle, path) { animation: ai-draw .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-globe { animation: ai-wiggle .8s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-globe path { animation: ai-draw .7s ease-out; }
+@media (prefers-reduced-motion: reduce) { .ai, .ai * { animation: none !important; } }
