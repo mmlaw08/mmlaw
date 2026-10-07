@@ -1174,3 +1174,14 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
   .mbar .mbar-call { color: var(--on-ink); background: var(--ink); margin: 2px 4px; }
   .mbar .mbar-call:hover { color: var(--on-ink); }
 }
+/* bottom nav: guideline sizes (24px icons, 12px labels, equal widths, press feedback) */
+@media (max-width: 640px) {
+  .mbar { grid-template-columns: repeat(4, minmax(0, 1fr)); padding: 6px 6px calc(6px + env(safe-area-inset-bottom)); }
+  .mbar > a, .mbar > button { height: 56px; gap: 4px; -webkit-tap-highlight-color: transparent; transition: background-color .15s, transform .1s; }
+  .mbar > a span, .mbar > button span { font-size: 12px; }
+  .mbar > a:active, .mbar > button:active { background: var(--soft2); transform: scale(.96); }
+  .mbar .mbar-call { margin: 0 2px; }
+  .mbar .mbar-call:active { background: var(--ink-hover); }
+  .mbar > :focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  body { padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
+}
