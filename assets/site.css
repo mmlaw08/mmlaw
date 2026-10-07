@@ -1238,3 +1238,12 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .page-hero .wrap { position: relative; }
   .page-hero .read-tools { position: absolute; top: 18px; right: 24px; margin: 0; }
 }
+/* glossary */
+.gl-list { margin: 0; display: grid; gap: 0; border-top: 1px solid var(--line); }
+.gl-item { padding: 20px 0; border-bottom: 1px solid var(--line); scroll-margin-top: 110px; display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 8px 28px; }
+.gl-item dt { font-size: 17px; font-weight: 700; color: var(--fg); }
+.gl-item dd { margin: 0; display: flex; flex-direction: column; gap: 6px; }
+.gl-item dd p { margin: 0; font-size: calc(16px * var(--fsx)); line-height: 1.7; color: var(--fg2); }
+.gl-item .link-arrow { margin: 0; font-size: 14px; }
+.gl-item:target { background: var(--acc-bg); }
+@media (max-width: 640px) { .gl-item { grid-template-columns: 1fr; padding: 16px 0; } }
