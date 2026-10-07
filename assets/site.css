@@ -1032,3 +1032,15 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 :is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-globe { animation: ai-wiggle .8s ease-in-out; }
 :is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-globe path { animation: ai-draw .7s ease-out; }
 @media (prefers-reduced-motion: reduce) { .ai, .ai * { animation: none !important; } }
+
+/* ---------- home hero: large-square grid with a few gold-tinted squares */
+.hero-has-grid { position: relative; isolation: isolate; background: var(--bg); }
+.hero-grid { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none;
+  -webkit-mask-image: radial-gradient(ellipse 85% 75% at 50% 45%, #000 35%, transparent 100%); mask-image: radial-gradient(ellipse 85% 75% at 50% 45%, #000 35%, transparent 100%); }
+.hg-line { stroke: var(--line); stroke-width: 1; }
+.hg-cells rect { fill: var(--accent); fill-opacity: .07; }
+.hg-pulse { animation: hg-pulse 9s ease-in-out infinite both; }
+@keyframes hg-pulse { 0%, 100% { opacity: 0; } 45%, 60% { opacity: 1; } }
+:root[data-theme="dark"] .hg-cells rect { fill-opacity: .09; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .hg-cells rect { fill-opacity: .09; } }
+@media (prefers-reduced-motion: reduce) { .hg-pulse { animation: none; opacity: .6; } }
