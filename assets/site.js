@@ -640,3 +640,68 @@
 document.addEventListener("click", function (ev) {
   document.querySelectorAll(".lang-dd[open]").forEach(function (d) { if (!d.contains(ev.target)) d.removeAttribute("open"); });
 });
+
+// ---------- reading tools: text size (all languages) and listen (English / Russian)
+(function () {
+  var root = document.documentElement, STEPS = [0.9, 1, 1.12, 1.25, 1.4];
+  var level = 1;
+  try { var sv = parseInt(localStorage.getItem("fs"), 10); if (sv >= 0 && sv < STEPS.length) level = sv; } catch (e) {}
+  function applyFs() {
+    root.style.setProperty("--fsx", STEPS[level]);
+    document.querySelectorAll('[data-fs="-1"]').forEach(function (b) { b.disabled = level === 0; });
+    document.querySelectorAll('[data-fs="1"]').forEach(function (b) { b.disabled = level === STEPS.length - 1; });
+  }
+  applyFs();
+  document.querySelectorAll("[data-fs]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      level = Math.max(0, Math.min(STEPS.length - 1, level + parseInt(b.getAttribute("data-fs"), 10)));
+      try { localStorage.setItem("fs", level); } catch (e) {}
+      applyFs();
+    });
+  });
+
+  var btn = document.querySelector("[data-listen]"), stopBtn = document.querySelector("[data-listen-stop]");
+  var synth = window.speechSynthesis;
+  if (!btn || !synth || !window.SpeechSynthesisUtterance) return;
+  var lang = root.lang, voice = null, queue = [], i = 0, state = "idle";
+  function pickVoice() {
+    var vs = synth.getVoices().filter(function (v) { return v.lang && v.lang.toLowerCase().indexOf(lang) === 0; });
+    voice = vs.filter(function (v) { return /natural|premium|enhanced|google/i.test(v.name); })[0] || vs[0] || null;
+    btn.hidden = !voice;
+  }
+  pickVoice();
+  if (synth.addEventListener) synth.addEventListener("voiceschanged", pickVoice);
+  function label(k) { btn.querySelector("span").textContent = btn.getAttribute("data-l-" + k); }
+  function blocks() {
+    var box = document.querySelector(".article") || document.querySelector("main .two-col .stack-md") || document.querySelector("main");
+    var hero = document.querySelector(".page-hero h1");
+    var els = [hero].concat([].slice.call(box.querySelectorAll("h2, h3, p, li"))).filter(function (el) {
+      return el && el.textContent.trim().length > 1 && !el.closest(".read-tools, .laws, .note, .side, .post-meta, .crumbs");
+    });
+    return els;
+  }
+  function mark(el) {
+    document.querySelectorAll(".rt-reading").forEach(function (x) { x.classList.remove("rt-reading"); });
+    if (el) { el.classList.add("rt-reading"); el.scrollIntoView({ block: "center", behavior: "smooth" }); }
+  }
+  function next() {
+    if (state !== "playing") return;
+    if (i >= queue.length) { stop(); return; }
+    var el = queue[i++], u = new SpeechSynthesisUtterance(el.textContent.replace(/\s+/g, " ").trim());
+    u.lang = voice.lang; u.voice = voice; u.rate = 1;
+    u.onend = next; u.onerror = function () { if (state === "playing") next(); };
+    mark(el);
+    synth.speak(u);
+  }
+  function stop() {
+    state = "idle"; synth.cancel(); mark(null);
+    btn.setAttribute("aria-pressed", "false"); label("listen"); stopBtn.hidden = true;
+  }
+  btn.addEventListener("click", function () {
+    if (state === "idle") { queue = blocks(); i = 0; state = "playing"; btn.setAttribute("aria-pressed", "true"); label("pause"); stopBtn.hidden = false; synth.cancel(); next(); }
+    else if (state === "playing") { state = "paused"; synth.pause(); label("resume"); }
+    else { state = "playing"; synth.resume(); label("pause"); }
+  });
+  stopBtn.addEventListener("click", stop);
+  window.addEventListener("pagehide", function () { synth.cancel(); });
+})();

@@ -1191,3 +1191,31 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
   .mbar .mbar-call svg { color: var(--accent); }
   .mbar .mbar-call:active { background: var(--soft2); }
 }
+
+/* ---------- reading tools: text size + listen */
+.read-tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 4px; }
+.rt-size { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); overflow: hidden; }
+.rt-btn { height: 34px; min-width: 40px; padding: 0 12px; display: inline-flex; gap: 6px; align-items: center; justify-content: center; border: 0; background: transparent; color: var(--fg); font: inherit; font-size: 14px; font-weight: 600; cursor: pointer; }
+.rt-size .rt-btn + .rt-btn { border-left: 1px solid var(--line); }
+.rt-big { font-size: 17px; }
+.rt-btn sup { font-size: .6em; }
+.rt-btn:hover { background: var(--soft2); }
+.rt-btn:disabled { opacity: .35; cursor: default; }
+.rt-listen, .rt-stop { border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
+.rt-listen svg { color: var(--accent); }
+.rt-listen[aria-pressed="true"] { border-color: var(--acc-line); background: var(--acc-soft); color: var(--accent); }
+.rt-reading { background: var(--acc-soft); border-radius: 6px; box-shadow: 0 0 0 4px var(--acc-soft); transition: background .2s; }
+/* text size steps (1 = normal) */
+:root { --fsx: 1; }
+main .prose { font-size: calc(17px * var(--fsx)); }
+main .prose h2 { font-size: calc(24px * var(--fsx)); }
+main .faq-a p { font-size: calc(16px * var(--fsx)); }
+main .checklist li { font-size: calc(15px * var(--fsx)); }
+main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
+@media (max-width: 640px) {
+  main .prose { font-size: calc(16px * var(--fsx)); }
+  main .prose h2 { font-size: calc(20px * var(--fsx)); }
+  main .faq-a p { font-size: calc(15.5px * var(--fsx)); }
+  main .checklist li { font-size: calc(15px * var(--fsx)); }
+  main .page-hero .lead { font-size: calc(16px * var(--fsx)); }
+}
