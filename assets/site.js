@@ -8,7 +8,7 @@
     return root.getAttribute("data-theme") || (darkMq && darkMq.matches ? "dark" : "light");
   }
   function paintMeta() {
-    var color = currentTheme() === "dark" ? "#141312" : "#ffffff";
+    var color = currentTheme() === "dark" ? "#1c1917" : "#ffffff";
     document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
       if (root.getAttribute("data-theme")) m.setAttribute("content", color);
     });
