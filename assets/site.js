@@ -650,7 +650,7 @@ document.addEventListener("click", function (ev) {
     root.style.setProperty("--fsx", STEPS[level]);
     document.querySelectorAll('[data-fs="-1"]').forEach(function (b) { b.disabled = level === 0; });
     document.querySelectorAll('[data-fs="1"]').forEach(function (b) { b.disabled = level === STEPS.length - 1; });
-    document.querySelectorAll('[data-fs="0"]').forEach(function (b) { b.disabled = level === 1; });
+    document.querySelectorAll('[data-fs="0"]').forEach(function (b) { b.textContent = Math.round(STEPS[level] * 100) + "%"; b.classList.toggle("is-changed", level !== 1); });
   }
   applyFs();
   document.querySelectorAll("[data-fs]").forEach(function (b) {

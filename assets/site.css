@@ -1220,3 +1220,5 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   main .page-hero .lead { font-size: calc(16px * var(--fsx)); }
 }
 .rt-reset { font-size: 15px; font-weight: 500; }
+.rt-reset { min-width: 60px; font-size: 13.5px; font-weight: 600; font-variant-numeric: tabular-nums; color: var(--muted); }
+.rt-reset.is-changed { color: var(--accent); }
