@@ -1230,3 +1230,4 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .prose .note-body strong { color: var(--fg); font-weight: 600; }
 .prose .note-btn { align-self: flex-start; margin-top: 8px; height: 40px; font-size: 14px; color: var(--on-ink); text-decoration: none; }
 @media (max-width: 640px) { .prose .note-btn { align-self: stretch; } }
+.prose .note-btn svg { color: currentColor; margin: 0; }
