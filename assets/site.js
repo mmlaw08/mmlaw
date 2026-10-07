@@ -650,11 +650,13 @@ document.addEventListener("click", function (ev) {
     root.style.setProperty("--fsx", STEPS[level]);
     document.querySelectorAll('[data-fs="-1"]').forEach(function (b) { b.disabled = level === 0; });
     document.querySelectorAll('[data-fs="1"]').forEach(function (b) { b.disabled = level === STEPS.length - 1; });
+    document.querySelectorAll('[data-fs="0"]').forEach(function (b) { b.disabled = level === 1; });
   }
   applyFs();
   document.querySelectorAll("[data-fs]").forEach(function (b) {
     b.addEventListener("click", function () {
-      level = Math.max(0, Math.min(STEPS.length - 1, level + parseInt(b.getAttribute("data-fs"), 10)));
+      var d = parseInt(b.getAttribute("data-fs"), 10);
+      level = d === 0 ? 1 : Math.max(0, Math.min(STEPS.length - 1, level + d));
       try { localStorage.setItem("fs", level); } catch (e) {}
       applyFs();
     });

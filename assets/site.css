@@ -1219,3 +1219,4 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   main .checklist li { font-size: calc(15px * var(--fsx)); }
   main .page-hero .lead { font-size: calc(16px * var(--fsx)); }
 }
+.rt-reset { font-size: 15px; font-weight: 500; }
