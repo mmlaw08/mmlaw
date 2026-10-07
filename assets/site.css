@@ -1044,3 +1044,16 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 :root[data-theme="dark"] .hg-cells rect { fill-opacity: .09; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .hg-cells rect { fill-opacity: .09; } }
 @media (prefers-reduced-motion: reduce) { .hg-pulse { animation: none; opacity: .6; } }
+
+/* ---------- home hero: warm gold glow + grid floor in perspective */
+.hero-persp { position: relative; isolation: isolate; overflow: hidden;
+  background: radial-gradient(60% 70% at 18% 0%, rgba(214,168,92,.20), transparent 70%),
+              radial-gradient(50% 60% at 85% 10%, rgba(214,168,92,.10), transparent 70%), var(--bg); }
+.hp-floor { position: absolute; left: -60%; right: -60%; bottom: 0; height: 120%; z-index: -1; pointer-events: none;
+  background-image: linear-gradient(var(--line-strong) 1px, transparent 1px), linear-gradient(90deg, var(--line-strong) 1px, transparent 1px);
+  background-size: 64px 64px; background-position: center bottom;
+  transform: perspective(700px) rotateX(58deg); transform-origin: center bottom; opacity: .9;
+  -webkit-mask-image: linear-gradient(to top, #000 0%, rgba(0,0,0,.5) 30%, transparent 62%); mask-image: linear-gradient(to top, #000 0%, rgba(0,0,0,.5) 30%, transparent 62%); }
+:root[data-theme="dark"] .hero-persp { background: radial-gradient(60% 70% at 18% 0%, rgba(214,168,92,.16), transparent 70%), radial-gradient(50% 60% at 85% 10%, rgba(214,168,92,.07), transparent 70%), var(--bg); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .hero-persp { background: radial-gradient(60% 70% at 18% 0%, rgba(214,168,92,.16), transparent 70%), radial-gradient(50% 60% at 85% 10%, rgba(214,168,92,.07), transparent 70%), var(--bg); } }
+@media (max-width: 640px) { .hp-floor { background-size: 44px 44px; } }
