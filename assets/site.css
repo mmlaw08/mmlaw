@@ -1089,3 +1089,22 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 .tile-hero { -webkit-mask-image: radial-gradient(ellipse 70% 90% at 32% 52%, transparent 50%, #000 95%); mask-image: radial-gradient(ellipse 70% 90% at 32% 52%, transparent 50%, #000 95%); }
 :root[data-theme="dark"] .tile-hero .tile-lit rect { fill: #d6a85c; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .tile-hero .tile-lit rect { fill: #d6a85c; } }
+/* About: lawyer card */
+.prose .lw-card { margin-top: 1em; border: 1px solid var(--line); border-radius: 16px; background: var(--surface); padding: 24px; display: flex; flex-direction: column; gap: 18px; box-shadow: var(--shadow); }
+.lw-top { display: flex; gap: 16px; align-items: center; }
+.lw-mono { width: 60px; height: 60px; flex: none; border-radius: 16px; display: inline-flex; align-items: center; justify-content: center; font-size: 22px; font-weight: 700; color: #d6a85c;
+  background: radial-gradient(120% 95% at 22% 12%, #3b3020 0%, #1b170f 60%, #0c0b09 100%); border: 1px solid rgba(214,168,92,.35); }
+.prose .lw-name { margin: 0; font-size: 20px; font-weight: 700; color: var(--fg); line-height: 1.3; }
+.prose .lw-role { margin: 2px 0 0; font-size: 14px; color: var(--muted); }
+.prose .lw-badges { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.prose .lw-badges li { margin: 0; display: inline-flex; gap: 6px; align-items: center; padding: 5px 11px; border-radius: 999px; background: var(--acc-soft); color: var(--accent); font-size: 13px; font-weight: 600; }
+.lw-rows { margin: 0; display: grid; gap: 12px; }
+.lw-rows > div { display: grid; grid-template-columns: 140px minmax(0, 1fr); gap: 12px; align-items: baseline; padding-top: 12px; border-top: 1px solid var(--line); }
+.lw-rows dt { font-size: 13px; font-weight: 600; color: var(--muted); }
+.lw-rows dd { margin: 0; font-size: 15px; color: var(--fg); }
+.prose .lw-tags { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.prose .lw-tags li { margin: 0; padding: 4px 10px; border: 1px solid var(--line); border-radius: 8px; font-size: 13.5px; background: var(--soft); }
+.lw-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.lw-links .btn { height: 40px; font-size: 14px; }
+.lw-links .btn svg { color: var(--accent); }
+@media (max-width: 640px) { .lw-rows > div { grid-template-columns: 1fr; gap: 6px; } .prose .lw-card { padding: 18px; } }
