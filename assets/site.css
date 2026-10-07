@@ -1002,33 +1002,33 @@ html:has(.nav-dd:hover) .hdr, html:has(.nav-dd.open) .hdr, html:has(.nav-dd:focu
 @keyframes ai-nod { 0%, 100% { transform: translateY(0); } 40% { transform: translateY(-2.5px); } }
 @keyframes ai-glow { 0%, 100% { transform: scale(1); filter: none; } 50% { transform: scale(1.12); filter: drop-shadow(0 0 4px currentColor); } }
 @keyframes ai-unlock { 0%, 100% { stroke-dasharray: 1 1; } 35%, 70% { stroke-dasharray: .66 1; } }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-shield { animation: ai-pop .55s cubic-bezier(.34,1.56,.64,1); }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-shield path { animation: ai-draw .7s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-pill { animation: ai-wiggle .75s ease-in-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-lock path { animation: ai-unlock .9s cubic-bezier(.4,0,.2,1); }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-key { transform-origin: 30% 70%; animation: ai-turn .8s cubic-bezier(.4,0,.2,1); }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-trending { animation: ai-rise .5s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-trending polyline:first-of-type { animation: ai-draw .45s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-trending polyline:last-of-type { animation: ai-draw .3s .3s ease-out backwards; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-coins { animation: ai-jump .6s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-coins path:nth-of-type(2), :is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-coins path:nth-of-type(3) { animation: ai-draw .6s .15s ease-out backwards; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-alert { animation: ai-shake .6s ease-in-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-child circle { animation: ai-nod .6s ease-in-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-child path { animation: ai-draw .6s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-gavel { transform-origin: 0% 100%; animation: ai-hammer .8s ease-in-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-landmark polygon { animation: ai-jump .5s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-landmark line { animation: ai-draw .5s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-briefcase { animation: ai-jump .55s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-briefcase path { animation: ai-draw .55s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-building path { animation: ai-draw .7s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-home path { animation: ai-draw .6s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-home polyline { animation: ai-draw .4s .35s ease-out backwards; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-users path:nth-of-type(n+2) { animation: ai-slide .55s .05s cubic-bezier(.34,1.56,.64,1) backwards; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-file path:nth-of-type(3) { animation: ai-draw .5s .1s ease-out backwards; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-file path:nth-of-type(4) { animation: ai-draw .5s .25s ease-out backwards; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-file path:nth-of-type(5) { animation: ai-draw .5s .4s ease-out backwards; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-bulb { animation: ai-glow .8s ease-in-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-idcard :is(circle, path) { animation: ai-draw .6s ease-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-globe { animation: ai-wiggle .8s ease-in-out; }
-:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover) .ai-globe path { animation: ai-draw .7s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-shield { animation: ai-pop .55s cubic-bezier(.34,1.56,.64,1); }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-shield path { animation: ai-draw .7s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-pill { animation: ai-wiggle .75s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-lock path { animation: ai-unlock .9s cubic-bezier(.4,0,.2,1); }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-key { transform-origin: 30% 70%; animation: ai-turn .8s cubic-bezier(.4,0,.2,1); }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-trending { animation: ai-rise .5s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-trending polyline:first-of-type { animation: ai-draw .45s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-trending polyline:last-of-type { animation: ai-draw .3s .3s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-coins { animation: ai-jump .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-coins path:nth-of-type(2), :is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-coins path:nth-of-type(3) { animation: ai-draw .6s .15s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-alert { animation: ai-shake .6s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-child circle { animation: ai-nod .6s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-child path { animation: ai-draw .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-gavel { transform-origin: 0% 100%; animation: ai-hammer .8s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-landmark polygon { animation: ai-jump .5s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-landmark line { animation: ai-draw .5s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-briefcase { animation: ai-jump .55s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-briefcase path { animation: ai-draw .55s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-building path { animation: ai-draw .7s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-home path { animation: ai-draw .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-home polyline { animation: ai-draw .4s .35s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-users path:nth-of-type(n+2) { animation: ai-slide .55s .05s cubic-bezier(.34,1.56,.64,1) backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-file path:nth-of-type(3) { animation: ai-draw .5s .1s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-file path:nth-of-type(4) { animation: ai-draw .5s .25s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-file path:nth-of-type(5) { animation: ai-draw .5s .4s ease-out backwards; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-bulb { animation: ai-glow .8s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-idcard :is(circle, path) { animation: ai-draw .6s ease-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-globe { animation: ai-wiggle .8s ease-in-out; }
+:is(.svc-card:hover, .svc-card:focus-visible, .post-card:hover, .ai-play) .ai-globe path { animation: ai-draw .7s ease-out; }
 @media (prefers-reduced-motion: reduce) { .ai, .ai * { animation: none !important; } }

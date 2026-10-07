@@ -602,3 +602,21 @@
     document.querySelectorAll(".cmd-trigger kbd").forEach(function (k) { k.textContent = "Ctrl K"; });
   }
 })();
+
+// ---------- phones: no hover, so each practice icon plays its animation once when its card scrolls into view
+(function () {
+  if (!window.IntersectionObserver || !window.matchMedia) return;
+  if (!matchMedia("(hover: none)").matches || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) {
+      if (!en.isIntersecting) return;
+      var card = en.target;
+      io.unobserve(card);
+      card.classList.add("ai-play");
+      setTimeout(function () { card.classList.remove("ai-play"); }, 1400);
+    });
+  }, { threshold: 0.6 });
+  document.querySelectorAll(".svc-card:not(.more-card), .post-card").forEach(function (c) {
+    if (c.querySelector(".ai")) io.observe(c);
+  });
+})();
