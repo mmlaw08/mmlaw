@@ -1252,3 +1252,12 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .ftr-review svg { color: #e2a52a; fill: #e2a52a; }
 .ftr-review span { margin-left: 4px; }
 .ftr-review:hover { border-color: var(--accent); color: var(--fg); }
+/* html sitemap page */
+.sm-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 40px 56px; }
+.sm-group .h3 { padding-bottom: 10px; border-bottom: 1px solid var(--line); margin-bottom: 6px; }
+.sm-list { list-style: none; padding: 0; margin: 0; }
+.sm-list li { padding: 9px 0; display: flex; flex-direction: column; gap: 2px; border-bottom: 1px solid var(--soft2); }
+.sm-list a { font-weight: 600; font-size: 15px; color: var(--fg); }
+.sm-list a:hover { color: var(--accent); }
+.sm-list span { font-size: 13.5px; line-height: 1.5; color: var(--muted); }
+@media (max-width: 900px) { .sm-grid { grid-template-columns: 1fr; gap: 28px; } }
