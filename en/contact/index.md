@@ -8,9 +8,11 @@ Reach out to our legal team for a confidential consultation. The first consultat
 
 - Email[info@mmlaw.ge](mailto:info@mmlaw.ge)
 
-- OfficeTbilisi, Georgia
+- OfficeTbilisi, Georgia · [MMLAW on Google](https://share.google/cpUwTfcUZAjK6EZJT)
 
 - HoursMonday–Friday, 10:00–18:00
+
+- Google[Review us on Google](https://g.page/r/CcLDurefyBziECE/review)
 
 ## Urgent legal assistance
 

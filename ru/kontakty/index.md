@@ -8,9 +8,11 @@
 
 - Эл. почта[info@mmlaw.ge](mailto:info@mmlaw.ge)
 
-- ОфисТбилиси, Грузия
+- ОфисТбилиси, Грузия · [MMLAW в Google](https://share.google/cpUwTfcUZAjK6EZJT)
 
 - Часы работыПонедельник–пятница, 10:00–18:00
+
+- Google[Оставьте отзыв в Google](https://g.page/r/CcLDurefyBziECE/review)
 
 ## Срочная юридическая помощь
 

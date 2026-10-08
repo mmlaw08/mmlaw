@@ -8,9 +8,11 @@
 
 - ელფოსტა[info@mmlaw.ge](mailto:info@mmlaw.ge)
 
-- ოფისითბილისი, საქართველო
+- ოფისითბილისი, საქართველო · [MMLAW Google-ზე](https://share.google/cpUwTfcUZAjK6EZJT)
 
 - სამუშაო საათებიორშაბათი–პარასკევი, 10:00–18:00
+
+- Google[შეგვიფასეთ Google-ზე](https://g.page/r/CcLDurefyBziECE/review)
 
 ## გადაუდებელი იურიდიული დახმარება
 
