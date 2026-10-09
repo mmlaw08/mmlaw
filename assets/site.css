@@ -778,8 +778,8 @@ html.sheet-open { overflow: hidden; }
 .mnav-lang .theme-btn { width: 44px; height: auto; min-height: 40px; }
 
 /* section heading with a lead under it (full width, no floating button) */
-.sec-title-wide { max-width: 46rem; }
-.sec-title-wide .lead { margin-top: 4px; }
+.sec-title-wide { max-width: 60rem; }
+.sec-title-wide .lead { margin-top: 4px; max-width: 56rem; }
 
 /* "see all" card that closes a card grid evenly */
 .more-card { align-items: center; justify-content: center; text-align: center; border-style: dashed; border-color: var(--line-strong); background: transparent; min-height: 140px; }
