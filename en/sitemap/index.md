@@ -70,6 +70,10 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Blog](https://mmlaw.ge/en/blog/)
 
+- [Free criminal lawyer in Georgia: who qualifies](https://mmlaw.ge/en/blog/free-lawyer-legal-aid-georgia/)
+
+- [How to choose a good lawyer in Georgia: 6 tips](https://mmlaw.ge/en/blog/how-to-choose-a-lawyer-in-georgia/)
+
 - [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
 
 - [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)

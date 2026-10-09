@@ -68,6 +68,18 @@ As early as possible — ideally as soon as you are summoned for questioning, or
 
 It depends on the complexity, stage and scope of the case. The first consultation is free — we assess the case and agree the fee with you in advance and in writing.
 
+### Can I refuse to give a statement?
+
+Yes. The accused has the right to remain silent — you can decline to answer questions and speak to a lawyer first.
+
+### Can a relative hire a lawyer for me?
+
+Yes. When someone is detained, it is often family members who find the lawyer. Call us or message us on WhatsApp — we'll tell you what to do first.
+
+### Am I entitled to a free lawyer?
+
+If you can't pay, or your case is one of mandatory defence (for example a minor or a jury trial) and you have no private lawyer, the state pays for your defence through the Legal Aid Service.
+
 ## Drug offences
 
 [Open page](https://mmlaw.ge/en/drug-crime-lawyer/)

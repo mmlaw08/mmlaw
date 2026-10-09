@@ -70,6 +70,10 @@
 
 - [ბლოგი](https://mmlaw.ge/ka/blogi/)
 
+- [უფასო ადვოკატი: როდის გეკუთვნით და როგორ მიიღოთ](https://mmlaw.ge/ka/blogi/upaso-advokati/)
+
+- [როგორ ავირჩიოთ კარგი ადვოკატი: 6 რჩევა](https://mmlaw.ge/ka/blogi/rogor-avirchiot-advokati/)
+
 - [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
 
 - [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)

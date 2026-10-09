@@ -90,9 +90,9 @@
 
 ## Все статьи
 
-- [Имущественные преступления](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/) — Обвинение в мошенничестве: наказание и защита 6 октября 2026 г. · 4 мин чтения
+- [Уголовная защита](https://mmlaw.ge/ru/blog/besplatnyy-advokat/) — Бесплатный адвокат в Грузии: кому положен 9 октября 2026 г. · 4 мин чтения
 
-- [Насильственные преступления](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/) — Обвинение в домашнем насилии: что нужно знать 6 октября 2026 г. · 4 мин чтения
+- [Уголовная защита](https://mmlaw.ge/ru/blog/kak-vybrat-advokata/) — Как выбрать хорошего адвоката: 6 советов 9 октября 2026 г. · 4 мин чтения
 
 ---
 Source: https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

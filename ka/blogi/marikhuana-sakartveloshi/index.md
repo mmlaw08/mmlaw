@@ -96,9 +96,9 @@
 
 ## ყველა სტატია
 
-- [ქონებრივი დანაშაული](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/) — თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი 6 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/upaso-advokati/) — უფასო ადვოკატი: როდის გეკუთვნით და როგორ მიიღოთ 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
 
-- [ქონებრივი დანაშაული](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/) — ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები 6 ოქტომბერი, 2026 · 3 წთ საკითხავი
+- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/rogor-avirchiot-advokati/) — როგორ ავირჩიოთ კარგი ადვოკატი: 6 რჩევა 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
 
 ---
 Source: https://mmlaw.ge/ka/blogi/marikhuana-sakartveloshi/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

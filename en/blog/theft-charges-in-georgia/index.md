@@ -90,9 +90,9 @@ Blog
 
 ## All articles
 
-- [Property crimes](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/) — Fraud charges in Georgia: penalties and your defence October 6, 2026 · 4 min read
+- [Criminal defense](https://mmlaw.ge/en/blog/free-lawyer-legal-aid-georgia/) — Free criminal lawyer in Georgia: who qualifies October 9, 2026 · 4 min read
 
-- [Violent crimes](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/) — Domestic violence charges in Georgia: what to know October 6, 2026 · 4 min read
+- [Criminal defense](https://mmlaw.ge/en/blog/how-to-choose-a-lawyer-in-georgia/) — How to choose a good lawyer in Georgia: 6 tips October 9, 2026 · 4 min read
 
 ---
 Source: https://mmlaw.ge/en/blog/theft-charges-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

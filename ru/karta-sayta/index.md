@@ -70,6 +70,10 @@
 
 - [Блог](https://mmlaw.ge/ru/blog/)
 
+- [Бесплатный адвокат в Грузии: кому положен](https://mmlaw.ge/ru/blog/besplatnyy-advokat/)
+
+- [Как выбрать хорошего адвоката: 6 советов](https://mmlaw.ge/ru/blog/kak-vybrat-advokata/)
+
 - [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
 
 - [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)

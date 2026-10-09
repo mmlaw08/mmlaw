@@ -43,6 +43,32 @@ A criminal defense lawyer protects your rights at every stage of a criminal case
 
 Involving a lawyer as early as possible — ideally from the first contact with the investigating authority — often decides the outcome.
 
+## If a relative has been arrested — what to do
+
+- Find out where they are and which authority arrested them.
+
+- Contact a lawyer as quickly as possible — a detained person has the right to a lawyer and the right not to give a statement.
+
+- Don't discuss the details of the case by phone or in messengers.
+
+- Prepare documents the court may consider when choosing a preventive measure: a letter from their employer, information about family, children and health.
+
+- A detained person has the right to ask for a free medical examination — this matters if there are signs of violence.
+
+## After an arrest — the first 72 hours
+
+- Immediately — rights explained, the right to a lawyer, the right to remain silent and a free medical examination
+
+- Within 48 hours — the charge; if no charge is brought, the person must be released
+
+- Within the next 24 hours — the court appearance, where the preventive measure is decided: bail, detention or another measure
+
+- Meanwhile, the lawyer prepares arguments and documents so the court chooses a lighter measure
+
+## Free or private lawyer
+
+If you can't afford a lawyer, in some cases the state pays for your defence through the Legal Aid Service. A private lawyer is someone you choose yourself: their experience, specialisation and how much time they give your case. You can hire a private lawyer at any stage of the case.
+
 ## Cases we handle
 
 We defend clients in cases of serious and particularly serious crimes, economic and financial crime, cybercrime, drug-related offences and other categories — acting for accused and convicted persons, witnesses and victims.
@@ -100,6 +126,18 @@ As early as possible — ideally as soon as you are summoned for questioning, or
 ### How much does a criminal defense lawyer cost?
 
 It depends on the complexity, stage and scope of the case. The first consultation is free — we assess the case and agree the fee with you in advance and in writing.
+
+### Can I refuse to give a statement?
+
+Yes. The accused has the right to remain silent — you can decline to answer questions and speak to a lawyer first.
+
+### Can a relative hire a lawyer for me?
+
+Yes. When someone is detained, it is often family members who find the lawyer. Call us or message us on WhatsApp — we'll tell you what to do first.
+
+### Am I entitled to a free lawyer?
+
+If you can't pay, or your case is one of mandatory defence (for example a minor or a jury trial) and you have no private lawyer, the state pays for your defence through the Legal Aid Service.
 
 ## Legal basis
 
