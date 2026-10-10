@@ -69,7 +69,7 @@ As a rule, the parent who doesn't live with the child.
 - [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
 
 -
-- [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)

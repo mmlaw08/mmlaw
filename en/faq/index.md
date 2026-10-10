@@ -212,6 +212,10 @@ Intentional homicide carries 10 to 15 years; with aggravating circumstances, 16 
 
 [Open page](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
+### Is my child entitled to a free lawyer?
+
+Yes. An accused minor and a minor victim are entitled to free legal aid at any stage of a criminal case if they have no private lawyer. A minor witness is entitled if unable to pay or in certain cases defined by law.
+
 ### From what age is a person criminally liable in Georgia?
 
 From 14. Special rules of the Juvenile Justice Code apply to persons under 18.

@@ -69,7 +69,7 @@ Use your right to remain silent and ask for a lawyer. You must be charged within
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
-- [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
 - [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)

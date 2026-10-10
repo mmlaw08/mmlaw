@@ -66,7 +66,7 @@ Related practice area: [Criminal defense](https://mmlaw.ge/en/criminal-defense-l
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
-- [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
 - [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)

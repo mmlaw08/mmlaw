@@ -84,7 +84,7 @@ The parents agree on this; in a dispute, the court decides in the child's best i
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
-- [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)

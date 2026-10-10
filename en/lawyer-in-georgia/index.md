@@ -107,7 +107,7 @@ Defence in assault, bodily injury, threats and homicide cases — including self
 
 [Violent crime lawyer](https://mmlaw.ge/en/violent-crime-lawyer/)
 
-### [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+### [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 Specialised representation of minors, focused on their rights and future.
 
@@ -119,7 +119,7 @@ Specialised representation of minors, focused on their rights and future.
 
 - Protecting the child's rights on arrest
 
-[Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+[Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 ### [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 

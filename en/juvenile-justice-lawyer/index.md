@@ -1,4 +1,4 @@
-# Juvenile justice lawyer in Georgia
+# Juvenile lawyer in Georgia: legal help for minors
 
 We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
 
@@ -27,6 +27,22 @@ A juvenile justice lawyer protects a child's rights in criminal proceedings — 
 
 - Juvenile cases are, as a rule, heard behind closed doors
 
+## A minor's rights in a criminal case
+
+- A free lawyer at any stage of a criminal case — for an accused minor and a minor victim alike, if they have no private lawyer
+
+- Questioning only in the presence of a legal representative (for example a parent) and a lawyer, with a psychologist where needed
+
+- The case is handled only by an investigator, prosecutor, judge and lawyer specialised in juvenile justice
+
+- Information in a form suited to the child's age, and a free interpreter if needed
+
+- Free legal aid also applies to accused and convicted persons aged 18 to 21
+
+## Diversion — resolving the case without a trial
+
+If a minor is accused of a less serious or serious crime, the law requires diversion to be considered first: the prosecutor can decide not to start, or to end, the prosecution if that better serves the child's rehabilitation and prevents new offences. A lawyer assesses this option from the very start of the case.
+
 ## Mistakes to avoid
 
 - Agreeing to the child being questioned without a lawyer
@@ -50,6 +66,10 @@ A juvenile justice lawyer protects a child's rights in criminal proceedings — 
 - Advice to parents and guardians
 
 ## Questions & answers
+
+### Is my child entitled to a free lawyer?
+
+Yes. An accused minor and a minor victim are entitled to free legal aid at any stage of a criminal case if they have no private lawyer. A minor witness is entitled if unable to pay or in certain cases defined by law.
 
 ### From what age is a person criminally liable in Georgia?
 

@@ -81,7 +81,7 @@ Yes — you have the right to a free interpreter.
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
-- [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
 - [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)

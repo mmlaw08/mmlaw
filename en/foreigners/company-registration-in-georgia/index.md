@@ -1,4 +1,4 @@
-# Company registration in Georgia for foreigners
+# How to register a business in Georgia as a foreigner
 
 Foreigners can own 100% of a Georgian company and run it from abroad. We register LLCs, branches and individual entrepreneurs, prepare corporate documents and support you with banks, contracts and tax registration.
 

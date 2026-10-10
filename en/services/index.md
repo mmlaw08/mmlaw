@@ -50,7 +50,7 @@ Violent crimes are acts against life and health — from beating to homicide. Th
 
 Specialised representation of minors, focused on their rights and future.
 Juvenile justice requires a special approach. MMLAW attorneys defend young people's rights in specialised proceedings, focusing on their future and rehabilitation.
-[Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+[Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 Other practice areas
 

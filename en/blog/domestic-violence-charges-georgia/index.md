@@ -69,7 +69,7 @@ Don't — it can aggravate the charge or become a reason for detention. Comply w
 - [#Your rights](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 -
-- [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)

@@ -30,7 +30,7 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Violent crime lawyer](https://mmlaw.ge/en/violent-crime-lawyer/)Defence in assault, bodily injury, threats and homicide cases — including self-defence.
 
-- [Juvenile justice lawyer](https://mmlaw.ge/en/juvenile-justice-lawyer/)Specialised representation of minors, focused on their rights and future.
+- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)Specialised representation of minors, focused on their rights and future.
 
 ## Other practice areas
 

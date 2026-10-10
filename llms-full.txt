@@ -278,7 +278,7 @@ In such cases both sides can be both victim and accused. It is important that yo
 ### What is the penalty for homicide?
 Intentional homicide carries 10 to 15 years; with aggravating circumstances, 16 to 20 years or life imprisonment.
 
-## Juvenile justice lawyer in Georgia
+## Juvenile lawyer in Georgia: legal help for minors
 URL: https://mmlaw.ge/en/juvenile-justice-lawyer/
 
 We defend children and young people in criminal and related proceedings under Georgia's Juvenile Justice Code, with a focus on rehabilitation and the child's best interests.
@@ -292,6 +292,9 @@ Our services:
 - Representation of minor victims and witnesses
 - Protecting the child's rights on arrest
 - Advice to parents and guardians
+
+### Is my child entitled to a free lawyer?
+Yes. An accused minor and a minor victim are entitled to free legal aid at any stage of a criminal case if they have no private lawyer. A minor witness is entitled if unable to pay or in certain cases defined by law.
 
 ### From what age is a person criminally liable in Georgia?
 From 14. Special rules of the Juvenile Justice Code apply to persons under 18.
@@ -570,7 +573,7 @@ Owning property can be a basis for a short-term residence permit if its value me
 ### Can I buy property without coming to Georgia?
 Yes. You can give a notarised power of attorney (with an apostille if the country requires it) to your lawyer or a trusted person, who signs and registers the purchase for you.
 
-## Company registration in Georgia for foreigners
+## How to register a business in Georgia as a foreigner
 URL: https://mmlaw.ge/en/foreigners/company-registration-in-georgia/
 
 Foreigners can own 100% of a Georgian company and run it from abroad. We register LLCs, branches and individual entrepreneurs, prepare corporate documents and support you with banks, contracts and tax registration.
