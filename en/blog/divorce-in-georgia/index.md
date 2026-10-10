@@ -47,7 +47,6 @@ This article is general information and does not replace advice from a lawyer on
 Every case is different — don't rely on general information. Contact a lawyer for advice.
 
 [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
-Share this article
 
 ## Frequently asked questions
 

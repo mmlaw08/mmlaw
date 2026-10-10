@@ -51,7 +51,6 @@ This article is general information and does not replace advice from a lawyer on
 Every case is different — don't rely on general information. Contact a lawyer for advice.
 
 [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-Share this article
 
 ## Frequently asked questions
 
