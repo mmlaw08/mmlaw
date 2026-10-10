@@ -34,6 +34,7 @@ This article is general information and does not replace advice from a lawyer on
 Every case is different — don't rely on general information. Contact a lawyer for advice.
 
 [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
+Share this article
 
 ## Frequently asked questions
 

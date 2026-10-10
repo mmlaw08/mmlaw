@@ -49,6 +49,7 @@ This article is general information and does not replace advice from a lawyer on
 Every case is different — don't rely on general information. Contact a lawyer for advice.
 
 [Property crime lawyer](https://mmlaw.ge/en/property-crime-lawyer/)
+Share this article
 
 ## Frequently asked questions
 

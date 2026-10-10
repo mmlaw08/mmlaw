@@ -1261,3 +1261,16 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .sm-list a:hover { color: var(--accent); }
 .sm-list span { font-size: 13.5px; line-height: 1.5; color: var(--muted); }
 @media (max-width: 900px) { .sm-grid { grid-template-columns: 1fr; gap: 28px; } }
+/* article share row (no third-party scripts) */
+.share { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 32px; padding-top: 20px; border-top: 1px solid var(--line); }
+.share-l { font-size: 14px; font-weight: 600; color: var(--muted); margin-right: 6px; }
+.share-btn { display: inline-flex; align-items: center; gap: 7px; height: 38px; min-width: 38px; justify-content: center; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--fg); font: inherit; font-size: 14px; font-weight: 500; cursor: pointer; text-decoration: none; transition: border-color .15s, color .15s, background .15s; }
+.prose .share-btn { text-decoration: none; }
+.share-net { padding: 0; width: 38px; }
+.share-btn svg { color: var(--accent); flex: none; }
+.share-btn:hover { border-color: var(--accent); color: var(--fg); background: var(--acc-bg); }
+.share-native { display: none; }
+.share.has-native .share-native { display: inline-flex; }
+.share.has-native .share-net { display: none; }
+.share-btn.done svg { color: #16a34a; }
+@media (max-width: 640px) { .share-l { flex-basis: 100%; margin-bottom: 2px; } }

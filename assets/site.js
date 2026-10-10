@@ -707,3 +707,21 @@ document.addEventListener("click", function (ev) {
   stopBtn.addEventListener("click", stop);
   window.addEventListener("pagehide", function () { synth.cancel(); });
 })();
+
+/* article share: phone share sheet when available, copy link everywhere */
+(function () {
+  document.querySelectorAll('[data-share]').forEach(function (box) {
+    var u = box.getAttribute('data-url'), t = box.getAttribute('data-title');
+    var coarse = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+    if (navigator.share && coarse) box.classList.add('has-native');
+    var nb = box.querySelector('[data-share-native]');
+    if (nb) nb.addEventListener('click', function () { navigator.share({ title: t, url: u }).catch(function () {}); });
+    var cb = box.querySelector('[data-copy]');
+    if (cb) cb.addEventListener('click', function () {
+      var span = cb.querySelector('span'), orig = span.textContent;
+      var ok = function () { cb.classList.add('done'); span.textContent = cb.getAttribute('data-done') + ' ✓'; setTimeout(function () { cb.classList.remove('done'); span.textContent = orig; }, 2000); };
+      if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(u).then(ok, function () {});
+      else { var ta = document.createElement('textarea'); ta.value = u; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); ok(); } catch (e) {} ta.remove(); }
+    });
+  });
+})();
