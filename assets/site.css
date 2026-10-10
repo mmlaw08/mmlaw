@@ -1274,3 +1274,20 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .share.has-native .share-net { display: none; }
 .share-btn.done svg { color: #16a34a; }
 @media (max-width: 640px) { .share-l { flex-basis: 100%; margin-bottom: 2px; } }
+/* footer: language + theme */
+.ftr-prefs { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; justify-content: space-between; padding: 20px 0; border-top: 1px solid var(--line); }
+.ftr-langs { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; font-size: 14px; }
+.ftr-langs svg { color: var(--muted); margin-right: 6px; }
+.ftr-langs a { padding: 6px 10px; border-radius: 8px; color: var(--muted); }
+.ftr-langs a:hover { color: var(--fg); background: var(--soft2); }
+.ftr-langs a[aria-current] { color: var(--fg); font-weight: 600; background: var(--soft2); }
+.ftr-theme { display: inline-flex; align-items: center; gap: 8px; height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: var(--muted); font: inherit; font-size: 14px; cursor: pointer; }
+.ftr-theme:hover { color: var(--fg); border-color: var(--accent); }
+.ftr-theme .i-sun { display: none; }
+:root[data-theme="dark"] .ftr-theme .i-sun { display: block; }
+:root[data-theme="dark"] .ftr-theme .i-moon { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .ftr-theme .i-sun { display: block; }
+  :root:not([data-theme="light"]) .ftr-theme .i-moon { display: none; }
+}
+.ftr-prefs + .ftr-bottom { border-top: 0; padding-top: 4px; }
