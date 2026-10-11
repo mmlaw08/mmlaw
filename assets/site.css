@@ -1331,3 +1331,9 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .checklist li.ck-link:hover { border-color: var(--accent); }
 .checklist li.ck-link a:hover span { text-decoration: underline; text-underline-offset: 3px; }
 @media (max-width: 640px) { .checklist li.ck-link { padding: 0; } .checklist li.ck-link a { padding: 11px 12px; } }
+
+/* page headers use the full content width on desktop (title wide, lead slightly narrower for readability) */
+.ph-in { max-width: none; }
+.page-hero .h1-page { max-width: none; }
+.page-hero .lead { max-width: 56rem; }
+.sec-title { max-width: 60rem; }
