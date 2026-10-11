@@ -80,7 +80,7 @@
 - [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
 
 -
-- [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+- [ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 -
 - [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)

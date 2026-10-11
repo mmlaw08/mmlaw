@@ -366,7 +366,7 @@
 
 ## თაღლითობა
 
-[გვერდის ნახვა](https://mmlaw.ge/ka/taghlitobis-advokati/)
+[გვერდის ნახვა](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 ### ვალის დაუბრუნებლობა თაღლითობაა?
 
@@ -490,7 +490,7 @@
 
 ## ნარკოტიკის შეძენა-შენახვა
 
-[გვერდის ნახვა](https://mmlaw.ge/ka/narkotikis-shenakhvis-advokati/)
+[გვერდის ნახვა](https://mmlaw.ge/ka/narkotikis-shenakhva-mukhli-260/)
 
 ### რამდენი გრამი მარიხუანაა დანაშაული?
 

@@ -55,7 +55,7 @@
 
 ## კონკრეტული საქმეები
 
-- [თაღლითობა](https://mmlaw.ge/ka/taghlitobis-advokati/)
+- [თაღლითობა](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 - [ფინანსური დანაშაულის დაზარალებულები](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
 
@@ -108,7 +108,7 @@
 - [#ბიზნესი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
-- [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+- [ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 -
 - [ფულის გათეთრების საქმეები](https://mmlaw.ge/ka/pulis-gatetreba/)

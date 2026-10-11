@@ -75,7 +75,7 @@
 - [კორუფციული დანაშაულის ადვოკატი](https://mmlaw.ge/ka/koruptsiuli-danashaulis-advokati/)
 
 -
-- [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+- [ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 -
 - [ფულის გათეთრების საქმეები](https://mmlaw.ge/ka/pulis-gatetreba/)

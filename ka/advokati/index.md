@@ -233,7 +233,7 @@ MMLAW-ის ადვოკატები იცავენ ფიზიკ�
 
 [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 
-### [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+### [ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 დაცვა თაღლითობის ბრალდებისას და დაზარალებულის თანხის დაბრუნება — ინვესტიცია, სესხი, პირამიდა, კრიპტო.
 
@@ -245,7 +245,7 @@ MMLAW-ის ადვოკატები იცავენ ფიზიკ�
 
 - სესხისა და ბიზნესგარიგების თაღლითობა
 
-[თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+[ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 ### [ფინანსური დანაშაულის დაზარალებული](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
 
@@ -345,7 +345,7 @@ MMLAW-ის ადვოკატები იცავენ ფიზიკ�
 
 [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
 
-### [ნარკოტიკის შენახვის ადვოკატი](https://mmlaw.ge/ka/narkotikis-shenakhvis-advokati/)
+### [ადვოკატი ნარკოტიკის შენახვის საქმეებზე](https://mmlaw.ge/ka/narkotikis-shenakhva-mukhli-260/)
 
 დაცვა ნარკოტიკის შეძენა-შენახვის ბრალდებისას: 260-ე მუხლი, ოდენობები, მცირე ოდენობა და ადმინისტრაციული საქმე.
 
@@ -357,7 +357,7 @@ MMLAW-ის ადვოკატები იცავენ ფიზიკ�
 
 - აღკვეთის ღონისძიება — გირაო პატიმრობის ნაცვლად
 
-[ნარკოტიკის შენახვის ადვოკატი](https://mmlaw.ge/ka/narkotikis-shenakhvis-advokati/)
+[ადვოკატი ნარკოტიკის შენახვის საქმეებზე](https://mmlaw.ge/ka/narkotikis-shenakhva-mukhli-260/)
 
 ### [იურიდიული დახმარება უცხოელებისთვის საქართველოში](https://mmlaw.ge/ka/utskhoelebistvis/)
 

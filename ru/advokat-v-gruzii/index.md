@@ -345,7 +345,7 @@
 
 [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
 
-### [Адвокат по хранению наркотиков](https://mmlaw.ge/ru/advokat-po-khraneniyu-narkotikov/)
+### [Адвокат по делам о хранении наркотиков](https://mmlaw.ge/ru/khranenie-narkotikov-statya-260/)
 
 Защита по обвинению в приобретении и хранении наркотиков: статья 260, размеры, малый размер и административные дела.
 
@@ -357,7 +357,7 @@
 
 - Мера пресечения — залог вместо ареста
 
-[Адвокат по хранению наркотиков](https://mmlaw.ge/ru/advokat-po-khraneniyu-narkotikov/)
+[Адвокат по делам о хранении наркотиков](https://mmlaw.ge/ru/khranenie-narkotikov-statya-260/)
 
 ### [Юридическая помощь иностранцам в Грузии](https://mmlaw.ge/ru/inostrantsam/)
 

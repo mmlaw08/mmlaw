@@ -490,7 +490,7 @@
 
 ## Хранение наркотиков
 
-[Открыть страницу](https://mmlaw.ge/ru/advokat-po-khraneniyu-narkotikov/)
+[Открыть страницу](https://mmlaw.ge/ru/khranenie-narkotikov-statya-260/)
 
 ### Сколько граммов марихуаны — преступление в Грузии?
 

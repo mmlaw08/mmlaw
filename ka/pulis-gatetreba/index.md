@@ -67,7 +67,7 @@
 - [ეკონომიკური დანაშაულის ადვოკატი](https://mmlaw.ge/ka/ekonomikuri-danashaulis-advokati/)
 
 -
-- [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+- [ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 -
 - [კონტრაბანდა და საბაჟო დარღვევები](https://mmlaw.ge/ka/kontrabanda/)

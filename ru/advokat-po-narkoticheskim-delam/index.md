@@ -73,7 +73,7 @@
 
 ## Конкретные дела
 
-- [Хранение наркотиков](https://mmlaw.ge/ru/advokat-po-khraneniyu-narkotikov/)
+- [Хранение наркотиков](https://mmlaw.ge/ru/khranenie-narkotikov-statya-260/)
 
 ## Вопросы и ответы
 

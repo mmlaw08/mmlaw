@@ -73,7 +73,7 @@
 
 ## კონკრეტული საქმეები
 
-- [ნარკოტიკის შეძენა-შენახვა](https://mmlaw.ge/ka/narkotikis-shenakhvis-advokati/)
+- [ნარკოტიკის შეძენა-შენახვა](https://mmlaw.ge/ka/narkotikis-shenakhva-mukhli-260/)
 
 ## კითხვები და პასუხები
 

@@ -70,7 +70,7 @@
 - [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 -
-- [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+- [ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 -
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
