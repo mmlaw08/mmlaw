@@ -45,15 +45,11 @@ By law, a bribe-giver is released from criminal liability if they voluntarily re
 
 - Trading in influence
 
-- Abuse of official power
+- [Abuse of official power](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
-- Exceeding official power
+- [Exceeding official power](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
 - Checking covert evidence
-
-## Specific cases
-
-- [Abuse of office](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
 ## Questions & answers
 

@@ -1326,3 +1326,8 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .pun-qty tr { display: table-row; padding: 0; border: 0; }
   .pun-qty th, .pun-qty td, .pun-qty tbody th { display: table-cell; padding: 10px 12px; border-top: 1px solid var(--line); }
 }
+.checklist li.ck-link { padding: 0; }
+.checklist li.ck-link a { display: flex; gap: 10px; align-items: flex-start; flex: 1; padding: 12px 14px; color: var(--fg); text-decoration: none; border-radius: 10px; }
+.checklist li.ck-link:hover { border-color: var(--accent); }
+.checklist li.ck-link a:hover span { text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 640px) { .checklist li.ck-link { padding: 0; } .checklist li.ck-link a { padding: 11px 12px; } }

@@ -41,37 +41,23 @@
 
 ## ჩვენი მომსახურება
 
-- გადასახადისთვის თავის არიდება
+- [გადასახადისთვის თავის არიდება](https://mmlaw.ge/ka/sagadasakhado-advokati/)
 
-- ფულის გათეთრება
+- [ფულის გათეთრება](https://mmlaw.ge/ka/pulis-gatetreba/)
 
-- საბაჟო წესების დარღვევა
+- [საბაჟო წესების დარღვევა](https://mmlaw.ge/ka/kontrabanda/)
 
-- მითვისება და გაფლანგვა კომპანიაში
+- [მითვისება და გაფლანგვა კომპანიაში](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
 
-- დაცვა საგადასახადო შემოწმებისას
+- [დაცვა საგადასახადო შემოწმებისას](https://mmlaw.ge/ka/sagadasakhado-advokati/)
 
 - კომპანიის ხელმძღვანელების დაცვა
-
-## კონკრეტული საქმეები
 
 - [თაღლითობა](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 - [ფინანსური დანაშაულის დაზარალებულები](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
 
-- [საგადასახადო დავები](https://mmlaw.ge/ka/sagadasakhado-advokati/)
-
-- [ფულის გათეთრება](https://mmlaw.ge/ka/pulis-gatetreba/)
-
 - [ქონებაზე ყადაღა და ჩამორთმევა](https://mmlaw.ge/ka/konebaze-yadagha-da-chamortmeva/)
-
-- [კონტრაბანდა და საბაჟო](https://mmlaw.ge/ka/kontrabanda/)
-
-## დანაშაულები და სასჯელები
-
-- [მითვისება ან გაფლანგვა · მუხლი 182](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
-
-[ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 
 ## კითხვები და პასუხები
 

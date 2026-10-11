@@ -53,11 +53,7 @@ A corporate lawyer helps you set up a company, draft the charter and shareholder
 
 - Compliance and regulatory advice
 
-- Restructuring and liquidation
-
-## Specific cases
-
-- [Director liability and insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+- [Restructuring and liquidation](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
 ## Questions & answers
 

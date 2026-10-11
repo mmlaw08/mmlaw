@@ -55,7 +55,7 @@ A person must be charged within 48 hours of arrest, and within the following 24 
 
 ## Our services
 
-- Defence against possession charges
+- [Defence against possession charges](https://mmlaw.ge/en/drug-possession-lawyer/)
 
 - Defence in sale and supply cases
 
@@ -70,10 +70,6 @@ A person must be charged within 48 hours of arrest, and within the following 24 
 - Appealing a preventive measure
 
 - Plea agreements and appeals
-
-## Specific cases
-
-- [Drug possession](https://mmlaw.ge/en/drug-possession-lawyer/)
 
 ## Questions & answers
 
