@@ -74,6 +74,9 @@ Choosing the wrong type is a common reason. A refusal can be appealed — deadli
 - [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
 
 -
+- [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -85,16 +88,13 @@ Choosing the wrong type is a common reason. A refusal can be appealed — deadli
 -
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
--
-- [Work permit in Georgia for foreigners from 2026](https://mmlaw.ge/en/blog/work-permit-georgia/)
-
 Blog
 
 ## All articles
 
-- [Administrative law](https://mmlaw.ge/en/blog/refused-entry-to-georgia/) — Refused entry to Georgia: reasons and what to do October 11, 2026 · 5 min read
+- [Criminal defense](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/) — Foreigner arrested in Georgia: rights and first steps October 11, 2026 · 5 min read
 
-- [Administrative law](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/) — Overstaying in Georgia: fines and entry bans October 11, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/deportation-from-georgia/) — Deportation from Georgia: grounds, deadlines and appeal October 11, 2026 · 5 min read
 
 ---
 Source: https://mmlaw.ge/en/blog/residence-permit-types-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

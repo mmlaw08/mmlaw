@@ -75,6 +75,9 @@
 - [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
 
 -
+- [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
@@ -89,16 +92,13 @@
 -
 - [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
 
--
-- [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
-
 Блог
 
 ## Все статьи
 
-- [Административное право](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/) — Отказ во въезде в Грузию: причины и что делать 11 октября 2026 г. · 5 мин чтения
+- [Уголовная защита](https://mmlaw.ge/ru/blog/inostranets-zaderzhan-v-gruzii/) — Иностранца задержали в Грузии: права и первые шаги 11 октября 2026 г. · 5 мин чтения
 
-- [Административное право](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/) — Просрочка пребывания в Грузии: штраф и запрет въезда 11 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/) — Выдворение из Грузии: основания, сроки и обжалование 11 октября 2026 г. · 5 мин чтения
 
 ---
 Source: https://mmlaw.ge/ru/blog/razvod-v-gruzii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

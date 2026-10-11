@@ -68,6 +68,9 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 -
+- [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -85,16 +88,13 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 -
 - [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
 
--
-- [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
-
 Blog
 
 ## All articles
 
-- [Administrative law](https://mmlaw.ge/en/blog/refused-entry-to-georgia/) — Refused entry to Georgia: reasons and what to do October 11, 2026 · 5 min read
+- [Criminal defense](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/) — Foreigner arrested in Georgia: rights and first steps October 11, 2026 · 5 min read
 
-- [Administrative law](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/) — Overstaying in Georgia: fines and entry bans October 11, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/deportation-from-georgia/) — Deportation from Georgia: grounds, deadlines and appeal October 11, 2026 · 5 min read
 
 ---
 Source: https://mmlaw.ge/en/blog/how-to-appeal-a-fine/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

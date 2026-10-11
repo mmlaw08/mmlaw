@@ -70,6 +70,14 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Blog](https://mmlaw.ge/en/blog/)
 
+- [Foreigner arrested in Georgia: rights and first steps](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/)
+
+- [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
+
+- [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
+
+- [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
+
 - [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
 
 - [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)

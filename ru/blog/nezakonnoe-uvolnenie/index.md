@@ -100,9 +100,9 @@
 
 ## Все статьи
 
-- [Административное право](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/) — Отказ во въезде в Грузию: причины и что делать 11 октября 2026 г. · 5 мин чтения
+- [Уголовная защита](https://mmlaw.ge/ru/blog/inostranets-zaderzhan-v-gruzii/) — Иностранца задержали в Грузии: права и первые шаги 11 октября 2026 г. · 5 мин чтения
 
-- [Административное право](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/) — Просрочка пребывания в Грузии: штраф и запрет въезда 11 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/) — Выдворение из Грузии: основания, сроки и обжалование 11 октября 2026 г. · 5 мин чтения
 
 ---
 Source: https://mmlaw.ge/ru/blog/nezakonnoe-uvolnenie/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

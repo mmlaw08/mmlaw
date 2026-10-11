@@ -60,6 +60,9 @@
 - [#თქვენი უფლებები](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
 
 -
+- [უცხოელი დააკავეს საქართველოში: უფლებები და პირველი ნაბიჯები](https://mmlaw.ge/ka/blogi/utskhoeli-dakaves-sakartveloshi/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
-
--
-- [ოჯახში ძალადობის ბრალდება: რა უნდა იცოდეთ](https://mmlaw.ge/ka/blogi/ojakhshi-dzaladobis-braldeba/)
 
 უცხოელებისთვის
 

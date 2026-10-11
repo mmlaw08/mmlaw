@@ -78,6 +78,9 @@
 - [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
 
 -
+- [Выдворение из Грузии: основания, сроки и обжалование](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
@@ -89,16 +92,13 @@
 -
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
--
-- [Разрешение на работу в Грузии для иностранцев с 2026 года](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/)
-
 Блог
 
 ## Все статьи
 
-- [Административное право](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/) — Отказ во въезде в Грузию: причины и что делать 11 октября 2026 г. · 5 мин чтения
+- [Уголовная защита](https://mmlaw.ge/ru/blog/inostranets-zaderzhan-v-gruzii/) — Иностранца задержали в Грузии: права и первые шаги 11 октября 2026 г. · 5 мин чтения
 
-- [Административное право](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/) — Разрешение на работу в Грузии для иностранцев с 2026 года 11 октября 2026 г. · 5 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/) — Выдворение из Грузии: основания, сроки и обжалование 11 октября 2026 г. · 5 мин чтения
 
 ---
 Source: https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

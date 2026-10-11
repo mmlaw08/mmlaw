@@ -239,11 +239,11 @@ Blog
 
 ## Legal insights
 
-- [Administrative law](https://mmlaw.ge/en/blog/refused-entry-to-georgia/) — Refused entry to Georgia: reasons and what to do October 11, 2026 · 5 min read
+- [Criminal defense](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/) — Foreigner arrested in Georgia: rights and first steps October 11, 2026 · 5 min read
 
-- [Administrative law](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/) — Overstaying in Georgia: fines and entry bans October 11, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/deportation-from-georgia/) — Deportation from Georgia: grounds, deadlines and appeal October 11, 2026 · 5 min read
 
-- [Administrative law](https://mmlaw.ge/en/blog/work-permit-georgia/) — Work permit in Georgia for foreigners from 2026 October 11, 2026 · 5 min read
+- [Family law](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/) — Recognising a foreign court decision in Georgia October 11, 2026 · 4 min read
 
 ---
 Source: https://mmlaw.ge/en/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

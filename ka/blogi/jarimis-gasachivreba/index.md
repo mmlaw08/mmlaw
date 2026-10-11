@@ -68,6 +68,9 @@
 - [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 -
+- [საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
@@ -85,16 +88,13 @@
 -
 - [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
 
--
-- [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
-
 ბლოგი
 
 ## ყველა სტატია
 
-- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/) — საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
+- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/utskhoeli-dakaves-sakartveloshi/) — უცხოელი დააკავეს საქართველოში: უფლებები და პირველი ნაბიჯები 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
-- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/) — საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა 11 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/) — საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
 ---
 Source: https://mmlaw.ge/ka/blogi/jarimis-gasachivreba/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

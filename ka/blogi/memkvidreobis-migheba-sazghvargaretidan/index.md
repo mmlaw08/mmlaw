@@ -78,6 +78,12 @@
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
+- [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
+
+-
+- [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
+
+-
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
@@ -87,9 +93,9 @@
 
 ## ყველა სტატია
 
-- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/) — საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
+- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/utskhoeli-dakaves-sakartveloshi/) — უცხოელი დააკავეს საქართველოში: უფლებები და პირველი ნაბიჯები 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
-- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/) — საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა 11 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/) — საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
 ---
 Source: https://mmlaw.ge/ka/blogi/memkvidreobis-migheba-sazghvargaretidan/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

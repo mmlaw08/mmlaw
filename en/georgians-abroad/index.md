@@ -152,6 +152,12 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
 
 -
+- [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
+
+-
+- [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
+
+-
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
@@ -162,12 +168,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
-
--
-- [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
-
--
-- [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
 
 ---
 Source: https://mmlaw.ge/en/georgians-abroad/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

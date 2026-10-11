@@ -71,9 +71,9 @@
 
 ## ყველა სტატია
 
-- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/) — საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
+- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/utskhoeli-dakaves-sakartveloshi/) — უცხოელი დააკავეს საქართველოში: უფლებები და პირველი ნაბიჯები 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
-- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/) — საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა 11 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/) — საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
 ---
 Source: https://mmlaw.ge/ka/blogi/upaso-advokati/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

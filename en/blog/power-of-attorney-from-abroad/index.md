@@ -5,11 +5,13 @@ How to give a power of attorney from abroad for property, inheritance or court m
 
 Living abroad and need to sell a flat in Georgia, accept an inheritance or run a court case? You don't have to travel — a properly drafted power of attorney is enough.
 
-## Two ways
+## Three ways
 
 - At a Georgian consulate — the consul certifies the power of attorney and it is valid in Georgia without further certification
 
 - At a local notary — then, depending on the country, it needs an apostille or consular legalisation (documents from some countries need neither) and, in Georgia, a certified Georgian translation
+
+- Online with a notary in Georgia — if you have a Georgian passport: by video call, with two witnesses present at the notary's office
 
 ## What the power of attorney should say
 
@@ -29,7 +31,7 @@ A very broad power of attorney lets the representative deal with almost all your
 
 - We send you the text in Georgian and your language, tailored to your matter.
 
-- You sign at the consulate or a notary and send us the original.
+- You sign at the consulate, with a notary or online and, if needed, send us the original.
 
 - We arrange the translation and certification if needed and start the work.
 
@@ -79,24 +81,24 @@ Yes, at any time. You should notify both the representative and third parties.
 - [Accepting an inheritance in Georgia from abroad](https://mmlaw.ge/en/blog/inheritance-from-abroad/)
 
 -
+- [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
+
+-
+- [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
+
+-
 - [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
 
 -
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
-
--
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
-
 Blog
 
 ## All articles
 
-- [Administrative law](https://mmlaw.ge/en/blog/refused-entry-to-georgia/) — Refused entry to Georgia: reasons and what to do October 11, 2026 · 5 min read
+- [Criminal defense](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/) — Foreigner arrested in Georgia: rights and first steps October 11, 2026 · 5 min read
 
-- [Administrative law](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/) — Overstaying in Georgia: fines and entry bans October 11, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/deportation-from-georgia/) — Deportation from Georgia: grounds, deadlines and appeal October 11, 2026 · 5 min read
 
 ---
 Source: https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

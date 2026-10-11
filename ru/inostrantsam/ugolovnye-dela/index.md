@@ -60,6 +60,9 @@
 - [#Ваши права](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
 
 -
+- [Иностранца задержали в Грузии: права и первые шаги](https://mmlaw.ge/ru/blog/inostranets-zaderzhan-v-gruzii/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
-
--
-- [Обвинение в домашнем насилии: что нужно знать](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/)
 
 Иностранцам
 

@@ -646,6 +646,118 @@ Before it can be enforced, a foreign court decision generally has to be recognis
 ### What if the other parent took our child abroad?
 If a child has been wrongfully removed to or kept in a country that is party to the Hague Convention, you can ask for the child's return. Act quickly — time is critical in these cases.
 
+## Foreigner arrested in Georgia: rights and first steps
+URL: https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/ — published 2026-10-11
+
+When a foreigner is arrested in Georgia, the language, an unfamiliar procedure and distance from family make everything harder. The first hours matter most.
+
+### Your rights
+- A lawyer — from the first contact with the investigating authority
+- A free interpreter if you don't speak Georgian — in that case a lawyer is also mandatory
+- The right to remain silent — you don't have to give a statement
+- Having your country's consulate informed — ask for it
+- Having a relative informed of your arrest
+
+### What happens after the arrest
+You must be charged within 48 hours of the arrest, or released. Within the next 24 hours after the charge, a court decides on a preventive measure — for example, bail or pre-trial detention.
+
+### Why the risk is higher for a foreigner
+The prosecution often argues that a foreigner may leave the country, so the risk of a detention request is high. The lawyer's job is to show the court your ties to Georgia — home, job, family, business — and to propose a less severe measure.
+
+### Mistakes to avoid
+- Don't sign any document you don't understand
+- Don't give explanations without your lawyer — not even in an "informal chat"
+- Don't agree to a plea agreement before reviewing the evidence with your lawyer
+
+### Expulsion as a consequence
+For a foreigner, a criminal case can have an extra consequence: the court can impose expulsion from Georgia and an entry ban as a penalty. Expulsion can also come up after a sentence has been served. So the defence strategy has to take this risk into account.
+
+### If your family is abroad
+A family member can contact us by phone or WhatsApp — we sign the engagement remotely and step into the case right away. We keep the family informed in a language they understand.
+
+## Deportation from Georgia: grounds, deadlines and appeal
+URL: https://mmlaw.ge/en/blog/deportation-from-georgia/ — published 2026-10-11
+
+Expulsion is decided by the competent body of the Ministry of Internal Affairs. Deadlines are very short, so it pays to contact a lawyer on the very first day.
+
+### When a foreigner can be expelled
+Under Article 51 of the Law on the Legal Status of Aliens and Stateless Persons, grounds include a foreigner who:
+
+- Entered Georgia without a lawful basis
+- No longer has a lawful basis to stay — for example, their period expired or a residence permit was refused
+- Is believed to threaten state or public security
+- Systematically breaks the law
+- Obtained the right to stay using a false document
+- Is serving or has served a sentence for a crime, or has a suspended sentence
+- Worked without the right to labour activity — a ground that matters especially since 2026
+
+### How the procedure works
+- Within 10 working days of discovering the ground, the Ministry considers expulsion.
+- You are interviewed — you are notified of the date 2 working days in advance.
+- The decision must be translated into a language you understand and must state how to appeal.
+- As a rule, you are given a period to leave voluntarily — from 7 to 30 calendar days.
+
+### Appeal — only 10 days
+The decision can be appealed in court within 10 days of being served. Appealing does not by itself give you a residence permit or postpone your obligation to leave, so a lawyer often looks for other routes at the same time.
+
+### The temporary accommodation centre
+Before or after the expulsion decision, a foreigner can be placed in a temporary accommodation centre for 3 months. A court can extend this by up to 6 more months — 9 months in total at most.
+
+### What a lawyer does
+- Checks whether the decision has a lawful basis
+- Represents you at the interview and gathers evidence — family, job, property
+- Files the appeal in court on time
+- Looks for a lawful basis to stay — for example, the right type of residence permit
+
+## Recognising a foreign court decision in Georgia
+URL: https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/ — published 2026-10-11
+
+Divorced abroad, or a foreign court ordered alimony or a debt to be paid? For that decision to work in Georgia — for example, for the divorce to be registered here or the alimony enforced — it usually has to be recognised in Georgia first.
+
+### Who recognises it
+Under Article 68 of the Law on Private International Law, Georgia recognises foreign court decisions that have entered into force. Recognition is decided by the Supreme Court of Georgia.
+
+### When recognition is not needed
+A decision in a marriage case does not need recognition if, when it was made, both spouses were citizens of the country whose authority made it. If at least one spouse is a Georgian citizen, recognition is usually needed.
+
+### When recognition can be refused
+- The case falls under Georgia's exclusive jurisdiction
+- A party was not properly summoned to court, or there were other procedural violations
+- A Georgian court has already decided the same dispute, or the same case is pending in Georgia
+- Under Georgian law the foreign court was not competent to hear the case
+- That country does not recognise Georgian court decisions
+- The decision contradicts the fundamental principles of Georgian law
+
+### The documents you need
+- A copy of the court decision
+- Proof that the decision has entered into force
+- Proof that the other party was properly summoned
+- An apostille or consular legalisation, depending on the country (documents from some countries need neither)
+- A certified Georgian translation
+
+### Recognition and enforcement
+Recognition and enforcement are different things. If the decision requires money to be paid — alimony or a debt, for example — enforcement is a separate step. A lawyer plans both together so no time is lost.
+
+## Divorce from abroad: without coming to Georgia
+URL: https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/ — published 2026-10-11
+
+Many Georgians living abroad think they have to come to Georgia to divorce. Often they don't — the route depends on whether you both agree.
+
+### If you both agree
+Under Article 1123 of the Civil Code, if there is no dispute between the spouses, the divorce is registered with the civil registry — without a court. Abroad, a divorce can also be registered at a Georgian consulate on the spouses' joint application. Check with your consulate which documents it requires.
+
+### If there is a dispute
+If one spouse objects, or there is a dispute about a child, alimony or property, a court decides on the divorce. A lawyer can run this case under a power of attorney — you don't need to be in Georgia. The court may give the spouses time to reconcile, no longer than 6 months.
+
+### Power of attorney
+You can give a power of attorney at a Georgian consulate, with a local notary (with an apostille or legalisation, depending on the country) or, if you have a Georgian passport, online — with a notary in Georgia by video call, with two witnesses present.
+
+### If you already divorced abroad
+If a foreign court granted the divorce and at least one spouse is a Georgian citizen, the decision usually has to be recognised in Georgia by the Supreme Court. Until then, you are still considered married in Georgia.
+
+### Children and property
+When granting a divorce, the court can also decide where the child lives, alimony and the division of property. If the property is in Georgia, it is often simpler to settle these questions here.
+
 ## Refused entry to Georgia: reasons and what to do
 URL: https://mmlaw.ge/en/blog/refused-entry-to-georgia/ — published 2026-10-11
 
@@ -778,9 +890,10 @@ URL: https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/ — published 2026-
 
 Living abroad and need to sell a flat in Georgia, accept an inheritance or run a court case? You don't have to travel — a properly drafted power of attorney is enough.
 
-### Two ways
+### Three ways
 - At a Georgian consulate — the consul certifies the power of attorney and it is valid in Georgia without further certification
 - At a local notary — then, depending on the country, it needs an apostille or consular legalisation (documents from some countries need neither) and, in Georgia, a certified Georgian translation
+- Online with a notary in Georgia — if you have a Georgian passport: by video call, with two witnesses present at the notary's office
 
 ### What the power of attorney should say
 - Full details of both parties — names and ID or passport numbers
@@ -793,7 +906,7 @@ A very broad power of attorney lets the representative deal with almost all your
 
 ### How we work
 - We send you the text in Georgian and your language, tailored to your matter.
-- You sign at the consulate or a notary and send us the original.
+- You sign at the consulate, with a notary or online and, if needed, send us the original.
 - We arrange the translation and certification if needed and start the work.
 
 ## Free criminal lawyer in Georgia: who qualifies

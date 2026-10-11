@@ -60,6 +60,9 @@ Related practice area: [Criminal defense](https://mmlaw.ge/en/criminal-defense-l
 - [#Your rights](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 -
+- [Foreigner arrested in Georgia: rights and first steps](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -79,9 +82,6 @@ Related practice area: [Criminal defense](https://mmlaw.ge/en/criminal-defense-l
 
 -
 - [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
 
 For foreigners
 
