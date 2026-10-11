@@ -72,22 +72,22 @@
 - [Адвокат по коррупционным делам](https://mmlaw.ge/ru/advokat-po-korruptsionnym-delam/)
 
 -
+- [Получение взятки — Статья 338](https://mmlaw.ge/ru/prestupleniya/poluchenie-vzyatki-statya-338/)
+
+-
+- [Дача взятки — Статья 339](https://mmlaw.ge/ru/prestupleniya/dacha-vzyatki-statya-339/)
+
+-
+- [Торговля влиянием — Статья 339¹](https://mmlaw.ge/ru/prestupleniya/torgovlya-vliyaniem-statya-339-1/)
+
+-
+- [Получение запрещённого подарка — Статья 340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
+
+-
+- [Служебный подлог — Статья 341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
-
--
-- [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
-
--
-- [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
 
 Области практики
 

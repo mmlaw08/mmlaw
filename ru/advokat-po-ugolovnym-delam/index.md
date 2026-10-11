@@ -105,6 +105,10 @@
 
 - Защита интересов потерпевших
 
+- [Снятие судимости](https://mmlaw.ge/ru/snyatie-sudimosti/)
+
+- [Условно-досрочное освобождение](https://mmlaw.ge/ru/uslovno-dosrochnoe-osvobozhdenie/)
+
 ## Преступления и наказания
 
 - [Кража · Статья 177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
@@ -122,6 +126,22 @@
 - [Вред здоровью · Статья 117, 118, 120](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
 
 - [Хулиганство · Статья 239](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/)
+
+- [ДТП с вредом здоровью · Статья 276](https://mmlaw.ge/ru/prestupleniya/dtp-statya-276/)
+
+- [Получение взятки · Статья 338](https://mmlaw.ge/ru/prestupleniya/poluchenie-vzyatki-statya-338/)
+
+- [Дача взятки · Статья 339](https://mmlaw.ge/ru/prestupleniya/dacha-vzyatki-statya-339/)
+
+- [Торговля влиянием · Статья 339¹](https://mmlaw.ge/ru/prestupleniya/torgovlya-vliyaniem-statya-339-1/)
+
+- [Получение запрещённого подарка · Статья 340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
+
+- [Служебный подлог · Статья 341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
+
+- [Неповиновение полиции · Статья 173](https://mmlaw.ge/ru/prestupleniya/nepovinovenie-politsii-statya-173/)
+
+- [Мелкое хулиганство · Статья 166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
 
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 

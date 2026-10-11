@@ -87,7 +87,7 @@
 - [კონტრაბანდა და საბაჟო დარღვევები](https://mmlaw.ge/ka/kontrabanda/)
 
 -
-- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
+- [ქრთამის აღება — მუხლი 338](https://mmlaw.ge/ka/danashaulebi/krtamis-agheba-mukhli-338/)
 
 პრაქტიკის სფეროები
 

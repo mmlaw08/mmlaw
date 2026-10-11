@@ -359,6 +359,34 @@ Defence against drug purchase and possession charges: Article 260, quantity thre
 
 [Drug possession lawyer](https://mmlaw.ge/en/drug-possession-lawyer/)
 
+### [Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)
+
+When a criminal record expires automatically and how to have it removed early through the court.
+
+- Calculating the expiry date in your case
+
+- Application for early removal of the record
+
+- Evidence of impeccable conduct
+
+- Representation in court
+
+[Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)
+
+### [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
+
+When a convicted person can be released early, who decides, and how to prepare for the board.
+
+- Calculating when you can apply
+
+- Preparing the application and the evidence
+
+- Representation before the board or the court
+
+- Replacing the rest of the sentence with a lighter one
+
+[Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

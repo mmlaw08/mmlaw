@@ -105,6 +105,10 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - Representation of victims
 
+- [Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)
+
+- [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
+
 ## Crimes and penalties
 
 - [Theft · Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)
@@ -122,6 +126,22 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 - [Bodily harm · Article 117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
 
 - [Hooliganism · Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
+
+- [Traffic accident causing injury · Article 276](https://mmlaw.ge/en/crimes/traffic-accident-article-276/)
+
+- [Bribe-taking · Article 338](https://mmlaw.ge/en/crimes/bribe-taking-article-338/)
+
+- [Bribe-giving · Article 339](https://mmlaw.ge/en/crimes/bribe-giving-article-339/)
+
+- [Trading in influence · Article 339¹](https://mmlaw.ge/en/crimes/trading-in-influence-article-339-1/)
+
+- [Accepting a prohibited gift · Article 340](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/)
+
+- [Official forgery · Article 341](https://mmlaw.ge/en/crimes/official-forgery-article-341/)
+
+- [Disobeying the police · Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+
+- [Petty hooliganism · Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 

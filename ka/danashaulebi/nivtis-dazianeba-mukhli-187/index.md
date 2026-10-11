@@ -115,9 +115,5 @@
 
 - [მითვისება ან გაფლანგვა](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/) — მუხლი 182 მინდობილი ქონების ან თანხის უკანონოდ მითვისება ან დახარჯვა — ხშირად სამსახურში. სასჯელი 11 წლამდე.
 
-- [ჯანმრთელობის დაზიანება](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/) — მუხლი 117, 118, 120 ჯანმრთელობის განზრახ მსუბუქი, ნაკლებად მძიმე და მძიმე დაზიანება — სასჯელი ჯარიმიდან 14 წლამდე.
-
-- [ხულიგნობა](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/) — მუხლი 239 საზოგადოებრივი წესრიგის უხეში დარღვევა ძალადობით ან მისი მუქარით. სასჯელი ჯარიმიდან 7 წლამდე.
-
 ---
 Source: https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

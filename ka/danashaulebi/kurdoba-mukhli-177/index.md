@@ -115,9 +115,5 @@
 
 - [ნივთის დაზიანება](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/) — მუხლი 187 სხვისი ნივთის დაზიანება ან განადგურება მნიშვნელოვანი ზიანით. სასჯელი ჯარიმიდან 12 წლამდე.
 
-- [ჯანმრთელობის დაზიანება](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/) — მუხლი 117, 118, 120 ჯანმრთელობის განზრახ მსუბუქი, ნაკლებად მძიმე და მძიმე დაზიანება — სასჯელი ჯარიმიდან 14 წლამდე.
-
-- [ხულიგნობა](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/) — მუხლი 239 საზოგადოებრივი წესრიგის უხეში დარღვევა ძალადობით ან მისი მუქარით. სასჯელი ჯარიმიდან 7 წლამდე.
-
 ---
 Source: https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

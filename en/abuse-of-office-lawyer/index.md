@@ -72,22 +72,22 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Corruption crime lawyer](https://mmlaw.ge/en/corruption-crime-lawyer/)
 
 -
+- [Bribe-taking — Article 338](https://mmlaw.ge/en/crimes/bribe-taking-article-338/)
+
+-
+- [Bribe-giving — Article 339](https://mmlaw.ge/en/crimes/bribe-giving-article-339/)
+
+-
+- [Trading in influence — Article 339¹](https://mmlaw.ge/en/crimes/trading-in-influence-article-339-1/)
+
+-
+- [Accepting a prohibited gift — Article 340](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/)
+
+-
+- [Official forgery — Article 341](https://mmlaw.ge/en/crimes/official-forgery-article-341/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-
--
-- [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
-
--
-- [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
 
 Practice areas
 

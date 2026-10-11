@@ -87,7 +87,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
 
 -
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [Bribe-taking — Article 338](https://mmlaw.ge/en/crimes/bribe-taking-article-338/)
 
 Practice areas
 

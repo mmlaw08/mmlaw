@@ -115,9 +115,5 @@ Criminal law
 
 - [Damage to property](https://mmlaw.ge/en/crimes/property-damage-article-187/) — Article 187 Damaging or destroying someone else's property causing significant damage. Penalties from a fine to 12 years.
 
-- [Bodily harm](https://mmlaw.ge/en/crimes/bodily-harm/) — Article 117, 118, 120 Intentional minor, less serious and serious bodily harm — penalties from a fine to 14 years.
-
-- [Hooliganism](https://mmlaw.ge/en/crimes/hooliganism-article-239/) — Article 239 A gross breach of public order with violence or the threat of violence. Penalties from a fine to 7 years.
-
 ---
 Source: https://mmlaw.ge/en/crimes/violent-robbery-article-179/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

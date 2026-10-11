@@ -39,17 +39,25 @@
 
 ## ჩვენი მომსახურება
 
-- დაცვა ქრთამის აღების ბრალდებისას
+- [დაცვა ქრთამის აღების ბრალდებისას](https://mmlaw.ge/ka/danashaulebi/krtamis-agheba-mukhli-338/)
 
-- დაცვა ქრთამის მიცემის ბრალდებისას
+- [დაცვა ქრთამის მიცემის ბრალდებისას](https://mmlaw.ge/ka/danashaulebi/krtamis-mitsema-mukhli-339/)
 
-- დაცვა ზეგავლენით ვაჭრობის ბრალდებისას
+- [დაცვა ზეგავლენით ვაჭრობის ბრალდებისას](https://mmlaw.ge/ka/danashaulebi/zegavlenit-vachroba-mukhli-339-1/)
 
 - [დაცვა უფლებამოსილების ბოროტად გამოყენების ბრალდებისას](https://mmlaw.ge/ka/uplebamosilebis-borotad-gamoyeneba/)
 
 - [დაცვა უფლებამოსილების გადამეტების ბრალდებისას](https://mmlaw.ge/ka/uplebamosilebis-borotad-gamoyeneba/)
 
 - ფარული მტკიცებულებების შემოწმება
+
+## დანაშაულები და სასჯელები
+
+- [აკრძალული საჩუქრის მიღება · მუხლი 340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
+
+- [სამსახურებრივი სიყალბე · მუხლი 341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
+
+[ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 
 ## კითხვები და პასუხები
 
@@ -90,22 +98,22 @@
 - [სამსახურებრივი უფლებამოსილების ბოროტად გამოყენება](https://mmlaw.ge/ka/uplebamosilebis-borotad-gamoyeneba/)
 
 -
+- [ქრთამის აღება — მუხლი 338](https://mmlaw.ge/ka/danashaulebi/krtamis-agheba-mukhli-338/)
+
+-
+- [ქრთამის მიცემა — მუხლი 339](https://mmlaw.ge/ka/danashaulebi/krtamis-mitsema-mukhli-339/)
+
+-
+- [ზეგავლენით ვაჭრობა — მუხლი 339¹](https://mmlaw.ge/ka/danashaulebi/zegavlenit-vachroba-mukhli-339-1/)
+
+-
+- [აკრძალული საჩუქრის მიღება — მუხლი 340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
+
+-
+- [სამსახურებრივი სიყალბე — მუხლი 341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
-
--
-- [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
-
--
-- [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
-
--
-- [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
 
 პრაქტიკის სფეროები
 

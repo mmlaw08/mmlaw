@@ -115,9 +115,5 @@
 
 - [Присвоение или растрата](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/) — Статья 182 Незаконное присвоение или трата вверенного имущества или денег — часто на работе. До 11 лет.
 
-- [Вред здоровью](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/) — Статья 117, 118, 120 Умышленный лёгкий, менее тяжкий и тяжкий вред здоровью — наказание от штрафа до 14 лет.
-
-- [Хулиганство](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/) — Статья 239 Грубое нарушение общественного порядка с насилием или угрозой насилия. Наказание — от штрафа до 7 лет.
-
 ---
 Source: https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -105,6 +105,10 @@
 
 - დაზარალებულის ინტერესების დაცვა
 
+- [ნასამართლობის მოხსნა](https://mmlaw.ge/ka/nasamartlobis-mokhsna/)
+
+- [პირობით ვადამდე გათავისუფლება](https://mmlaw.ge/ka/pirobit-vadamde-gatavisupleba/)
+
 ## დანაშაულები და სასჯელები
 
 - [ქურდობა · მუხლი 177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
@@ -122,6 +126,22 @@
 - [ჯანმრთელობის დაზიანება · მუხლი 117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
 
 - [ხულიგნობა · მუხლი 239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
+
+- [ავტოსაგზაო შემთხვევა ჯანმრთელობის დაზიანებით · მუხლი 276](https://mmlaw.ge/ka/danashaulebi/avtosagzao-shemtkhveva-mukhli-276/)
+
+- [ქრთამის აღება · მუხლი 338](https://mmlaw.ge/ka/danashaulebi/krtamis-agheba-mukhli-338/)
+
+- [ქრთამის მიცემა · მუხლი 339](https://mmlaw.ge/ka/danashaulebi/krtamis-mitsema-mukhli-339/)
+
+- [ზეგავლენით ვაჭრობა · მუხლი 339¹](https://mmlaw.ge/ka/danashaulebi/zegavlenit-vachroba-mukhli-339-1/)
+
+- [აკრძალული საჩუქრის მიღება · მუხლი 340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
+
+- [სამსახურებრივი სიყალბე · მუხლი 341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
+
+- [პოლიციის მოთხოვნისადმი დაუმორჩილებლობა · მუხლი 173](https://mmlaw.ge/ka/danashaulebi/daumorchilebloba-mukhli-173/)
+
+- [წვრილმანი ხულიგნობა · მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

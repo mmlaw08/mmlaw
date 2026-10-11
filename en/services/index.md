@@ -108,6 +108,18 @@ Defence against drug purchase and possession charges: Article 260, quantity thre
 Unlawfully buying or keeping a narcotic drug is punished under Article 260 of the Criminal Code of Georgia — if the amount exceeds the small amount. Buying, keeping or using a small amount is usually an administrative offence; repeating it becomes a crime under Article 273.
 [Drug possession lawyer](https://mmlaw.ge/en/drug-possession-lawyer/)
 
+## [Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)
+
+When a criminal record expires automatically and how to have it removed early through the court.
+Under Article 79 of the Criminal Code, a person has a criminal record from the day the guilty verdict enters into force until the record expires or is removed. An expired or removed record is no longer taken into account.
+[Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)
+
+## [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
+
+When a convicted person can be released early, who decides, and how to prepare for the board.
+Under Article 72 of the Criminal Code, early release from a fixed-term prison sentence is decided by the local board of the Special Penitentiary Service; for community service, corrective labour or house arrest — by a court. The rule does not apply to prisoners held in a special-risk facility.
+[Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

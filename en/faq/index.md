@@ -500,6 +500,38 @@ Up to 6 years in prison. Part 2 — 5 to 8 years; Part 3 — 8 to 20 years or li
 
 No. By law the quantity is the pure substance, without fillers. That is why checking the lab report matters so much.
 
+## Removing a criminal record
+
+[Open page](https://mmlaw.ge/en/criminal-record-removal/)
+
+### When will my criminal record expire?
+
+It depends on the sentence and the category of crime: for a suspended sentence — after the probation period; for imprisonment — 3, 6 or 8 years after serving it.
+
+### Can a criminal record be removed early?
+
+Yes. If you have behaved impeccably since serving the sentence, a court can remove the record at your request before the period ends.
+
+### What does a removed record mean?
+
+An expired or removed record is no longer taken into account — for example, when a new case is classified or a sentence is set.
+
+## Early release on parole
+
+[Open page](https://mmlaw.ge/en/early-release-on-parole/)
+
+### When is early release possible?
+
+For a less serious crime — after half of the sentence, for a serious crime — two-thirds, for an especially serious crime — three-quarters. In every case at least 6 months must be served.
+
+### Who decides?
+
+For imprisonment — the local board of the Special Penitentiary Service; for other sentences — a court.
+
+### Can the family hire a lawyer?
+
+Yes. A family member can contact us; we meet the prisoner and prepare the case.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

@@ -39,17 +39,25 @@
 
 ## Наши услуги
 
-- Защита по обвинению в получении взятки
+- [Защита по обвинению в получении взятки](https://mmlaw.ge/ru/prestupleniya/poluchenie-vzyatki-statya-338/)
 
-- Защита по обвинению в даче взятки
+- [Защита по обвинению в даче взятки](https://mmlaw.ge/ru/prestupleniya/dacha-vzyatki-statya-339/)
 
-- Защита по обвинению в торговле влиянием
+- [Защита по обвинению в торговле влиянием](https://mmlaw.ge/ru/prestupleniya/torgovlya-vliyaniem-statya-339-1/)
 
 - [Защита по обвинению в злоупотреблении полномочиями](https://mmlaw.ge/ru/zloupotreblenie-polnomochiyami/)
 
 - [Защита по обвинению в превышении полномочий](https://mmlaw.ge/ru/zloupotreblenie-polnomochiyami/)
 
 - Проверка негласных доказательств
+
+## Преступления и наказания
+
+- [Получение запрещённого подарка · Статья 340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
+
+- [Служебный подлог · Статья 341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
+
+[Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 
 ## Вопросы и ответы
 
@@ -90,22 +98,22 @@
 - [Злоупотребление и превышение должностных полномочий](https://mmlaw.ge/ru/zloupotreblenie-polnomochiyami/)
 
 -
+- [Получение взятки — Статья 338](https://mmlaw.ge/ru/prestupleniya/poluchenie-vzyatki-statya-338/)
+
+-
+- [Дача взятки — Статья 339](https://mmlaw.ge/ru/prestupleniya/dacha-vzyatki-statya-339/)
+
+-
+- [Торговля влиянием — Статья 339¹](https://mmlaw.ge/ru/prestupleniya/torgovlya-vliyaniem-statya-339-1/)
+
+-
+- [Получение запрещённого подарка — Статья 340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
+
+-
+- [Служебный подлог — Статья 341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
-
--
-- [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
-
--
-- [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
 
 Области практики
 

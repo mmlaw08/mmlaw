@@ -72,22 +72,22 @@
 - [კორუფციული დანაშაულის ადვოკატი](https://mmlaw.ge/ka/koruptsiuli-danashaulis-advokati/)
 
 -
+- [ქრთამის აღება — მუხლი 338](https://mmlaw.ge/ka/danashaulebi/krtamis-agheba-mukhli-338/)
+
+-
+- [ქრთამის მიცემა — მუხლი 339](https://mmlaw.ge/ka/danashaulebi/krtamis-mitsema-mukhli-339/)
+
+-
+- [ზეგავლენით ვაჭრობა — მუხლი 339¹](https://mmlaw.ge/ka/danashaulebi/zegavlenit-vachroba-mukhli-339-1/)
+
+-
+- [აკრძალული საჩუქრის მიღება — მუხლი 340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
+
+-
+- [სამსახურებრივი სიყალბე — მუხლი 341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
-
--
-- [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
-
--
-- [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
-
--
-- [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
 
 პრაქტიკის სფეროები
 

@@ -103,18 +103,6 @@ Criminal law
 
 ## Crimes and penalties
 
-- [Theft](https://mmlaw.ge/en/crimes/theft-article-177/) — Article 177 Secretly taking someone else's property. Penalties range from a fine to 10 years, depending on the damage and circumstances.
-
-- [Robbery (open theft)](https://mmlaw.ge/en/crimes/robbery-article-178/) — Article 178 Openly taking someone else's property. Penalties range from a fine to 11 years, depending on the damage, violence and other factors.
-
-- [Violent robbery](https://mmlaw.ge/en/crimes/violent-robbery-article-179/) — Article 179 An attack to take property, with violence dangerous to life or health or the threat of it. Penalty: 5 to 15 years.
-
-- [Extortion](https://mmlaw.ge/en/crimes/extortion-article-181/) — Article 181 Demanding money or property under threat of violence, damage or spreading compromising information. Up to 9 years.
-
-- [Embezzlement](https://mmlaw.ge/en/crimes/embezzlement-article-182/) — Article 182 Unlawfully keeping or spending property or money you were entrusted with — often at work. Up to 11 years.
-
-- [Damage to property](https://mmlaw.ge/en/crimes/property-damage-article-187/) — Article 187 Damaging or destroying someone else's property causing significant damage. Penalties from a fine to 12 years.
-
 - [Bodily harm](https://mmlaw.ge/en/crimes/bodily-harm/) — Article 117, 118, 120 Intentional minor, less serious and serious bodily harm — penalties from a fine to 14 years.
 
 ---

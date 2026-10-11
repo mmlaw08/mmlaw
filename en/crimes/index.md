@@ -30,5 +30,27 @@ Short and clear: what each crime means, which article of the Criminal Code cover
 
 - [Hooliganism](https://mmlaw.ge/en/crimes/hooliganism-article-239/) — Article 239 A gross breach of public order with violence or the threat of violence. Penalties from a fine to 7 years.
 
+## Traffic crimes
+
+- [Traffic accident causing injury](https://mmlaw.ge/en/crimes/traffic-accident-article-276/) — Article 276 Breaking traffic safety rules causing injury or death; driving under the influence of drugs. Up to 12 years.
+
+## Corruption crimes
+
+- [Bribe-taking](https://mmlaw.ge/en/crimes/bribe-taking-article-338/) — Article 338 An official taking or demanding money or another benefit for an official act. Penalty: 6 to 15 years.
+
+- [Bribe-giving](https://mmlaw.ge/en/crimes/bribe-giving-article-339/) — Article 339 Offering or giving money or a benefit to an official. From a fine to 8 years; a voluntary report releases from liability.
+
+- [Trading in influence](https://mmlaw.ge/en/crimes/trading-in-influence-article-339-1/) — Article 339¹ Selling or buying 'connections' — promising, for money, to influence an official's decision. Up to 7 years.
+
+- [Accepting a prohibited gift](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/) — Article 340 An official accepting a gift the law prohibits. From a fine to 4 years in prison.
+
+- [Official forgery](https://mmlaw.ge/en/crimes/official-forgery-article-341/) — Article 341 An official making a false entry in an official document or issuing a false document. From a fine to 4 years.
+
+## Administrative offences
+
+- [Disobeying the police](https://mmlaw.ge/en/crimes/disobeying-police-article-173/) — Article 173 Disobeying a lawful police demand or insulting an officer: a fine up to GEL 5,000 or up to 60 days of administrative detention.
+
+- [Petty hooliganism](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/) — Article 166 Swearing and insulting people in public: a fine up to GEL 3,000 or up to 20 days of administrative detention.
+
 ---
 Source: https://mmlaw.ge/en/crimes/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

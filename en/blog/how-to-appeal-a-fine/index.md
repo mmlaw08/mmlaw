@@ -74,6 +74,12 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 - [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
 
 -
+- [Disobeying the police — Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+
+-
+- [Petty hooliganism — Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -81,12 +87,6 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 
 -
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-
--
-- [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
-
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 Blog
 

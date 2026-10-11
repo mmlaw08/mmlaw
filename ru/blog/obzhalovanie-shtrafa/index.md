@@ -74,6 +74,12 @@
 - [Иммиграционные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/)
 
 -
+- [Неповиновение полиции — Статья 173](https://mmlaw.ge/ru/prestupleniya/nepovinovenie-politsii-statya-173/)
+
+-
+- [Мелкое хулиганство — Статья 166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
@@ -81,12 +87,6 @@
 
 -
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
-
--
-- [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
-
--
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 Блог
 

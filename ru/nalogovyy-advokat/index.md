@@ -87,7 +87,7 @@
 - [Контрабанда и таможенные нарушения](https://mmlaw.ge/ru/kontrabanda/)
 
 -
-- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
+- [Получение взятки — Статья 338](https://mmlaw.ge/ru/prestupleniya/poluchenie-vzyatki-statya-338/)
 
 Области практики
 

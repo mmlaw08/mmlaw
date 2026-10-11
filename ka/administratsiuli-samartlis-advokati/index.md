@@ -63,6 +63,14 @@
 
 - საჯარო სამსახურთან დაკავშირებული დავები
 
+## ადმინისტრაციული სამართალდარღვევები
+
+- [პოლიციის მოთხოვნისადმი დაუმორჩილებლობა · მუხლი 173](https://mmlaw.ge/ka/danashaulebi/daumorchilebloba-mukhli-173/)
+
+- [წვრილმანი ხულიგნობა · მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
+
+[ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
+
 ## კითხვები და პასუხები
 
 ### რა ვადაში შეიძლება ადმინისტრაციული აქტის სასამართლოში გასაჩივრება?
@@ -103,6 +111,12 @@
 - [იმიგრაციული საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/imigratsiuli-advokati/)
 
 -
+- [პოლიციის მოთხოვნისადმი დაუმორჩილებლობა — მუხლი 173](https://mmlaw.ge/ka/danashaulebi/daumorchilebloba-mukhli-173/)
+
+-
+- [წვრილმანი ხულიგნობა — მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
@@ -110,12 +124,6 @@
 
 -
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
-
--
-- [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
-
--
-- [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

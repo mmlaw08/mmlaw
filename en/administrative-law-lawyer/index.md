@@ -63,6 +63,14 @@ An administrative law lawyer helps you challenge decisions of public authorities
 
 - Public service (civil service) disputes
 
+## Administrative offences
+
+- [Disobeying the police · Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+
+- [Petty hooliganism · Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
+
+[All crimes](https://mmlaw.ge/en/crimes/)
+
 ## Questions & answers
 
 ### What is the deadline to challenge an administrative act in court?
@@ -103,6 +111,12 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
 
 -
+- [Disobeying the police — Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+
+-
+- [Petty hooliganism — Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -110,12 +124,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-
--
-- [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
-
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 Practice areas
 

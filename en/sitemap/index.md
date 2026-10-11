@@ -50,6 +50,22 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Hooliganism — Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)A gross breach of public order with violence or the threat of violence. Penalties from a fine to 7 years.
 
+- [Traffic accident causing injury — Article 276](https://mmlaw.ge/en/crimes/traffic-accident-article-276/)Breaking traffic safety rules causing injury or death; driving under the influence of drugs. Up to 12 years.
+
+- [Bribe-taking — Article 338](https://mmlaw.ge/en/crimes/bribe-taking-article-338/)An official taking or demanding money or another benefit for an official act. Penalty: 6 to 15 years.
+
+- [Bribe-giving — Article 339](https://mmlaw.ge/en/crimes/bribe-giving-article-339/)Offering or giving money or a benefit to an official. From a fine to 8 years; a voluntary report releases from liability.
+
+- [Trading in influence — Article 339¹](https://mmlaw.ge/en/crimes/trading-in-influence-article-339-1/)Selling or buying 'connections' — promising, for money, to influence an official's decision. Up to 7 years.
+
+- [Accepting a prohibited gift — Article 340](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/)An official accepting a gift the law prohibits. From a fine to 4 years in prison.
+
+- [Official forgery — Article 341](https://mmlaw.ge/en/crimes/official-forgery-article-341/)An official making a false entry in an official document or issuing a false document. From a fine to 4 years.
+
+- [Disobeying the police — Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)Disobeying a lawful police demand or insulting an officer: a fine up to GEL 5,000 or up to 60 days of administrative detention.
+
+- [Petty hooliganism — Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)Swearing and insulting people in public: a fine up to GEL 3,000 or up to 20 days of administrative detention.
+
 ## Other practice areas
 
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)Contract, property and damages disputes — negotiated or argued in court.
@@ -85,6 +101,10 @@ Every page of the site in one place — services, articles and useful resources.
 - [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)Liability of LLC directors and partners, insolvency and creditors' claims.
 
 - [Drug possession lawyer](https://mmlaw.ge/en/drug-possession-lawyer/)Defence against drug purchase and possession charges: Article 260, quantity thresholds, small amounts and administrative cases.
+
+- [Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)When a criminal record expires automatically and how to have it removed early through the court.
+
+- [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)When a convicted person can be released early, who decides, and how to prepare for the board.
 
 ## For foreigners
 
