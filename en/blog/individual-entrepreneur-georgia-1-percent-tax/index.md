@@ -15,11 +15,11 @@ An individual entrepreneur (IE) with small business status is the simplest way t
 
 ## How the 1% works
 
-- With small business status, the tax is 1% of turnover if your annual turnover does not exceed GEL 500,000
+- With small business status, the tax is 1% of income if your annual income does not exceed GEL 500,000
 
-- Above GEL 500,000 the rate is 3%
+- If your annual income passes GEL 500,000, all your income is taxed at 3% from the start of that month until the end of the year
 
-- You file a declaration every month by the 15th of the following month — even if you had no income
+- You file a declaration and pay the tax every month, by the 15th of the following month
 
 ## What the 1% doesn't cover
 
@@ -64,13 +64,13 @@ Every case is different — don't rely on general information. Contact a lawyer 
 
 Yes. You register at the Public Service Hall with your passport and a legal address in Georgia. Since 2026 you also need the right to labour activity to work.
 
-### What happens if turnover exceeds GEL 500,000?
+### What happens if income exceeds GEL 500,000?
 
-The rate on turnover above the threshold is 3%. If you regularly exceed it, plan ahead to keep the status.
+From the start of the month in which you pass the threshold until the end of the year, all your income is taxed at 3% — not just the part above the limit. Plan ahead as you get close to it.
 
 ### Do I have to file every month?
 
-Yes, by the 15th of the following month — even if you had no income.
+Yes. The declaration and the tax are due by the 15th of the following month.
 
 ## Related topics
 

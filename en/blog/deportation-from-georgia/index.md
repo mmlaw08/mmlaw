@@ -39,7 +39,7 @@ The decision can be appealed in court within 10 days of being served. Appealing 
 
 ## The temporary accommodation centre
 
-Before or after the expulsion decision, a foreigner can be placed in a temporary accommodation centre for 3 months. A court can extend this by up to 6 more months — 9 months in total at most.
+Before or after the expulsion decision, a detained foreigner can be placed in a temporary accommodation centre for 3 months — a court decides this: the foreigner must be brought before a court within 48 hours of detention, and is released if no decision is made within the next 24 hours. A court can extend this by up to 6 more months — 9 months in total at most.
 
 ## What a lawyer does
 

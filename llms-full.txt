@@ -701,7 +701,7 @@ Under Article 51 of the Law on the Legal Status of Aliens and Stateless Persons,
 The decision can be appealed in court within 10 days of being served. Appealing does not by itself give you a residence permit or postpone your obligation to leave, so a lawyer often looks for other routes at the same time.
 
 ### The temporary accommodation centre
-Before or after the expulsion decision, a foreigner can be placed in a temporary accommodation centre for 3 months. A court can extend this by up to 6 more months — 9 months in total at most.
+Before or after the expulsion decision, a detained foreigner can be placed in a temporary accommodation centre for 3 months — a court decides this: the foreigner must be brought before a court within 48 hours of detention, and is released if no decision is made within the next 24 hours. A court can extend this by up to 6 more months — 9 months in total at most.
 
 ### What a lawyer does
 - Checks whether the decision has a lawful basis
@@ -834,7 +834,7 @@ Under the Law on Labour Migration, it is issued by the Ministry of Labour, Healt
 - Self-employed foreigners — including individual entrepreneurs
 - Freelancers who provide services to clients in Georgia
 
-Some categories are exempt. Whether you need it if you only work remotely for a foreign company depends on the details — check before you rely on it.
+The rule does not apply to foreigners with a permanent residence permit or in certain other cases set by law. Whether you need it if you only work remotely for a foreign company depends on the details — check before you rely on it.
 
 ### What you need
 - The right to labour activity
@@ -866,9 +866,9 @@ An individual entrepreneur (IE) with small business status is the simplest way t
 - After registration, you apply to the Revenue Service for small business status.
 
 ### How the 1% works
-- With small business status, the tax is 1% of turnover if your annual turnover does not exceed GEL 500,000
-- Above GEL 500,000 the rate is 3%
-- You file a declaration every month by the 15th of the following month — even if you had no income
+- With small business status, the tax is 1% of income if your annual income does not exceed GEL 500,000
+- If your annual income passes GEL 500,000, all your income is taxed at 3% from the start of that month until the end of the year
+- You file a declaration and pay the tax every month, by the 15th of the following month
 
 ### What the 1% doesn't cover
 Not every activity qualifies — the Government keeps a list of excluded activities. Rent, interest, dividends and similar income are not taxed at 1% either. Choosing the wrong activity is a common reason for losing the status and paying extra tax.

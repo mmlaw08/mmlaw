@@ -17,7 +17,7 @@ Under the Law on Labour Migration, it is issued by the Ministry of Labour, Healt
 
 - Freelancers who provide services to clients in Georgia
 
-Some categories are exempt. Whether you need it if you only work remotely for a foreign company depends on the details — check before you rely on it.
+The rule does not apply to foreigners with a permanent residence permit or in certain other cases set by law. Whether you need it if you only work remotely for a foreign company depends on the details — check before you rely on it.
 
 ## What you need
 
