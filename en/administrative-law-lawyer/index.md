@@ -100,6 +100,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
 
 -
+- [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -113,9 +116,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
-
--
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
 
 Practice areas
 

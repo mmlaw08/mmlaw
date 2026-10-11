@@ -87,6 +87,9 @@ Not on its own. An appeal does not give you a residence permit or postpone your 
 - [#Court cases](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
+- [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
+
+-
 - [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
 
 -
@@ -99,16 +102,13 @@ Not on its own. An appeal does not give you a residence permit or postpone your 
 - [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
 
 -
+- [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
+
+-
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 -
 - [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
-
--
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
-
--
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 Blog
 

@@ -98,16 +98,16 @@
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
+- [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
+
+-
+- [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
+
+-
+- [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
+
+-
 - [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
-
--
-- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
-
--
-- [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
-
--
-- [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 პრაქტიკის სფეროები
 

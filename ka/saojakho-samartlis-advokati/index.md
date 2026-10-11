@@ -116,6 +116,9 @@
 - [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
 
 -
+- [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
+
+-
 - [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
@@ -123,9 +126,6 @@
 
 -
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
-
--
-- [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
 
 პრაქტიკის სფეროები
 

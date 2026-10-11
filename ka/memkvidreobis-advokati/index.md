@@ -126,6 +126,9 @@
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
+- [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
+
+-
 - [მემკვიდრეობის მიღება საზღვარგარეთიდან](https://mmlaw.ge/ka/blogi/memkvidreobis-migheba-sazghvargaretidan/)
 
 -
@@ -139,9 +142,6 @@
 
 -
 - [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
-
--
-- [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
 
 პრაქტიკის სფეროები
 

@@ -81,6 +81,9 @@
 - [#შრომითი ურთიერთობები](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
 
 -
+- [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
+
+-
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 -
@@ -100,9 +103,6 @@
 
 -
 - [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
-
--
-- [საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/)
 
 ბლოგი
 

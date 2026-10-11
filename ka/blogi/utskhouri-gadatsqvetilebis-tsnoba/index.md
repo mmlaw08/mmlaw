@@ -88,6 +88,9 @@
 - [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
 
 -
+- [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
+
+-
 - [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
 
 -
@@ -97,10 +100,7 @@
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
-- [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
-
--
-- [ალიმენტი საქართველოში: როგორ განისაზღვრება ოდენობა](https://mmlaw.ge/ka/blogi/alimentis-odenoba/)
+- [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
 
 ბლოგი
 

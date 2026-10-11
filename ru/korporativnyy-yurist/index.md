@@ -95,6 +95,9 @@
 - [ИП в Грузии для иностранца: налог 1% и что изменилось](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
 
 -
+- [Разрешение на работу и ИП · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/)
+
+-
 - [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 -
@@ -105,9 +108,6 @@
 
 -
 - [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
-
--
-- [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
 Области практики
 

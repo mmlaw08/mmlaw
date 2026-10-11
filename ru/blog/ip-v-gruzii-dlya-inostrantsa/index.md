@@ -82,6 +82,9 @@
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 -
+- [Разрешение на работу и ИП · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
-
--
-- [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
 Блог
 

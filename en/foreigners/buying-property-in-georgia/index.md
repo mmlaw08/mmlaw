@@ -60,6 +60,9 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 - [#Property](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
+- [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
+
+-
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
@@ -80,16 +83,19 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 -
 - [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
--
-- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
-
 For foreigners
 
 ## How we can help
 
 - [Criminal cases](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/) — Defense if you are detained or charged — with an interpreter and contact with your consulate.
 
+- [Immigration cases](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/) — Refused entry, overstays, deportation and appeals against residence-permit refusals — fast and in your language.
+
+- [Disputes with developers](https://mmlaw.ge/en/foreigners/disputes-with-developers/) — Construction is late, the developer won't refund, or the flat is mortgaged — we protect the buyer's interests.
+
 - [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — Register an LLC or branch, become an individual entrepreneur and get your business running.
+
+- [Work permit & sole trader](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/) — The right to work, registering as an individual entrepreneur, the 1% small business tax and the right residence permit.
 
 - [Residence permits](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/) — Work, business, property, family and investment residence permits — applications, extensions and appeals.
 

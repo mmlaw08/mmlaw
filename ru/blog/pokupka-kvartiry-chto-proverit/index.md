@@ -75,6 +75,9 @@
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
+- [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
+
+-
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 -
@@ -88,9 +91,6 @@
 
 -
 - [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
-
--
-- [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
 
 Блог
 

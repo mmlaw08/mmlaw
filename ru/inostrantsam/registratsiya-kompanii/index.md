@@ -63,6 +63,9 @@
 - [ИП в Грузии для иностранца: налог 1% и что изменилось](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
 
 -
+- [Разрешение на работу и ИП · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -80,16 +83,19 @@
 -
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
--
-- [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
-
 Иностранцам
 
 ## Чем мы поможем
 
 - [Уголовные дела](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/) — Защита при задержании или обвинении — с переводчиком и связью с консульством.
 
+- [Иммиграционные дела](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/) — Отказ во въезде, просрочка, выдворение и обжалование отказа в ВНЖ — быстро и на вашем языке.
+
 - [Покупка недвижимости](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/) — Проверка объекта, безопасный договор и регистрация собственности — лично или удалённо.
+
+- [Споры с застройщиком](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/) — Стройка задерживается, застройщик не возвращает деньги или квартира в ипотеке — защищаем интересы покупателя.
+
+- [Разрешение на работу и ИП](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/) — Право на трудовую деятельность, регистрация ИП, налог 1% для малого бизнеса и подходящий ВНЖ.
 
 - [Вид на жительство](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/) — Рабочий, бизнес-, имущественный, семейный и инвестиционный ВНЖ — подача, продление и обжалование.
 

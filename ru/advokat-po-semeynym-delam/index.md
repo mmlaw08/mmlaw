@@ -116,6 +116,9 @@
 - [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
 
 -
+- [Долги и исполнительное производство · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/dolgi-i-ispolnenie/)
+
+-
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
 
 -
@@ -123,9 +126,6 @@
 
 -
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
-
--
-- [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
 
 Области практики
 

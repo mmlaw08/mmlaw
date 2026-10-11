@@ -60,6 +60,9 @@
 - [#უძრავი ქონება](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
+- [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
+
+-
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
@@ -80,16 +83,19 @@
 -
 - [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
 
--
-- [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
-
 უცხოელებისთვის
 
 ## რაში დაგეხმარებით
 
 - [სისხლის სამართლის საქმეები](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/) — დაცვა დაკავების ან ბრალდების შემთხვევაში — თარჯიმნით და საკონსულოსთან კავშირით.
 
+- [იმიგრაციული საქმეები](https://mmlaw.ge/ka/utskhoelebistvis/imigratsiuli-advokati/) — შემოსვლაზე უარი, ვადის გადაცილება, გაძევება და ბინადრობაზე უარის გასაჩივრება — სწრაფად და თქვენს ენაზე.
+
+- [დავა დეველოპერთან](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/) — მშენებლობა გვიანდება, დეველოპერი არ აბრუნებს თანხას ან ბინაზე იპოთეკაა — ვიცავთ მყიდველის ინტერესებს.
+
 - [კომპანია და ბიზნესი](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/) — შპს-ის ან ფილიალის რეგისტრაცია, ინდმეწარმის სტატუსი და ბიზნესის ამუშავება.
+
+- [მუშაობის ნებართვა და ი/მ](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/) — შრომითი საქმიანობის უფლება, ი/მ-ის რეგისტრაცია, მცირე ბიზნესის 1% და შესაბამისი ბინადრობა.
 
 - [ბინადრობის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/) — სამუშაო, ბიზნეს, ქონებრივი, საოჯახო და საინვესტიციო ბინადრობა — განაცხადი, გაგრძელება და გასაჩივრება.
 

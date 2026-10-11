@@ -87,6 +87,9 @@
 - [#Судебные споры](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
+- [Иммиграционные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/)
+
+-
 - [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
 
 -
@@ -99,16 +102,13 @@
 - [Просрочка пребывания в Грузии: штраф и запрет въезда](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/)
 
 -
+- [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
+
+-
 - [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
 
 -
 - [Как обжаловать штраф в Грузии](https://mmlaw.ge/ru/blog/obzhalovanie-shtrafa/)
-
--
-- [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
-
--
-- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 Блог
 

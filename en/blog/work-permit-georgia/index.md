@@ -81,6 +81,9 @@ No. You can only apply while you are lawfully in Georgia.
 - [#Employment](https://mmlaw.ge/en/employment-lawyer/)
 
 -
+- [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -100,9 +103,6 @@ No. You can only apply while you are lawfully in Georgia.
 
 -
 - [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
-
--
-- [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
 
 Blog
 

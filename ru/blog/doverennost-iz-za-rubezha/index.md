@@ -72,7 +72,13 @@
 - [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
 
 -
+- [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
+
+-
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
+
+-
+- [Покупка и продажа недвижимости · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/)
 
 -
 - [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
@@ -85,12 +91,6 @@
 
 -
 - [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
-
--
-- [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
-
--
-- [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 Блог
 

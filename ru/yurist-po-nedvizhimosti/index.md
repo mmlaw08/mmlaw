@@ -98,16 +98,16 @@
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 
 -
+- [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
+
+-
+- [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
+
+-
+- [Покупка и продажа недвижимости · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/)
+
+-
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
-
--
-- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
-
--
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
-
--
-- [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 Области практики
 

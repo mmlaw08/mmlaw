@@ -82,6 +82,9 @@
 - [ინდივიდუალური მეწარმე და 1% გადასახადი უცხოელისთვის](https://mmlaw.ge/ka/blogi/individualuri-metsarme-utskhoelistvis/)
 
 -
+- [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
+
+-
 - [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 
 -
@@ -92,9 +95,6 @@
 
 -
 - [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
-
--
-- [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
 
 ბლოგი
 

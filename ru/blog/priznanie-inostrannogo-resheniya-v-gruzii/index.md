@@ -88,6 +88,9 @@
 - [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
 
 -
+- [Долги и исполнительное производство · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/dolgi-i-ispolnenie/)
+
+-
 - [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
 
 -
@@ -97,10 +100,7 @@
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 
 -
-- [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
-
--
-- [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
+- [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
 
 Блог
 

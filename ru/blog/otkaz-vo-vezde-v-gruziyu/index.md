@@ -101,6 +101,9 @@
 - [Выдворение из Грузии: основания, сроки и обжалование](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/)
 
 -
+- [Иммиграционные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
@@ -108,9 +111,6 @@
 
 -
 - [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
-
--
-- [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
 Блог
 

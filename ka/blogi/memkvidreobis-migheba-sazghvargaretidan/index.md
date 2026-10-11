@@ -78,16 +78,19 @@
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
+- [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
+
+-
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 -
 - [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
 
 -
-- [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
+- [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
 
 -
-- [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
+- [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
 
 ბლოგი
 

@@ -12,9 +12,13 @@
 
 ## რას მოვაგვარებთ თქვენი ჩამოსვლის გარეშე
 
-- [მემკვიდრეობის მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/) — სამკვიდროს მიღება, სამკვიდრო მოწმობა და ქონების რეგისტრაცია თქვენს სახელზე.
+- [მემკვიდრეობის მიღება](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/) — სამკვიდროს მიღება, სამკვიდრო მოწმობა და ქონების რეგისტრაცია თქვენს სახელზე.
 
-- [ქონების ყიდვა-გაყიდვა](https://mmlaw.ge/ka/udzravi-konebis-advokati/) — ბინის, სახლის ან მიწის უსაფრთხოდ გაყიდვა, ყიდვა ან გაქირავება მინდობილობით.
+- [ქონების ყიდვა-გაყიდვა](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/) — ბინის, სახლის ან მიწის უსაფრთხოდ გაყიდვა, ყიდვა ან გაქირავება მინდობილობით.
+
+- [ვალები და აღსრულება](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/) — მოვალეთა რეესტრი, საბანკო ვალი და სააღსრულებო წარმოება — ვარკვევთ, ვაჩივრებთ ან ვთანხმდებით კრედიტორთან.
+
+- [მოქალაქეობის აღდგენა](https://mmlaw.ge/ka/emigrantebistvis/mokalakeobis-aghdgena/) — დაკარგეთ მოქალაქეობა სხვა ქვეყნის პასპორტის გამო? 2027 წლის 1 იანვრამდე მისი აღდგენა გამარტივებულია.
 
 - [განქორწინება და ბავშვები](https://mmlaw.ge/ka/saojakho-samartlis-advokati/) — განქორწინება, ალიმენტი და ბავშვის საცხოვრებელი ადგილი, როცა ერთ-ერთი მეუღლე საზღვარგარეთაა.
 
@@ -152,22 +156,22 @@ WhatsApp-ით, ტელეფონით, ელფოსტით ან �
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
+- [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
+
+-
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 -
 - [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
 
 -
+- [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
+
+-
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
 - [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
-
--
-- [მემკვიდრეობის მიღება საზღვარგარეთიდან](https://mmlaw.ge/ka/blogi/memkvidreobis-migheba-sazghvargaretidan/)
-
--
-- [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
 
 ---
 Source: https://mmlaw.ge/ka/emigrantebistvis/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

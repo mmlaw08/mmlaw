@@ -120,6 +120,9 @@
 - [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
 
 -
+- [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -133,9 +136,6 @@
 
 -
 - [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
-
--
-- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

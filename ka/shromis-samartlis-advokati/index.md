@@ -100,6 +100,9 @@
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
+- [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -113,9 +116,6 @@
 
 -
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
-
--
-- [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

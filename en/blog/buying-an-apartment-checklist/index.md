@@ -75,6 +75,9 @@ Ownership arises on registration with the Public Registry. Until then, the apart
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
+- [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
+
+-
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 -
@@ -88,9 +91,6 @@ Ownership arises on registration with the Public Registry. Until then, the apart
 
 -
 - [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
-
--
-- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
 
 Blog
 

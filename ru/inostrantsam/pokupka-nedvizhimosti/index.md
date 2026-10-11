@@ -60,6 +60,9 @@
 - [#Недвижимость](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
 
 -
+- [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
+
+-
 - [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
 
 -
@@ -80,16 +83,19 @@
 -
 - [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
--
-- [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
-
 Иностранцам
 
 ## Чем мы поможем
 
 - [Уголовные дела](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/) — Защита при задержании или обвинении — с переводчиком и связью с консульством.
 
+- [Иммиграционные дела](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/) — Отказ во въезде, просрочка, выдворение и обжалование отказа в ВНЖ — быстро и на вашем языке.
+
+- [Споры с застройщиком](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/) — Стройка задерживается, застройщик не возвращает деньги или квартира в ипотеке — защищаем интересы покупателя.
+
 - [Компания и бизнес](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/) — Регистрация ООО или филиала, статус ИП и запуск бизнеса.
+
+- [Разрешение на работу и ИП](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/) — Право на трудовую деятельность, регистрация ИП, налог 1% для малого бизнеса и подходящий ВНЖ.
 
 - [Вид на жительство](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/) — Рабочий, бизнес-, имущественный, семейный и инвестиционный ВНЖ — подача, продление и обжалование.
 

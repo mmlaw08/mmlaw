@@ -75,6 +75,9 @@
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 -
+- [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
+
+-
 - [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 -
@@ -88,9 +91,6 @@
 
 -
 - [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
-
--
-- [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
 
 ბლოგი
 

@@ -76,13 +76,13 @@
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
-- [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
+- [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
 
 -
-- [ალიმენტი საქართველოში: როგორ განისაზღვრება ოდენობა](https://mmlaw.ge/ka/blogi/alimentis-odenoba/)
+- [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
 
 -
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
+- [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
 
 ბლოგი
 

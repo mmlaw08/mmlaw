@@ -82,6 +82,9 @@ Yes. The declaration and the tax are due by the 15th of the following month.
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 -
+- [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -98,9 +101,6 @@ Yes. The declaration and the tax are due by the 15th of the following month.
 
 -
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
-
--
-- [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 Blog
 

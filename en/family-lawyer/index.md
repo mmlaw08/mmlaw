@@ -116,6 +116,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
 
 -
+- [Debts and enforcement · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/)
+
+-
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
 
 -
@@ -123,9 +126,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
-
--
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
 
 Practice areas
 

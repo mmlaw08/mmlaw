@@ -120,6 +120,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
 
 -
+- [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -133,9 +136,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
-
--
-- [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 Practice areas
 

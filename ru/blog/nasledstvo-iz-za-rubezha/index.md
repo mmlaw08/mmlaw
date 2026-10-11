@@ -78,16 +78,19 @@
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 
 -
+- [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
+
+-
 - [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 -
 - [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
 
 -
-- [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
+- [Покупка и продажа недвижимости · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/)
 
 -
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
+- [Долги и исполнительное производство · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/dolgi-i-ispolnenie/)
 
 Блог
 

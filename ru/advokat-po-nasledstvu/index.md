@@ -126,6 +126,9 @@
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 
 -
+- [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
+
+-
 - [Как принять наследство в Грузии из-за рубежа](https://mmlaw.ge/ru/blog/nasledstvo-iz-za-rubezha/)
 
 -
@@ -139,9 +142,6 @@
 
 -
 - [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
-
--
-- [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
 
 Области практики
 

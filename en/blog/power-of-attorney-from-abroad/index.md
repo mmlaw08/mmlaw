@@ -72,7 +72,13 @@ Yes, at any time. You should notify both the representative and third parties.
 - [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
 
 -
+- [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
+
+-
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
+
+-
+- [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
 
 -
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
@@ -85,12 +91,6 @@ Yes, at any time. You should notify both the representative and third parties.
 
 -
 - [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
-
--
-- [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
-
--
-- [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 Blog
 

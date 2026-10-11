@@ -77,6 +77,9 @@ Choosing the wrong type is a common reason. A refusal can be appealed — deadli
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
 
 -
+- [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -84,9 +87,6 @@ Choosing the wrong type is a common reason. A refusal can be appealed — deadli
 
 -
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
-
--
-- [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
 Blog
 

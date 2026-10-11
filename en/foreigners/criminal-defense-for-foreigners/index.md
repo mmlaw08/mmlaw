@@ -87,9 +87,15 @@ For foreigners
 
 ## How we can help
 
+- [Immigration cases](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/) — Refused entry, overstays, deportation and appeals against residence-permit refusals — fast and in your language.
+
 - [Buying property](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/) — Check the property, sign a safe contract and register ownership — in person or remotely.
 
+- [Disputes with developers](https://mmlaw.ge/en/foreigners/disputes-with-developers/) — Construction is late, the developer won't refund, or the flat is mortgaged — we protect the buyer's interests.
+
 - [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — Register an LLC or branch, become an individual entrepreneur and get your business running.
+
+- [Work permit & sole trader](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/) — The right to work, registering as an individual entrepreneur, the 1% small business tax and the right residence permit.
 
 - [Residence permits](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/) — Work, business, property, family and investment residence permits — applications, extensions and appeals.
 

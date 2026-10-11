@@ -87,6 +87,9 @@
 - [#სასამართლო დავები](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
+- [იმიგრაციული საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/imigratsiuli-advokati/)
+
+-
 - [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
 
 -
@@ -99,16 +102,13 @@
 - [საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/)
 
 -
+- [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
+
+-
 - [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 -
 - [როგორ გავასაჩივრო ჯარიმა?](https://mmlaw.ge/ka/blogi/jarimis-gasachivreba/)
-
--
-- [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
-
--
-- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 ბლოგი
 

@@ -72,7 +72,13 @@
 - [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
 
 -
+- [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
+
+-
 - [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+
+-
+- [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
 
 -
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
@@ -85,12 +91,6 @@
 
 -
 - [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
-
--
-- [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
-
--
-- [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 ბლოგი
 

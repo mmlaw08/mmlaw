@@ -392,6 +392,18 @@ Yes, if you ask. A detained foreigner has the right to request that the consulat
 
 Yes. A family member can contact us by phone or WhatsApp; we sign the engagement remotely and step into the case immediately.
 
+### How many days do I have to appeal a deportation decision?
+
+10 days from when it is served. Contact a lawyer right away.
+
+### Can you handle my case if I'm already abroad?
+
+Yes. We act under a power of attorney and keep you informed at every step.
+
+### Does paying the overstay fine cancel the entry ban?
+
+No. For an overstay, the fine and the entry ban are imposed together.
+
 ### Does buying property give me a residence permit?
 
 Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (currently USD 100,000). The permit is not automatic — you have to apply for it.
@@ -399,6 +411,18 @@ Owning property can be a basis for a short-term residence permit if its value me
 ### Can I buy property without coming to Georgia?
 
 Yes. You can give a notarised power of attorney (with an apostille if the country requires it) to your lawyer or a trusted person, who signs and registers the purchase for you.
+
+### The developer is late — what can I do?
+
+Depending on the contract, you can claim the penalty, damages, or terminate the contract and get your money back. We start by reviewing the contract.
+
+### Can you handle this while I live abroad?
+
+Yes. We act for you under a power of attorney — in negotiations and in court.
+
+### What should I do before paying for a flat?
+
+Check the developer, the landowner, mortgages and permits, and have a lawyer read the contract. It is the cheapest protection there is.
 
 ### Can a foreigner own 100% of a company in Georgia?
 
@@ -412,6 +436,18 @@ Not necessarily. Registration can be done through a representative with a notari
 
 Profit tax (15%) is generally paid only when profit is distributed, for example as dividends. Small-business status for individual entrepreneurs offers a 1% turnover tax up to an annual limit. We check which regime fits your activity.
 
+### Do individual entrepreneurs need the right to work?
+
+Yes. A self-employed foreigner, including an individual entrepreneur, needs it to work in Georgia.
+
+### Who is not covered by the rule?
+
+For example, foreigners with a permanent residence permit. We check other exemptions for your case.
+
+### What happens if annual income exceeds GEL 500,000?
+
+From the start of that month until the end of the year, all income is taxed at 3%.
+
 ### How long does a residence permit application take?
 
 The standard review takes up to about 30 days; an expedited review is available for an extra fee. We tell you the current timelines when we prepare your application.
@@ -422,7 +458,7 @@ Yes. A refusal is an administrative decision and can be challenged — first adm
 
 ### Do I need a work permit to work in Georgia?
 
-Labour-migration rules have been tightened in recent years, and foreigners working in Georgia may need a work permit or to register their employment. We check what applies to you before you start work.
+Since 1 March 2026, foreigners need the right to labour activity to work or do business in Georgia — except holders of a permanent residence permit and other cases set by law. We'll check what applies to you before you start work.
 
 ### Can foreigners divorce in Georgia?
 

@@ -82,6 +82,9 @@
 - [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 -
+- [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
-
--
-- [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
 
 ბლოგი
 

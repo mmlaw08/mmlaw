@@ -39,7 +39,7 @@ Yes. A refusal is an administrative decision and can be challenged — first adm
 
 ### Do I need a work permit to work in Georgia?
 
-Labour-migration rules have been tightened in recent years, and foreigners working in Georgia may need a work permit or to register their employment. We check what applies to you before you start work.
+Since 1 March 2026, foreigners need the right to labour activity to work or do business in Georgia — except holders of a permanent residence permit and other cases set by law. We'll check what applies to you before you start work.
 
 ## Legal basis
 
@@ -72,6 +72,9 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
 
 -
+- [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -80,18 +83,21 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 -
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
--
-- [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
-
 For foreigners
 
 ## How we can help
 
 - [Criminal cases](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/) — Defense if you are detained or charged — with an interpreter and contact with your consulate.
 
+- [Immigration cases](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/) — Refused entry, overstays, deportation and appeals against residence-permit refusals — fast and in your language.
+
 - [Buying property](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/) — Check the property, sign a safe contract and register ownership — in person or remotely.
 
+- [Disputes with developers](https://mmlaw.ge/en/foreigners/disputes-with-developers/) — Construction is late, the developer won't refund, or the flat is mortgaged — we protect the buyer's interests.
+
 - [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — Register an LLC or branch, become an individual entrepreneur and get your business running.
+
+- [Work permit & sole trader](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/) — The right to work, registering as an individual entrepreneur, the 1% small business tax and the right residence permit.
 
 - [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/) — International divorce, children and alimony, recognition of foreign decisions.
 

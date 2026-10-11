@@ -63,6 +63,9 @@
 - [ინდივიდუალური მეწარმე და 1% გადასახადი უცხოელისთვის](https://mmlaw.ge/ka/blogi/individualuri-metsarme-utskhoelistvis/)
 
 -
+- [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -80,16 +83,19 @@
 -
 - [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
 
--
-- [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
-
 უცხოელებისთვის
 
 ## რაში დაგეხმარებით
 
 - [სისხლის სამართლის საქმეები](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/) — დაცვა დაკავების ან ბრალდების შემთხვევაში — თარჯიმნით და საკონსულოსთან კავშირით.
 
+- [იმიგრაციული საქმეები](https://mmlaw.ge/ka/utskhoelebistvis/imigratsiuli-advokati/) — შემოსვლაზე უარი, ვადის გადაცილება, გაძევება და ბინადრობაზე უარის გასაჩივრება — სწრაფად და თქვენს ენაზე.
+
 - [ქონების შეძენა](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/) — ქონების შემოწმება, უსაფრთხო ხელშეკრულება და საკუთრების რეგისტრაცია — ადგილზე ან დისტანციურად.
+
+- [დავა დეველოპერთან](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/) — მშენებლობა გვიანდება, დეველოპერი არ აბრუნებს თანხას ან ბინაზე იპოთეკაა — ვიცავთ მყიდველის ინტერესებს.
+
+- [მუშაობის ნებართვა და ი/მ](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/) — შრომითი საქმიანობის უფლება, ი/მ-ის რეგისტრაცია, მცირე ბიზნესის 1% და შესაბამისი ბინადრობა.
 
 - [ბინადრობის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/) — სამუშაო, ბიზნეს, ქონებრივი, საოჯახო და საინვესტიციო ბინადრობა — განაცხადი, გაგრძელება და გასაჩივრება.
 

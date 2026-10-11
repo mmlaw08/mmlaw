@@ -120,6 +120,9 @@
 - [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
 
 -
+- [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -133,9 +136,6 @@
 
 -
 - [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
-
--
-- [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 Области практики
 

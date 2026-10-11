@@ -78,16 +78,19 @@ If you missed it for a valid reason, a court can extend it. Contact a lawyer as 
 - [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
 
 -
+- [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
+
+-
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 -
 - [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
 
 -
-- [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
+- [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
 
 -
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
+- [Debts and enforcement · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/)
 
 Blog
 

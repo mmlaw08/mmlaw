@@ -81,6 +81,9 @@ Citizens of many countries — up to one year. The exact rule depends on your ci
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
 
 -
+- [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -88,9 +91,6 @@ Citizens of many countries — up to one year. The exact rule depends on your ci
 
 -
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
-
--
-- [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
 Blog
 

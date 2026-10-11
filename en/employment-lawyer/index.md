@@ -100,6 +100,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
+- [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -113,9 +116,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-
--
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 Practice areas
 

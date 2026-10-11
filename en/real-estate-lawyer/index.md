@@ -98,16 +98,16 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
 
 -
+- [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
+
+-
+- [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
+
+-
+- [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
+
+-
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
-
--
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
-
--
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
-
--
-- [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 Practice areas
 

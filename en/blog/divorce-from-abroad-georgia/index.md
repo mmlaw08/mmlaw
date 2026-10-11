@@ -76,13 +76,13 @@ Yes, if you have a Georgian passport — with a notary in Georgia by video call,
 - [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
 
 -
-- [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
+- [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
 
 -
-- [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
+- [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
 
 -
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Debts and enforcement · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/)
 
 Blog
 

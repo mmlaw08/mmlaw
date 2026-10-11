@@ -71,6 +71,9 @@
 - [საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/)
 
 -
+- [იმიგრაციული საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/imigratsiuli-advokati/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
@@ -84,9 +87,6 @@
 
 -
 - [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
-
--
-- [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
 
 ბლოგი
 

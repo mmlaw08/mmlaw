@@ -100,6 +100,9 @@
 - [Выдворение из Грузии: основания, сроки и обжалование](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/)
 
 -
+- [Иммиграционные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
@@ -113,9 +116,6 @@
 
 -
 - [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
-
--
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
 
 Области практики
 

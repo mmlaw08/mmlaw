@@ -12,9 +12,13 @@ We handle your matter in Georgia without you having to travel — by power of at
 
 ## What we can handle without you coming
 
-- [Accepting an inheritance](https://mmlaw.ge/en/inheritance-lawyer/) — Accepting the estate, the certificate of inheritance and registering the property in your name.
+- [Accepting an inheritance](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/) — Accepting the estate, the certificate of inheritance and registering the property in your name.
 
-- [Buying and selling property](https://mmlaw.ge/en/real-estate-lawyer/) — Safely selling, buying or renting out an apartment, house or land by power of attorney.
+- [Buying and selling property](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/) — Safely selling, buying or renting out an apartment, house or land by power of attorney.
+
+- [Debts and enforcement](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/) — The debtors' register, bank debts and enforcement proceedings — we find out, appeal or negotiate with the creditor.
+
+- [Restoring citizenship](https://mmlaw.ge/en/georgians-abroad/restoring-georgian-citizenship/) — Lost Georgian citizenship because of another passport? Until 1 January 2027 getting it back is easier.
 
 - [Divorce and children](https://mmlaw.ge/en/family-lawyer/) — Divorce, alimony and child residence when one spouse lives abroad.
 
@@ -152,22 +156,22 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
 
 -
+- [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
+
+-
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 -
 - [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
 
 -
+- [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
+
+-
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
-
--
-- [Accepting an inheritance in Georgia from abroad](https://mmlaw.ge/en/blog/inheritance-from-abroad/)
-
--
-- [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
 
 ---
 Source: https://mmlaw.ge/en/georgians-abroad/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -71,6 +71,9 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
 
 -
+- [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -84,9 +87,6 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 
 -
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
-
--
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
 
 Blog
 

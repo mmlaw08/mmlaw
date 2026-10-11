@@ -12,9 +12,13 @@
 
 ## Что мы решим без вашего приезда
 
-- [Принятие наследства](https://mmlaw.ge/ru/advokat-po-nasledstvu/) — Принятие наследства, свидетельство о праве на наследство и регистрация имущества на ваше имя.
+- [Принятие наследства](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/) — Принятие наследства, свидетельство о праве на наследство и регистрация имущества на ваше имя.
 
-- [Покупка и продажа недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/) — Безопасная продажа, покупка или сдача в аренду квартиры, дома или земли по доверенности.
+- [Покупка и продажа недвижимости](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/) — Безопасная продажа, покупка или сдача в аренду квартиры, дома или земли по доверенности.
+
+- [Долги и исполнительное производство](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/dolgi-i-ispolnenie/) — Реестр должников, банковский долг и исполнительное производство — выясняем, обжалуем или договариваемся с кредитором.
+
+- [Восстановление гражданства](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/vosstanovlenie-grazhdanstva/) — Потеряли гражданство Грузии из-за другого паспорта? До 1 января 2027 года восстановить его проще.
 
 - [Развод и дети](https://mmlaw.ge/ru/advokat-po-semeynym-delam/) — Развод, алименты и место жительства ребёнка, когда один из супругов живёт за границей.
 
@@ -152,22 +156,22 @@
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 
 -
+- [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
+
+-
 - [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 -
 - [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
 
 -
+- [Покупка и продажа недвижимости · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/)
+
+-
 - [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
 
 -
 - [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
-
--
-- [Как принять наследство в Грузии из-за рубежа](https://mmlaw.ge/ru/blog/nasledstvo-iz-za-rubezha/)
-
--
-- [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
 
 ---
 Source: https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge
