@@ -57,6 +57,20 @@
 
 - Представительство потерпевших
 
+## Преступления и наказания
+
+- [Кража · Статья 177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
+
+- [Грабёж · Статья 178](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
+
+- [Разбой · Статья 179](https://mmlaw.ge/ru/prestupleniya/razboy-statya-179/)
+
+- [Вымогательство · Статья 181](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
+
+- [Повреждение имущества · Статья 187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
+
+[Все преступления](https://mmlaw.ge/ru/prestupleniya/)
+
 ## Вопросы и ответы
 
 ### Чем кража отличается от грабежа и разбоя?
@@ -92,28 +106,28 @@
 - [#Недвижимость](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
 
 -
+- [Кража — Статья 177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
+
+-
+- [Грабёж — Статья 178](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
+
+-
+- [Разбой — Статья 179](https://mmlaw.ge/ru/prestupleniya/razboy-statya-179/)
+
+-
+- [Вымогательство — Статья 181](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
+
+-
+- [Присвоение или растрата — Статья 182](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
+
+-
+- [Повреждение имущества — Статья 187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
 - [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
-
--
-- [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
-
--
-- [Обвинение в домашнем насилии: что нужно знать](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/)
 
 Области практики
 

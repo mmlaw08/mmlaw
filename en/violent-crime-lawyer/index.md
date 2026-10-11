@@ -55,6 +55,14 @@ By law, a person who harms an attacker while defending themselves or others agai
 
 - Representing victims
 
+## Crimes and penalties
+
+- [Bodily harm · Article 117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
+
+- [Hooliganism · Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
+
+[All crimes](https://mmlaw.ge/en/crimes/)
+
 ## Questions & answers
 
 ### I was defending myself. Am I liable?

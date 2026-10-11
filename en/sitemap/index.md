@@ -32,6 +32,24 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)Specialised representation of minors, focused on their rights and future.
 
+- [Crimes and penalties](https://mmlaw.ge/en/crimes/)Short and clear: what each crime means, which article of the Criminal Code covers it, what the penalty is and what to do if you are accused or are a victim.
+
+- [Theft — Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)Secretly taking someone else's property. Penalties range from a fine to 10 years, depending on the damage and circumstances.
+
+- [Robbery (open theft) — Article 178](https://mmlaw.ge/en/crimes/robbery-article-178/)Openly taking someone else's property. Penalties range from a fine to 11 years, depending on the damage, violence and other factors.
+
+- [Violent robbery — Article 179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)An attack to take property, with violence dangerous to life or health or the threat of it. Penalty: 5 to 15 years.
+
+- [Extortion — Article 181](https://mmlaw.ge/en/crimes/extortion-article-181/)Demanding money or property under threat of violence, damage or spreading compromising information. Up to 9 years.
+
+- [Embezzlement — Article 182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)Unlawfully keeping or spending property or money you were entrusted with — often at work. Up to 11 years.
+
+- [Damage to property — Article 187](https://mmlaw.ge/en/crimes/property-damage-article-187/)Damaging or destroying someone else's property causing significant damage. Penalties from a fine to 12 years.
+
+- [Bodily harm — Article 117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)Intentional minor, less serious and serious bodily harm — penalties from a fine to 14 years.
+
+- [Hooliganism — Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)A gross breach of public order with violence or the threat of violence. Penalties from a fine to 7 years.
+
 ## Other practice areas
 
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)Contract, property and damages disputes — negotiated or argued in court.

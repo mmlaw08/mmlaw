@@ -57,6 +57,20 @@ Compensating the damage and reaching agreement with the victim can affect the se
 
 - Representing victims
 
+## Crimes and penalties
+
+- [Theft · Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)
+
+- [Robbery (open theft) · Article 178](https://mmlaw.ge/en/crimes/robbery-article-178/)
+
+- [Violent robbery · Article 179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)
+
+- [Extortion · Article 181](https://mmlaw.ge/en/crimes/extortion-article-181/)
+
+- [Damage to property · Article 187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
+
+[All crimes](https://mmlaw.ge/en/crimes/)
+
 ## Questions & answers
 
 ### What is the difference between theft, open theft and robbery?
@@ -92,28 +106,28 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Property](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
+- [Theft — Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)
+
+-
+- [Robbery (open theft) — Article 178](https://mmlaw.ge/en/crimes/robbery-article-178/)
+
+-
+- [Violent robbery — Article 179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)
+
+-
+- [Extortion — Article 181](https://mmlaw.ge/en/crimes/extortion-article-181/)
+
+-
+- [Embezzlement — Article 182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
+
+-
+- [Damage to property — Article 187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
-
--
-- [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
 
 Practice areas
 

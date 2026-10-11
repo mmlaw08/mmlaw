@@ -53,6 +53,12 @@ By law, there is no criminal liability for tax evasion if, within 45 working day
 
 - Defending company directors
 
+## Crimes and penalties
+
+- [Embezzlement · Article 182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
+
+[All crimes](https://mmlaw.ge/en/crimes/)
+
 ## Questions & answers
 
 ### Is any tax debt a crime?

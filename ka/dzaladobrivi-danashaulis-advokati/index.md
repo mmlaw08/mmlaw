@@ -55,6 +55,14 @@
 
 - დაზარალებულის წარმომადგენლობა
 
+## დანაშაულები და სასჯელები
+
+- [ჯანმრთელობის დაზიანება · მუხლი 117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
+
+- [ხულიგნობა · მუხლი 239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
+
+[ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
+
 ## კითხვები და პასუხები
 
 ### თავს ვიცავდი. პასუხს ვაგებ?

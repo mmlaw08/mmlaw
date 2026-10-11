@@ -105,6 +105,26 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - Representation of victims
 
+## Crimes and penalties
+
+- [Theft · Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)
+
+- [Robbery (open theft) · Article 178](https://mmlaw.ge/en/crimes/robbery-article-178/)
+
+- [Violent robbery · Article 179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)
+
+- [Extortion · Article 181](https://mmlaw.ge/en/crimes/extortion-article-181/)
+
+- [Embezzlement · Article 182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
+
+- [Damage to property · Article 187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
+
+- [Bodily harm · Article 117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
+
+- [Hooliganism · Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
+
+[All crimes](https://mmlaw.ge/en/crimes/)
+
 ## Questions & answers
 
 ### When do I have the right to a lawyer in Georgia?

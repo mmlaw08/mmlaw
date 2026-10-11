@@ -57,6 +57,20 @@
 
 - დაზარალებულის წარმომადგენლობა
 
+## დანაშაულები და სასჯელები
+
+- [ქურდობა · მუხლი 177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
+
+- [ძარცვა · მუხლი 178](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
+
+- [ყაჩაღობა · მუხლი 179](https://mmlaw.ge/ka/danashaulebi/qachaghoba-mukhli-179/)
+
+- [გამოძალვა · მუხლი 181](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
+
+- [ნივთის დაზიანება · მუხლი 187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
+
+[ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
+
 ## კითხვები და პასუხები
 
 ### რით განსხვავდება ქურდობა ძარცვისგან და ყაჩაღობისგან?
@@ -92,28 +106,28 @@
 - [#უძრავი ქონება](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
+- [ქურდობა — მუხლი 177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
+
+-
+- [ძარცვა — მუხლი 178](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
+
+-
+- [ყაჩაღობა — მუხლი 179](https://mmlaw.ge/ka/danashaulebi/qachaghoba-mukhli-179/)
+
+-
+- [გამოძალვა — მუხლი 181](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
+
+-
+- [მითვისება ან გაფლანგვა — მუხლი 182](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
+
+-
+- [ნივთის დაზიანება — მუხლი 187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
 - [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
-
--
-- [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
-
--
-- [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
-
--
-- [ოჯახში ძალადობის ბრალდება: რა უნდა იცოდეთ](https://mmlaw.ge/ka/blogi/ojakhshi-dzaladobis-braldeba/)
 
 პრაქტიკის სფეროები
 

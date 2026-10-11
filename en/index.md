@@ -79,6 +79,18 @@ Appealing the verdict to the Court of Appeals and the Supreme Court.
 
 Common situations
 -
+- [Theft](https://mmlaw.ge/en/crimes/theft-article-177/)
+
+-
+- [Robbery](https://mmlaw.ge/en/crimes/robbery-article-178/)
+
+-
+- [Bodily harm](https://mmlaw.ge/en/crimes/bodily-harm/)
+
+-
+- [Extortion](https://mmlaw.ge/en/crimes/extortion-article-181/)
+
+-
 - [I was arrested](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 -
@@ -113,6 +125,9 @@ Common situations
 
 -
 - [A minor is involved](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+
+-
+- [All crimes and penalties](https://mmlaw.ge/en/crimes/)
 
 Practice areas
 

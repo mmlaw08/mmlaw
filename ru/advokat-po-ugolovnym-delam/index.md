@@ -105,6 +105,26 @@
 
 - Защита интересов потерпевших
 
+## Преступления и наказания
+
+- [Кража · Статья 177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
+
+- [Грабёж · Статья 178](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
+
+- [Разбой · Статья 179](https://mmlaw.ge/ru/prestupleniya/razboy-statya-179/)
+
+- [Вымогательство · Статья 181](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
+
+- [Присвоение или растрата · Статья 182](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
+
+- [Повреждение имущества · Статья 187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
+
+- [Вред здоровью · Статья 117, 118, 120](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
+
+- [Хулиганство · Статья 239](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/)
+
+[Все преступления](https://mmlaw.ge/ru/prestupleniya/)
+
 ## Вопросы и ответы
 
 ### С какого момента у меня есть право на адвоката?

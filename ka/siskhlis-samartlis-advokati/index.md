@@ -105,6 +105,26 @@
 
 - დაზარალებულის ინტერესების დაცვა
 
+## დანაშაულები და სასჯელები
+
+- [ქურდობა · მუხლი 177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
+
+- [ძარცვა · მუხლი 178](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
+
+- [ყაჩაღობა · მუხლი 179](https://mmlaw.ge/ka/danashaulebi/qachaghoba-mukhli-179/)
+
+- [გამოძალვა · მუხლი 181](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
+
+- [მითვისება ან გაფლანგვა · მუხლი 182](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
+
+- [ნივთის დაზიანება · მუხლი 187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
+
+- [ჯანმრთელობის დაზიანება · მუხლი 117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
+
+- [ხულიგნობა · მუხლი 239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
+
+[ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
+
 ## კითხვები და პასუხები
 
 ### როდიდან მაქვს ადვოკატის უფლება?

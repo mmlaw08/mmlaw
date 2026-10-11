@@ -55,6 +55,14 @@
 
 - Представительство потерпевших
 
+## Преступления и наказания
+
+- [Вред здоровью · Статья 117, 118, 120](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
+
+- [Хулиганство · Статья 239](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/)
+
+[Все преступления](https://mmlaw.ge/ru/prestupleniya/)
+
 ## Вопросы и ответы
 
 ### Я защищался. Буду ли я отвечать?

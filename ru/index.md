@@ -79,6 +79,18 @@
 
 Частые ситуации
 -
+- [Кража](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
+
+-
+- [Грабёж](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
+
+-
+- [Вред здоровью](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
+
+-
+- [Вымогательство](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
+
+-
 - [Меня задержали](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
 
 -
@@ -113,6 +125,9 @@
 
 -
 - [Несовершеннолетний](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
+
+-
+- [Все преступления и наказания](https://mmlaw.ge/ru/prestupleniya/)
 
 Области практики
 
