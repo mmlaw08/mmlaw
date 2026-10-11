@@ -71,6 +71,10 @@ A person must be charged within 48 hours of arrest, and within the following 24 
 
 - Plea agreements and appeals
 
+## Specific cases
+
+- [Drug possession](https://mmlaw.ge/en/drug-possession-lawyer/)
+
 ## Questions & answers
 
 ### Is using drugs a crime in Georgia?

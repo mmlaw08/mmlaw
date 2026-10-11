@@ -102,6 +102,12 @@ Liability of LLC directors and partners, insolvency and creditors' claims.
 A director must manage the company's affairs in good faith and with reasonable care. If they breach this duty, they can be liable to the company for the damage, and in serious cases also criminally — for example, for abuse of authority in a company (Article 220), tax evasion or embezzlement.
 [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
+## [Drug possession](https://mmlaw.ge/en/drug-possession-lawyer/)
+
+Defence against drug purchase and possession charges: Article 260, quantity thresholds, small amounts and administrative cases.
+Unlawfully buying or keeping a narcotic drug is punished under Article 260 of the Criminal Code of Georgia — if the amount exceeds the small amount. Buying, keeping or using a small amount is usually an administrative offence; repeating it becomes a crime under Article 273.
+[Drug possession lawyer](https://mmlaw.ge/en/drug-possession-lawyer/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

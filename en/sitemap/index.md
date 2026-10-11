@@ -84,6 +84,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)Liability of LLC directors and partners, insolvency and creditors' claims.
 
+- [Drug possession lawyer](https://mmlaw.ge/en/drug-possession-lawyer/)Defence against drug purchase and possession charges: Article 260, quantity thresholds, small amounts and administrative cases.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)

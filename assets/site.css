@@ -1317,3 +1317,12 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .pun th, .pun td, .pun tbody th { display: block; border: 0; padding: 0; width: auto; }
   .pun td { margin-top: 4px; }
 }
+.pun-qty tbody th { width: auto; }
+.pun-qty td { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.pun-wrap:has(.pun-qty) { overflow-x: auto; }
+@media (max-width: 640px) {
+  .pun-qty { font-size: 13.5px; min-width: 520px; }
+  .pun-qty thead { display: table-header-group; }
+  .pun-qty tr { display: table-row; padding: 0; border: 0; }
+  .pun-qty th, .pun-qty td, .pun-qty tbody th { display: table-cell; padding: 10px 12px; border-top: 1px solid var(--line); }
+}

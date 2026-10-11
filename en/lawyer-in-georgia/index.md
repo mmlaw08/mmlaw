@@ -345,6 +345,20 @@ Liability of LLC directors and partners, insolvency and creditors' claims.
 
 [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
+### [Drug possession lawyer](https://mmlaw.ge/en/drug-possession-lawyer/)
+
+Defence against drug purchase and possession charges: Article 260, quantity thresholds, small amounts and administrative cases.
+
+- Defence against Article 260 charges
+
+- Checking the lab report and the quantity
+
+- Lawfulness of the search and seizure
+
+- Preventive measure — bail instead of detention
+
+[Drug possession lawyer](https://mmlaw.ge/en/drug-possession-lawyer/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

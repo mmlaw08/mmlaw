@@ -484,6 +484,22 @@ Assess the situation with a lawyer as early as possible: rehabilitation or an ag
 
 Register the claim in the insolvency case on time and, if needed, ask the court for interim measures.
 
+## Drug possession
+
+[Open page](https://mmlaw.ge/en/drug-possession-lawyer/)
+
+### How many grams of marijuana is a crime in Georgia?
+
+Up to and including 5 grams of dried marijuana is a small amount — a GEL 500 administrative fine. More than 5 grams is already a criminal case under Article 260; over 70 grams is a large amount, over 250 grams especially large.
+
+### What is the penalty under Article 260, Part 1?
+
+Up to 6 years in prison. Part 2 — 5 to 8 years; Part 3 — 8 to 20 years or life.
+
+### Is the quantity counted with packaging or fillers?
+
+No. By law the quantity is the pure substance, without fillers. That is why checking the lab report matters so much.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

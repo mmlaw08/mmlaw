@@ -1,7 +1,7 @@
 # Marijuana law in Georgia: what gets you fined?
 
 The rules on marijuana in Georgia: small amounts, using it in public places, minors, and when it becomes a criminal offence.
-[Drug offences](https://mmlaw.ge/en/drug-crime-lawyer/) · October 5, 2026 · 3 min read · Updated: October 7, 2026
+[Drug offences](https://mmlaw.ge/en/drug-crime-lawyer/) · October 5, 2026 · 3 min read · Updated: October 12, 2026
 
 Many people think marijuana is allowed in Georgia in every case. It isn't — the law punishes many acts with fines or criminal liability.
 
@@ -25,7 +25,7 @@ Use by a person under 18 is fined GEL 500–1,000, and more for a repeat offence
 
 ## When it becomes a crime
 
-- A large or especially large amount
+- More than a small amount — for example, over 5 grams of dried marijuana
 
 - Selling or giving it to someone — even for free
 
@@ -60,7 +60,7 @@ On the street, in parks, cafés, transport and other public places — GEL 800�
 
 ### When is it a criminal offence?
 
-For a large amount, giving it to someone (even for free), bringing it into or out of Georgia, or growing the plant.
+For more than a small amount (over 5 grams of dried marijuana), giving it to someone (even for free), bringing it into or out of Georgia, or growing the plant.
 
 ## Related topics
 
