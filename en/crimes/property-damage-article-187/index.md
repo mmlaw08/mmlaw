@@ -10,7 +10,7 @@ Under Article 187 it is a crime to damage or destroy someone else's property whe
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offence — significant damageA fine, 100–180 hours of community service, corrective labour for up to 1 year, house arrest from 6 months to 2 years, or imprisonment from 1 to 5 yearsBy arson, explosion or another generally dangerous method; repeatedly; as a groupImprisonment from 3 to 6 yearsThe same, negligently causing a person's death or another grave consequenceImprisonment from 6 to 10 yearsThe same, causing the death of two or more peopleImprisonment from 9 to 12 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

@@ -10,7 +10,7 @@ Bribe-taking is an official, or a person treated as one, receiving or demanding 
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceImprisonment from 6 to 9 yearsBy a holder of a political state office; on a large scale (over GEL 10,000); as a groupImprisonment from 7 to 11 yearsBy a person convicted of bribery; repeatedly; by extortion; by an organised group; on an especially large scale (over GEL 30,000)Imprisonment from 11 to 15 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

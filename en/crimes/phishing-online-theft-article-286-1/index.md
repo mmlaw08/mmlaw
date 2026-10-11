@@ -10,7 +10,7 @@ Article 286¹ punishes unauthorised access to a computer system, altering data o
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceCommunity service, corrective labour, house arrest, or 2 to 4 years in prisonAs a group by prior agreement; significant loss (over GEL 150)Imprisonment from 5 to 7 yearsBy abusing one's position; large loss (over GEL 10,000); by an organised group; repeatedlyImprisonment from 6 to 10 yearsAgainst a critical information system; by a person convicted twice or moreImprisonment from 7 to 11 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

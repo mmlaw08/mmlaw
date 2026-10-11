@@ -10,7 +10,7 @@ Robbery under Article 178 is openly taking someone else's movable property in or
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine, house arrest from 6 months to 2 years, or imprisonment from 3 to 5 yearsSignificant damage (over GEL 150) or breaking into premises or storageImprisonment from 4 to 6 yearsBy a group by prior agreement; repeatedly; by breaking into a home; with violence not dangerous to life or health, or the threat of it; against a vehicleImprisonment from 5 to 8 yearsBy an organised group; on a large scale (over GEL 10,000); by a person convicted twice or moreImprisonment from 7 to 11 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

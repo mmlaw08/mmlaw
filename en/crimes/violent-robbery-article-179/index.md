@@ -10,7 +10,7 @@ Violent robbery under Article 179 is an attack to unlawfully take someone else's
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceImprisonment from 5 to 7 yearsBreaking into premises or storage; as a group; against a vehicleImprisonment from 6 to 9 yearsRepeatedly; by breaking into a home; to take property on a large scaleImprisonment from 8 to 12 yearsBy an organised group; by a person convicted twice or moreImprisonment from 11 to 15 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

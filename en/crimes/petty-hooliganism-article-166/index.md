@@ -10,7 +10,7 @@ Petty hooliganism is swearing in a public place, insultingly accosting people an
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyPart 1 — petty hooliganismA fine of GEL 500–3,000 or up to 20 days of administrative detentionPart 2 — repeated after an administrative penaltyA fine of GEL 3,000–5,000 or 5 to 60 days of administrative detentionIn additionLoss of the right to carry a weapon for up to 3 years; for a foreigner — possible expulsion and an entry ban of up to 3 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

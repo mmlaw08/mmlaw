@@ -1,7 +1,7 @@
 # Domestic violence charges in Georgia: what to know
 
 Domestic violence under Georgian law: who counts as a family member, the penalties, what makes a charge more serious, and what to do as accused or victim.
-[Violent crimes](https://mmlaw.ge/en/violent-crime-lawyer/) · October 6, 2026 · 4 min read · Updated: October 7, 2026
+[Violent crimes](https://mmlaw.ge/en/violent-crime-lawyer/) · October 6, 2026 · 4 min read · Updated: October 12, 2026
 
 Domestic violence is punished under Article 126¹ of the Criminal Code. Many other crimes against a family member are also treated as "family crimes".
 
@@ -13,7 +13,7 @@ By law this includes not only a spouse and children, but parents, siblings, gran
 
 Violence, systematic insults, blackmail or humiliation by one family member against another that caused physical pain or suffering.
 
-## Penalties
+## Possible penalties
 
 - Community service of 80–150 hours or imprisonment of up to 2 years
 

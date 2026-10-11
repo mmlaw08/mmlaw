@@ -10,7 +10,7 @@ Unauthorised access to a computer system is a crime under Article 284. A compute
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine, corrective labour or up to 2 years in prisonAs a group; by abusing one's position; repeatedly; causing significant damage (over GEL 2,000)A fine, corrective labour up to 2 years, or 2 to 5 years in prisonAgainst an operator of a critical information systemImprisonment from 3 to 6 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

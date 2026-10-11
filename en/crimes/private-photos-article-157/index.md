@@ -10,7 +10,7 @@ Unlawfully obtaining, keeping or spreading information about someone's private l
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenalty157 — obtaining, keeping or spreading private information or data (with significant harm)A fine, corrective labour up to 2 years, or up to 3 years in prison157 — the same, via the internet or social mediaA fine, corrective labour or up to 4 years in prison157¹ — obtaining, keeping or spreading the secret of private lifeImprisonment from 4 to 7 years157¹ — the same, via the internet or social mediaImprisonment from 5 to 8 years157¹ — for gain or repeatedlyImprisonment from 6 to 9 years157¹ — by a person obliged to protect the secret, or by abusing one's positionImprisonment from 7 to 10 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

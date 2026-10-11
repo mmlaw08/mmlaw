@@ -10,7 +10,7 @@ Official forgery is an official, or a person treated as one, entering false info
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyOfficial forgeryA fine, house arrest from 6 months to 2 years, or imprisonment from 2 to 4 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

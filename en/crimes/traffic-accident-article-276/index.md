@@ -10,7 +10,7 @@ A driver who breaks road safety rules and thereby causes less serious or serious
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyPart 1 — driving under the influence of narcotic or psychotropic substancesA fine, house arrest from 6 months to 2 years, community service or up to 3 years in prisonPart 2 — breaking the rules, causing less serious injuryA fine, house arrest or up to 3 years in prisonPart 3 — the same, under the influence of alcohol or drugsImprisonment from 2 to 5 yearsPart 4 — serious injuryA fine or imprisonment from 3 to 5 yearsPart 5 — the same, under the influence of alcohol or drugsImprisonment from 4 to 6 yearsPart 6 — a person's deathImprisonment from 4 to 7 yearsPart 7 — the same, under the influence of alcohol or drugsImprisonment from 6 to 9 yearsPart 8 — the death of two or more peopleImprisonment from 6 to 10 yearsPart 9 — the same, under the influence of alcohol or drugsImprisonment from 8 to 12 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

@@ -10,7 +10,7 @@ Trading in influence is when someone claims they can unlawfully influence an off
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyPart 1 — offering, promising or giving a benefit to a person claiming influenceA fine, corrective labour up to 2 years, house arrest from 6 months to 2 years, or up to 2 years in prisonPart 2 — demanding or taking a benefit in exchange for 'influence'Imprisonment from 3 to 5 yearsPart 3 — Part 2 committed by an organised groupImprisonment from 4 to 7 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

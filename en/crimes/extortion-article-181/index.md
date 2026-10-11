@@ -10,7 +10,7 @@ Extortion under Article 181 is demanding someone else's property, a property rig
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine or imprisonment from 2 to 4 yearsAs a group; repeatedly; to obtain property on a large scaleImprisonment from 4 to 7 yearsBy an organised group; by a person convicted twice or moreImprisonment from 6 to 9 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

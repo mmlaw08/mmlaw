@@ -1,11 +1,11 @@
 # Theft charges in Georgia: penalties and your rights
 
 Theft charges in Georgia: how the value of property, breaking into a home and acting as a group affect the penalty, and what to do if accused.
-[Property crimes](https://mmlaw.ge/en/property-crime-lawyer/) · October 6, 2026 · 3 min read · Updated: October 7, 2026
+[Property crimes](https://mmlaw.ge/en/property-crime-lawyer/) · October 6, 2026 · 3 min read · Updated: October 12, 2026
 
 Theft is the secret taking of someone else's movable property with the aim of appropriating it — Article 177 of the Criminal Code. The penalty depends mainly on the value and the circumstances.
 
-## Penalties
+## Possible penalties
 
 - Basic case — a fine, house arrest, or 1 to 3 years' imprisonment
 

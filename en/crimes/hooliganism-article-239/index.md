@@ -10,7 +10,7 @@ Hooliganism under Article 239 is an act that grossly breaches public order, show
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine, 120–180 hours of community service, corrective labour for up to 1 year, house arrest from 6 months to 2 years, or imprisonment for up to 1 yearBy a group by prior agreement; against a public official or a person stopping the hooliganism; by a person convicted of hooliganismA fine, 180–200 hours of community service, corrective labour for 1 to 2 years, or imprisonment from 2 to 5 yearsUsing a firearm or another object as a weaponImprisonment from 4 to 7 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

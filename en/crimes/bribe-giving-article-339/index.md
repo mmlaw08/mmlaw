@@ -10,7 +10,7 @@ Bribe-giving is promising, offering or giving money, property or another undue a
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine, corrective labour up to 2 years, house arrest from 6 months to 2 years, or up to 3 years in prisonTo get an unlawful act doneA fine or imprisonment from 4 to 7 yearsBy an organised groupImprisonment from 5 to 8 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

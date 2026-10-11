@@ -10,7 +10,7 @@ Theft is secretly taking someone else's movable property in order to unlawfully 
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine, house arrest from 6 months to 1 year, or imprisonment from 1 to 3 yearsSignificant damage (over GEL 150) or breaking into premises or storageHouse arrest from 1 to 2 years or imprisonment from 3 to 5 yearsBy a group by prior agreement; repeatedly; by breaking into a home; against a vehicleImprisonment from 4 to 7 yearsBy an organised group; on a large scale (over GEL 10,000); by a person convicted twice or moreImprisonment from 6 to 10 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

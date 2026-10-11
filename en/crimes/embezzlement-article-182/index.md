@@ -10,7 +10,7 @@ Misappropriation or embezzlement under Article 182 is when a person unlawfully k
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine, house arrest from 6 months to 2 years, or imprisonment from 3 to 5 yearsBy a group by prior agreement; repeatedly; causing significant damage (over GEL 150); by abusing one's positionA fine or imprisonment from 4 to 7 years, with a ban on holding office or the activity for up to 3 yearsBy an organised group; on a large scale (over GEL 10,000); by a person convicted twice or moreImprisonment from 7 to 11 years, with a ban on holding office or the activity for up to 3 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

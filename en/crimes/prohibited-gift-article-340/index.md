@@ -10,7 +10,7 @@ An official, or a person treated as one, accepting a gift prohibited by law comm
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyBasic offenceA fine, 100–300 hours of community service, a ban on holding office for up to 3 years, house arrest or up to 2 years in prisonRepeatedlyA fine, 200–400 hours of community service, a ban on holding office for up to 3 years, or 2 to 4 years in prison
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.

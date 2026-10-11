@@ -10,7 +10,7 @@ Intentional bodily harm has three levels: minor (Article 120), less serious (Art
 
 - Courts of all instances
 
-## What is the penalty
+## Possible penalties
 
 WhenPenaltyMinor harm — short-term damage to health (Art. 120)A fine, corrective labour for up to 6 months, house arrest from 6 months to 2 years, or imprisonment from 1 to 3 yearsMinor harm with aggravating circumstances — e.g. against a family member, as a group, out of hooligan motivesImprisonment from 3 to 5 yearsLess serious harm — long-term damage to health (Art. 118)Corrective labour for up to 18 months, house arrest from 6 months to 2 years, or imprisonment from 2 to 4 yearsLess serious harm with aggravating circumstancesImprisonment from 4 to 6 yearsSerious harm — dangerous to life, or loss of an organ or its function (Art. 117)Imprisonment from 4 to 7 yearsSerious harm causing deathImprisonment from 5 to 8 yearsSerious harm with aggravating circumstancesImprisonment from 9 to 13 years; if it caused death — 10 to 14 years
 Penalties follow the current text of the Criminal Code of Georgia. In a specific case the outcome depends on the circumstances, compensation of damage, a plea agreement and other factors.
