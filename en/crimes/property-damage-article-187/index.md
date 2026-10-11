@@ -96,10 +96,10 @@ Related practice area: [Property crimes](https://mmlaw.ge/en/property-crime-lawy
 - [Embezzlement — Article 182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
 
 -
-- [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
+- [Asset freezing and confiscation lawyer](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
 
 -
-- [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
+- [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 Criminal law
 

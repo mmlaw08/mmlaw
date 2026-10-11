@@ -53,6 +53,20 @@
 
 - Защита руководителей компаний
 
+## Конкретные дела
+
+- [Мошенничество](https://mmlaw.ge/ru/advokat-po-moshennichestvu/)
+
+- [Потерпевшим от финансовых преступлений](https://mmlaw.ge/ru/poterpevshim-ot-finansovykh-prestupleniy/)
+
+- [Налоговые споры](https://mmlaw.ge/ru/nalogovyy-advokat/)
+
+- [Отмывание денег](https://mmlaw.ge/ru/advokat-po-otmyvaniyu-deneg/)
+
+- [Арест и конфискация имущества](https://mmlaw.ge/ru/arest-i-konfiskatsiya-imushchestva/)
+
+- [Контрабанда и таможня](https://mmlaw.ge/ru/kontrabanda/)
+
 ## Преступления и наказания
 
 - [Присвоение или растрата · Статья 182](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
@@ -94,6 +108,18 @@
 - [#Бизнес](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
+- [Адвокат по мошенничеству](https://mmlaw.ge/ru/advokat-po-moshennichestvu/)
+
+-
+- [Адвокат по делам об отмывании денег](https://mmlaw.ge/ru/advokat-po-otmyvaniyu-deneg/)
+
+-
+- [Контрабанда и таможенные нарушения](https://mmlaw.ge/ru/kontrabanda/)
+
+-
+- [Налоговый адвокат](https://mmlaw.ge/ru/nalogovyy-advokat/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -104,18 +130,6 @@
 
 -
 - [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
-
--
-- [Обвинение в домашнем насилии: что нужно знать](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/)
 
 Области практики
 

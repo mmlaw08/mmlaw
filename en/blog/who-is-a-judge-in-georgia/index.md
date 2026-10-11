@@ -65,6 +65,9 @@ Hears and decides cases in court — administrative, civil and criminal.
 - [Bail or pre-trial detention in Georgia: how courts decide](https://mmlaw.ge/en/blog/bail-and-pretrial-detention-georgia/)
 
 -
+- [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
+
+-
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
@@ -75,9 +78,6 @@ Hears and decides cases in court — administrative, civil and criminal.
 
 -
 - [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
-
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 Blog
 

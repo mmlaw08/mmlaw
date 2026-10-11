@@ -51,6 +51,10 @@ By law, a bribe-giver is released from criminal liability if they voluntarily re
 
 - Checking covert evidence
 
+## Specific cases
+
+- [Abuse of office](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+
 ## Questions & answers
 
 ### I was asked for a bribe. What should I do?
@@ -87,6 +91,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Drunk driving in Georgia: fines, licence, prison](https://mmlaw.ge/en/blog/drunk-driving-in-georgia/)
 
 -
+- [Abuse of office and exceeding authority](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -103,9 +110,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
 
 Practice areas
 

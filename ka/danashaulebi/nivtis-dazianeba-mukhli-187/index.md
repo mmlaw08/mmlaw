@@ -96,10 +96,10 @@
 - [მითვისება ან გაფლანგვა — მუხლი 182](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
 
 -
-- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
+- [ქონებაზე ყადაღა და ქონების ჩამორთმევა](https://mmlaw.ge/ka/konebaze-yadagha-da-chamortmeva/)
 
 -
-- [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
+- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 სისხლის სამართალი
 

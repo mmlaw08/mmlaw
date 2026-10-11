@@ -70,6 +70,9 @@
 - [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
 
 -
+- [Адвокат по мошенничеству](https://mmlaw.ge/ru/advokat-po-moshennichestvu/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -86,9 +89,6 @@
 
 -
 - [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
-
--
-- [Обвинение в домашнем насилии: что нужно знать](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/)
 
 Блог
 

@@ -69,6 +69,9 @@ No, but the victim keeps the right to file a civil claim. The prosecutor must co
 - [Bail or pre-trial detention in Georgia: how courts decide](https://mmlaw.ge/en/blog/bail-and-pretrial-detention-georgia/)
 
 -
+- [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
+
+-
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
@@ -82,9 +85,6 @@ No, but the victim keeps the right to file a civil claim. The prosecutor must co
 
 -
 - [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
 
 Blog
 

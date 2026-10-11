@@ -233,6 +233,118 @@ Trademarks, copyright and protection of your creative and business assets.
 
 [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
+### [Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
+
+Defence against fraud charges and recovering money for victims — investment, loan, pyramid and crypto fraud.
+
+- Defence against fraud charges
+
+- Representing victims and recovering money
+
+- Investment and pyramid schemes
+
+- Loan and business-deal fraud
+
+[Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
+
+### [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
+
+Under the 2025 rules: compensation, freezing property and a ban on the convicted person leaving Georgia.
+
+- Victim status and representation
+
+- Tracing property and requesting a freeze
+
+- Claiming compensation in the verdict
+
+- Exit ban until the damage is paid
+
+[Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
+
+### [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+
+Tax audits, appealing tax demands, reducing tax debt and defence against tax evasion charges (Article 218).
+
+- Support during tax audits
+
+- Appealing tax demands
+
+- Disputes at the Revenue Service, the Council and in court
+
+- Tax settlements — reducing tax debt
+
+[Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+
+### [Money laundering defence lawyer](https://mmlaw.ge/en/money-laundering-lawyer/)
+
+Defence against Article 194 charges, frozen bank accounts and proving the lawful origin of assets.
+
+- Defence against money laundering charges
+
+- Challenging freezes on accounts and property
+
+- Proving the lawful origin of assets
+
+- Transactions suspended by banks
+
+[Money laundering defence lawyer](https://mmlaw.ge/en/money-laundering-lawyer/)
+
+### [Asset freezing and confiscation lawyer](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
+
+Freezing of property and accounts in criminal cases, confiscation and unexplained-wealth cases.
+
+- Challenging freezes on property and accounts
+
+- Protecting the property of third parties — family members, companies
+
+- Proving the lawful origin of assets
+
+- Defence against confiscation in a verdict
+
+[Asset freezing and confiscation lawyer](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
+
+### [Abuse of office and exceeding authority](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+
+Defending officials and company managers in abuse-of-authority and exceeding-authority cases.
+
+- Abuse of official authority
+
+- Exceeding official authority
+
+- Abuse of authority in a company
+
+- Negligence
+
+[Abuse of office and exceeding authority](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+
+### [Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+
+Defence under Article 214: moving goods past customs control, false declarations, jewellery and valuables.
+
+- Defence against smuggling charges
+
+- Checking the customs valuation
+
+- False declaration cases
+
+- Getting seized goods and vehicles back
+
+[Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+
+### [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+Liability of LLC directors and partners, insolvency and creditors' claims.
+
+- Assessing director and partner liability
+
+- Disputes between the company and its director
+
+- Insolvency: rehabilitation or liquidation
+
+- Creditors' claims and their protection
+
+[Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

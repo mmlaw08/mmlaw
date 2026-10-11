@@ -80,6 +80,15 @@
 - [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
 
 -
+- [Адвокат по мошенничеству](https://mmlaw.ge/ru/advokat-po-moshennichestvu/)
+
+-
+- [Налоговый адвокат](https://mmlaw.ge/ru/nalogovyy-advokat/)
+
+-
+- [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
+
+-
 - [Обманули в интернете — как вернуть деньги?](https://mmlaw.ge/ru/blog/moshennichestvo-v-internete/)
 
 -
@@ -87,15 +96,6 @@
 
 -
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
-
--
-- [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
-
--
-- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
-
--
-- [Адвокат по экономическим преступлениям](https://mmlaw.ge/ru/advokat-po-ekonomicheskim-delam/)
 
 Области практики
 

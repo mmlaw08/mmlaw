@@ -100,6 +100,9 @@
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
+- [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
+
+-
 - [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
 
 -
@@ -113,9 +116,6 @@
 
 -
 - [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
-
--
-- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

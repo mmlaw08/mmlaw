@@ -364,6 +364,126 @@ With Sakpatenti — the National Intellectual Property Center of Georgia. Intern
 
 No — copyright arises automatically when a work is created. Depositing the work with Sakpatenti helps prove authorship.
 
+## Fraud
+
+[Open page](https://mmlaw.ge/en/fraud-lawyer/)
+
+### Is failing to repay a debt fraud?
+
+Not necessarily. Fraud requires intent to deceive from the start. If an obligation simply wasn't met, it is often a civil dispute.
+
+### I was scammed — can I get my money back?
+
+The earlier you act, the better the chances: a police report, freezing the suspect's property and the compensation mechanism. In large-scale cases the convicted person is ordered to pay compensation.
+
+### What is the penalty for fraud?
+
+For the basic offence — from a fine up to 4 years in prison; with aggravating circumstances — up to 10 years.
+
+## Financial crime victims
+
+[Open page](https://mmlaw.ge/en/financial-crime-victims/)
+
+### Which crimes does compensation cover?
+
+For example: large-scale fraud, extortion and embezzlement, property damage over GEL 10,000, abuse of authority in a company and large-scale computer crime.
+
+### What if the convicted person leaves the country?
+
+If they are a Georgian citizen or a person with status in Georgia, they are banned from leaving until compensation is paid — unless you waive it in writing.
+
+### Can I also file a civil claim?
+
+Yes. Compensation doesn't take away your right to a civil claim — you just can't claim again the part you already received.
+
+## Tax disputes
+
+[Open page](https://mmlaw.ge/en/tax-lawyer/)
+
+### How long do I have to appeal a tax decision?
+
+30 days from receiving it. Complaints are usually filed electronically.
+
+### Can tax debt be reduced?
+
+Yes, in cases set by law a tax settlement can be signed with the Revenue Service to reduce part of the debt.
+
+## Money laundering
+
+[Open page](https://mmlaw.ge/en/money-laundering-lawyer/)
+
+### My bank suspended a transaction — what should I do?
+
+Ask for a written explanation and prepare documents proving where the money came from. If it reaches an investigation, involve a lawyer straight away.
+
+### What is unexplained property?
+
+Property for which the person or their relatives have no documents proving it was lawfully obtained.
+
+### What is the penalty for money laundering?
+
+For the basic offence — a fine or 3 to 6 years; on an especially large scale or by an organised group — up to 12 years.
+
+## Asset freezing and confiscation
+
+[Open page](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
+
+### My account has been frozen — what should I do?
+
+Find out in which case and on what grounds. The court order can be appealed — contact a lawyer straight away.
+
+### Can a family member's property be frozen?
+
+It can, if they are treated as a person connected to the accused. Then it is important to prove the property was obtained lawfully and independently.
+
+### What is the difference between a freeze and confiscation?
+
+A freeze is temporary — it restricts dealing with the property. Confiscation is final: the property passes to the state.
+
+## Abuse of office
+
+[Open page](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+
+### Can a private company director be liable?
+
+Not under Article 332, but possibly under Article 220 — if they used their authority against the company's interests for gain and caused significant damage.
+
+### Is every mistake at work a crime?
+
+No. There must be a substantial breach of rights or interests, and for abuse of authority also an aim of gain or advantage.
+
+## Smuggling and customs
+
+[Open page](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+
+### Is every customs violation a crime?
+
+No. Criminal liability requires a large amount — a customs value over GEL 15,000 (over GEL 5,000 for goods in a cache). Smaller violations are usually dealt with in a different way.
+
+### I forgot to declare gold jewellery — what happens?
+
+Moving precious-metal jewellery in breach of the rules is punished under a separate part of Article 214. The circumstances matter a lot — contact a lawyer straight away.
+
+### What is the penalty for smuggling?
+
+For a large amount — a fine or 3 to 5 years; with aggravating circumstances — up to 15 years.
+
+## Director liability and insolvency
+
+[Open page](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+### Is a director personally liable for an LLC's debts?
+
+Generally no — the company is liable with its own assets. But a director can be liable if they breached their duties and caused damage, or if a crime is established.
+
+### The company can't pay its debts — what should I do?
+
+Assess the situation with a lawyer as early as possible: rehabilitation or an agreement with creditors may be better than liquidation.
+
+### I'm a creditor — how do I protect my claim?
+
+Register the claim in the insolvency case on time and, if needed, ask the court for interim measures.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

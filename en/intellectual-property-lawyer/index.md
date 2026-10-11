@@ -80,6 +80,15 @@ No — copyright arises automatically when a work is created. Depositing the wor
 - [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
 
 -
+- [Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
+
+-
+- [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+
+-
+- [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+-
 - [Scammed online? How to try to get your money back](https://mmlaw.ge/en/blog/online-fraud-what-to-do/)
 
 -
@@ -87,15 +96,6 @@ No — copyright arises automatically when a work is created. Depositing the wor
 
 -
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
-
--
-- [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
-
--
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
-
--
-- [Economic crime lawyer](https://mmlaw.ge/en/economic-crime-lawyer/)
 
 Practice areas
 

@@ -69,6 +69,9 @@
 - [აღკვეთის ღონისძიება: გირაო თუ პატიმრობა?](https://mmlaw.ge/ka/blogi/aghkvetis-ghonisdzieba/)
 
 -
+- [ფინანსური დანაშაულის დაზარალებული](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
+
+-
 - [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 -
@@ -82,9 +85,6 @@
 
 -
 - [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
 
 ბლოგი
 

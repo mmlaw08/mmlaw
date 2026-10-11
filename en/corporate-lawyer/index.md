@@ -55,6 +55,10 @@ A corporate lawyer helps you set up a company, draft the charter and shareholder
 
 - Restructuring and liquidation
 
+## Specific cases
+
+- [Director liability and insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
 ## Questions & answers
 
 ### How long does it take to register a company in Georgia?
@@ -101,13 +105,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 -
+- [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+
+-
+- [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
-
--
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
-
--
-- [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 Practice areas
 

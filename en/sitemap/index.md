@@ -68,6 +68,22 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)Trademarks, copyright and protection of your creative and business assets.
 
+- [Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)Defence against fraud charges and recovering money for victims — investment, loan, pyramid and crypto fraud.
+
+- [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)Under the 2025 rules: compensation, freezing property and a ban on the convicted person leaving Georgia.
+
+- [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)Tax audits, appealing tax demands, reducing tax debt and defence against tax evasion charges (Article 218).
+
+- [Money laundering defence lawyer](https://mmlaw.ge/en/money-laundering-lawyer/)Defence against Article 194 charges, frozen bank accounts and proving the lawful origin of assets.
+
+- [Asset freezing and confiscation lawyer](https://mmlaw.ge/en/asset-freezing-and-confiscation/)Freezing of property and accounts in criminal cases, confiscation and unexplained-wealth cases.
+
+- [Abuse of office and exceeding authority](https://mmlaw.ge/en/abuse-of-office-lawyer/)Defending officials and company managers in abuse-of-authority and exceeding-authority cases.
+
+- [Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)Defence under Article 214: moving goods past customs control, false declarations, jewellery and valuables.
+
+- [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)Liability of LLC directors and partners, insolvency and creditors' claims.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)

@@ -78,6 +78,9 @@
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
+- [ფინანსური დანაშაულის დაზარალებული](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
+
+-
 - [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 -
@@ -94,9 +97,6 @@
 
 -
 - [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
-
--
-- [ოჯახში ძალადობის ბრალდება: რა უნდა იცოდეთ](https://mmlaw.ge/ka/blogi/ojakhshi-dzaladobis-braldeba/)
 
 ბლოგი
 

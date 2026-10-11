@@ -65,6 +65,9 @@
 - [Мера пресечения: залог или заключение под стражу?](https://mmlaw.ge/ru/blog/mera-presecheniya/)
 
 -
+- [Потерпевшим от финансовых преступлений](https://mmlaw.ge/ru/poterpevshim-ot-finansovykh-prestupleniy/)
+
+-
 - [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
 
 -
@@ -75,9 +78,6 @@
 
 -
 - [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
-
--
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 Блог
 

@@ -80,6 +80,15 @@
 - [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
 
 -
+- [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+
+-
+- [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
+
+-
+- [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
+
+-
 - [ინტერნეტით მომატყუეს — როგორ დავიბრუნო ფული?](https://mmlaw.ge/ka/blogi/onlain-taghlitoba/)
 
 -
@@ -87,15 +96,6 @@
 
 -
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
-
--
-- [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
-
--
-- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
-
--
-- [ეკონომიკური დანაშაულის ადვოკატი](https://mmlaw.ge/ka/ekonomikuri-danashaulis-advokati/)
 
 პრაქტიკის სფეროები
 

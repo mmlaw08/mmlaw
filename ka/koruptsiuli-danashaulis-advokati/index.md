@@ -51,6 +51,10 @@
 
 - ფარული მტკიცებულებების შემოწმება
 
+## კონკრეტული საქმეები
+
+- [უფლებამოსილების ბოროტად გამოყენება](https://mmlaw.ge/ka/uplebamosilebis-borotad-gamoyeneba/)
+
 ## კითხვები და პასუხები
 
 ### ქრთამი მომთხოვეს. რა ვქნა?
@@ -87,6 +91,9 @@
 - [ნასვამი მართვა საქართველოში: ჯარიმა, მართვის უფლება, ციხე](https://mmlaw.ge/ka/blogi/nasvami-martva/)
 
 -
+- [სამსახურებრივი უფლებამოსილების ბოროტად გამოყენება](https://mmlaw.ge/ka/uplebamosilebis-borotad-gamoyeneba/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -103,9 +110,6 @@
 
 -
 - [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
 
 პრაქტიკის სფეროები
 

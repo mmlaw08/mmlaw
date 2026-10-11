@@ -124,10 +124,10 @@
 - [ნივთის დაზიანება — მუხლი 187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
 
 -
-- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
+- [ქონებაზე ყადაღა და ქონების ჩამორთმევა](https://mmlaw.ge/ka/konebaze-yadagha-da-chamortmeva/)
 
 -
-- [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
+- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

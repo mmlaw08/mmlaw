@@ -52,6 +52,56 @@ Specialised representation of minors, focused on their rights and future.
 Juvenile justice requires a special approach. MMLAW attorneys defend young people's rights in specialised proceedings, focusing on their future and rehabilitation.
 [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
+Economic and financial cases
+
+## [Fraud](https://mmlaw.ge/en/fraud-lawyer/)
+
+Defence against fraud charges and recovering money for victims — investment, loan, pyramid and crypto fraud.
+Fraud is taking someone else's property or obtaining a property right by deception, in order to keep it (Article 180 of the Criminal Code). The key question is whether there was intent to deceive from the start — if an obligation simply wasn't met, it is often a civil dispute.
+[Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
+
+## [Financial crime victims](https://mmlaw.ge/en/financial-crime-victims/)
+
+Under the 2025 rules: compensation, freezing property and a ban on the convicted person leaving Georgia.
+In September 2025 a victim compensation procedure was added to the Criminal Procedure Code (Articles 165³–165⁸). A guilty verdict orders the convicted person to pay compensation if they are convicted of, for example, large-scale fraud, extortion or embezzlement, property damage over GEL 10,000, abuse of authority in a company or computer crime — and the victim has not waived compensation in writing.
+[Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
+
+## [Tax disputes](https://mmlaw.ge/en/tax-lawyer/)
+
+Tax audits, appealing tax demands, reducing tax debt and defence against tax evasion charges (Article 218).
+A tax dispute has two stages: the complaint goes first to the Revenue Service, then to the Dispute Resolution Council at the Ministry of Finance or to court. The deadline to appeal is 30 days from receiving the decision — missing it almost rules out a dispute.
+[Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+
+## [Money laundering](https://mmlaw.ge/en/money-laundering-lawyer/)
+
+Defence against Article 194 charges, frozen bank accounts and proving the lawful origin of assets.
+Money laundering (legalising illegal income) is giving illegal or unexplained property a lawful appearance in order to hide its origin (Article 194). Unexplained property is property for which there are no documents showing it was lawfully obtained — so documents and financial history decide these cases.
+[Money laundering defence lawyer](https://mmlaw.ge/en/money-laundering-lawyer/)
+
+## [Asset freezing and confiscation](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
+
+Freezing of property and accounts in criminal cases, confiscation and unexplained-wealth cases.
+In a criminal case a court can freeze the property of the accused or a connected person, including bank accounts, if there is information that the property may be hidden or spent, or was obtained through crime (Article 151 of the Criminal Procedure Code). A verdict can confiscate the object and instrument of the crime and property obtained through crime (Article 52 of the Criminal Code).
+[Asset freezing and confiscation lawyer](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
+
+## [Abuse of office](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+
+Defending officials and company managers in abuse-of-authority and exceeding-authority cases.
+Abuse of official authority (Article 332) and exceeding authority (Article 333) by an official are crimes if they cause a substantial breach of a person's, society's or the state's lawful interests. For private company managers, Article 220 — abuse of authority in a company — and Article 220¹, negligence, apply.
+[Abuse of office and exceeding authority](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+
+## [Smuggling and customs](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+
+Defence under Article 214: moving goods past customs control, false declarations, jewellery and valuables.
+Moving a large amount of goods across the customs border past customs control, secretly, with a false document or with false data in the customs declaration is a crime (Article 214). A large amount means a customs value over GEL 15,000, an especially large amount over GEL 25,000; for goods hidden in a cache or brought by crossing the border illegally, the thresholds are GEL 5,000 and GEL 15,000.
+[Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+
+## [Director liability and insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+Liability of LLC directors and partners, insolvency and creditors' claims.
+A director must manage the company's affairs in good faith and with reasonable care. If they breach this duty, they can be liable to the company for the damage, and in serious cases also criminally — for example, for abuse of authority in a company (Article 220), tax evasion or embezzlement.
+[Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

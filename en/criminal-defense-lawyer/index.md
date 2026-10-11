@@ -181,6 +181,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Bail or pre-trial detention in Georgia: how courts decide](https://mmlaw.ge/en/blog/bail-and-pretrial-detention-georgia/)
 
 -
+- [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
+
+-
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
@@ -197,9 +200,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
 
 Practice areas
 

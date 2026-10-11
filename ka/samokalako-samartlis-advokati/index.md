@@ -114,6 +114,9 @@
 - [#ბიზნესი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
+- [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
+
+-
 - [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
 
 -
@@ -133,9 +136,6 @@
 
 -
 - [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
-
--
-- [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
 
 პრაქტიკის სფეროები
 

@@ -114,6 +114,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Business](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
+- [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+-
 - [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
 
 -
@@ -133,9 +136,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
-
--
-- [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
 
 Practice areas
 

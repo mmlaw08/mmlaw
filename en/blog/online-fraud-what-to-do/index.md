@@ -70,6 +70,9 @@ No. Services that promise to recover your money for an upfront fee are, as a rul
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
+- [Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -86,9 +89,6 @@ No. Services that promise to recover your money for an upfront fee are, as a rul
 
 -
 - [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
 
 Blog
 

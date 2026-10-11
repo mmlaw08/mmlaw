@@ -53,6 +53,20 @@ By law, there is no criminal liability for tax evasion if, within 45 working day
 
 - Defending company directors
 
+## Specific cases
+
+- [Fraud](https://mmlaw.ge/en/fraud-lawyer/)
+
+- [Financial crime victims](https://mmlaw.ge/en/financial-crime-victims/)
+
+- [Tax disputes](https://mmlaw.ge/en/tax-lawyer/)
+
+- [Money laundering](https://mmlaw.ge/en/money-laundering-lawyer/)
+
+- [Asset freezing and confiscation](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
+
+- [Smuggling and customs](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+
 ## Crimes and penalties
 
 - [Embezzlement · Article 182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
@@ -94,6 +108,18 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Business](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
+- [Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
+
+-
+- [Money laundering defence lawyer](https://mmlaw.ge/en/money-laundering-lawyer/)
+
+-
+- [Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+
+-
+- [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -104,18 +130,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
-
--
-- [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
 
 Practice areas
 

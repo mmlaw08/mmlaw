@@ -78,6 +78,9 @@ Yes — once, to the Court of Appeals, within 48 hours of the ruling.
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
+- [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
+
+-
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
@@ -94,9 +97,6 @@ Yes — once, to the Court of Appeals, within 48 hours of the ruling.
 
 -
 - [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
 
 Blog
 

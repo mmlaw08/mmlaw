@@ -88,13 +88,13 @@
 - [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 -
+- [Налоговый адвокат](https://mmlaw.ge/ru/nalogovyy-advokat/)
+
+-
+- [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
-
--
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
-
--
-- [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 Блог
 

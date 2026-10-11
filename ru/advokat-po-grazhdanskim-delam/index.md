@@ -114,6 +114,9 @@
 - [#Бизнес](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
+- [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
+
+-
 - [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
 
 -
@@ -133,9 +136,6 @@
 
 -
 - [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
-
--
-- [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
 
 Области практики
 

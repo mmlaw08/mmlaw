@@ -96,10 +96,10 @@
 - [Присвоение или растрата — Статья 182](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
 
 -
-- [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
+- [Арест и конфискация имущества](https://mmlaw.ge/ru/arest-i-konfiskatsiya-imushchestva/)
 
 -
-- [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
+- [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 Уголовное право
 

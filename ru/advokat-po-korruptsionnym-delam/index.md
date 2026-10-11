@@ -51,6 +51,10 @@
 
 - Проверка негласных доказательств
 
+## Конкретные дела
+
+- [Злоупотребление полномочиями](https://mmlaw.ge/ru/zloupotreblenie-polnomochiyami/)
+
 ## Вопросы и ответы
 
 ### У меня требуют взятку. Что делать?
@@ -87,6 +91,9 @@
 - [Вождение в нетрезвом виде в Грузии: штраф, права, срок](https://mmlaw.ge/ru/blog/vozhdenie-v-netrezvom-vide/)
 
 -
+- [Злоупотребление и превышение должностных полномочий](https://mmlaw.ge/ru/zloupotreblenie-polnomochiyami/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -103,9 +110,6 @@
 
 -
 - [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
 
 Области практики
 

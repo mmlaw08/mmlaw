@@ -100,6 +100,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
+- [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+-
 - [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
 
 -
@@ -113,9 +116,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
-
--
-- [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 Practice areas
 

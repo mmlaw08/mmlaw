@@ -53,6 +53,20 @@
 
 - კომპანიის ხელმძღვანელების დაცვა
 
+## კონკრეტული საქმეები
+
+- [თაღლითობა](https://mmlaw.ge/ka/taghlitobis-advokati/)
+
+- [ფინანსური დანაშაულის დაზარალებულები](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
+
+- [საგადასახადო დავები](https://mmlaw.ge/ka/sagadasakhado-advokati/)
+
+- [ფულის გათეთრება](https://mmlaw.ge/ka/pulis-gatetreba/)
+
+- [ქონებაზე ყადაღა და ჩამორთმევა](https://mmlaw.ge/ka/konebaze-yadagha-da-chamortmeva/)
+
+- [კონტრაბანდა და საბაჟო](https://mmlaw.ge/ka/kontrabanda/)
+
 ## დანაშაულები და სასჯელები
 
 - [მითვისება ან გაფლანგვა · მუხლი 182](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
@@ -94,6 +108,18 @@
 - [#ბიზნესი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
+- [თაღლითობის ადვოკატი](https://mmlaw.ge/ka/taghlitobis-advokati/)
+
+-
+- [ფულის გათეთრების საქმეები](https://mmlaw.ge/ka/pulis-gatetreba/)
+
+-
+- [კონტრაბანდა და საბაჟო დარღვევები](https://mmlaw.ge/ka/kontrabanda/)
+
+-
+- [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -104,18 +130,6 @@
 
 -
 - [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
-
--
-- [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
-
--
-- [ოჯახში ძალადობის ბრალდება: რა უნდა იცოდეთ](https://mmlaw.ge/ka/blogi/ojakhshi-dzaladobis-braldeba/)
 
 პრაქტიკის სფეროები
 

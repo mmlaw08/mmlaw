@@ -55,6 +55,10 @@
 
 - რესტრუქტურიზაცია და ლიკვიდაცია
 
+## კონკრეტული საქმეები
+
+- [დირექტორის პასუხისმგებლობა და გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
+
 ## კითხვები და პასუხები
 
 ### რამდენ ხანში რეგისტრირდება კომპანია საქართველოში?
@@ -101,13 +105,13 @@
 - [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 
 -
+- [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
+
+-
+- [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
+
+-
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
-
--
-- [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
-
--
-- [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 პრაქტიკის სფეროები
 
