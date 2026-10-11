@@ -79,6 +79,9 @@ Yes — foreign individuals and companies can be the sole partner and director.
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 -
+- [Individual entrepreneur in Georgia: the 1% tax for foreigners](https://mmlaw.ge/en/blog/individual-entrepreneur-georgia-1-percent-tax/)
+
+-
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 -
@@ -93,16 +96,13 @@ Yes — foreign individuals and companies can be the sole partner and director.
 -
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
--
-- [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
-
 Blog
 
 ## All articles
 
-- [Criminal defense](https://mmlaw.ge/en/blog/free-lawyer-legal-aid-georgia/) — Free criminal lawyer in Georgia: who qualifies October 9, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/refused-entry-to-georgia/) — Refused entry to Georgia: reasons and what to do October 11, 2026 · 5 min read
 
-- [Criminal defense](https://mmlaw.ge/en/blog/how-to-choose-a-lawyer-in-georgia/) — How to choose a good lawyer in Georgia: 6 tips October 9, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/) — Overstaying in Georgia: fines and entry bans October 11, 2026 · 4 min read
 
 ---
 Source: https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

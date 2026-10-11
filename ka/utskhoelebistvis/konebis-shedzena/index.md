@@ -81,7 +81,7 @@
 - [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
 
 -
-- [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
+- [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
 
 უცხოელებისთვის
 

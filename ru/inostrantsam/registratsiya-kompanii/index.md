@@ -60,6 +60,9 @@
 - [#Бизнес](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
+- [ИП в Грузии для иностранца: налог 1% и что изменилось](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
-
--
-- [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 Иностранцам
 

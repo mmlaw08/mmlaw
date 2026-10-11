@@ -68,6 +68,12 @@ Choosing the wrong type is a common reason. A refusal can be appealed — deadli
 - [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
 
 -
+- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
+
+-
+- [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -80,21 +86,15 @@ Choosing the wrong type is a common reason. A refusal can be appealed — deadli
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
 -
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
-
--
-- [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
-
--
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [Work permit in Georgia for foreigners from 2026](https://mmlaw.ge/en/blog/work-permit-georgia/)
 
 Blog
 
 ## All articles
 
-- [Criminal defense](https://mmlaw.ge/en/blog/free-lawyer-legal-aid-georgia/) — Free criminal lawyer in Georgia: who qualifies October 9, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/refused-entry-to-georgia/) — Refused entry to Georgia: reasons and what to do October 11, 2026 · 5 min read
 
-- [Criminal defense](https://mmlaw.ge/en/blog/how-to-choose-a-lawyer-in-georgia/) — How to choose a good lawyer in Georgia: 6 tips October 9, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/) — Overstaying in Georgia: fines and entry bans October 11, 2026 · 4 min read
 
 ---
 Source: https://mmlaw.ge/en/blog/residence-permit-types-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

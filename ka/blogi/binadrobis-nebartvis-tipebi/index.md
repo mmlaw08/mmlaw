@@ -68,6 +68,12 @@
 - [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
 
 -
+- [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
+
+-
+- [საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/)
+
+-
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 -
@@ -80,21 +86,15 @@
 - [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
 
 -
-- [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
-
--
-- [როგორ გავასაჩივრო ჯარიმა?](https://mmlaw.ge/ka/blogi/jarimis-gasachivreba/)
-
--
-- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
+- [მუშაობის ნებართვა უცხოელისთვის საქართველოში 2026 წლიდან](https://mmlaw.ge/ka/blogi/mushaobis-nebartva-utskhoelistvis/)
 
 ბლოგი
 
 ## ყველა სტატია
 
-- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/upaso-advokati/) — უფასო ადვოკატი: როდის გეკუთვნით და როგორ მიიღოთ 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/) — საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
-- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/rogor-avirchiot-advokati/) — როგორ ავირჩიოთ კარგი ადვოკატი: 6 რჩევა 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/) — საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა 11 ოქტომბერი, 2026 · 4 წთ საკითხავი
 
 ---
 Source: https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

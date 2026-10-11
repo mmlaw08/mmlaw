@@ -96,9 +96,9 @@
 
 ## Все статьи
 
-- [Уголовная защита](https://mmlaw.ge/ru/blog/besplatnyy-advokat/) — Бесплатный адвокат в Грузии: кому положен 9 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/) — Отказ во въезде в Грузию: причины и что делать 11 октября 2026 г. · 5 мин чтения
 
-- [Уголовная защита](https://mmlaw.ge/ru/blog/kak-vybrat-advokata/) — Как выбрать хорошего адвоката: 6 советов 9 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/) — Просрочка пребывания в Грузии: штраф и запрет въезда 11 октября 2026 г. · 4 мин чтения
 
 ---
 Source: https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -92,6 +92,9 @@
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 -
+- [ИП в Грузии для иностранца: налог 1% и что изменилось](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
+
+-
 - [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 -
@@ -105,9 +108,6 @@
 
 -
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
-
--
-- [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
 Области практики
 

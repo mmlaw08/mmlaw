@@ -123,6 +123,9 @@
 - [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
 
 -
+- [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
+
+-
 - [Как принять наследство в Грузии из-за рубежа](https://mmlaw.ge/ru/blog/nasledstvo-iz-za-rubezha/)
 
 -
@@ -139,9 +142,6 @@
 
 -
 - [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
 
 Области практики
 

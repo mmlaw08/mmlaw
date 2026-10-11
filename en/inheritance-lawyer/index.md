@@ -123,6 +123,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
 
 -
+- [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
+
+-
 - [Accepting an inheritance in Georgia from abroad](https://mmlaw.ge/en/blog/inheritance-from-abroad/)
 
 -
@@ -139,9 +142,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 Practice areas
 

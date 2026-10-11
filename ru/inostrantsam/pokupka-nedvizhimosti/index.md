@@ -81,7 +81,7 @@
 - [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
 -
-- [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
+- [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
 
 Иностранцам
 

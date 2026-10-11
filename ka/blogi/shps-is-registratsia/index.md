@@ -79,6 +79,9 @@
 - [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 -
+- [ინდივიდუალური მეწარმე და 1% გადასახადი უცხოელისთვის](https://mmlaw.ge/ka/blogi/individualuri-metsarme-utskhoelistvis/)
+
+-
 - [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 
 -
@@ -93,16 +96,13 @@
 -
 - [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
 
--
-- [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
-
 ბლოგი
 
 ## ყველა სტატია
 
-- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/upaso-advokati/) — უფასო ადვოკატი: როდის გეკუთვნით და როგორ მიიღოთ 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/) — საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
-- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/rogor-avirchiot-advokati/) — როგორ ავირჩიოთ კარგი ადვოკატი: 6 რჩევა 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/) — საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა 11 ოქტომბერი, 2026 · 4 წთ საკითხავი
 
 ---
 Source: https://mmlaw.ge/ka/blogi/shps-is-registratsia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

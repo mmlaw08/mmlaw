@@ -149,6 +149,9 @@ WhatsApp-ით, ტელეფონით, ელფოსტით ან �
 - [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
+- [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
+
+-
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
@@ -165,9 +168,6 @@ WhatsApp-ით, ტელეფონით, ელფოსტით ან �
 
 -
 - [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
 
 ---
 Source: https://mmlaw.ge/ka/emigrantebistvis/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

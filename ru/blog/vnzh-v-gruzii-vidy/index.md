@@ -68,6 +68,12 @@
 - [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
 
 -
+- [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
+
+-
+- [Просрочка пребывания в Грузии: штраф и запрет въезда](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
@@ -80,21 +86,15 @@
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
 -
-- [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
-
--
-- [Как обжаловать штраф в Грузии](https://mmlaw.ge/ru/blog/obzhalovanie-shtrafa/)
-
--
-- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
+- [Разрешение на работу в Грузии для иностранцев с 2026 года](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/)
 
 Блог
 
 ## Все статьи
 
-- [Уголовная защита](https://mmlaw.ge/ru/blog/besplatnyy-advokat/) — Бесплатный адвокат в Грузии: кому положен 9 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/) — Отказ во въезде в Грузию: причины и что делать 11 октября 2026 г. · 5 мин чтения
 
-- [Уголовная защита](https://mmlaw.ge/ru/blog/kak-vybrat-advokata/) — Как выбрать хорошего адвоката: 6 советов 9 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/) — Просрочка пребывания в Грузии: штраф и запрет въезда 11 октября 2026 г. · 4 мин чтения
 
 ---
 Source: https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

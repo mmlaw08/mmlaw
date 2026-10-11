@@ -63,6 +63,12 @@
 - [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
 -
+- [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
+
+-
+- [Просрочка пребывания в Грузии: штраф и запрет въезда](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
@@ -75,13 +81,7 @@
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
 -
-- [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
-
--
-- [Как обжаловать штраф в Грузии](https://mmlaw.ge/ru/blog/obzhalovanie-shtrafa/)
-
--
-- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
+- [Разрешение на работу в Грузии для иностранцев с 2026 года](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/)
 
 Иностранцам
 

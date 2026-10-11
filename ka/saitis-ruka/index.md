@@ -70,6 +70,16 @@
 
 - [ბლოგი](https://mmlaw.ge/ka/blogi/)
 
+- [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
+
+- [საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/)
+
+- [მუშაობის ნებართვა უცხოელისთვის საქართველოში 2026 წლიდან](https://mmlaw.ge/ka/blogi/mushaobis-nebartva-utskhoelistvis/)
+
+- [ინდივიდუალური მეწარმე და 1% გადასახადი უცხოელისთვის](https://mmlaw.ge/ka/blogi/individualuri-metsarme-utskhoelistvis/)
+
+- [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
+
 - [უფასო ადვოკატი: როდის გეკუთვნით და როგორ მიიღოთ](https://mmlaw.ge/ka/blogi/upaso-advokati/)
 
 - [როგორ ავირჩიოთ კარგი ადვოკატი: 6 რჩევა](https://mmlaw.ge/ka/blogi/rogor-avirchiot-advokati/)

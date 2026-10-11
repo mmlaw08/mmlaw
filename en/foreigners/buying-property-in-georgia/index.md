@@ -81,7 +81,7 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 - [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 -
-- [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
+- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
 
 For foreigners
 

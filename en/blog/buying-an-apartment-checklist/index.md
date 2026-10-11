@@ -90,15 +90,15 @@ Ownership arises on registration with the Public Registry. Until then, the apart
 - [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 -
-- [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
+- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
 
 Blog
 
 ## All articles
 
-- [Criminal defense](https://mmlaw.ge/en/blog/free-lawyer-legal-aid-georgia/) — Free criminal lawyer in Georgia: who qualifies October 9, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/refused-entry-to-georgia/) — Refused entry to Georgia: reasons and what to do October 11, 2026 · 5 min read
 
-- [Criminal defense](https://mmlaw.ge/en/blog/how-to-choose-a-lawyer-in-georgia/) — How to choose a good lawyer in Georgia: 6 tips October 9, 2026 · 4 min read
+- [Administrative law](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/) — Overstaying in Georgia: fines and entry bans October 11, 2026 · 4 min read
 
 ---
 Source: https://mmlaw.ge/en/blog/buying-an-apartment-checklist/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

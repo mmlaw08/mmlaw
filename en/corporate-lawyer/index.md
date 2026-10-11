@@ -92,6 +92,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 -
+- [Individual entrepreneur in Georgia: the 1% tax for foreigners](https://mmlaw.ge/en/blog/individual-entrepreneur-georgia-1-percent-tax/)
+
+-
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 -
@@ -105,9 +108,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
-
--
-- [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 Practice areas
 

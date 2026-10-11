@@ -63,6 +63,12 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 -
+- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
+
+-
+- [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -75,13 +81,7 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
 -
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
-
--
-- [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
-
--
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [Work permit in Georgia for foreigners from 2026](https://mmlaw.ge/en/blog/work-permit-georgia/)
 
 For foreigners
 

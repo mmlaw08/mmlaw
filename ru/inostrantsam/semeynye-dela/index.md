@@ -73,13 +73,13 @@
 - [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
 -
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
+- [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
 
 -
-- [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
+- [Просрочка пребывания в Грузии: штраф и запрет въезда](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/)
 
 -
-- [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
+- [Разрешение на работу в Грузии для иностранцев с 2026 года](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/)
 
 Иностранцам
 

@@ -149,6 +149,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
 
 -
+- [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
+
+-
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
@@ -165,9 +168,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 ---
 Source: https://mmlaw.ge/en/georgians-abroad/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -90,15 +90,15 @@
 - [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
 
 -
-- [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
+- [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
 
 ბლოგი
 
 ## ყველა სტატია
 
-- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/upaso-advokati/) — უფასო ადვოკატი: როდის გეკუთვნით და როგორ მიიღოთ 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/) — საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა 11 ოქტომბერი, 2026 · 5 წთ საკითხავი
 
-- [სისხლის სამართალი](https://mmlaw.ge/ka/blogi/rogor-avirchiot-advokati/) — როგორ ავირჩიოთ კარგი ადვოკატი: 6 რჩევა 9 ოქტომბერი, 2026 · 4 წთ საკითხავი
+- [ადმინისტრაციული სამართალი](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/) — საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა 11 ოქტომბერი, 2026 · 4 წთ საკითხავი
 
 ---
 Source: https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

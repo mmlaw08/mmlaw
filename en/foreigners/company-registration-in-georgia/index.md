@@ -60,6 +60,9 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 - [#Business](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
+- [Individual entrepreneur in Georgia: the 1% tax for foreigners](https://mmlaw.ge/en/blog/individual-entrepreneur-georgia-1-percent-tax/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -79,9 +82,6 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
 - [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
-
--
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 For foreigners
 

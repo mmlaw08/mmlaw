@@ -123,6 +123,9 @@
 - [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
 
 -
+- [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
+
+-
 - [მემკვიდრეობის მიღება საზღვარგარეთიდან](https://mmlaw.ge/ka/blogi/memkvidreobis-migheba-sazghvargaretidan/)
 
 -
@@ -139,9 +142,6 @@
 
 -
 - [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
 
 პრაქტიკის სფეროები
 

@@ -149,6 +149,9 @@
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
 
 -
+- [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
+
+-
 - [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
 
 -
@@ -165,9 +168,6 @@
 
 -
 - [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
 
 ---
 Source: https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

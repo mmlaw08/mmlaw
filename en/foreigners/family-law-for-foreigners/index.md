@@ -73,13 +73,13 @@ Related practice area: [Family law](https://mmlaw.ge/en/family-lawyer/)
 - [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 -
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
+- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
 
 -
-- [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
+- [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
 
 -
-- [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
+- [Work permit in Georgia for foreigners from 2026](https://mmlaw.ge/en/blog/work-permit-georgia/)
 
 For foreigners
 

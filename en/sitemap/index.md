@@ -70,6 +70,16 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Blog](https://mmlaw.ge/en/blog/)
 
+- [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
+
+- [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
+
+- [Work permit in Georgia for foreigners from 2026](https://mmlaw.ge/en/blog/work-permit-georgia/)
+
+- [Individual entrepreneur in Georgia: the 1% tax for foreigners](https://mmlaw.ge/en/blog/individual-entrepreneur-georgia-1-percent-tax/)
+
+- [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
+
 - [Free criminal lawyer in Georgia: who qualifies](https://mmlaw.ge/en/blog/free-lawyer-legal-aid-georgia/)
 
 - [How to choose a good lawyer in Georgia: 6 tips](https://mmlaw.ge/en/blog/how-to-choose-a-lawyer-in-georgia/)

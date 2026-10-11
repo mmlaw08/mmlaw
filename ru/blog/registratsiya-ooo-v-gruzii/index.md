@@ -79,6 +79,9 @@
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 -
+- [ИП в Грузии для иностранца: налог 1% и что изменилось](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
+
+-
 - [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 -
@@ -93,16 +96,13 @@
 -
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
--
-- [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
-
 Блог
 
 ## Все статьи
 
-- [Уголовная защита](https://mmlaw.ge/ru/blog/besplatnyy-advokat/) — Бесплатный адвокат в Грузии: кому положен 9 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/) — Отказ во въезде в Грузию: причины и что делать 11 октября 2026 г. · 5 мин чтения
 
-- [Уголовная защита](https://mmlaw.ge/ru/blog/kak-vybrat-advokata/) — Как выбрать хорошего адвоката: 6 советов 9 октября 2026 г. · 4 мин чтения
+- [Административное право](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/) — Просрочка пребывания в Грузии: штраф и запрет въезда 11 октября 2026 г. · 4 мин чтения
 
 ---
 Source: https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

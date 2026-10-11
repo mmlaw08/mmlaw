@@ -70,6 +70,16 @@
 
 - [Блог](https://mmlaw.ge/ru/blog/)
 
+- [Отказ во въезде в Грузию: причины и что делать](https://mmlaw.ge/ru/blog/otkaz-vo-vezde-v-gruziyu/)
+
+- [Просрочка пребывания в Грузии: штраф и запрет въезда](https://mmlaw.ge/ru/blog/prosrochka-prebyvaniya-v-gruzii/)
+
+- [Разрешение на работу в Грузии для иностранцев с 2026 года](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/)
+
+- [ИП в Грузии для иностранца: налог 1% и что изменилось](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
+
+- [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
+
 - [Бесплатный адвокат в Грузии: кому положен](https://mmlaw.ge/ru/blog/besplatnyy-advokat/)
 
 - [Как выбрать хорошего адвоката: 6 советов](https://mmlaw.ge/ru/blog/kak-vybrat-advokata/)
