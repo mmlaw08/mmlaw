@@ -89,13 +89,13 @@
 - [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
 
 -
+- [ფინანსური პირამიდა და საინვესტიციო თაღლითობა](https://mmlaw.ge/ka/finansuri-piramida/)
+
+-
 - [ინტერნეტით მომატყუეს — როგორ დავიბრუნო ფული?](https://mmlaw.ge/ka/blogi/onlain-taghlitoba/)
 
 -
-- [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
-
--
-- [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
+- [შანტაჟი პირადი ფოტოებით და პირადი ცხოვრების დაცვა](https://mmlaw.ge/ka/shantazhi-piradi-potoebit/)
 
 პრაქტიკის სფეროები
 

@@ -66,6 +66,12 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Petty hooliganism — Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)Swearing and insulting people in public: a fine up to GEL 3,000 or up to 20 days of administrative detention.
 
+- [Unauthorised access to a computer system — Article 284](https://mmlaw.ge/en/crimes/hacking-article-284/)Unlawfully getting into someone else's account, email, phone or computer. From a fine to 6 years.
+
+- [Computer crime for financial gain — Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)Phishing, taking money with someone else's card or online banking, interfering with systems for money. Up to 11 years.
+
+- [Violation of private life — Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)Unlawfully obtaining and spreading private information, photos or personal data. Up to 10 years.
+
 ## Other practice areas
 
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)Contract, property and damages disputes — negotiated or argued in court.
@@ -105,6 +111,10 @@ Every page of the site in one place — services, articles and useful resources.
 - [Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)When a criminal record expires automatically and how to have it removed early through the court.
 
 - [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)When a convicted person can be released early, who decides, and how to prepare for the board.
+
+- [Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)Crypto, forex and 'high-return' schemes: recovering money for victims and defending those accused of organising or taking part.
+
+- [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)Threatened with the release of private photos or information? We act for the victim: the case, content removal, compensation.
 
 ## For foreigners
 

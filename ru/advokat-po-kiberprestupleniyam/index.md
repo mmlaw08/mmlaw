@@ -67,13 +67,21 @@
 
 - Представительство жертв онлайн-мошенничества
 
-- Взлом аккаунтов и дела о персональных данных
+- [Взлом аккаунтов и дела о персональных данных](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
 
-- Помощь жертвам шантажа и угроз в интернете
+- [Помощь жертвам шантажа и угроз в интернете](https://mmlaw.ge/ru/shantazh-lichnymi-foto/)
 
 - Дела о мошенничестве с криптовалютой
 
 - Проверка цифровых доказательств и экспертиза
+
+## Преступления и наказания
+
+- [Компьютерное преступление ради выгоды · Статья 286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
+
+- [Посягательство на частную жизнь · Статья 157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
+
+[Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 
 ## Вопросы и ответы
 
@@ -112,6 +120,18 @@
 - [#Ваши права](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
 
 -
+- [Неправомерный доступ к компьютерной системе — Статья 284](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
+
+-
+- [Компьютерное преступление ради выгоды — Статья 286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
+
+-
+- [Посягательство на частную жизнь — Статья 157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
+
+-
+- [Шантаж личными фото и защита частной жизни](https://mmlaw.ge/ru/shantazh-lichnymi-foto/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -122,18 +142,6 @@
 
 -
 - [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
-
--
-- [Обвинение в домашнем насилии: что нужно знать](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/)
-
--
-- [Вождение в нетрезвом виде в Грузии: штраф, права, срок](https://mmlaw.ge/ru/blog/vozhdenie-v-netrezvom-vide/)
 
 Области практики
 

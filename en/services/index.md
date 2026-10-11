@@ -120,6 +120,18 @@ When a convicted person can be released early, who decides, and how to prepare f
 Under Article 72 of the Criminal Code, early release from a fixed-term prison sentence is decided by the local board of the Special Penitentiary Service; for community service, corrective labour or house arrest — by a court. The rule does not apply to prisoners held in a special-risk facility.
 [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
 
+## [Pyramid scheme and investment fraud cases](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+Crypto, forex and 'high-return' schemes: recovering money for victims and defending those accused of organising or taking part.
+These schemes are usually charged as fraud (Article 180), and the money flows can also amount to money laundering (Article 194). Since 2025, a person convicted of large-scale fraud is ordered to pay the victim compensation and cannot leave Georgia until they pay.
+[Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+## [Help with blackmail over private photos](https://mmlaw.ge/en/blackmail-private-photos/)
+
+Threatened with the release of private photos or information? We act for the victim: the case, content removal, compensation.
+Several crimes can be involved at once: extortion (Article 181) if money or property is demanded; violation of the secret of private life (Article 157¹); spreading personal data (Article 157); secretly recording a private conversation (Article 158).
+[Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

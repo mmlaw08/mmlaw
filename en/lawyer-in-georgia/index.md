@@ -387,6 +387,34 @@ When a convicted person can be released early, who decides, and how to prepare f
 
 [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
 
+### [Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+Crypto, forex and 'high-return' schemes: recovering money for victims and defending those accused of organising or taking part.
+
+- Representing victims and recovering money
+
+- Tracing and freezing property
+
+- Compensation in the verdict and civil claims
+
+- Defence for those accused of organising or taking part
+
+[Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+### [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
+
+Threatened with the release of private photos or information? We act for the victim: the case, content removal, compensation.
+
+- Report and representation of the victim
+
+- Removing content from platforms
+
+- Compensation for moral damage
+
+- Extortion, Article 157 and 157¹ cases
+
+[Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

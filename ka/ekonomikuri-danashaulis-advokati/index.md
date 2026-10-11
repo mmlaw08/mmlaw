@@ -103,6 +103,9 @@
 - [კონტრაბანდა და საბაჟო დარღვევები](https://mmlaw.ge/ka/kontrabanda/)
 
 -
+- [ფინანსური პირამიდა და საინვესტიციო თაღლითობა](https://mmlaw.ge/ka/finansuri-piramida/)
+
+-
 - [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
 
 -
@@ -113,9 +116,6 @@
 
 -
 - [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
-
--
-- [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
 
 პრაქტიკის სფეროები
 

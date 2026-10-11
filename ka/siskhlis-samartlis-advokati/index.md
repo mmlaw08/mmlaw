@@ -143,6 +143,12 @@
 
 - [წვრილმანი ხულიგნობა · მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
 
+- [კომპიუტერულ სისტემაში უნებართვო შეღწევა · მუხლი 284](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
+
+- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის · მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
+
+- [პირადი ცხოვრების ხელყოფა · მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
+
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 
 ## კითხვები და პასუხები

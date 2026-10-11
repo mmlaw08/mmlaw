@@ -49,6 +49,10 @@ Property for which the person or their relatives have no documents proving it wa
 
 For the basic offence — a fine or 3 to 6 years; on an especially large scale or by an organised group — up to 12 years.
 
+### Is 'renting out' my account or card risky?
+
+Yes. If someone else's money comes into your account and you transfer or withdraw it, you may end up accused as a participant in fraud or of money laundering — even if you only took a 'small fee'.
+
 ## Legal basis
 
 - [Criminal Code of Georgia](https://matsne.gov.ge/ka/document/view/16426)
@@ -73,6 +77,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
 
 -
+- [Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+-
 - [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
 
 -
@@ -83,9 +90,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 Practice areas
 

@@ -89,13 +89,13 @@ No — copyright arises automatically when a work is created. Depositing the wor
 - [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
 -
+- [Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+-
 - [Scammed online? How to try to get your money back](https://mmlaw.ge/en/blog/online-fraud-what-to-do/)
 
 -
-- [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
-
--
-- [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
+- [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
 
 Practice areas
 

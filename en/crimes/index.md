@@ -30,6 +30,14 @@ Short and clear: what each crime means, which article of the Criminal Code cover
 
 - [Hooliganism](https://mmlaw.ge/en/crimes/hooliganism-article-239/) — Article 239 A gross breach of public order with violence or the threat of violence. Penalties from a fine to 7 years.
 
+## Cybercrime and privacy
+
+- [Unauthorised access to a computer system](https://mmlaw.ge/en/crimes/hacking-article-284/) — Article 284 Unlawfully getting into someone else's account, email, phone or computer. From a fine to 6 years.
+
+- [Computer crime for financial gain](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/) — Article 286¹ Phishing, taking money with someone else's card or online banking, interfering with systems for money. Up to 11 years.
+
+- [Violation of private life](https://mmlaw.ge/en/crimes/private-photos-article-157/) — Article 157, 157¹ Unlawfully obtaining and spreading private information, photos or personal data. Up to 10 years.
+
 ## Traffic crimes
 
 - [Traffic accident causing injury](https://mmlaw.ge/en/crimes/traffic-accident-article-276/) — Article 276 Breaking traffic safety rules causing injury or death; driving under the influence of drugs. Up to 12 years.

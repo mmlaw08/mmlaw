@@ -37,6 +37,8 @@
 
 - სისხლის სამართლის საქმე თუ სამოქალაქო დავა — შეფასება
 
+- [ფინანსური პირამიდის და საინვესტიციო თაღლითობის საქმეები](https://mmlaw.ge/ka/finansuri-piramida/)
+
 ## კითხვები და პასუხები
 
 ### ვალის დაუბრუნებლობა თაღლითობაა?
@@ -68,6 +70,9 @@
 - [#ციფრული სამყარო](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 -
+- [ფინანსური პირამიდა და საინვესტიციო თაღლითობა](https://mmlaw.ge/ka/finansuri-piramida/)
+
+-
 - [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 -
@@ -80,16 +85,13 @@
 - [კონტრაბანდა და საბაჟო დარღვევები](https://mmlaw.ge/ka/kontrabanda/)
 
 -
-- [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
+- [კომპიუტერულ სისტემაში უნებართვო შეღწევა — მუხლი 284](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
 
 -
-- [ინტერნეტით მომატყუეს — როგორ დავიბრუნო ფული?](https://mmlaw.ge/ka/blogi/onlain-taghlitoba/)
+- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის — მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
 
 -
-- [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
-
--
-- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
+- [პირადი ცხოვრების ხელყოფა — მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
 
 პრაქტიკის სფეროები
 

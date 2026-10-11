@@ -103,6 +103,9 @@
 - [Контрабанда и таможенные нарушения](https://mmlaw.ge/ru/kontrabanda/)
 
 -
+- [Финансовые пирамиды и инвестмошенничество](https://mmlaw.ge/ru/finansovye-piramidy/)
+
+-
 - [Налоговый адвокат](https://mmlaw.ge/ru/nalogovyy-advokat/)
 
 -
@@ -113,9 +116,6 @@
 
 -
 - [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
-
--
-- [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
 
 Области практики
 

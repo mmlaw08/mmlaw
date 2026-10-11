@@ -67,28 +67,28 @@ No. Services that promise to recover your money for an upfront fee are, as a rul
 - [#Criminal law](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
+- [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
+
+-
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
 - [Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
 
 -
+- [Unauthorised access to a computer system — Article 284](https://mmlaw.ge/en/crimes/hacking-article-284/)
+
+-
+- [Computer crime for financial gain — Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
+
+-
+- [Violation of private life — Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
+
+-
+- [Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
-
--
-- [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
 
 Blog
 

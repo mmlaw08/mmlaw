@@ -89,13 +89,13 @@
 - [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
 
 -
+- [Финансовые пирамиды и инвестмошенничество](https://mmlaw.ge/ru/finansovye-piramidy/)
+
+-
 - [Обманули в интернете — как вернуть деньги?](https://mmlaw.ge/ru/blog/moshennichestvo-v-internete/)
 
 -
-- [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
-
--
-- [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
+- [Шантаж личными фото и защита частной жизни](https://mmlaw.ge/ru/shantazh-lichnymi-foto/)
 
 Области практики
 

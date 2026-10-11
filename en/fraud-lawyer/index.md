@@ -37,6 +37,8 @@ Since 2025, a person convicted of large-scale fraud is ordered to pay the victim
 
 - Assessing whether it is a crime or a civil dispute
 
+- [Pyramid scheme and investment fraud cases](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
 ## Questions & answers
 
 ### Is failing to repay a debt fraud?
@@ -68,6 +70,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Online & digital](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
+- [Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+-
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 -
@@ -80,16 +85,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
 
 -
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
+- [Unauthorised access to a computer system — Article 284](https://mmlaw.ge/en/crimes/hacking-article-284/)
 
 -
-- [Scammed online? How to try to get your money back](https://mmlaw.ge/en/blog/online-fraud-what-to-do/)
+- [Computer crime for financial gain — Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
 
 -
-- [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
-
--
-- [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
+- [Violation of private life — Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
 
 Practice areas
 

@@ -143,6 +143,12 @@
 
 - [Мелкое хулиганство · Статья 166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
 
+- [Неправомерный доступ к компьютерной системе · Статья 284](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
+
+- [Компьютерное преступление ради выгоды · Статья 286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
+
+- [Посягательство на частную жизнь · Статья 157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
+
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 
 ## Вопросы и ответы

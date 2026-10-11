@@ -67,28 +67,28 @@
 - [#Уголовное право](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
+- [Шантаж личными фото и защита частной жизни](https://mmlaw.ge/ru/shantazh-lichnymi-foto/)
+
+-
 - [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
 
 -
 - [Адвокат по мошенничеству](https://mmlaw.ge/ru/advokat-po-moshennichestvu/)
 
 -
+- [Неправомерный доступ к компьютерной системе — Статья 284](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
+
+-
+- [Компьютерное преступление ради выгоды — Статья 286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
+
+-
+- [Посягательство на частную жизнь — Статья 157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
+
+-
+- [Финансовые пирамиды и инвестмошенничество](https://mmlaw.ge/ru/finansovye-piramidy/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
-
--
-- [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
 
 Блог
 

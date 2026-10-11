@@ -424,6 +424,10 @@ Property for which the person or their relatives have no documents proving it wa
 
 For the basic offence — a fine or 3 to 6 years; on an especially large scale or by an organised group — up to 12 years.
 
+### Is 'renting out' my account or card risky?
+
+Yes. If someone else's money comes into your account and you transfer or withdraw it, you may end up accused as a participant in fraud or of money laundering — even if you only took a 'small fee'.
+
 ## Asset freezing and confiscation
 
 [Open page](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
@@ -531,6 +535,38 @@ For imprisonment — the local board of the Special Penitentiary Service; for ot
 ### Can the family hire a lawyer?
 
 Yes. A family member can contact us; we meet the prisoner and prepare the case.
+
+## Pyramid scheme and investment fraud cases
+
+[Open page](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+### I lost money in a pyramid scheme — can I get it back?
+
+The earlier you act, the better the chances: a report, a freeze on property and the compensation mechanism. In large-scale fraud the convicted person is ordered to pay compensation.
+
+### I brought friends into the scheme — am I liable?
+
+If you didn't know the scheme was a deception, that is the core of your defence. Talk to a lawyer before giving a statement to investigators.
+
+### The platform is abroad — what can be done?
+
+A case can be opened in Georgia if the victim or the recipient of the money is here; international cooperation is used where needed. Contacting your bank quickly matters too.
+
+## Help with blackmail over private photos
+
+[Open page](https://mmlaw.ge/en/blackmail-private-photos/)
+
+### If I pay, will they stop?
+
+Often not. Paying shows the pressure works, and demands grow. It is better to keep the evidence and contact a lawyer and the police.
+
+### The photo has already been posted — can it be removed?
+
+Yes. We use platforms' takedown tools and, where needed, legal routes — while the criminal case continues.
+
+### Will my name appear anywhere?
+
+We work in complete confidence. There are also ways to protect a victim's private life during the investigation and in court — your lawyer will ask for them.
 
 ## For foreigners
 

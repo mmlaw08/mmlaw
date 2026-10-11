@@ -67,28 +67,28 @@
 - [#სისხლის სამართალი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
+- [შანტაჟი პირადი ფოტოებით და პირადი ცხოვრების დაცვა](https://mmlaw.ge/ka/shantazhi-piradi-potoebit/)
+
+-
 - [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 -
 - [ადვოკატი თაღლითობის საქმეებზე](https://mmlaw.ge/ka/taghlitobis-sakmeebi/)
 
 -
+- [კომპიუტერულ სისტემაში უნებართვო შეღწევა — მუხლი 284](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
+
+-
+- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის — მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
+
+-
+- [პირადი ცხოვრების ხელყოფა — მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
+
+-
+- [ფინანსური პირამიდა და საინვესტიციო თაღლითობა](https://mmlaw.ge/ka/finansuri-piramida/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
-
--
-- [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
-
--
-- [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
 
 ბლოგი
 

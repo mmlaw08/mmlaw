@@ -67,13 +67,21 @@
 
 - ონლაინ თაღლითობის მსხვერპლთა წარმომადგენლობა
 
-- ანგარიშების გატეხვა და პერსონალურ მონაცემებთან დაკავშირებული საქმეები
+- [ანგარიშების გატეხვა და პერსონალურ მონაცემებთან დაკავშირებული საქმეები](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
 
-- დახმარება ინტერნეტით შანტაჟისა და მუქარის მსხვერპლს
+- [დახმარება ინტერნეტით შანტაჟისა და მუქარის მსხვერპლს](https://mmlaw.ge/ka/shantazhi-piradi-potoebit/)
 
 - კრიპტოვალუტით თაღლითობის საქმეები
 
 - ციფრული მტკიცებულებების შემოწმება და ექსპერტიზა
+
+## დანაშაულები და სასჯელები
+
+- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის · მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
+
+- [პირადი ცხოვრების ხელყოფა · მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
+
+[ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 
 ## კითხვები და პასუხები
 
@@ -112,6 +120,18 @@
 - [#თქვენი უფლებები](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
 
 -
+- [კომპიუტერულ სისტემაში უნებართვო შეღწევა — მუხლი 284](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
+
+-
+- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის — მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
+
+-
+- [პირადი ცხოვრების ხელყოფა — მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
+
+-
+- [შანტაჟი პირადი ფოტოებით და პირადი ცხოვრების დაცვა](https://mmlaw.ge/ka/shantazhi-piradi-potoebit/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -122,18 +142,6 @@
 
 -
 - [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
-
--
-- [ოჯახში ძალადობის ბრალდება: რა უნდა იცოდეთ](https://mmlaw.ge/ka/blogi/ojakhshi-dzaladobis-braldeba/)
-
--
-- [ნასვამი მართვა საქართველოში: ჯარიმა, მართვის უფლება, ციხე](https://mmlaw.ge/ka/blogi/nasvami-martva/)
 
 პრაქტიკის სფეროები
 

@@ -143,6 +143,12 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - [Petty hooliganism · Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
 
+- [Unauthorised access to a computer system · Article 284](https://mmlaw.ge/en/crimes/hacking-article-284/)
+
+- [Computer crime for financial gain · Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
+
+- [Violation of private life · Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
+
 [All crimes](https://mmlaw.ge/en/crimes/)
 
 ## Questions & answers

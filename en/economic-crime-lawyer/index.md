@@ -103,6 +103,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Smuggling and customs offences](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
 
 -
+- [Pyramid schemes and investment fraud](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
+
+-
 - [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
 
 -
@@ -113,9 +116,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 Practice areas
 

@@ -67,13 +67,21 @@ In these cases, digital evidence decides everything — phones, computers, accou
 
 - Representing victims of online fraud
 
-- Hacked accounts and personal data cases
+- [Hacked accounts and personal data cases](https://mmlaw.ge/en/crimes/hacking-article-284/)
 
-- Help for victims of online blackmail and threats
+- [Help for victims of online blackmail and threats](https://mmlaw.ge/en/blackmail-private-photos/)
 
 - Cryptocurrency fraud cases
 
 - Review of digital evidence and expert analysis
+
+## Crimes and penalties
+
+- [Computer crime for financial gain · Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
+
+- [Violation of private life · Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
+
+[All crimes](https://mmlaw.ge/en/crimes/)
 
 ## Questions & answers
 
@@ -112,6 +120,18 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Your rights](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 -
+- [Unauthorised access to a computer system — Article 284](https://mmlaw.ge/en/crimes/hacking-article-284/)
+
+-
+- [Computer crime for financial gain — Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
+
+-
+- [Violation of private life — Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
+
+-
+- [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -122,18 +142,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
-
--
-- [Drunk driving in Georgia: fines, licence, prison](https://mmlaw.ge/en/blog/drunk-driving-in-georgia/)
 
 Practice areas
 
