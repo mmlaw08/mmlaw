@@ -41,19 +41,19 @@
 
 ## Наши услуги
 
-- [Уклонение от уплаты налогов](https://mmlaw.ge/ru/nalogovyy-advokat/)
+- [Защита по обвинению в уклонении от налогов](https://mmlaw.ge/ru/nalogovyy-advokat/)
 
-- [Отмывание денег](https://mmlaw.ge/ru/advokat-po-otmyvaniyu-deneg/)
+- [Защита по обвинению в отмывании денег](https://mmlaw.ge/ru/advokat-po-otmyvaniyu-deneg/)
 
-- [Нарушение таможенных правил](https://mmlaw.ge/ru/kontrabanda/)
+- [Защита по делам о контрабанде и таможенных нарушениях](https://mmlaw.ge/ru/kontrabanda/)
 
-- [Присвоение и растрата в компании](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
+- [Защита по обвинению в присвоении в компании](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
 
 - [Защита при налоговой проверке](https://mmlaw.ge/ru/nalogovyy-advokat/)
 
 - Защита руководителей компаний
 
-- [Мошенничество](https://mmlaw.ge/ru/advokat-po-moshennichestvu/)
+- [Дела о мошенничестве](https://mmlaw.ge/ru/advokat-po-moshennichestvu/)
 
 - [Потерпевшим от финансовых преступлений](https://mmlaw.ge/ru/poterpevshim-ot-finansovykh-prestupleniy/)
 

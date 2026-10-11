@@ -43,15 +43,15 @@ By law, a person who harms an attacker while defending themselves or others agai
 
 ## Our services
 
-- Beating and violence
+- Defence against assault charges
 
-- Bodily injury
+- Defence against bodily harm charges
 
-- Threats
+- Defence against threat charges
 
-- Homicide and attempted homicide
+- Defence in murder and attempted murder cases
 
-- Self-defence
+- Proving self-defence
 
 - Representing victims
 

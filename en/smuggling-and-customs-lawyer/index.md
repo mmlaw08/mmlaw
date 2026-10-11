@@ -35,7 +35,7 @@ So in these cases the key is often the correct customs valuation of the goods: b
 
 - Getting seized goods and vehicles back
 
-- Jewellery and cultural heritage
+- Cases involving jewellery and cultural heritage
 
 - Customs disputes for companies
 

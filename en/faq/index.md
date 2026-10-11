@@ -364,7 +364,7 @@ With Sakpatenti — the National Intellectual Property Center of Georgia. Intern
 
 No — copyright arises automatically when a work is created. Depositing the work with Sakpatenti helps prove authorship.
 
-## Fraud
+## Fraud cases
 
 [Open page](https://mmlaw.ge/en/fraud-lawyer/)
 
@@ -408,7 +408,7 @@ Yes. Compensation doesn't take away your right to a civil claim — you just can
 
 Yes, in cases set by law a tax settlement can be signed with the Revenue Service to reduce part of the debt.
 
-## Money laundering
+## Money laundering cases
 
 [Open page](https://mmlaw.ge/en/money-laundering-lawyer/)
 
@@ -440,7 +440,7 @@ It can, if they are treated as a person connected to the accused. Then it is imp
 
 A freeze is temporary — it restricts dealing with the property. Confiscation is final: the property passes to the state.
 
-## Abuse of office
+## Abuse-of-office cases
 
 [Open page](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
@@ -452,7 +452,7 @@ Not under Article 332, but possibly under Article 220 — if they used their aut
 
 No. There must be a substantial breach of rights or interests, and for abuse of authority also an aim of gain or advantage.
 
-## Smuggling and customs
+## Smuggling and customs cases
 
 [Open page](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
 
@@ -484,7 +484,7 @@ Assess the situation with a lawyer as early as possible: rehabilitation or an ag
 
 Register the claim in the insolvency case on time and, if needed, ask the court for interim measures.
 
-## Drug possession
+## Drug possession cases
 
 [Open page](https://mmlaw.ge/en/drug-possession-lawyer/)
 

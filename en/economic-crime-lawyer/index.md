@@ -41,19 +41,19 @@ By law, there is no criminal liability for tax evasion if, within 45 working day
 
 ## Our services
 
-- [Tax evasion](https://mmlaw.ge/en/tax-lawyer/)
+- [Defence against tax evasion charges](https://mmlaw.ge/en/tax-lawyer/)
 
-- [Money laundering](https://mmlaw.ge/en/money-laundering-lawyer/)
+- [Defence against money laundering charges](https://mmlaw.ge/en/money-laundering-lawyer/)
 
-- [Customs violations](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+- [Defence in smuggling and customs cases](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
 
-- [Embezzlement within a company](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
+- [Defence against embezzlement charges in a company](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
 
 - [Defence during tax audits](https://mmlaw.ge/en/tax-lawyer/)
 
 - Defending company directors
 
-- [Fraud](https://mmlaw.ge/en/fraud-lawyer/)
+- [Fraud cases](https://mmlaw.ge/en/fraud-lawyer/)
 
 - [Financial crime victims](https://mmlaw.ge/en/financial-crime-victims/)
 

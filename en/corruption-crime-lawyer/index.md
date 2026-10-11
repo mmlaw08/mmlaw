@@ -39,15 +39,15 @@ By law, a bribe-giver is released from criminal liability if they voluntarily re
 
 ## Our services
 
-- Taking a bribe
+- Defence against bribe-taking charges
 
-- Giving a bribe
+- Defence against bribe-giving charges
 
-- Trading in influence
+- Defence against trading-in-influence charges
 
-- [Abuse of official power](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+- [Defence against abuse-of-office charges](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
-- [Exceeding official power](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+- [Defence against exceeding-authority charges](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
 - Checking covert evidence
 

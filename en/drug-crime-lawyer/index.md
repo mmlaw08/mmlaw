@@ -59,9 +59,9 @@ A person must be charged within 48 hours of arrest, and within the following 24 
 
 - Defence in sale and supply cases
 
-- Import, export and parcels
+- Defence in import, export and parcel cases
 
-- Cultivation of plants
+- Defence in cultivation cases
 
 - Administrative cases — fines and administrative detention
 

@@ -79,16 +79,16 @@
 
 Частые ситуации
 -
-- [Кража](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
+- [Обвинение в краже](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
 
 -
-- [Грабёж](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
+- [Обвинение в грабеже](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
 
 -
 - [Вред здоровью](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
 
 -
-- [Вымогательство](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
+- [Обвинение в вымогательстве](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
 
 -
 - [Меня задержали](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)

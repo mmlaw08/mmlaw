@@ -25,13 +25,13 @@ In these cases it often comes down to what powers the person had, who made the d
 
 ## Our services
 
-- Abuse of official authority
+- Defence against abuse-of-authority charges
 
-- Exceeding official authority
+- Defence against exceeding-authority charges
 
-- Abuse of authority in a company
+- Defending company managers under Article 220
 
-- Negligence
+- Defence against negligence charges
 
 - Public procurement cases
 

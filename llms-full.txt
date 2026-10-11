@@ -112,8 +112,8 @@ In these cases the outcome often turns on whether the search was lawful, how the
 Our services:
 - Defence against possession charges
 - Defence in sale and supply cases
-- Import, export and parcels
-- Cultivation of plants
+- Defence in import, export and parcel cases
+- Defence in cultivation cases
 - Administrative cases — fines and administrative detention
 - Checking the search and forensic examination
 - Appealing a preventive measure
@@ -149,7 +149,7 @@ Our services:
 - Defense against cybercrime charges
 - Representing victims of online fraud
 - Hacked accounts and personal data cases
-- Online blackmail and threats
+- Help for victims of online blackmail and threats
 - Cryptocurrency fraud cases
 - Review of digital evidence and expert analysis
 
@@ -174,11 +174,11 @@ Property crimes are covered by Chapter XXIV of the Criminal Code. The penalty de
 In these cases it often comes down to how the property was valued, whether there was an intent to appropriate, and what video footage or identification shows. Sometimes what is presented as a crime is really a civil dispute.
 
 Our services:
-- Theft
-- Open theft and robbery
-- Fraud
-- Extortion
-- Misappropriation and embezzlement
+- Defence against theft charges
+- Defence against robbery charges
+- Defence against fraud charges
+- Defence against extortion charges
+- Defence against embezzlement charges
 - Checking damage valuations
 - Representing victims
 
@@ -203,10 +203,10 @@ Economic crime cases often start with a tax audit, a bank report or a customs ch
 The evidence in these cases is mostly documents — accounts, contracts, bank statements. So a lawyer prepares the defence together with the financial and tax details.
 
 Our services:
-- Tax evasion
-- Money laundering
-- Customs violations
-- Embezzlement within a company
+- Defence against tax evasion charges
+- Defence against money laundering charges
+- Defence in smuggling and customs cases
+- Defence against embezzlement charges in a company
 - Defence during tax audits
 - Defending company directors
 
@@ -231,11 +231,11 @@ Corruption and official crimes are in Chapter XXXIX of the Criminal Code. These 
 Evidence in these cases is often obtained through covert investigative actions — secret recordings, controlled handovers. So whether it was obtained lawfully is decisive for the defence.
 
 Our services:
-- Taking a bribe
-- Giving a bribe
-- Trading in influence
-- Abuse of official power
-- Exceeding official power
+- Defence against bribe-taking charges
+- Defence against bribe-giving charges
+- Defence against trading-in-influence charges
+- Defence against abuse-of-office charges
+- Defence against exceeding-authority charges
 - Checking covert evidence
 
 ### I was asked for a bribe. What should I do?
@@ -259,11 +259,11 @@ Violent crimes are acts against life and health — from beating to homicide. Th
 These cases often start from a fight or conflict where both sides used force. So a lawyer should assess early whether it was self-defence.
 
 Our services:
-- Beating and violence
-- Bodily injury
-- Threats
-- Homicide and attempted homicide
-- Self-defence
+- Defence against assault charges
+- Defence against bodily harm charges
+- Defence against threat charges
+- Defence in murder and attempted murder cases
+- Proving self-defence
 - Representing victims
 
 ### I was defending myself. Am I liable?
@@ -522,9 +522,9 @@ Since 2025, a person convicted of large-scale fraud is ordered to pay the victim
 Our services:
 - Defence against fraud charges
 - Representing victims and recovering money
-- Investment and pyramid schemes
-- Loan and business-deal fraud
-- Online and crypto fraud
+- Investment and pyramid scheme cases
+- Loan and business-deal fraud cases
+- Online and crypto fraud cases
 - Assessing whether it is a crime or a civil dispute
 
 ### Is failing to repay a debt fraud?
@@ -645,10 +645,10 @@ Abuse of official authority (Article 332) and exceeding authority (Article 333) 
 In these cases it often comes down to what powers the person had, who made the decision, whether there was an aim of gain, and how 'substantial' the breach was. Many mistakes are administrative or disciplinary matters, not crimes.
 
 Our services:
-- Abuse of official authority
-- Exceeding official authority
-- Abuse of authority in a company
-- Negligence
+- Defence against abuse-of-authority charges
+- Defence against exceeding-authority charges
+- Defending company managers under Article 220
+- Defence against negligence charges
 - Public procurement cases
 - Reviewing covert investigative actions
 
@@ -674,7 +674,7 @@ Our services:
 - Checking the customs valuation
 - False declaration cases
 - Getting seized goods and vehicles back
-- Jewellery and cultural heritage
+- Cases involving jewellery and cultural heritage
 - Customs disputes for companies
 
 ### Is every customs violation a crime?
@@ -834,7 +834,7 @@ First we review the contract, the payments, the Public Registry records and the 
 - Missed completion dates and contractual penalties
 - Terminating the contract and recovering your money
 - Mortgages or seizures on the flat or the land
-- The same flat sold twice
+- Disputes when one flat was sold to two buyers
 - Claims when the developer is insolvent
 
 ### The developer is late — what can I do?

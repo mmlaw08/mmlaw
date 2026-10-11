@@ -54,7 +54,7 @@ Juvenile justice requires a special approach. MMLAW attorneys defend young peopl
 
 Economic and financial cases
 
-## [Fraud](https://mmlaw.ge/en/fraud-lawyer/)
+## [Fraud cases](https://mmlaw.ge/en/fraud-lawyer/)
 
 Defence against fraud charges and recovering money for victims — investment, loan, pyramid and crypto fraud.
 Fraud is taking someone else's property or obtaining a property right by deception, in order to keep it (Article 180 of the Criminal Code). The key question is whether there was intent to deceive from the start — if an obligation simply wasn't met, it is often a civil dispute.
@@ -72,7 +72,7 @@ Tax audits, appealing tax demands, reducing tax debt and defence against tax eva
 A tax dispute has two stages: the complaint goes first to the Revenue Service, then to the Dispute Resolution Council at the Ministry of Finance or to court. The deadline to appeal is 30 days from receiving the decision — missing it almost rules out a dispute.
 [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
 
-## [Money laundering](https://mmlaw.ge/en/money-laundering-lawyer/)
+## [Money laundering cases](https://mmlaw.ge/en/money-laundering-lawyer/)
 
 Defence against Article 194 charges, frozen bank accounts and proving the lawful origin of assets.
 Money laundering (legalising illegal income) is giving illegal or unexplained property a lawful appearance in order to hide its origin (Article 194). Unexplained property is property for which there are no documents showing it was lawfully obtained — so documents and financial history decide these cases.
@@ -84,13 +84,13 @@ Freezing of property and accounts in criminal cases, confiscation and unexplaine
 In a criminal case a court can freeze the property of the accused or a connected person, including bank accounts, if there is information that the property may be hidden or spent, or was obtained through crime (Article 151 of the Criminal Procedure Code). A verdict can confiscate the object and instrument of the crime and property obtained through crime (Article 52 of the Criminal Code).
 [Asset freezing and confiscation lawyer](https://mmlaw.ge/en/asset-freezing-and-confiscation/)
 
-## [Abuse of office](https://mmlaw.ge/en/abuse-of-office-lawyer/)
+## [Abuse-of-office cases](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
 Defending officials and company managers in abuse-of-authority and exceeding-authority cases.
 Abuse of official authority (Article 332) and exceeding authority (Article 333) by an official are crimes if they cause a substantial breach of a person's, society's or the state's lawful interests. For private company managers, Article 220 — abuse of authority in a company — and Article 220¹, negligence, apply.
 [Abuse of office and exceeding authority](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
-## [Smuggling and customs](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
+## [Smuggling and customs cases](https://mmlaw.ge/en/smuggling-and-customs-lawyer/)
 
 Defence under Article 214: moving goods past customs control, false declarations, jewellery and valuables.
 Moving a large amount of goods across the customs border past customs control, secretly, with a false document or with false data in the customs declaration is a crime (Article 214). A large amount means a customs value over GEL 15,000, an especially large amount over GEL 25,000; for goods hidden in a cache or brought by crossing the border illegally, the thresholds are GEL 5,000 and GEL 15,000.
@@ -102,7 +102,7 @@ Liability of LLC directors and partners, insolvency and creditors' claims.
 A director must manage the company's affairs in good faith and with reasonable care. If they breach this duty, they can be liable to the company for the damage, and in serious cases also criminally — for example, for abuse of authority in a company (Article 220), tax evasion or embezzlement.
 [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
-## [Drug possession](https://mmlaw.ge/en/drug-possession-lawyer/)
+## [Drug possession cases](https://mmlaw.ge/en/drug-possession-lawyer/)
 
 Defence against drug purchase and possession charges: Article 260, quantity thresholds, small amounts and administrative cases.
 Unlawfully buying or keeping a narcotic drug is punished under Article 260 of the Criminal Code of Georgia — if the amount exceeds the small amount. Buying, keeping or using a small amount is usually an administrative offence; repeating it becomes a crime under Article 273.

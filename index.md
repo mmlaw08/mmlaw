@@ -79,16 +79,16 @@
 
 ხშირი სიტუაციები
 -
-- [ქურდობა](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
+- [ქურდობის ბრალდება](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
 
 -
-- [ძარცვა](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
+- [ძარცვის ბრალდება](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
 
 -
 - [ჯანმრთელობის დაზიანება](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
 
 -
-- [გამოძალვა](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
+- [გამოძალვის ბრალდება](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
 
 -
 - [დამაკავეს](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)

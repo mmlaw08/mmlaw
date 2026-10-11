@@ -29,11 +29,11 @@ Since 2025, a person convicted of large-scale fraud is ordered to pay the victim
 
 - Representing victims and recovering money
 
-- Investment and pyramid schemes
+- Investment and pyramid scheme cases
 
-- Loan and business-deal fraud
+- Loan and business-deal fraud cases
 
-- Online and crypto fraud
+- Online and crypto fraud cases
 
 - Assessing whether it is a crime or a civil dispute
 

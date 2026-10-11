@@ -43,15 +43,15 @@ Compensating the damage and reaching agreement with the victim can affect the se
 
 ## Our services
 
-- Theft
+- Defence against theft charges
 
-- Open theft and robbery
+- Defence against robbery charges
 
-- Fraud
+- Defence against fraud charges
 
-- Extortion
+- Defence against extortion charges
 
-- Misappropriation and embezzlement
+- Defence against embezzlement charges
 
 - Checking damage valuations
 

@@ -69,7 +69,7 @@ In these cases, digital evidence decides everything — phones, computers, accou
 
 - Hacked accounts and personal data cases
 
-- Online blackmail and threats
+- Help for victims of online blackmail and threats
 
 - Cryptocurrency fraud cases
 

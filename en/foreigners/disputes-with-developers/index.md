@@ -23,7 +23,7 @@ First we review the contract, the payments, the Public Registry records and the 
 
 - Mortgages or seizures on the flat or the land
 
-- The same flat sold twice
+- Disputes when one flat was sold to two buyers
 
 - Claims when the developer is insolvent
 

@@ -31,9 +31,9 @@ Defence in cases of buying, possessing, selling and importing drugs — and agai
 
 - Defence in sale and supply cases
 
-- Import, export and parcels
+- Defence in import, export and parcel cases
 
-- Cultivation of plants
+- Defence in cultivation cases
 
 [Drug crime lawyer](https://mmlaw.ge/en/drug-crime-lawyer/)
 
@@ -47,7 +47,7 @@ Defense in cybercrime cases and help for victims of online fraud, hacked account
 
 - Hacked accounts and personal data cases
 
-- Online blackmail and threats
+- Help for victims of online blackmail and threats
 
 [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
@@ -55,13 +55,13 @@ Defense in cybercrime cases and help for victims of online fraud, hacked account
 
 Defence in theft, robbery, fraud, extortion, embezzlement and misappropriation cases.
 
-- Theft
+- Defence against theft charges
 
-- Open theft and robbery
+- Defence against robbery charges
 
-- Fraud
+- Defence against fraud charges
 
-- Extortion
+- Defence against extortion charges
 
 [Property crime lawyer](https://mmlaw.ge/en/property-crime-lawyer/)
 
@@ -69,13 +69,13 @@ Defence in theft, robbery, fraud, extortion, embezzlement and misappropriation c
 
 Defence against tax evasion, money laundering, customs and other economic charges.
 
-- Tax evasion
+- Defence against tax evasion charges
 
-- Money laundering
+- Defence against money laundering charges
 
-- Customs violations
+- Defence in smuggling and customs cases
 
-- Embezzlement within a company
+- Defence against embezzlement charges in a company
 
 [Economic crime lawyer](https://mmlaw.ge/en/economic-crime-lawyer/)
 
@@ -83,13 +83,13 @@ Defence against tax evasion, money laundering, customs and other economic charge
 
 Defence in bribery, trading in influence and abuse of official power cases.
 
-- Taking a bribe
+- Defence against bribe-taking charges
 
-- Giving a bribe
+- Defence against bribe-giving charges
 
-- Trading in influence
+- Defence against trading-in-influence charges
 
-- Abuse of official power
+- Defence against abuse-of-office charges
 
 [Corruption crime lawyer](https://mmlaw.ge/en/corruption-crime-lawyer/)
 
@@ -97,13 +97,13 @@ Defence in bribery, trading in influence and abuse of official power cases.
 
 Defence in assault, bodily injury, threats and homicide cases — including self-defence.
 
-- Beating and violence
+- Defence against assault charges
 
-- Bodily injury
+- Defence against bodily harm charges
 
-- Threats
+- Defence against threat charges
 
-- Homicide and attempted homicide
+- Defence in murder and attempted murder cases
 
 [Violent crime lawyer](https://mmlaw.ge/en/violent-crime-lawyer/)
 
@@ -241,9 +241,9 @@ Defence against fraud charges and recovering money for victims — investment, l
 
 - Representing victims and recovering money
 
-- Investment and pyramid schemes
+- Investment and pyramid scheme cases
 
-- Loan and business-deal fraud
+- Loan and business-deal fraud cases
 
 [Fraud lawyer](https://mmlaw.ge/en/fraud-lawyer/)
 
@@ -307,13 +307,13 @@ Freezing of property and accounts in criminal cases, confiscation and unexplaine
 
 Defending officials and company managers in abuse-of-authority and exceeding-authority cases.
 
-- Abuse of official authority
+- Defence against abuse-of-authority charges
 
-- Exceeding official authority
+- Defence against exceeding-authority charges
 
-- Abuse of authority in a company
+- Defending company managers under Article 220
 
-- Negligence
+- Defence against negligence charges
 
 [Abuse of office and exceeding authority](https://mmlaw.ge/en/abuse-of-office-lawyer/)
 
