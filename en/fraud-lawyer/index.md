@@ -29,15 +29,13 @@ Since 2025, a person convicted of large-scale fraud is ordered to pay the victim
 
 - Representing victims and recovering money
 
-- Investment and pyramid scheme cases
+- [Investment and pyramid scheme cases](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
 
 - Loan and business-deal fraud cases
 
-- Online and crypto fraud cases
+- [Online and crypto fraud cases](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
 
 - Assessing whether it is a crime or a civil dispute
-
-- [Pyramid scheme and investment fraud cases](https://mmlaw.ge/en/pyramid-schemes-investment-fraud/)
 
 ## Questions & answers
 
