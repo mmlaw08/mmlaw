@@ -13,9 +13,27 @@ Foreigners can own 100% of a Georgian company and run it from abroad. We registe
 Registration with the Public Registry is fast — usually one business day once the documents are ready. You need a legal address in Georgia; there is no minimum share capital for an LLC.
 Georgia taxes companies on distributed profit (the "Estonian model"), and individual entrepreneurs may qualify for small-business status with a 1% turnover tax. Eligibility depends on the activity and turnover, so we check it before you register.
 
+## Prices
+
+ServiceYou are in GeorgiaYou are abroadCompany (LLC) registration1 800 ₾2 700 ₾Virtual business address500 ₾ / year500 ₾ / yearPersonal bank account700 ₾1 050 ₾Business bank account1 000 ₾1 500 ₾Both accounts together1 500 ₾2 250 ₾
+
+- Prices are final and include VAT; state fees (at the Public Service Hall) are paid separately
+
+- All prices are one-time except the address; the virtual address is yearly and needed only if you have no property in Georgia
+
+- If you are not in Georgia, we need a copy of your passport with an apostille or notarised — depending on your country — and a power of attorney
+
+- A business account usually requires a personal account first
+
+## Bank accounts — what to know
+
+A bank can refuse to open an account at any time and without giving a reason. We prepare the documents and help you through the whole process, but no one can guarantee that an account will be opened — including us.
+
 ## Our services
 
 - LLC, branch and representative office registration
+
+- Virtual business address
 
 - Individual entrepreneur and small-business status
 
@@ -30,6 +48,14 @@ Georgia taxes companies on distributed profit (the "Estonian model"), and indivi
 - Changes, share transfers and liquidation
 
 ## Questions & answers
+
+### How much does company registration cost?
+
+1 800 ₾ if you are in Georgia and 2 700 ₾ if registration is done remotely. The price is final and includes VAT; state fees are paid separately.
+
+### Do you guarantee the bank will open an account?
+
+No. The bank decides and can refuse even without giving a reason. We prepare the documents and help make your application as complete as possible.
 
 ### Can a foreigner own 100% of a company in Georgia?
 

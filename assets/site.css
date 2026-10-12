@@ -1359,3 +1359,10 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .pun-cmp tbody th { width: 96px; }
 }
 .prose { min-width: 0; }
+
+/* price tables: 3 short columns fit a phone screen without sideways scrolling */
+@media (max-width: 640px) {
+  .pun-price { min-width: 0; font-size: 13px; }
+  .pun-price th, .pun-price td, .pun-price tbody th { padding: 10px 8px; }
+  .pun-price thead th { font-size: 11px; letter-spacing: .02em; }
+}

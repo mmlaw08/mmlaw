@@ -884,6 +884,14 @@ Yes. We act for you under a power of attorney — in negotiations and in court.
 
 Check the developer, the landowner, mortgages and permits, and have a lawyer read the contract. It is the cheapest protection there is.
 
+### How much does company registration cost?
+
+1 800 ₾ if you are in Georgia and 2 700 ₾ if registration is done remotely. The price is final and includes VAT; state fees are paid separately.
+
+### Do you guarantee the bank will open an account?
+
+No. The bank decides and can refuse even without giving a reason. We prepare the documents and help make your application as complete as possible.
+
 ### Can a foreigner own 100% of a company in Georgia?
 
 Yes. Foreign individuals and companies can be the sole founder and director of a Georgian LLC.

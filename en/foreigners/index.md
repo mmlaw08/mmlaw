@@ -14,7 +14,7 @@ For foreigners
 
 - [Disputes with developers](https://mmlaw.ge/en/foreigners/disputes-with-developers/) — Construction is late, the developer won't refund, or the flat is mortgaged — we protect the buyer's interests.
 
-- [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — Register an LLC or branch, become an individual entrepreneur and get your business running.
+- [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — LLC registration in Georgia for foreigners from 1 800 ₾, a virtual business address and bank account opening — in person or remotely.
 
 - [Work permit & sole trader](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/) — The right to work, registering as an individual entrepreneur, the 1% small business tax and the right residence permit.
 
@@ -107,6 +107,14 @@ Yes. We act for you under a power of attorney — in negotiations and in court.
 ### What should I do before paying for a flat?
 
 Check the developer, the landowner, mortgages and permits, and have a lawyer read the contract. It is the cheapest protection there is.
+
+### How much does company registration cost?
+
+1 800 ₾ if you are in Georgia and 2 700 ₾ if registration is done remotely. The price is final and includes VAT; state fees are paid separately.
+
+### Do you guarantee the bank will open an account?
+
+No. The bank decides and can refuse even without giving a reason. We prepare the documents and help make your application as complete as possible.
 
 ### Can a foreigner own 100% of a company in Georgia?
 

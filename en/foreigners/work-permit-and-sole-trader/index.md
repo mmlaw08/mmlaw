@@ -97,7 +97,7 @@ For foreigners
 
 - [Disputes with developers](https://mmlaw.ge/en/foreigners/disputes-with-developers/) — Construction is late, the developer won't refund, or the flat is mortgaged — we protect the buyer's interests.
 
-- [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — Register an LLC or branch, become an individual entrepreneur and get your business running.
+- [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — LLC registration in Georgia for foreigners from 1 800 ₾, a virtual business address and bank account opening — in person or remotely.
 
 - [Residence permits](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/) — Work, business, property, family and investment residence permits — applications, extensions and appeals.
 

@@ -95,7 +95,7 @@ For foreigners
 
 - [Buying property](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/) — Check the property, sign a safe contract and register ownership — in person or remotely.
 
-- [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — Register an LLC or branch, become an individual entrepreneur and get your business running.
+- [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — LLC registration in Georgia for foreigners from 1 800 ₾, a virtual business address and bank account opening — in person or remotely.
 
 - [Work permit & sole trader](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/) — The right to work, registering as an individual entrepreneur, the 1% small business tax and the right residence permit.
 
