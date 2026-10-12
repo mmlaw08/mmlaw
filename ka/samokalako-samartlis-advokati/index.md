@@ -85,6 +85,8 @@
 
 - [ხანდაზმული სესხის საქმეები](https://mmlaw.ge/ka/khandazmuli-seskhi/)
 
+- [მოვალეთა რეესტრიდან ამორიცხვა](https://mmlaw.ge/ka/movaleta-reestri/)
+
 ## კითხვები და პასუხები
 
 ### როგორ არის მოწყობილი სასამართლოები სამოქალაქო საქმეებზე?
@@ -137,7 +139,7 @@
 - [მორალური ზიანის ანაზღაურება](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
 
 -
-- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
+- [მოვალეთა რეესტრი: შემოწმება და ამორიცხვა](https://mmlaw.ge/ka/movaleta-reestri/)
 
 პრაქტიკის სფეროები
 

@@ -102,6 +102,9 @@
 - [მორალური ზიანის ანაზღაურება](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
 
 -
+- [მოვალეთა რეესტრი: შემოწმება და ამორიცხვა](https://mmlaw.ge/ka/movaleta-reestri/)
+
+-
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 -
@@ -112,9 +115,6 @@
 
 -
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
-
--
-- [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

@@ -51,9 +51,9 @@
 
 ## ჩვენი მომსახურება
 
-- უკანონო გათავისუფლება და სამსახურში აღდგენა
+- [უკანონო გათავისუფლების გასაჩივრება და სამსახურში აღდგენა](https://mmlaw.ge/ka/samsakhuridan-gatavisuplebis-gasachivreba/)
 
-- ხელფასისა და კომპენსაციის ამოღება
+- [ხელფასისა და კომპენსაციის ამოღება](https://mmlaw.ge/ka/shromis-kodeksi-shvebuleba-khelpasi/)
 
 - დაცვა სამსახურში დისკრიმინაციისა და შევიწროებისგან
 
@@ -97,6 +97,9 @@
 - [უკანონოდ გამათავისუფლეს — რა ვქნა?](https://mmlaw.ge/ka/blogi/ukanonod-gamatavisuples/)
 
 -
+- [სამსახურიდან გათავისუფლების გასაჩივრება](https://mmlaw.ge/ka/samsakhuridan-gatavisuplebis-gasachivreba/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
@@ -106,16 +109,13 @@
 - [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
 
 -
+- [შრომის კოდექსი: შვებულება, დეკრეტული, ხელფასი](https://mmlaw.ge/ka/shromis-kodeksi-shvebuleba-khelpasi/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
 - [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
-
--
-- [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
-
--
-- [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
 
 პრაქტიკის სფეროები
 

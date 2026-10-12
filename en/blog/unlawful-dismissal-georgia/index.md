@@ -76,6 +76,12 @@ Not under pressure — it is one of the most common mistakes. Deadlines to chall
 - [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
 
 -
+- [Unfair dismissal](https://mmlaw.ge/en/unfair-dismissal/)
+
+-
+- [Labour Code of Georgia: leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -89,12 +95,6 @@ Not under pressure — it is one of the most common mistakes. Deadlines to chall
 
 -
 - [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
-
--
-- [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-
--
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 Blog
 

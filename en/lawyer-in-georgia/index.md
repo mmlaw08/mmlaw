@@ -153,7 +153,7 @@ Challenging decisions of public bodies, fines, permits and licences.
 
 Unlawful dismissal, unpaid wages and employment contracts — for employees and employers.
 
-- Unlawful dismissal and reinstatement
+- Challenging unfair dismissal and reinstatement
 
 - Recovery of unpaid salary and compensation
 
@@ -540,6 +540,62 @@ Whether the other parent's consent is needed to take a child abroad, the passpor
 - Child's residence and contact arrangements
 
 [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+### [Unfair dismissal](https://mmlaw.ge/en/unfair-dismissal/)
+
+Dismissed? Find out if it was lawful: asking for written reasons within 30 days, the lawsuit, reinstatement and lost pay.
+
+- Assessing whether the dismissal was lawful
+
+- Drafting the request for written reasons
+
+- Lawsuit for reinstatement
+
+- Claiming back pay and compensation
+
+[Unfair dismissal](https://mmlaw.ge/en/unfair-dismissal/)
+
+### [Labour Code of Georgia: leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)
+
+The Labour Code in plain words: working hours, overtime, leave, maternity leave, late salary and the final settlement.
+
+- Recovering unpaid salary and late-payment interest
+
+- Claiming overtime pay
+
+- Help with leave and maternity leave
+
+- Reviewing an employment contract before signing
+
+[Labour Code of Georgia: leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)
+
+### [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
+
+What being on the debtors' register means, how to check it, what is restricted, and how to get removed.
+
+- Checking which case and which creditor put you on the register
+
+- Checking the basis and time limits of enforcement
+
+- Removal after the 10-year enforcement limit
+
+- Negotiating a payment plan with the creditor
+
+[Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
+
+### [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
+
+What counts as joint property, how a flat, loans and a business are divided, property in one spouse's name, and the 3-year deadline.
+
+- Separating joint and personal property
+
+- Dividing a flat, land, a car or a business share
+
+- Splitting joint debts and the mortgage
+
+- Drafting a property division agreement
+
+[Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 

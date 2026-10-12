@@ -67,7 +67,7 @@
 
 - Алименты
 
-- Раздел имущества супругов
+- [Раздел имущества супругов](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
 
 - Брачный договор
 
@@ -122,6 +122,9 @@
 - [Выезд ребёнка за границу из Грузии: согласие родителя](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
 
 -
+- [Раздел имущества супругов при разводе](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
+
+-
 - [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
 
 -
@@ -129,9 +132,6 @@
 
 -
 - [Долги и исполнительное производство · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/dolgi-i-ispolnenie/)
-
--
-- [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
 
 Области практики
 

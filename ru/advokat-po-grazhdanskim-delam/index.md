@@ -85,6 +85,8 @@
 
 - [Дела о просроченных по давности кредитах](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
 
+- [Исключение из реестра должников](https://mmlaw.ge/ru/reestr-dolzhnikov/)
+
 ## Вопросы и ответы
 
 ### Как устроены суды по гражданским делам в Грузии?
@@ -137,7 +139,7 @@
 - [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
 
 -
-- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
+- [Реестр должников Грузии: проверка и исключение](https://mmlaw.ge/ru/reestr-dolzhnikov/)
 
 Области практики
 

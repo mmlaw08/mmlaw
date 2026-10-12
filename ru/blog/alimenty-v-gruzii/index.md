@@ -78,13 +78,13 @@
 - [Выезд ребёнка за границу из Грузии: согласие родителя](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
 
 -
+- [Раздел имущества супругов при разводе](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
+
+-
 - [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
 
 -
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
-
--
-- [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
 Блог
 

@@ -186,6 +186,30 @@ Whether the other parent's consent is needed to take a child abroad, the passpor
 Under Article 8 of the Law on the Rules for Georgian Citizens Leaving and Entering Georgia, a child under 16 can travel abroad temporarily with the permission of one legal representative (parent) and accompanied by an adult with legal capacity. From 16 to 18, if not married, with the consent of one legal representative.
 [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
 
+## [Challenging a dismissal](https://mmlaw.ge/en/unfair-dismissal/)
+
+Dismissed? Find out if it was lawful: asking for written reasons within 30 days, the lawsuit, reinstatement and lost pay.
+Under Article 47 of the Labour Code, an employment contract can be ended only on grounds listed in the law — for example, redundancy, a serious breach of duties, mutual agreement or the end of a fixed term. Dismissal on discriminatory grounds is prohibited, as is dismissal from notifying the employer of pregnancy until the end of maternity and childcare leave — with exceptions set by law.
+[Unfair dismissal](https://mmlaw.ge/en/unfair-dismissal/)
+
+## [Protecting employee rights — leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)
+
+The Labour Code in plain words: working hours, overtime, leave, maternity leave, late salary and the final settlement.
+Normal working time must not exceed 40 hours a week (48 in certain continuous-operation workplaces), and rest between working days must be at least 12 hours. Overtime is worked by agreement and paid at an increased hourly rate — or, by agreement, with extra time off.
+[Labour Code of Georgia: leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)
+
+## [Removal from the debtors' register](https://mmlaw.ge/en/debtors-register/)
+
+What being on the debtors' register means, how to check it, what is restricted, and how to get removed.
+Under Article 19¹ of the Law on Enforcement Proceedings, a person is entered on the debtors' register as soon as enforcement of a money claim starts against them. The register is kept by the National Bureau of Enforcement; its data are public, and an extract is issued no later than the next working day after the application, for a fee. A debtor whose debt is secured by a mortgage or pledge, for example, is not entered.
+[Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
+
+## [Marital property division cases](https://mmlaw.ge/en/marital-property-division/)
+
+What counts as joint property, how a flat, loans and a business are divided, property in one spouse's name, and the 3-year deadline.
+Under Article 1158 of the Civil Code, property acquired during marriage is the spouses' joint property unless a marriage contract says otherwise — even if one spouse looked after the home and children and had no income of their own. On division the shares are equal unless agreed otherwise.
+[Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

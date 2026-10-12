@@ -94,6 +94,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 
 -
+- [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
+
+-
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 -
@@ -104,9 +107,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
-
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 Practice areas
 

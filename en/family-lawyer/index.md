@@ -67,7 +67,7 @@ If both spouses agree and there is no dispute about children or property, the di
 
 - Alimony (child support)
 
-- Division of marital property
+- [Division of marital property](https://mmlaw.ge/en/marital-property-division/)
 
 - Marriage (prenuptial) contracts
 
@@ -122,6 +122,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
 
 -
+- [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
+
+-
 - [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
 
 -
@@ -129,9 +132,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Debts and enforcement · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/)
-
--
-- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 Practice areas
 

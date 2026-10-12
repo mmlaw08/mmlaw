@@ -75,6 +75,9 @@
 - [მამობის დადგენა სასამართლოს გზით](https://mmlaw.ge/ka/mamobis-dadgena/)
 
 -
+- [მეუღლეთა ქონების გაყოფა განქორწინებისას](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
+
+-
 - [ალიმენტი საქართველოში: როგორ განისაზღვრება ოდენობა](https://mmlaw.ge/ka/blogi/alimentis-odenoba/)
 
 -
@@ -88,9 +91,6 @@
 
 -
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
-
--
-- [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
 
 ბლოგი
 

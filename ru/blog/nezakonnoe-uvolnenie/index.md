@@ -76,6 +76,12 @@
 - [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
 
 -
+- [Незаконное увольнение](https://mmlaw.ge/ru/nezakonnoe-uvolnenie/)
+
+-
+- [Трудовой кодекс Грузии: отпуск, декрет, зарплата](https://mmlaw.ge/ru/trudovoy-kodeks-otpusk-zarplata/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
@@ -89,12 +95,6 @@
 
 -
 - [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
-
--
-- [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
-
--
-- [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
 
 Блог
 

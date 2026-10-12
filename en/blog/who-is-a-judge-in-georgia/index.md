@@ -65,6 +65,9 @@ Hears and decides cases in court — administrative, civil and criminal.
 - [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 
 -
+- [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -75,9 +78,6 @@ Hears and decides cases in court — administrative, civil and criminal.
 
 -
 - [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
-
--
-- [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 Blog
 

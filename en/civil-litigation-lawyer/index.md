@@ -85,6 +85,8 @@ A civil litigation lawyer assesses your claim and evidence, tries to settle the 
 
 - [Time-barred loan cases](https://mmlaw.ge/en/time-barred-loans/)
 
+- [Removal from the debtors' register](https://mmlaw.ge/en/debtors-register/)
+
 ## Questions & answers
 
 ### How are civil courts organised in Georgia?
@@ -137,7 +139,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 
 -
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
 
 Practice areas
 

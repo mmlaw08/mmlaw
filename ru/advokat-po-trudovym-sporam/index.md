@@ -51,9 +51,9 @@
 
 ## Наши услуги
 
-- Незаконное увольнение и восстановление на работе
+- [Обжалование незаконного увольнения и восстановление на работе](https://mmlaw.ge/ru/nezakonnoe-uvolnenie/)
 
-- Взыскание зарплаты и компенсаций
+- [Взыскание зарплаты и компенсаций](https://mmlaw.ge/ru/trudovoy-kodeks-otpusk-zarplata/)
 
 - Защита от дискриминации и притеснений на работе
 
@@ -97,6 +97,9 @@
 - [Незаконно уволили — что делать?](https://mmlaw.ge/ru/blog/nezakonnoe-uvolnenie/)
 
 -
+- [Незаконное увольнение](https://mmlaw.ge/ru/nezakonnoe-uvolnenie/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
@@ -106,16 +109,13 @@
 - [Разрешение на работу и ИП · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/)
 
 -
+- [Трудовой кодекс Грузии: отпуск, декрет, зарплата](https://mmlaw.ge/ru/trudovoy-kodeks-otpusk-zarplata/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
 - [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
-
--
-- [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
-
--
-- [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
 
 Области практики
 

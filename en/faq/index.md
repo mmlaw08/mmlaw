@@ -740,6 +740,86 @@ In some cases one parent's consent is enough (e.g. the other parent's whereabout
 
 If the child is in a Hague Convention country, you can ask for the child's return. Act quickly — time matters a lot in these cases.
 
+## Challenging a dismissal
+
+[Open page](https://mmlaw.ge/en/unfair-dismissal/)
+
+### How long do I have to challenge a dismissal?
+
+The deadlines are very short: ask for written reasons within 30 days, then sue within 30 days of receiving them. If you didn't ask for reasons, you have 30 days from receiving the dismissal notice.
+
+### Can a pregnant woman be dismissed?
+
+Dismissal is prohibited from notifying the employer of pregnancy until the end of maternity and childcare leave — except in cases listed by law, such as the end of a fixed term, resignation or a serious breach of duties.
+
+### What compensation do I get for redundancy?
+
+With 30 days' written notice — at least 1 month's salary; with 3 days' notice — at least 2 months' salary. Pay for unused leave comes on top.
+
+### Can I be dismissed during probation?
+
+Yes. A probation period (up to 6 months) can be ended at any time and the Article 48 rules don't apply unless the contract says otherwise. The time worked must still be paid.
+
+## Protecting employee rights — leave, maternity, salary
+
+[Open page](https://mmlaw.ge/en/labour-code-leave-salary/)
+
+### How many days of leave am I entitled to?
+
+At least 24 working days of paid leave and at least 15 calendar days of unpaid leave a year. A contract can give more, never less.
+
+### How long is maternity leave?
+
+126 days for pregnancy and childbirth (143 with complications or twins), then childcare leave. In total 183 days (or 200) are paid, by the state.
+
+### My salary is late — what can I do?
+
+For every day of delay the employer owes you 0.07% of the amount. Send a written demand; if there's no agreement within 14 days, you can go to court.
+
+### Is overtime paid?
+
+Yes — at an increased hourly rate agreed by the parties, or with extra time off by agreement. Pregnant women, breastfeeding mothers, parents of children under 3 and minors can't be made to work overtime without their consent.
+
+## Removal from the debtors' register
+
+[Open page](https://mmlaw.ge/en/debtors-register/)
+
+### How do I find out if I'm on the debtors' register?
+
+The register's data are public. The National Bureau of Enforcement issues an extract no later than the next working day after the application, for a fee. We can check which case and which creditor you're registered for.
+
+### I paid the debt — will I be removed automatically?
+
+Paying in full is a ground for removal, and all restrictions are lifted on removal. If the entry hasn't been removed, you need to contact the enforcement officer — we can help.
+
+### I'm on the register — can I sell my flat?
+
+Only with consent: in cases for the state budget — the National Bureau of Enforcement's; in other cases — the Bureau's and the creditor's.
+
+### I'm on the register for a very old debt — what can I do?
+
+If 10 years have passed since enforcement of a money claim began, enforcement must end and you must be removed — except in cases set by law, such as alimony.
+
+## Marital property division cases
+
+[Open page](https://mmlaw.ge/en/marital-property-division/)
+
+### The flat is in my spouse's name — is it still joint?
+
+If it was bought during the marriage, yes — whoever it's registered to, unless a marriage contract says otherwise.
+
+### Is a flat bought before marriage divided?
+
+Usually not — it's personal property. But if its value grew significantly through joint spending during the marriage (renovation, completing construction), a court may treat it as joint.
+
+### How long do I have to ask for division?
+
+After divorce the limitation period is 3 years. When it starts running can be disputed, so don't delay.
+
+### Who pays the mortgage after division?
+
+Joint debts are split between the spouses in proportion to their shares of joint property. With the bank, though, the loan contract still applies — so this needs to be settled separately in the agreement or lawsuit.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

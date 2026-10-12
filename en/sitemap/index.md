@@ -136,6 +136,14 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)Whether the other parent's consent is needed to take a child abroad, the passport, and what happens when parents disagree.
 
+- [Unfair dismissal](https://mmlaw.ge/en/unfair-dismissal/)Dismissed? Find out if it was lawful: asking for written reasons within 30 days, the lawsuit, reinstatement and lost pay.
+
+- [Labour Code of Georgia: leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)The Labour Code in plain words: working hours, overtime, leave, maternity leave, late salary and the final settlement.
+
+- [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)What being on the debtors' register means, how to check it, what is restricted, and how to get removed.
+
+- [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)What counts as joint property, how a flat, loans and a business are divided, property in one spouse's name, and the 3-year deadline.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)

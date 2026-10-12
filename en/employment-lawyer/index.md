@@ -51,9 +51,9 @@ An employment lawyer protects the interests of employees or employers: reviews t
 
 ## Our services
 
-- Unlawful dismissal and reinstatement
+- [Challenging unfair dismissal and reinstatement](https://mmlaw.ge/en/unfair-dismissal/)
 
-- Recovery of unpaid salary and compensation
+- [Recovery of unpaid salary and compensation](https://mmlaw.ge/en/labour-code-leave-salary/)
 
 - Protection from discrimination and harassment at work
 
@@ -97,6 +97,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Unfairly dismissed in Georgia? What to do](https://mmlaw.ge/en/blog/unlawful-dismissal-georgia/)
 
 -
+- [Unfair dismissal](https://mmlaw.ge/en/unfair-dismissal/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -106,16 +109,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
 
 -
+- [Labour Code of Georgia: leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
-
--
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
-
--
-- [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
 
 Practice areas
 

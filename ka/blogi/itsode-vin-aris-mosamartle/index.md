@@ -65,6 +65,9 @@
 - [მორალური ზიანის ანაზღაურება](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
 
 -
+- [მოვალეთა რეესტრი: შემოწმება და ამორიცხვა](https://mmlaw.ge/ka/movaleta-reestri/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -75,9 +78,6 @@
 
 -
 - [ფინანსური დანაშაულის დაზარალებული](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
-
--
-- [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 ბლოგი
 

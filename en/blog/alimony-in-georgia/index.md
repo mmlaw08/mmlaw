@@ -78,13 +78,13 @@ As a rule, the parent who doesn't live with the child.
 - [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
 
 -
+- [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
+
+-
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
-
--
-- [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
 Blog
 

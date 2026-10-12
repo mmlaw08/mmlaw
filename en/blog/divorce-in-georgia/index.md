@@ -75,6 +75,9 @@ The parents agree on this; in a dispute, the court decides in the child's best i
 - [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
 
 -
+- [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
+
+-
 - [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
 
 -
@@ -88,9 +91,6 @@ The parents agree on this; in a dispute, the court decides in the child's best i
 
 -
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
-
--
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
 
 Blog
 

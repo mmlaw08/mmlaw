@@ -77,6 +77,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
 
 -
+- [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -87,9 +90,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
-
--
-- [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
 
 Practice areas
 

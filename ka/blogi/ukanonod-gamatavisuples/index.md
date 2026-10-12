@@ -76,6 +76,12 @@
 - [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
 
 -
+- [სამსახურიდან გათავისუფლების გასაჩივრება](https://mmlaw.ge/ka/samsakhuridan-gatavisuplebis-gasachivreba/)
+
+-
+- [შრომის კოდექსი: შვებულება, დეკრეტული, ხელფასი](https://mmlaw.ge/ka/shromis-kodeksi-shvebuleba-khelpasi/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
@@ -89,12 +95,6 @@
 
 -
 - [მორალური ზიანის ანაზღაურება](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
-
--
-- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
-
--
-- [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 ბლოგი
 

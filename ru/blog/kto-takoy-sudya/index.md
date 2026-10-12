@@ -65,6 +65,9 @@
 - [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
 
 -
+- [Реестр должников Грузии: проверка и исключение](https://mmlaw.ge/ru/reestr-dolzhnikov/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -75,9 +78,6 @@
 
 -
 - [Потерпевшим от финансовых преступлений](https://mmlaw.ge/ru/poterpevshim-ot-finansovykh-prestupleniy/)
-
--
-- [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
 
 Блог
 

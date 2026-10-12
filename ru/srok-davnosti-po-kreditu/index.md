@@ -94,6 +94,9 @@
 - [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
 
 -
+- [Реестр должников Грузии: проверка и исключение](https://mmlaw.ge/ru/reestr-dolzhnikov/)
+
+-
 - [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 -
@@ -104,9 +107,6 @@
 
 -
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
-
--
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 Области практики
 

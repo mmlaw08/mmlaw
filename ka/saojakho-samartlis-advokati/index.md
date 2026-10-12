@@ -67,7 +67,7 @@
 
 - ალიმენტი
 
-- მეუღლეთა ქონების გაყოფა
+- [მეუღლეთა ქონების გაყოფა](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
 
 - საქორწინო ხელშეკრულება
 
@@ -122,6 +122,9 @@
 - [ბავშვის საზღვარგარეთ გაყვანა: მშობლის თანხმობა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
 
 -
+- [მეუღლეთა ქონების გაყოფა განქორწინებისას](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
+
+-
 - [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
 
 -
@@ -129,9 +132,6 @@
 
 -
 - [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
-
--
-- [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
 
 პრაქტიკის სფეროები
 

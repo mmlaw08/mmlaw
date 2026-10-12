@@ -77,6 +77,9 @@
 - [ყადაღის მოხსნა საბანკო ანგარიშზე და ქონებაზე](https://mmlaw.ge/ka/yadaghis-mokhsna/)
 
 -
+- [მოვალეთა რეესტრი: შემოწმება და ამორიცხვა](https://mmlaw.ge/ka/movaleta-reestri/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -87,9 +90,6 @@
 
 -
 - [ფინანსური დანაშაულის დაზარალებული](https://mmlaw.ge/ka/finansuri-danashaulis-dazaralebulebi/)
-
--
-- [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
 
 პრაქტიკის სფეროები
 
