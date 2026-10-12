@@ -192,7 +192,7 @@
 
 - [Разрешение на работу в Грузии для иностранцев с 2026 года](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/)
 
-- [ИП в Грузии для иностранца: налог 1% и что изменилось](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
+- [Открыть ИП в Грузии иностранцу: налог 1% в 2026 году](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
 
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 

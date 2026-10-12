@@ -1,7 +1,7 @@
 # Individual entrepreneur in Georgia: the 1% tax for foreigners
 
 How a foreigner registers as an individual entrepreneur in Georgia, gets small business status with the 1% tax, and what changed in 2026.
-[Corporate law](https://mmlaw.ge/en/corporate-lawyer/) · October 11, 2026 · 5 min read
+[Corporate law](https://mmlaw.ge/en/corporate-lawyer/) · October 11, 2026 · 5 min read · Updated: October 12, 2026
 
 An individual entrepreneur (IE) with small business status is the simplest way to start a business in Georgia, so it is popular with foreigners — especially freelancers. But there are details you should know in advance.
 
@@ -32,6 +32,20 @@ Since 1 March 2026, a foreign individual entrepreneur, as a self-employed person
 ## Tax residency
 
 You become a Georgian tax resident if you spend 183 days or more in Georgia in any continuous 12-month period. Residency affects where and how your income is taxed, so it should be assessed together with the rules of your home country.
+
+## When the small business status is lost
+
+- If income exceeded GEL 500,000 in each of 2 consecutive calendar years — from the start of the next year
+
+- If you carry out an activity the status doesn't cover — from the start of the current year
+
+- If you were fined at least 3 times in a year for breaking cash register rules
+
+- If you ask for it yourself — from the 1st of the next month
+
+## VAT — when registration is mandatory
+
+If your VAT-taxable transactions exceed GEL 100,000 in any continuous 12 months, you must apply to the Revenue Service for VAT registration within 2 working days (Tax Code, Article 165). Services to foreign clients may not count towards this amount — it depends on the type of service and should be checked in advance.
 
 ## How we help
 
@@ -71,6 +85,10 @@ From the start of the month in which you pass the threshold until the end of the
 ### Do I have to file every month?
 
 Yes. The declaration and the tax are due by the 15th of the following month.
+
+### When do I have to register for VAT?
+
+When your VAT-taxable transactions exceed GEL 100,000 in any 12 months — within 2 working days after that. Services to foreign clients may not count towards the amount.
 
 ## Related topics
 
