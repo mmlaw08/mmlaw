@@ -92,6 +92,10 @@ Owning property can be a basis for a short-term residence permit if its value me
 
 Yes. You can give a notarised power of attorney (with an apostille if the country requires it) to your lawyer or a trusted person, who signs and registers the purchase for you.
 
+### Who pays tax when an apartment is bought?
+
+The buyer pays the Public Registry registration fee. An individual seller who has owned the flat for more than 2 years pays no income tax on the gain from the sale.
+
 ### The developer is late — what can I do?
 
 Depending on the contract, you can claim the penalty, damages, or terminate the contract and get your money back. We start by reviewing the contract.

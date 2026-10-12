@@ -13,6 +13,32 @@ Foreigners can buy apartments, houses and non-agricultural land in Georgia on th
 The purchase itself is quick: ownership arises once it is registered with the Public Registry. The risks are elsewhere — a mortgage or seizure on the property, a seller without full authority, or a developer of a new build without the right permits.
 If you can't come to Georgia, you can buy through a notarised power of attorney. Depending on the country, documents issued abroad may need an apostille or consular legalisation (documents from some countries need neither) and a certified Georgian translation — we tell you exactly what to prepare.
 
+## Step by step
+
+- A Public Registry extract: who the owner is and whether there is a mortgage, seizure or ban.
+
+- Checking the seller: full authority, any co-owners, and whether they are on the debtors' register — if so, selling the property is restricted.
+
+- The contract: price, payment terms and dates, condition of the property, handover and each side's liability.
+
+- Payment through a bank, not in cash — the amount must match the contract.
+
+- Registration in the Public Registry — ownership arises from the moment of registration.
+
+## New builds: what we check
+
+- The building permit and the construction stage
+
+- The developer's rights to the land and any mortgage on it
+
+- The handover date, penalties and refund terms in the contract
+
+- The risk of one flat being sold to two buyers
+
+## Costs and taxes
+
+When buying, you pay the Public Registry registration fee. An individual seller who has owned a flat or house for more than 2 years pays no income tax on the gain from the sale (Tax Code, Article 82).
+
 ## Our services
 
 - Checking title, mortgages and seizures
@@ -41,6 +67,10 @@ Owning property can be a basis for a short-term residence permit if its value me
 
 Yes. You can give a notarised power of attorney (with an apostille if the country requires it) to your lawyer or a trusted person, who signs and registers the purchase for you.
 
+### Who pays tax when an apartment is bought?
+
+The buyer pays the Public Registry registration fee. An individual seller who has owned the flat for more than 2 years pays no income tax on the gain from the sale.
+
 ## Legal basis
 
 - [Civil Code of Georgia](https://matsne.gov.ge/ka/document/view/31702)
@@ -48,6 +78,8 @@ Yes. You can give a notarised power of attorney (with an apostille if the countr
 - [Law on the Public Registry](https://matsne.gov.ge/ka/document/view/20560)
 
 - [Law on the Legal Status of Aliens and Stateless Persons](https://matsne.gov.ge/ka/document/view/2278806)
+
+- [Tax Code of Georgia](https://matsne.gov.ge/ka/document/view/1043717)
 
 Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
