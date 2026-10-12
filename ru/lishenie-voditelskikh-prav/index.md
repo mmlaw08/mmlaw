@@ -89,7 +89,7 @@
 - [Как обжаловать штраф в Грузии](https://mmlaw.ge/ru/blog/obzhalovanie-shtrafa/)
 
 -
-- [Обжалование штрафа](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
+- [Обжалование штрафа: видео, патруль, парковка](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
 
 -
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)

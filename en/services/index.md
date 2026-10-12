@@ -154,7 +154,7 @@ A seizure is usually imposed in enforcement proceedings — to enforce a court d
 
 The difference between a pardon and an amnesty, who decides, and how to prepare a pardon request.
 A pardon is an individual act: under the Constitution, convicted persons are pardoned by the President of Georgia. Requests are first reviewed by the Pardon Commission, and the President makes the final decision. The criteria and procedure are set by the President and change from time to time.
-[Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+[Presidential pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
 
 ## [Driving licence suspension cases](https://mmlaw.ge/en/driving-licence-suspension/)
 
@@ -166,7 +166,7 @@ Under Article 116 of the Code of Administrative Offences, drink-driving at 0.3�
 
 Appealing patrol, camera and other administrative fines within 10 days — to the higher authority and in court.
 Under the Code of Administrative Offences, a decision imposing a fine can be appealed within 10 days of being received. A deadline missed for a valid reason can be restored. A decision by an authority or official is usually appealed first to the higher authority, and its decision then to court.
-[Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+[Appealing a fine in Georgia: camera, patrol, parking](https://mmlaw.ge/en/appealing-fines/)
 
 ## [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 

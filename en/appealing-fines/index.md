@@ -1,4 +1,4 @@
-# Appealing a fine in Georgia — camera and patrol fines
+# Appealing a fine in Georgia: camera, patrol, parking
 
 Camera and patrol fines aren't always right: sometimes someone else was driving, a sign wasn't visible or the record was drawn up incorrectly. We assess whether an appeal is worth it and file it on time.
 
@@ -12,6 +12,18 @@ Camera and patrol fines aren't always right: sometimes someone else was driving,
 
 Under the Code of Administrative Offences, a decision imposing a fine can be appealed within 10 days of being received. A deadline missed for a valid reason can be restored. A decision by an authority or official is usually appealed first to the higher authority, and its decision then to court.
 An appeal pauses the deadline for paying the fine until it is decided. This matters because unpaid traffic fines end in a driving licence suspension.
+
+## Which fines we appeal
+
+- Camera fines — speed, red light, road markings
+
+- Patrol police fines
+
+- Driving or stopping in a bus lane
+
+- Parking fines, including in Tbilisi (Article 125²)
+
+- Other administrative fines
 
 ## Common grounds for appeal
 
@@ -35,7 +47,7 @@ An appeal pauses the deadline for paying the fine until it is decided. This matt
 
 ## Our services
 
-- Appealing patrol and camera fines
+- Appealing patrol, camera, bus-lane and parking fines
 
 - Complaint to the higher authority
 
@@ -52,6 +64,10 @@ An appeal pauses the deadline for paying the fine until it is decided. This matt
 ### How long do I have to appeal a fine?
 
 10 days from receiving the decision. If you missed it for a valid reason, you can ask for the deadline to be restored.
+
+### Can a parking or bus-lane fine be appealed too?
+
+Yes. These are administrative offences too — for example, breaking parking rules in Tbilisi falls under Article 125² — and the decision can be appealed within 10 days of receipt.
 
 ### Do I have to pay while appealing?
 

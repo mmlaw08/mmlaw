@@ -79,7 +79,7 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
 
 -
-- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+- [Appealing a fine in Georgia: camera, patrol, parking](https://mmlaw.ge/en/appealing-fines/)
 
 -
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)

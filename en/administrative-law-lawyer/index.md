@@ -107,7 +107,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
 
 -
-- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+- [Appealing a fine in Georgia: camera, patrol, parking](https://mmlaw.ge/en/appealing-fines/)
 
 -
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)

@@ -68,7 +68,7 @@
 - [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 -
-- [ჯარიმის გასაჩივრება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
+- [ჯარიმის გასაჩივრება: ვიდეო, პატრული, პარკირება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
 
 -
 - [საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/)

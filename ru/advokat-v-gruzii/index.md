@@ -457,7 +457,7 @@
 
 [Снятие ареста с банковского счёта и имущества](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
 
-### [Помилование и амнистия](https://mmlaw.ge/ru/pomilovanie-i-amnistiya/)
+### [Помилование Президентом и амнистия](https://mmlaw.ge/ru/pomilovanie-i-amnistiya/)
 
 Чем помилование отличается от амнистии, кто решает и как подготовить прошение о помиловании.
 
@@ -469,7 +469,7 @@
 
 - УДО как альтернатива
 
-[Помилование и амнистия](https://mmlaw.ge/ru/pomilovanie-i-amnistiya/)
+[Помилование Президентом и амнистия](https://mmlaw.ge/ru/pomilovanie-i-amnistiya/)
 
 ### [Лишение водительских прав в Грузии: 6 мес., 1 и 3 года](https://mmlaw.ge/ru/lishenie-voditelskikh-prav/)
 
@@ -485,11 +485,11 @@
 
 [Лишение водительских прав в Грузии: 6 мес., 1 и 3 года](https://mmlaw.ge/ru/lishenie-voditelskikh-prav/)
 
-### [Обжалование штрафа](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
+### [Обжалование штрафа: видео, патруль, парковка](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
 
 Обжалование патрульных, видео- и других административных штрафов в течение 10 дней — в вышестоящий орган и в суд.
 
-- Обжалование патрульных и видеоштрафов
+- Обжалование патрульных, видео-, парковочных штрафов и штрафов за автобусную полосу
 
 - Жалоба в вышестоящий орган
 
@@ -497,7 +497,7 @@
 
 - Восстановление пропущенного срока
 
-[Обжалование штрафа](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
+[Обжалование штрафа: видео, патруль, парковка](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
 
 ### [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
 

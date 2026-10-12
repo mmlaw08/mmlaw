@@ -68,7 +68,7 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 -
-- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+- [Appealing a fine in Georgia: camera, patrol, parking](https://mmlaw.ge/en/appealing-fines/)
 
 -
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)

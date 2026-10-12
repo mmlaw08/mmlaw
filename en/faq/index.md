@@ -508,6 +508,10 @@ No. By law the quantity is the pure substance, without fillers. That is why chec
 
 [Open page](https://mmlaw.ge/en/criminal-record-removal/)
 
+### How do I get a criminal record certificate?
+
+The certificate is issued by the Ministry of Internal Affairs; you can request it at a Public Service Hall or online at my.gov.ge. For use abroad it usually needs an apostille. If the certificate still shows a conviction, we check whether it has expired and whether it can be removed early.
+
 ### When will my criminal record expire?
 
 It depends on the sentence and the category of crime: for a suspended sentence — after the probation period; for imprisonment — 3, 6 or 8 years after serving it.
@@ -616,6 +620,10 @@ Not automatically. It can be cancelled on a joint application if the victim or o
 
 A seizure is imposed within an enforcement case. We can check the case, the creditor and the amount, and tell you the fastest way to lift it.
 
+### The tax office put an „inkaso“ on my account — what does it mean?
+
+It is a collection order: the Revenue Service takes the amount of a confirmed tax debt from your account. If you disagree with the debt, you can appeal — while the dispute lasts, the obligation to pay is suspended.
+
 ### Can my salary be seized too?
 
 By law money can be collected from salary and other income, but income below the subsistence minimum and targeted state assistance are protected from seizure.
@@ -671,6 +679,10 @@ After a suspension for an unpaid fine, the licence is restored when the term end
 ### How long do I have to appeal a fine?
 
 10 days from receiving the decision. If you missed it for a valid reason, you can ask for the deadline to be restored.
+
+### Can a parking or bus-lane fine be appealed too?
+
+Yes. These are administrative offences too — for example, breaking parking rules in Tbilisi falls under Article 125² — and the decision can be appealed within 10 days of receipt.
 
 ### Do I have to pay while appealing?
 

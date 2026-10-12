@@ -33,6 +33,11 @@ Disputes over whether property or income is protected from seizure are decided b
 
 - At the same time — negotiating with the creditor: a payment plan or settlement, which ends enforcement.
 
+## Tax collection orders („inkaso“)
+
+If the Revenue Service is taking money from your account, it is usually a collection order. Under Article 243 of the Tax Code, it is sent to the bank for a confirmed tax debt — tax, interest and fines; it does not apply to term deposit accounts. The decision is sent to the person electronically.
+If you disagree with the debt and appeal, the obligation to pay is suspended while the dispute lasts (Article 254). A freeze can be lifted with a bank guarantee, a surety or a mortgage, and if the dispute ends in your favour, every measure is cancelled.
+
 ## Our services
 
 - Checking the basis of the seizure and the enforcement case
@@ -53,6 +58,10 @@ Disputes over whether property or income is protected from seizure are decided b
 
 A seizure is imposed within an enforcement case. We can check the case, the creditor and the amount, and tell you the fastest way to lift it.
 
+### The tax office put an „inkaso“ on my account — what does it mean?
+
+It is a collection order: the Revenue Service takes the amount of a confirmed tax debt from your account. If you disagree with the debt, you can appeal — while the dispute lasts, the obligation to pay is suspended.
+
 ### Can my salary be seized too?
 
 By law money can be collected from salary and other income, but income below the subsistence minimum and targeted state assistance are protected from seizure.
@@ -70,6 +79,8 @@ If 10 years have passed since enforcement proceedings for a money claim began, e
 - [Law on Enforcement Proceedings](https://matsne.gov.ge/ka/document/view/18442)
 
 - [Civil Procedure Code of Georgia](https://matsne.gov.ge/ka/document/view/29962)
+
+- [Tax Code of Georgia](https://matsne.gov.ge/ka/document/view/1043717)
 
 Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 

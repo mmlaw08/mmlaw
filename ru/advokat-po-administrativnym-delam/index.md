@@ -107,7 +107,7 @@
 - [Как обжаловать штраф в Грузии](https://mmlaw.ge/ru/blog/obzhalovanie-shtrafa/)
 
 -
-- [Обжалование штрафа](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
+- [Обжалование штрафа: видео, патруль, парковка](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
 
 -
 - [Выдворение из Грузии: основания, сроки и обжалование](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/)

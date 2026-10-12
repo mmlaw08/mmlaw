@@ -457,7 +457,7 @@ How to lift an enforcement seizure on a bank account, salary or property — com
 
 [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
 
-### [Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+### [Presidential pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
 
 The difference between a pardon and an amnesty, who decides, and how to prepare a pardon request.
 
@@ -469,7 +469,7 @@ The difference between a pardon and an amnesty, who decides, and how to prepare 
 
 - Parole as an alternative
 
-[Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+[Presidential pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
 
 ### [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
 
@@ -485,11 +485,11 @@ When a driving licence is suspended — drink-driving, refusing a test, unpaid f
 
 [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
 
-### [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+### [Appealing a fine in Georgia: camera, patrol, parking](https://mmlaw.ge/en/appealing-fines/)
 
 Appealing patrol, camera and other administrative fines within 10 days — to the higher authority and in court.
 
-- Appealing patrol and camera fines
+- Appealing patrol, camera, bus-lane and parking fines
 
 - Complaint to the higher authority
 
@@ -497,7 +497,7 @@ Appealing patrol, camera and other administrative fines within 10 days — to th
 
 - Restoring a missed deadline for a valid reason
 
-[Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+[Appealing a fine in Georgia: camera, patrol, parking](https://mmlaw.ge/en/appealing-fines/)
 
 ### [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 

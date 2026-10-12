@@ -79,7 +79,7 @@
 - [როგორ გავასაჩივრო ჯარიმა?](https://mmlaw.ge/ka/blogi/jarimis-gasachivreba/)
 
 -
-- [ჯარიმის გასაჩივრება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
+- [ჯარიმის გასაჩივრება: ვიდეო, პატრული, პარკირება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
 
 -
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)

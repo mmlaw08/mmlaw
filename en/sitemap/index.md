@@ -124,11 +124,11 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)How to lift an enforcement seizure on a bank account, salary or property — complaints, settlement and time limits.
 
-- [Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)The difference between a pardon and an amnesty, who decides, and how to prepare a pardon request.
+- [Presidential pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)The difference between a pardon and an amnesty, who decides, and how to prepare a pardon request.
 
 - [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)When a driving licence is suspended — drink-driving, refusing a test, unpaid fines — and how to appeal.
 
-- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)Appealing patrol, camera and other administrative fines within 10 days — to the higher authority and in court.
+- [Appealing a fine in Georgia: camera, patrol, parking](https://mmlaw.ge/en/appealing-fines/)Appealing patrol, camera and other administrative fines within 10 days — to the higher authority and in court.
 
 - [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)When you can claim compensation for moral (non-pecuniary) damage — injury, harm to reputation, unlawful detention.
 

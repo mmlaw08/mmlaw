@@ -107,7 +107,7 @@
 - [როგორ გავასაჩივრო ჯარიმა?](https://mmlaw.ge/ka/blogi/jarimis-gasachivreba/)
 
 -
-- [ჯარიმის გასაჩივრება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
+- [ჯარიმის გასაჩივრება: ვიდეო, პატრული, პარკირება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
 
 -
 - [საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/)

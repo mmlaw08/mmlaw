@@ -1,4 +1,4 @@
-# Pardon and amnesty in Georgia — how to apply
+# Presidential pardon and amnesty in Georgia — how to apply
 
 A pardon and an amnesty are two different ways of being fully or partly released from a sentence. We help convicted people and their families find out which applies to them and prepare the request.
 
