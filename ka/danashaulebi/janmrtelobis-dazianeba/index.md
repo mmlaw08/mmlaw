@@ -105,5 +105,7 @@
 
 - [ხულიგნობა](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/) — მუხლი 239 საზოგადოებრივი წესრიგის უხეში დარღვევა ძალადობით ან მისი მუქარით. სასჯელი ჯარიმიდან 7 წლამდე.
 
+- [ოჯახში ძალადობა](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/) — მუხლი 126¹ ოჯახის წევრის მიმართ ძალადობა, სისტემატური შეურაცხყოფა, შანტაჟი ან დამცირება. სასჯელი 3 წლამდე და შემაკავებელი ორდერი.
+
 ---
 Source: https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

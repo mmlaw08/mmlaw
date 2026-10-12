@@ -109,6 +109,8 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)
 
+- [Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+
 ## Crimes and penalties
 
 - [Theft · Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)
@@ -148,6 +150,8 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 - [Computer crime for financial gain · Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
 
 - [Violation of private life · Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
+
+- [Domestic violence · Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 

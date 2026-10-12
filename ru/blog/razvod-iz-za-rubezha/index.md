@@ -70,6 +70,9 @@
 - [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 -
+- [Выезд ребёнка за границу из Грузии: согласие родителя](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
+
+-
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
 
 -
@@ -80,9 +83,6 @@
 
 -
 - [Покупка и продажа недвижимости · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/)
-
--
-- [Долги и исполнительное производство · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/dolgi-i-ispolnenie/)
 
 Блог
 

@@ -55,13 +55,15 @@ An administrative law lawyer helps you challenge decisions of public authorities
 
 - Administrative lawsuits in court
 
-- Fines and administrative offences
+- [Fines and administrative offences](https://mmlaw.ge/en/appealing-fines/)
 
 - Licences and permits
 
 - Tax and customs disputes
 
 - Public service (civil service) disputes
+
+- [Driving licence suspension cases](https://mmlaw.ge/en/driving-licence-suspension/)
 
 ## Administrative offences
 
@@ -105,6 +107,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
 
 -
+- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+
+-
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
 
 -
@@ -117,13 +122,10 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Petty hooliganism — Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
 
 -
+- [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
-
--
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
-
--
-- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 Practice areas
 

@@ -68,6 +68,9 @@ Related practice area: [Civil litigation](https://mmlaw.ge/en/civil-litigation-l
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 -
+- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+-
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 -
@@ -81,9 +84,6 @@ Related practice area: [Civil litigation](https://mmlaw.ge/en/civil-litigation-l
 
 -
 - [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
-
--
-- [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
 
 Georgians abroad
 

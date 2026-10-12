@@ -75,11 +75,11 @@
 
 - საკუთრებასთან დაკავშირებული დავები
 
-- ზიანის ანაზღაურება, მათ შორის მორალური ზიანის
+- [ზიანის ანაზღაურება, მათ შორის მორალური ზიანის](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
 
 - სამკვიდრო დავები
 
-- სასამართლო გადაწყვეტილებების აღსრულება
+- [სასამართლო გადაწყვეტილებების აღსრულება](https://mmlaw.ge/ka/yadaghis-mokhsna/)
 
 - მედიაცია და მორიგება
 
@@ -131,13 +131,13 @@
 - [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
 
 -
+- [ყადაღის მოხსნა საბანკო ანგარიშზე და ქონებაზე](https://mmlaw.ge/ka/yadaghis-mokhsna/)
+
+-
+- [მორალური ზიანის ანაზღაურება](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
-
--
-- [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
-
--
-- [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 
 პრაქტიკის სფეროები
 

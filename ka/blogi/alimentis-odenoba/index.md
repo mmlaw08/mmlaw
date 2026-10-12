@@ -69,6 +69,15 @@
 - [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
 
 -
+- [შემაკავებელი და დამცავი ორდერი](https://mmlaw.ge/ka/shemakavebeli-da-damtsavi-orderi/)
+
+-
+- [მამობის დადგენა სასამართლოს გზით](https://mmlaw.ge/ka/mamobis-dadgena/)
+
+-
+- [ბავშვის საზღვარგარეთ გაყვანა: მშობლის თანხმობა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
+
+-
 - [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
 
 -
@@ -76,15 +85,6 @@
 
 -
 - [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
-
--
-- [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
-
--
-- [ოჯახში ძალადობის ბრალდება: რა უნდა იცოდეთ](https://mmlaw.ge/ka/blogi/ojakhshi-dzaladobis-braldeba/)
-
--
-- [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 ბლოგი
 

@@ -72,6 +72,12 @@ Don't — it can aggravate the charge or become a reason for detention. Comply w
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
+- [Domestic violence — Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
+
+-
+- [Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -85,12 +91,6 @@ Don't — it can aggravate the charge or become a reason for detention. Comply w
 
 -
 - [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Drunk driving in Georgia: fines, licence, prison](https://mmlaw.ge/en/blog/drunk-driving-in-georgia/)
 
 Blog
 

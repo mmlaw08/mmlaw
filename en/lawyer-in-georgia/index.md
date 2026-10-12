@@ -429,6 +429,118 @@ When a loan becomes time-barred, what restarts the period and how to defend your
 
 [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
+### [Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
+
+Requesting, appealing and cancelling orders, and breach cases — for victims and for the person the order was issued against.
+
+- Requesting a restraining or protective order
+
+- Appealing an order within 3 days
+
+- Cancelling an order or changing its term
+
+- Defence against a breach charge (381¹)
+
+[Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
+
+### [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+How to lift an enforcement seizure on a bank account, salary or property — complaints, settlement and time limits.
+
+- Checking the basis of the seizure and the enforcement case
+
+- Appealing an enforcement officer's action within 15 days
+
+- Releasing protected income and property
+
+- Ending enforcement after the 10-year limit
+
+[Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+### [Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+
+The difference between a pardon and an amnesty, who decides, and how to prepare a pardon request.
+
+- Assessing whether an amnesty applies to your case
+
+- Preparing the pardon request and documents
+
+- References and evidence
+
+- Parole as an alternative
+
+[Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+
+### [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
+
+When a driving licence is suspended — drink-driving, refusing a test, unpaid fines — and how to appeal.
+
+- Lawfulness of the alcohol or drug test
+
+- Checking the record and video
+
+- Appeal within 10 days
+
+- Unpaid fines and suspension
+
+[Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
+
+### [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+
+Appealing patrol, camera and other administrative fines within 10 days — to the higher authority and in court.
+
+- Appealing patrol and camera fines
+
+- Complaint to the higher authority
+
+- Lawsuit in court
+
+- Restoring a missed deadline for a valid reason
+
+[Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+
+### [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
+
+When you can claim compensation for moral (non-pecuniary) damage — injury, harm to reputation, unlawful detention.
+
+- Moral damage for injury
+
+- Harm to dignity, reputation and private life
+
+- Publishing a photo or video without consent
+
+- Medical errors
+
+[Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
+
+### [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
+
+Establishing and challenging paternity: DNA testing, deadlines and the consequences — child support, inheritance, surname.
+
+- Claim to establish paternity
+
+- Requesting a DNA test
+
+- Challenging the record of the father
+
+- Claiming child support together with paternity
+
+[Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
+
+### [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+Whether the other parent's consent is needed to take a child abroad, the passport, and what happens when parents disagree.
+
+- Advice on what consent is needed in your case
+
+- Passport with one parent's consent
+
+- Court claim when parents disagree
+
+- Child's residence and contact arrangements
+
+[Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

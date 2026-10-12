@@ -70,6 +70,9 @@
 - [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 -
+- [ბავშვის საზღვარგარეთ გაყვანა: მშობლის თანხმობა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
+
+-
 - [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
@@ -80,9 +83,6 @@
 
 -
 - [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
-
--
-- [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
 
 ბლოგი
 

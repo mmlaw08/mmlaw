@@ -97,10 +97,10 @@ No. Enforcement is a separate step — a lawyer plans both together.
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 -
-- [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
+- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
 
 -
-- [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
+- [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
 
 Blog
 

@@ -85,16 +85,16 @@
 - [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
 
 -
+- [Снятие ареста с банковского счёта и имущества](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
+
+-
+- [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
 - [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
-
--
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
-
--
-- [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
 
 Блог
 

@@ -141,5 +141,7 @@
 
 - [პირადი ცხოვრების ხელყოფა](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/) — მუხლი 157, 157¹ პირადი ცხოვრების ამსახველი ინფორმაციის, ფოტოების ან პერსონალური მონაცემების უკანონოდ მოპოვება და გავრცელება. სასჯელი 10 წლამდე.
 
+- [ოჯახში ძალადობა](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/) — მუხლი 126¹ ოჯახის წევრის მიმართ ძალადობა, სისტემატური შეურაცხყოფა, შანტაჟი ან დამცირება. სასჯელი 3 წლამდე და შემაკავებელი ორდერი.
+
 ---
 Source: https://mmlaw.ge/ka/danashaulebi/avtosagzao-shemtkhveva-mukhli-276/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

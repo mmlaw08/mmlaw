@@ -67,6 +67,9 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [Disobeying the police — Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
 
 -
+- [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
+
+-
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 -
@@ -76,16 +79,13 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
 
 -
+- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
 
 Criminal law
 

@@ -72,25 +72,25 @@
 - [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 -
+- [მამობის დადგენა სასამართლოს გზით](https://mmlaw.ge/ka/mamobis-dadgena/)
+
+-
 - [ალიმენტი საქართველოში: როგორ განისაზღვრება ოდენობა](https://mmlaw.ge/ka/blogi/alimentis-odenoba/)
 
 -
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 -
+- [შემაკავებელი და დამცავი ორდერი](https://mmlaw.ge/ka/shemakavebeli-da-damtsavi-orderi/)
+
+-
+- [ბავშვის საზღვარგარეთ გაყვანა: მშობლის თანხმობა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
 - [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
-
--
-- [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
-
--
-- [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
 
 ბლოგი
 

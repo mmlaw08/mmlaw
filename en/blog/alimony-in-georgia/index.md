@@ -69,6 +69,15 @@ As a rule, the parent who doesn't live with the child.
 - [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
 
 -
+- [Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
+
+-
+- [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
+
+-
+- [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+-
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 -
@@ -76,15 +85,6 @@ As a rule, the parent who doesn't live with the child.
 
 -
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
-
--
-- [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
-
--
-- [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
-
--
-- [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 Blog
 

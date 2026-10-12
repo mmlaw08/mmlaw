@@ -68,6 +68,9 @@
 - [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
 
 -
+- [Снятие ареста с банковского счёта и имущества](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
+
+-
 - [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 -
@@ -81,9 +84,6 @@
 
 -
 - [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
-
--
-- [Покупка и продажа недвижимости · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/)
 
 Гражданам за рубежом
 

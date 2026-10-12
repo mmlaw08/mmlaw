@@ -61,6 +61,8 @@
 
 - [Хулиганство · Статья 239](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/)
 
+- [Домашнее насилие · Статья 126¹](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/)
+
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 
 ## Вопросы и ответы

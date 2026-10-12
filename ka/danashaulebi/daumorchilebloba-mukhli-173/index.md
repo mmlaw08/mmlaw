@@ -67,6 +67,9 @@
 - [წვრილმანი ხულიგნობა — მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
 
 -
+- [მართვის მოწმობის ჩამორთმევა: 6 თვე, 1 წელი, 3 წელი](https://mmlaw.ge/ka/martvis-uplebis-shecheroba/)
+
+-
 - [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 -
@@ -76,16 +79,13 @@
 - [როგორ გავასაჩივრო ჯარიმა?](https://mmlaw.ge/ka/blogi/jarimis-gasachivreba/)
 
 -
+- [ჯარიმის გასაჩივრება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
 - [კიბერდანაშაულის ადვოკატი](https://mmlaw.ge/ka/kiberdanashaulis-advokati/)
-
--
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
-
--
-- [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
 
 სისხლის სამართალი
 

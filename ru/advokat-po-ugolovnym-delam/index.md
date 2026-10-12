@@ -109,6 +109,8 @@
 
 - [Условно-досрочное освобождение](https://mmlaw.ge/ru/uslovno-dosrochnoe-osvobozhdenie/)
 
+- [Помилование и амнистия](https://mmlaw.ge/ru/pomilovanie-i-amnistiya/)
+
 ## Преступления и наказания
 
 - [Кража · Статья 177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
@@ -148,6 +150,8 @@
 - [Компьютерное преступление ради выгоды · Статья 286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
 
 - [Посягательство на частную жизнь · Статья 157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
+
+- [Домашнее насилие · Статья 126¹](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/)
 
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 

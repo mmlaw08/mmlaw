@@ -105,5 +105,7 @@ Criminal law
 
 - [Bodily harm](https://mmlaw.ge/en/crimes/bodily-harm/) — Article 117, 118, 120 Intentional minor, less serious and serious bodily harm — penalties from a fine to 14 years.
 
+- [Domestic violence](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/) — Article 126¹ Violence, systematic insults, blackmail or humiliation of a family member. Up to 3 years and a restraining order.
+
 ---
 Source: https://mmlaw.ge/en/crimes/hooliganism-article-239/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -75,11 +75,11 @@
 
 - Споры о праве собственности
 
-- Возмещение ущерба, в том числе морального вреда
+- [Возмещение ущерба, в том числе морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
 
 - Наследственные споры
 
-- Исполнение судебных решений
+- [Исполнение судебных решений](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
 
 - Медиация и мировые соглашения
 
@@ -131,13 +131,13 @@
 - [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
 
 -
+- [Снятие ареста с банковского счёта и имущества](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
+
+-
+- [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
-
--
-- [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
-
--
-- [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 Области практики
 

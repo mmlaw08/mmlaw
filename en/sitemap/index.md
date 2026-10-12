@@ -72,6 +72,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Violation of private life — Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)Unlawfully obtaining and spreading private information, photos or personal data. Up to 10 years.
 
+- [Domestic violence — Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)Violence, systematic insults, blackmail or humiliation of a family member. Up to 3 years and a restraining order.
+
 ## Other practice areas
 
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)Contract, property and damages disputes — negotiated or argued in court.
@@ -117,6 +119,22 @@ Every page of the site in one place — services, articles and useful resources.
 - [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)Threatened with the release of private photos or information? We act for the victim: the case, content removal, compensation.
 
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)When a loan becomes time-barred, what restarts the period and how to defend yourself in court or with a collector.
+
+- [Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)Requesting, appealing and cancelling orders, and breach cases — for victims and for the person the order was issued against.
+
+- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)How to lift an enforcement seizure on a bank account, salary or property — complaints, settlement and time limits.
+
+- [Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)The difference between a pardon and an amnesty, who decides, and how to prepare a pardon request.
+
+- [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)When a driving licence is suspended — drink-driving, refusing a test, unpaid fines — and how to appeal.
+
+- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)Appealing patrol, camera and other administrative fines within 10 days — to the higher authority and in court.
+
+- [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)When you can claim compensation for moral (non-pecuniary) damage — injury, harm to reputation, unlawful detention.
+
+- [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)Establishing and challenging paternity: DNA testing, deadlines and the consequences — child support, inheritance, surname.
+
+- [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)Whether the other parent's consent is needed to take a child abroad, the passport, and what happens when parents disagree.
 
 ## For foreigners
 

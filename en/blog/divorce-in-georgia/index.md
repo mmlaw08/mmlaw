@@ -72,25 +72,25 @@ The parents agree on this; in a dispute, the court decides in the child's best i
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 -
+- [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
+
+-
 - [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
 
 -
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 -
+- [Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
+
+-
+- [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
 - [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
-
--
-- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
-
--
-- [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 Blog
 

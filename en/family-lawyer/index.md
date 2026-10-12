@@ -73,6 +73,12 @@ If both spouses agree and there is no dispute about children or property, the di
 
 - Adoption and guardianship
 
+- [Restraining and protective order cases](https://mmlaw.ge/en/restraining-protective-orders/)
+
+- [Establishing paternity](https://mmlaw.ge/en/establishing-paternity/)
+
+- [Taking a child abroad — consent and disputes](https://mmlaw.ge/en/taking-a-child-abroad/)
+
 ## Questions & answers
 
 ### Can we divorce without going to court?
@@ -110,6 +116,12 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
 
 -
+- [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
+
+-
+- [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+-
 - [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
 
 -
@@ -120,12 +132,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
-
--
-- [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
-
--
-- [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
 
 Practice areas
 

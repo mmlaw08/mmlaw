@@ -105,5 +105,7 @@
 
 - [Вред здоровью](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/) — Статья 117, 118, 120 Умышленный лёгкий, менее тяжкий и тяжкий вред здоровью — наказание от штрафа до 14 лет.
 
+- [Домашнее насилие](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/) — Статья 126¹ Насилие, систематические оскорбления, шантаж или унижение члена семьи. До 3 лет и охранный ордер.
+
 ---
 Source: https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

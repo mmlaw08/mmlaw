@@ -67,6 +67,9 @@
 - [Мелкое хулиганство — Статья 166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
 
 -
+- [Лишение водительских прав в Грузии: 6 мес., 1 и 3 года](https://mmlaw.ge/ru/lishenie-voditelskikh-prav/)
+
+-
 - [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
 
 -
@@ -76,16 +79,13 @@
 - [Как обжаловать штраф в Грузии](https://mmlaw.ge/ru/blog/obzhalovanie-shtrafa/)
 
 -
+- [Обжалование штрафа](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
 - [Адвокат по киберпреступлениям](https://mmlaw.ge/ru/advokat-po-kiberprestupleniyam/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
-
--
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
 
 Уголовное право
 

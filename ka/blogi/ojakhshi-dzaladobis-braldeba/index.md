@@ -72,6 +72,12 @@
 - [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
 
 -
+- [ოჯახში ძალადობა — მუხლი 126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
+
+-
+- [შემაკავებელი და დამცავი ორდერი](https://mmlaw.ge/ka/shemakavebeli-da-damtsavi-orderi/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -85,12 +91,6 @@
 
 -
 - [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
-
--
-- [ნასვამი მართვა საქართველოში: ჯარიმა, მართვის უფლება, ციხე](https://mmlaw.ge/ka/blogi/nasvami-martva/)
 
 ბლოგი
 

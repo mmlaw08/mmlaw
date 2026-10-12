@@ -75,11 +75,11 @@ A civil litigation lawyer assesses your claim and evidence, tries to settle the 
 
 - Property and ownership disputes
 
-- Compensation for damage, including moral damage
+- [Compensation for damage, including moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 
 - Inheritance disputes
 
-- Enforcement of court decisions
+- [Enforcement of court decisions](https://mmlaw.ge/en/removing-seizure-on-account/)
 
 - Mediation and settlement
 
@@ -131,13 +131,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 -
+- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+-
+- [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
-
--
-- [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
-
--
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 Practice areas
 

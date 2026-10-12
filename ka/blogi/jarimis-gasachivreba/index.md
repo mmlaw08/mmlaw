@@ -68,6 +68,9 @@
 - [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 -
+- [ჯარიმის გასაჩივრება](https://mmlaw.ge/ka/jarimis-gasachivreba/)
+
+-
 - [საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/)
 
 -
@@ -80,13 +83,10 @@
 - [წვრილმანი ხულიგნობა — მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
 
 -
+- [მართვის მოწმობის ჩამორთმევა: 6 თვე, 1 წელი, 3 წელი](https://mmlaw.ge/ka/martvis-uplebis-shecheroba/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
-
--
-- [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
-
--
-- [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
 
 ბლოგი
 

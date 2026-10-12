@@ -105,5 +105,7 @@
 
 - [Хулиганство](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/) — Статья 239 Грубое нарушение общественного порядка с насилием или угрозой насилия. Наказание — от штрафа до 7 лет.
 
+- [Домашнее насилие](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/) — Статья 126¹ Насилие, систематические оскорбления, шантаж или унижение члена семьи. До 3 лет и охранный ордер.
+
 ---
 Source: https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

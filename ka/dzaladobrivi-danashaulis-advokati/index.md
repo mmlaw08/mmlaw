@@ -61,6 +61,8 @@
 
 - [ხულიგნობა · მუხლი 239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
 
+- [ოჯახში ძალადობა · მუხლი 126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
+
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 
 ## კითხვები და პასუხები

@@ -73,6 +73,12 @@
 
 - შვილად აყვანა და მეურვეობა
 
+- [შემაკავებელი და დამცავი ორდერის საქმეები](https://mmlaw.ge/ka/shemakavebeli-da-damtsavi-orderi/)
+
+- [მამობის დადგენა](https://mmlaw.ge/ka/mamobis-dadgena/)
+
+- [ბავშვის საზღვარგარეთ გაყვანა — თანხმობა და დავა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
+
 ## კითხვები და პასუხები
 
 ### შეიძლება განქორწინება სასამართლოს გარეშე?
@@ -110,6 +116,12 @@
 - [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
 
 -
+- [მამობის დადგენა სასამართლოს გზით](https://mmlaw.ge/ka/mamobis-dadgena/)
+
+-
+- [ბავშვის საზღვარგარეთ გაყვანა: მშობლის თანხმობა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
+
+-
 - [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
 
 -
@@ -120,12 +132,6 @@
 
 -
 - [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
-
--
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
-
--
-- [ალიმენტი საქართველოში: როგორ განისაზღვრება ოდენობა](https://mmlaw.ge/ka/blogi/alimentis-odenoba/)
 
 პრაქტიკის სფეროები
 

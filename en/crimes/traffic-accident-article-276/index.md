@@ -141,5 +141,7 @@ Criminal law
 
 - [Violation of private life](https://mmlaw.ge/en/crimes/private-photos-article-157/) — Article 157, 157¹ Unlawfully obtaining and spreading private information, photos or personal data. Up to 10 years.
 
+- [Domestic violence](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/) — Article 126¹ Violence, systematic insults, blackmail or humiliation of a family member. Up to 3 years and a restraining order.
+
 ---
 Source: https://mmlaw.ge/en/crimes/traffic-accident-article-276/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

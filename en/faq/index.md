@@ -588,6 +588,146 @@ Check the period before you pay. Paying part of the debt or interest, or acknowl
 
 According to the National Bank's financial education portal, a time-barred debt stays in the credit history for 5 years, after which you can ask for it to be removed.
 
+## Restraining and protective order cases
+
+[Open page](https://mmlaw.ge/en/restraining-protective-orders/)
+
+### How long does a restraining order last?
+
+Up to 1 month. A protective order is issued by a court for up to 9 months and can be extended by 3 more.
+
+### Can a restraining order be appealed?
+
+Yes. Both the victim and the person it was issued against can appeal within 3 days of receiving it. The deadline is very short — contact a lawyer immediately.
+
+### What happens if an order is breached?
+
+Breaching an order is a crime: a fine, community service or up to 1 year in prison; repeatedly — 1 to 3 years.
+
+### Is the order cancelled after reconciliation?
+
+Not automatically. It can be cancelled on a joint application if the victim or other family members are no longer at risk.
+
+## Removing a seizure on accounts and property
+
+[Open page](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+### My account was seized — how do I find out why?
+
+A seizure is imposed within an enforcement case. We can check the case, the creditor and the amount, and tell you the fastest way to lift it.
+
+### Can my salary be seized too?
+
+By law money can be collected from salary and other income, but income below the subsistence minimum and targeted state assistance are protected from seizure.
+
+### A seizure from an old case is still active — what can I do?
+
+If 10 years have passed since enforcement proceedings for a money claim began, enforcement must end and the seizure be lifted — except in cases set by law, such as alimony.
+
+### How long do I have to appeal an enforcement officer's action?
+
+15 calendar days from the action — to the head of the National Bureau of Enforcement.
+
+## Pardon and amnesty
+
+[Open page](https://mmlaw.ge/en/pardon-and-amnesty/)
+
+### What is the difference between a pardon and an amnesty?
+
+A pardon is granted by the President to a specific person on request. An amnesty is declared by Parliament through a law and applies to everyone who meets its conditions.
+
+### Who can request a pardon?
+
+The convicted person or a family member. The Pardon Commission reviews the request and the President decides.
+
+### Is there an amnesty in 2026?
+
+An amnesty can only be declared by a law passed by Parliament. If such a law is adopted, we will check whether it covers your article and sentence.
+
+## Driving licence suspension cases
+
+[Open page](https://mmlaw.ge/en/driving-licence-suspension/)
+
+### How long will I lose my licence for drink-driving?
+
+At 0.3–0.7‰ — 6 months; over 0.7‰ or refusing the test — 1 year. With minor damage — 3 years and a GEL 2,000 fine.
+
+### Will my licence be suspended for an unpaid fine?
+
+Yes. If a traffic fine isn't paid within 30 days, and then within another 30 days with a surcharge, the licence is suspended.
+
+### Can I appeal?
+
+Yes. The decision can be appealed within 10 days of receiving it. A lawyer checks the test procedure, the record and the video.
+
+### Do I need to retake the exam afterwards?
+
+After a suspension for an unpaid fine, the licence is restored when the term ends and no exam is required. In other cases the rule needs to be checked.
+
+## Appealing fines
+
+[Open page](https://mmlaw.ge/en/appealing-fines/)
+
+### How long do I have to appeal a fine?
+
+10 days from receiving the decision. If you missed it for a valid reason, you can ask for the deadline to be restored.
+
+### Do I have to pay while appealing?
+
+An appeal pauses the payment deadline until it is decided. If it is rejected, the fine must be paid.
+
+### Someone else was driving my car — what should I do?
+
+That is a common ground for appeal. Say who was driving and provide evidence.
+
+## Compensation for moral damage
+
+[Open page](https://mmlaw.ge/en/moral-damage-compensation/)
+
+### When can I claim moral damage?
+
+Only in cases set by law — for example, injury, culpable harm to honour, dignity or private life, or unlawful detention or conviction.
+
+### How much will a court award?
+
+There is no fixed rate. The court sets a 'reasonable and fair' amount based on the severity of the harm, fault and practice.
+
+### I was unlawfully detained — am I owed compensation?
+
+A rehabilitated person is compensated by the state for damage from unlawful conviction or detention — regardless of officials' fault.
+
+## Establishing paternity
+
+[Open page](https://mmlaw.ge/en/establishing-paternity/)
+
+### How is paternity established in court?
+
+Mainly by DNA testing. If that's impossible, the court considers living together, raising or supporting the child together, and other evidence of acknowledgment.
+
+### Who can apply to establish paternity?
+
+A parent, the child's guardian, the person supporting the child, or the child after reaching adulthood.
+
+### Can child support be claimed too?
+
+Yes. Once paternity is established, the child has the same rights as a child of married parents — including the right to support.
+
+## Taking a child abroad — consent and disputes
+
+[Open page](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+### Can I take my child abroad without the other parent's consent?
+
+By law, for temporary travel of a child under 16, one parent's permission and an adult escort are enough. But a passport usually needs both parents' consent, and in a dispute a court decides.
+
+### The other parent won't consent to a passport — what can I do?
+
+In some cases one parent's consent is enough (e.g. the other parent's whereabouts are unknown or travel is needed for treatment). Otherwise you can go to court.
+
+### The other parent took our child abroad and won't return them — what should I do?
+
+If the child is in a Hague Convention country, you can ask for the child's return. Act quickly — time matters a lot in these cases.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

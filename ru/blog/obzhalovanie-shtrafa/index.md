@@ -68,6 +68,9 @@
 - [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
 
 -
+- [Обжалование штрафа](https://mmlaw.ge/ru/obzhalovanie-shtrafov/)
+
+-
 - [Выдворение из Грузии: основания, сроки и обжалование](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/)
 
 -
@@ -80,13 +83,10 @@
 - [Мелкое хулиганство — Статья 166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
 
 -
+- [Лишение водительских прав в Грузии: 6 мес., 1 и 3 года](https://mmlaw.ge/ru/lishenie-voditelskikh-prav/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
-
--
-- [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
-
--
-- [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
 
 Блог
 

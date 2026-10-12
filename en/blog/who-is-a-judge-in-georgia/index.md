@@ -59,6 +59,12 @@ Hears and decides cases in court — administrative, civil and criminal.
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 -
+- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+-
+- [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -72,12 +78,6 @@ Hears and decides cases in court — administrative, civil and criminal.
 
 -
 - [Cybercrime lawyer](https://mmlaw.ge/en/cybercrime-lawyer/)
-
--
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 Blog
 

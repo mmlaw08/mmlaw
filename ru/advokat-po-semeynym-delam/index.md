@@ -73,6 +73,12 @@
 
 - Усыновление и опека
 
+- [Дела об охранных и защитных ордерах](https://mmlaw.ge/ru/okhrannyy-i-zashchitnyy-order/)
+
+- [Установление отцовства](https://mmlaw.ge/ru/ustanovlenie-ottsovstva/)
+
+- [Выезд ребёнка за границу — согласие и споры](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
+
 ## Вопросы и ответы
 
 ### Можно ли развестись без суда?
@@ -110,6 +116,12 @@
 - [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
 
 -
+- [Установление отцовства в суде](https://mmlaw.ge/ru/ustanovlenie-ottsovstva/)
+
+-
+- [Выезд ребёнка за границу из Грузии: согласие родителя](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
+
+-
 - [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
 
 -
@@ -120,12 +132,6 @@
 
 -
 - [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
-
--
-- [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
-
--
-- [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
 
 Области практики
 

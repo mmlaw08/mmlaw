@@ -138,6 +138,54 @@ When a loan becomes time-barred, what restarts the period and how to defend your
 Under Article 129 of the Civil Code, the limitation period for contractual claims — including loans — is 3 years, and 6 years for contracts concerning real estate. For periodic (e.g. monthly) payments it is 3 years, counted separately for each payment. The period starts when the creditor learned or should have learned of the breach — for a loan, usually from the missed payment date.
 [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
+## [Restraining and protective order cases](https://mmlaw.ge/en/restraining-protective-orders/)
+
+Requesting, appealing and cancelling orders, and breach cases — for victims and for the person the order was issued against.
+A restraining order is issued by the police for up to 1 month and takes effect immediately. A protective order is issued by a court for up to 9 months; if the threat continues, it can be extended by no more than 3 months. An order can bar the abuser from the shared home, from approaching the victim, or from using weapons, or impose electronic monitoring.
+[Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
+
+## [Removing a seizure on accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+How to lift an enforcement seizure on a bank account, salary or property — complaints, settlement and time limits.
+A seizure is usually imposed in enforcement proceedings — to enforce a court decision, a notary's writ or a fine. How to lift it depends on its basis and how long ago enforcement started.
+[Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+## [Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+
+The difference between a pardon and an amnesty, who decides, and how to prepare a pardon request.
+A pardon is an individual act: under the Constitution, convicted persons are pardoned by the President of Georgia. Requests are first reviewed by the Pardon Commission, and the President makes the final decision. The criteria and procedure are set by the President and change from time to time.
+[Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
+
+## [Driving licence suspension cases](https://mmlaw.ge/en/driving-licence-suspension/)
+
+When a driving licence is suspended — drink-driving, refusing a test, unpaid fines — and how to appeal.
+Under Article 116 of the Code of Administrative Offences, drink-driving at 0.3–0.7‰ leads to a 6-month suspension, and over 0.7‰ or refusing the test to a 1-year suspension. If it also causes minor damage to a vehicle, property or health — a GEL 2,000 fine and a 3-year suspension.
+[Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
+
+## [Appealing fines](https://mmlaw.ge/en/appealing-fines/)
+
+Appealing patrol, camera and other administrative fines within 10 days — to the higher authority and in court.
+Under the Code of Administrative Offences, a decision imposing a fine can be appealed within 10 days of being received. A deadline missed for a valid reason can be restored. A decision by an authority or official is usually appealed first to the higher authority, and its decision then to court.
+[Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+
+## [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
+
+When you can claim compensation for moral (non-pecuniary) damage — injury, harm to reputation, unlawful detention.
+Under Article 413 of the Civil Code, money for non-pecuniary (moral) damage can be claimed only in cases set by law — in a reasonable and fair amount. For bodily injury or harm to health, moral damage can always be claimed.
+[Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
+
+## [Establishing paternity](https://mmlaw.ge/en/establishing-paternity/)
+
+Establishing and challenging paternity: DNA testing, deadlines and the consequences — child support, inheritance, surname.
+Under Article 1190 of the Civil Code, the parentage of a child of unmarried parents is established by the parents' joint declaration. Without one, paternity is established in court — on the application of a parent, the child's guardian, the person supporting the child, or the child after reaching adulthood.
+[Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
+
+## [Taking a child abroad — consent and disputes](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+Whether the other parent's consent is needed to take a child abroad, the passport, and what happens when parents disagree.
+Under Article 8 of the Law on the Rules for Georgian Citizens Leaving and Entering Georgia, a child under 16 can travel abroad temporarily with the permission of one legal representative (parent) and accompanied by an adult with legal capacity. From 16 to 18, if not married, with the consent of one legal representative.
+[Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

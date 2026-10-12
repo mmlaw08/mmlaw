@@ -61,6 +61,8 @@ By law, a person who harms an attacker while defending themselves or others agai
 
 - [Hooliganism · Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
 
+- [Domestic violence · Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
+
 [All crimes](https://mmlaw.ge/en/crimes/)
 
 ## Questions & answers

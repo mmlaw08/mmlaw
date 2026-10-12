@@ -141,5 +141,7 @@
 
 - [Посягательство на частную жизнь](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/) — Статья 157, 157¹ Незаконное получение и распространение сведений о частной жизни, фото или персональных данных. До 10 лет.
 
+- [Домашнее насилие](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/) — Статья 126¹ Насилие, систематические оскорбления, шантаж или унижение члена семьи. До 3 лет и охранный ордер.
+
 ---
 Source: https://mmlaw.ge/ru/prestupleniya/dtp-statya-276/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -1,0 +1,139 @@
+# Appealing a fine in Georgia — camera and patrol fines
+
+Camera and patrol fines aren't always right: sometimes someone else was driving, a sign wasn't visible or the record was drawn up incorrectly. We assess whether an appeal is worth it and file it on time.
+
+- Confidential
+
+- Georgian · English · Russian
+
+- Free first consultation
+
+- Courts of all instances
+
+Under the Code of Administrative Offences, a decision imposing a fine can be appealed within 10 days of being received. A deadline missed for a valid reason can be restored. A decision by an authority or official is usually appealed first to the higher authority, and its decision then to court.
+An appeal pauses the deadline for paying the fine until it is decided. This matters because unpaid traffic fines end in a driving licence suspension.
+
+## Common grounds for appeal
+
+- Someone else was driving the car
+
+- A road sign or marking wasn't visible or was wrongly placed
+
+- The photo or video doesn't clearly show the offence
+
+- The record or decision has defects
+
+- The decision was not properly served
+
+## Deadlines
+
+- Appeal — 10 days from receipt
+
+- Payment — 30 days, then 30 more with a surcharge (for traffic offences)
+
+- An appeal pauses the payment deadline
+
+## Our services
+
+- Appealing patrol and camera fines
+
+- Complaint to the higher authority
+
+- Lawsuit in court
+
+- Restoring a missed deadline for a valid reason
+
+- Avoiding a licence suspension
+
+- Other administrative fines
+
+## Questions & answers
+
+### How long do I have to appeal a fine?
+
+10 days from receiving the decision. If you missed it for a valid reason, you can ask for the deadline to be restored.
+
+### Do I have to pay while appealing?
+
+An appeal pauses the payment deadline until it is decided. If it is rejected, the fine must be paid.
+
+### Someone else was driving my car — what should I do?
+
+That is a common ground for appeal. Say who was driving and provide evidence.
+
+## Legal basis
+
+- [Code of Administrative Offences of Georgia](https://matsne.gov.ge/ka/document/view/28216)
+
+- [Administrative Procedure Code of Georgia](https://matsne.gov.ge/ka/document/view/16492)
+
+Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
+
+## Related topics
+
+- [#Public authorities](https://mmlaw.ge/en/administrative-law-lawyer/)
+
+- [#Court cases](https://mmlaw.ge/en/civil-litigation-lawyer/)
+
+-
+- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
+
+-
+- [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
+
+-
+- [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
+
+-
+- [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
+
+-
+- [Disobeying the police — Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+
+-
+- [Petty hooliganism — Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
+
+-
+- [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
+
+-
+- [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
+
+Practice areas
+
+## Other practice areas
+
+- [Criminal defense](https://mmlaw.ge/en/criminal-defense-lawyer/) — Defense at every stage — from investigation and arrest to trial and appeal.
+
+- [Drug offences](https://mmlaw.ge/en/drug-crime-lawyer/) — Defence in cases of buying, possessing, selling and importing drugs — and against fines and administrative detention.
+
+- [Cybercrime](https://mmlaw.ge/en/cybercrime-lawyer/) — Defense in cybercrime cases and help for victims of online fraud, hacked accounts and blackmail.
+
+- [Property crimes](https://mmlaw.ge/en/property-crime-lawyer/) — Defence in theft, robbery, fraud, extortion, embezzlement and misappropriation cases.
+
+- [Economic crimes](https://mmlaw.ge/en/economic-crime-lawyer/) — Defence against tax evasion, money laundering, customs and other economic charges.
+
+- [Corruption and official crimes](https://mmlaw.ge/en/corruption-crime-lawyer/) — Defence in bribery, trading in influence and abuse of official power cases.
+
+- [Violent crimes](https://mmlaw.ge/en/violent-crime-lawyer/) — Defence in assault, bodily injury, threats and homicide cases — including self-defence.
+
+- [Juvenile justice](https://mmlaw.ge/en/juvenile-justice-lawyer/) — Specialised representation of minors, focused on their rights and future.
+
+- [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/) — Contract, property and damages disputes — negotiated or argued in court.
+
+- [Administrative law](https://mmlaw.ge/en/administrative-law-lawyer/) — Challenging decisions of public bodies, fines, permits and licences.
+
+- [Labor disputes](https://mmlaw.ge/en/employment-lawyer/) — Unlawful dismissal, unpaid wages and employment contracts — for employees and employers.
+
+- [Corporate law](https://mmlaw.ge/en/corporate-lawyer/) — Company formation, contracts, compliance and shareholder matters.
+
+- [Real estate](https://mmlaw.ge/en/real-estate-lawyer/) — Due diligence, purchase agreements, registration and property disputes.
+
+- [Family law](https://mmlaw.ge/en/family-lawyer/) — Divorce, custody, alimony and division of property — handled with discretion.
+
+- [Inheritance](https://mmlaw.ge/en/inheritance-lawyer/) — Accepting an inheritance, the certificate of inheritance, wills and disputes between heirs.
+
+- [Intellectual property](https://mmlaw.ge/en/intellectual-property-lawyer/) — Trademarks, copyright and protection of your creative and business assets.
+
+---
+Source: https://mmlaw.ge/en/appealing-fines/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

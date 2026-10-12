@@ -97,10 +97,10 @@
 - [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [ყადაღის მოხსნა საბანკო ანგარიშზე და ქონებაზე](https://mmlaw.ge/ka/yadaghis-mokhsna/)
 
 -
-- [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
+- [მამობის დადგენა სასამართლოს გზით](https://mmlaw.ge/ka/mamobis-dadgena/)
 
 ბლოგი
 

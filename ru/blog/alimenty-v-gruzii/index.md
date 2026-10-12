@@ -69,6 +69,15 @@
 - [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
 
 -
+- [Охранный и защитный ордер](https://mmlaw.ge/ru/okhrannyy-i-zashchitnyy-order/)
+
+-
+- [Установление отцовства в суде](https://mmlaw.ge/ru/ustanovlenie-ottsovstva/)
+
+-
+- [Выезд ребёнка за границу из Грузии: согласие родителя](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
+
+-
 - [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
 
 -
@@ -76,15 +85,6 @@
 
 -
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
-
--
-- [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
-
--
-- [Обвинение в домашнем насилии: что нужно знать](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/)
-
--
-- [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 Блог
 

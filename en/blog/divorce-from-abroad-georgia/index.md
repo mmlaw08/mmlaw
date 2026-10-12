@@ -70,6 +70,9 @@ Yes, if you have a Georgian passport — with a notary in Georgia by video call,
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 -
+- [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
+
+-
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
 
 -
@@ -80,9 +83,6 @@ Yes, if you have a Georgian passport — with a notary in Georgia by video call,
 
 -
 - [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
-
--
-- [Debts and enforcement · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/)
 
 Blog
 

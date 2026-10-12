@@ -85,16 +85,16 @@ Not under pressure — it is one of the most common mistakes. Deadlines to chall
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 -
+- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+-
+- [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
-
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
-
--
-- [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
 
 Blog
 

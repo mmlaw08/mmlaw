@@ -105,5 +105,7 @@ Criminal law
 
 - [Hooliganism](https://mmlaw.ge/en/crimes/hooliganism-article-239/) — Article 239 A gross breach of public order with violence or the threat of violence. Penalties from a fine to 7 years.
 
+- [Domestic violence](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/) — Article 126¹ Violence, systematic insults, blackmail or humiliation of a family member. Up to 3 years and a restraining order.
+
 ---
 Source: https://mmlaw.ge/en/crimes/bodily-harm/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -105,6 +105,12 @@
 - [Обвинение в домашнем насилии: что нужно знать](https://mmlaw.ge/ru/blog/obvinenie-v-domashnem-nasilii/)
 
 -
+- [Домашнее насилие — Статья 126¹](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/)
+
+-
+- [Охранный и защитный ордер](https://mmlaw.ge/ru/okhrannyy-i-zashchitnyy-order/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -118,12 +124,6 @@
 
 -
 - [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
-
--
-- [Вождение в нетрезвом виде в Грузии: штраф, права, срок](https://mmlaw.ge/ru/blog/vozhdenie-v-netrezvom-vide/)
 
 Области практики
 

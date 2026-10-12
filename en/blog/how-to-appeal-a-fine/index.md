@@ -68,6 +68,9 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 -
+- [Appealing a fine](https://mmlaw.ge/en/appealing-fines/)
+
+-
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)
 
 -
@@ -80,13 +83,10 @@ Photos and video, witnesses' contacts, receipts, tickets, permits — anything t
 - [Petty hooliganism — Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
 
 -
+- [Driving licence suspension in Georgia: 6 months, 1, 3 years](https://mmlaw.ge/en/driving-licence-suspension/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
-
--
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
-
--
-- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
 
 Blog
 

@@ -24,6 +24,7 @@ Once the period has expired, the debtor may refuse to pay (Article 144). But the
 ## Court decisions and enforcement
 
 If the debt has already been confirmed by a court decision that has entered into force, the limitation period for the claim is 10 years — even if the loan's own period was 3 years (Article 142).
+There is a limit at the enforcement stage too: enforcement proceedings for a money claim end 10 years after they began — except in cases set by law, such as alimony (Law on Enforcement Proceedings, Article 34).
 
 ## If a collector calls you
 
@@ -84,7 +85,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Your rights](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 -
+- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
+
+-
 - [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
+
+-
+- [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 
 -
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
@@ -100,12 +107,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
-
--
-- [Bail or pre-trial detention in Georgia: how courts decide](https://mmlaw.ge/en/blog/bail-and-pretrial-detention-georgia/)
-
--
-- [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
 
 Practice areas
 

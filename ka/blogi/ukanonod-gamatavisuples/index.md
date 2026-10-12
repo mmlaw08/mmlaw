@@ -85,16 +85,16 @@
 - [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
 
 -
+- [ყადაღის მოხსნა საბანკო ანგარიშზე და ქონებაზე](https://mmlaw.ge/ka/yadaghis-mokhsna/)
+
+-
+- [მორალური ზიანის ანაზღაურება](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
 - [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
-
--
-- [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
-
--
-- [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
 
 ბლოგი
 

@@ -109,6 +109,8 @@
 
 - [პირობით ვადამდე გათავისუფლება](https://mmlaw.ge/ka/pirobit-vadamde-gatavisupleba/)
 
+- [შეწყალება და ამნისტია](https://mmlaw.ge/ka/shetsqaleba-da-amnistia/)
+
 ## დანაშაულები და სასჯელები
 
 - [ქურდობა · მუხლი 177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
@@ -148,6 +150,8 @@
 - [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის · მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
 
 - [პირადი ცხოვრების ხელყოფა · მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
+
+- [ოჯახში ძალადობა · მუხლი 126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

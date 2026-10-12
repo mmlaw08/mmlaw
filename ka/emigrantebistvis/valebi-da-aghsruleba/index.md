@@ -68,6 +68,9 @@
 - [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
 
 -
+- [ყადაღის მოხსნა საბანკო ანგარიშზე და ქონებაზე](https://mmlaw.ge/ka/yadaghis-mokhsna/)
+
+-
 - [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 -
@@ -81,9 +84,6 @@
 
 -
 - [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
-
--
-- [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
 
 ემიგრანტებისთვის
 

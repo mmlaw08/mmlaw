@@ -97,10 +97,10 @@
 - [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
 
 -
-- [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
+- [Снятие ареста с банковского счёта и имущества](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
 
 -
-- [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
+- [Установление отцовства в суде](https://mmlaw.ge/ru/ustanovlenie-ottsovstva/)
 
 Блог
 

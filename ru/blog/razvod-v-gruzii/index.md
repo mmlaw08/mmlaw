@@ -72,25 +72,25 @@
 - [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 -
+- [Установление отцовства в суде](https://mmlaw.ge/ru/ustanovlenie-ottsovstva/)
+
+-
 - [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
 
 -
 - [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 -
+- [Охранный и защитный ордер](https://mmlaw.ge/ru/okhrannyy-i-zashchitnyy-order/)
+
+-
+- [Выезд ребёнка за границу из Грузии: согласие родителя](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
 - [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
-
--
-- [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
-
--
-- [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
-
--
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
 
 Блог
 

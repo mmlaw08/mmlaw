@@ -105,6 +105,12 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Domestic violence charges in Georgia: what to know](https://mmlaw.ge/en/blog/domestic-violence-charges-georgia/)
 
 -
+- [Domestic violence — Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
+
+-
+- [Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -118,12 +124,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
-
--
-- [Drunk driving in Georgia: fines, licence, prison](https://mmlaw.ge/en/blog/drunk-driving-in-georgia/)
 
 Practice areas
 
