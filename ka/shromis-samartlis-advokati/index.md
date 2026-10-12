@@ -112,10 +112,10 @@
 - [შრომის კოდექსი: შვებულება, დეკრეტული, ხელფასი](https://mmlaw.ge/ka/shromis-kodeksi-shvebuleba-khelpasi/)
 
 -
-- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
+- [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
 
 -
-- [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
+- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

@@ -1344,3 +1344,18 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .faq-chips::-webkit-scrollbar { display: none; }
   .faq-chips a { flex: none; white-space: nowrap; }
 }
+
+/* comparison tables: text wraps, columns share the width; on phones the table scrolls inside its box */
+.pun-wrap { max-width: 100%; }
+.pun-wrap:has(.pun-cmp) { overflow-x: auto; }
+.pun-cmp { table-layout: fixed; font-size: 14.5px; }
+.pun-cmp tbody th { width: 19%; }
+@media (max-width: 640px) {
+  .pun-cmp { font-size: 13.5px; min-width: 600px; }
+  .pun-cmp thead { display: table-header-group; }
+  .pun-cmp tr { display: table-row; padding: 0; border: 0; }
+  .pun-cmp th, .pun-cmp td, .pun-cmp tbody th { display: table-cell; padding: 10px 12px; border-top: 1px solid var(--line); }
+  .pun-cmp thead th { border-top: 0; }
+  .pun-cmp tbody th { width: 96px; }
+}
+.prose { min-width: 0; }

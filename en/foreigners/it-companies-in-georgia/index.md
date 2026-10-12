@@ -1,0 +1,147 @@
+# IT companies in Georgia: virtual zone, 5% tax, 1%
+
+Georgia has no separate immigration law for IT, but it has three tax regimes that IT specialists and companies use. We help you choose the right one, register, obtain the status and sort out the right to work.
+
+- Confidential
+
+- Georgian · English · Russian
+
+- Free first consultation
+
+- Courts of all instances
+
+A sole trader with small business status pays 1% of turnover — the simplest route for a freelancer. A virtual zone person is an IT company whose profit from supplying the IT it creates outside Georgia is exempt from profit tax. An international company pays 5% profit tax, its employees' salaries are taxed at 5%, and dividends are not taxed.
+For comparison: the standard profit tax is 15% (on distributed profit), and personal income is taxed at 20%.
+
+## The three regimes at a glance
+
+Sole trader 1%Virtual zoneInternational companyForFreelancersIT company (LLC)IT company with a teamTax1% of turnover0% on supplies abroad5% profit, 5% salariesGranted byRevenue ServiceFinancial-Analytical ServiceGovernment of GeorgiaTiming—10 working daysBy government ordinance
+
+## Virtual zone person
+
+- Only for legal entities — a sole trader can't get this status
+
+- Apply online on the Ministry of Finance website; status within 10 working days, certificate within 2 more
+
+- Profit from IT supplied abroad is not taxed; supplies within Georgia are taxed as usual
+
+- No licences or permits are needed for the activity
+
+- What counts as a 'supply abroad' is checked by the Revenue Service under its own practice — contracts should be reviewed in advance
+
+## International company
+
+- At least 2 years of experience in a permitted IT activity — of the company itself, the foreign company it represents, or shareholders holding over 50%
+
+- The work must really be done in Georgia: qualified staff and operating costs
+
+- Apply to the Revenue Service; the Government decides; the status has no end date
+
+- Other income must not exceed 2% of income from permitted activities in a year
+
+- If these conditions are broken, the status is cancelled from the date it was granted — so tax is recalculated for the whole period
+
+## The right to work — from 2026
+
+Since 1 March 2026, a foreigner working in Georgia as a sole trader or employee also needs the right to work — and a suitable residence permit or visa. Registering a company or a sole trader alone is no longer enough. The rule does not apply to holders of a permanent residence permit.
+
+## Our services
+
+- Choosing a regime: sole trader, virtual zone or international company
+
+- Registering an LLC or sole trader
+
+- Obtaining virtual zone status
+
+- Preparing the international company application
+
+- Right to work and residence permit
+
+- Disputes with the Revenue Service
+
+## Questions & answers
+
+### Which is better — a 1% sole trader or the virtual zone?
+
+For a freelancer working alone, the 1% sole trader is the simplest. The virtual zone is for companies and makes sense when you mainly supply IT abroad and plan to distribute profit. The right choice depends on income, clients and plans.
+
+### Can a newly formed company get international company status?
+
+Yes, if the 2 years of IT experience belong to the foreign company it represents, or to shareholder companies holding over 50%. The work must still really be done in Georgia.
+
+### How long does virtual zone status take?
+
+No later than 10 working days from the application, and the certificate within 2 working days of the status being granted.
+
+### Is registering as a sole trader enough to work in Georgia?
+
+Not since 1 March 2026. You also need the right to work and a suitable residence permit or visa.
+
+## Legal basis
+
+- [Tax Code of Georgia](https://matsne.gov.ge/ka/document/view/1043717)
+
+- [Law on Information Technology Zones](https://matsne.gov.ge/ka/document/view/1152405)
+
+- [Government Resolution No. 619 — International Company status](https://matsne.gov.ge/ka/document/view/5012362)
+
+- [Law on Labour Migration](https://matsne.gov.ge/ka/document/view/2806732)
+
+Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
+
+Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
+
+## Related topics
+
+- [#For foreigners](https://mmlaw.ge/en/foreigners/)
+
+- [#Business](https://mmlaw.ge/en/corporate-lawyer/)
+
+- [#Employment](https://mmlaw.ge/en/employment-lawyer/)
+
+-
+- [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
+
+-
+- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
+
+-
+- [Work permit in Georgia for foreigners from 2026](https://mmlaw.ge/en/blog/work-permit-georgia/)
+
+-
+- [Individual entrepreneur in Georgia: the 1% tax for foreigners](https://mmlaw.ge/en/blog/individual-entrepreneur-georgia-1-percent-tax/)
+
+-
+- [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
+
+-
+- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+
+-
+- [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
+
+-
+- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
+
+For foreigners
+
+## How we can help
+
+- [Criminal cases](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/) — Defense if you are detained or charged — with an interpreter and contact with your consulate.
+
+- [Immigration cases](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/) — Refused entry, overstays, deportation and appeals against residence-permit refusals — fast and in your language.
+
+- [Buying property](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/) — Check the property, sign a safe contract and register ownership — in person or remotely.
+
+- [Disputes with developers](https://mmlaw.ge/en/foreigners/disputes-with-developers/) — Construction is late, the developer won't refund, or the flat is mortgaged — we protect the buyer's interests.
+
+- [Company & business](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/) — Register an LLC or branch, become an individual entrepreneur and get your business running.
+
+- [Work permit & sole trader](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/) — The right to work, registering as an individual entrepreneur, the 1% small business tax and the right residence permit.
+
+- [Residence permits](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/) — Work, business, property, family and investment residence permits — applications, extensions and appeals.
+
+- [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/) — International divorce, children and alimony, recognition of foreign decisions.
+
+---
+Source: https://mmlaw.ge/en/foreigners/it-companies-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

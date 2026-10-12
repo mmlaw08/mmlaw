@@ -66,6 +66,9 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 - [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
 
 -
+- [IT companies and IT specialists · For foreigners](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -79,9 +82,6 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
-
--
-- [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
 
 For foreigners
 
@@ -100,6 +100,8 @@ For foreigners
 - [Residence permits](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/) — Work, business, property, family and investment residence permits — applications, extensions and appeals.
 
 - [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/) — International divorce, children and alimony, recognition of foreign decisions.
+
+- [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/company-registration-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -103,5 +103,7 @@
 
 - [Семейные дела](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/) — Международный развод, дети и алименты, признание иностранных решений.
 
+- [IT-компании и IT-специалисты](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/) — Три налоговых режима для IT в Грузии: ИП 1%, виртуальная зона и международная компания 5% — условия и изменения 2026 года.
+
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

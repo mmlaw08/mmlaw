@@ -66,6 +66,9 @@
 - [Разрешение на работу и ИП · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/)
 
 -
+- [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
-
--
-- [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
 
 Иностранцам
 
@@ -100,6 +100,8 @@
 - [Вид на жительство](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/) — Рабочий, бизнес-, имущественный, семейный и инвестиционный ВНЖ — подача, продление и обжалование.
 
 - [Семейные дела](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/) — Международный развод, дети и алименты, признание иностранных решений.
+
+- [IT-компании и IT-специалисты](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/) — Три налоговых режима для IT в Грузии: ИП 1%, виртуальная зона и международная компания 5% — условия и изменения 2026 года.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -164,6 +164,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)International divorce, children and alimony, recognition of foreign decisions.
 
+- [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
+
 - [Georgians abroad](https://mmlaw.ge/en/georgians-abroad/)We handle your matter in Georgia without you having to travel — by power of attorney, remote consultations and constant contact on WhatsApp.
 
 - [Accepting an inheritance](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)Accepting the estate through a notary by power of attorney, the certificate of inheritance and registering the property.

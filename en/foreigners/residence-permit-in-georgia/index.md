@@ -101,5 +101,7 @@ For foreigners
 
 - [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/) — International divorce, children and alimony, recognition of foreign decisions.
 
+- [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
+
 ---
 Source: https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -112,10 +112,10 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Labour Code of Georgia: leave, maternity, salary](https://mmlaw.ge/en/labour-code-leave-salary/)
 
 -
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [IT companies and IT specialists · For foreigners](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)
 
 -
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
+- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 Practice areas
 

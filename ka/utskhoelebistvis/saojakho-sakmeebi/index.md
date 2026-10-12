@@ -99,5 +99,7 @@
 
 - [ბინადრობის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/) — სამუშაო, ბიზნეს, ქონებრივი, საოჯახო და საინვესტიციო ბინადრობა — განაცხადი, გაგრძელება და გასაჩივრება.
 
+- [IT კომპანიები და სპეციალისტები](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/) — IT-ის სამი საგადასახადო რეჟიმი: ინდმეწარმე 1%, ვირტუალური ზონა და საერთაშორისო კომპანია 5% — პირობები და 2026 წლის ცვლილება.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

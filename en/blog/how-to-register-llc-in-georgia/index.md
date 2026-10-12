@@ -85,6 +85,9 @@ Yes — foreign individuals and companies can be the sole partner and director.
 - [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
 
 -
+- [IT companies and IT specialists · For foreigners](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)
+
+-
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 -
@@ -92,9 +95,6 @@ Yes — foreign individuals and companies can be the sole partner and director.
 
 -
 - [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
-
--
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 Blog
 

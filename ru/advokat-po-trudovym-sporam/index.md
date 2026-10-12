@@ -112,10 +112,10 @@
 - [Трудовой кодекс Грузии: отпуск, декрет, зарплата](https://mmlaw.ge/ru/trudovoy-kodeks-otpusk-zarplata/)
 
 -
-- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
+- [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
 
 -
-- [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
+- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 Области практики
 

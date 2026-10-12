@@ -66,6 +66,9 @@
 - [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
 
 -
+- [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
-
--
-- [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
 
 უცხოელებისთვის
 
@@ -100,6 +100,8 @@
 - [ბინადრობის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/) — სამუშაო, ბიზნეს, ქონებრივი, საოჯახო და საინვესტიციო ბინადრობა — განაცხადი, გაგრძელება და გასაჩივრება.
 
 - [საოჯახო საქმეები](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/) — საერთაშორისო განქორწინება, ბავშვები და ალიმენტი, უცხოური გადაწყვეტილებების ცნობა.
+
+- [IT კომპანიები და სპეციალისტები](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/) — IT-ის სამი საგადასახადო რეჟიმი: ინდმეწარმე 1%, ვირტუალური ზონა და საერთაშორისო კომპანია 5% — პირობები და 2026 წლის ცვლილება.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

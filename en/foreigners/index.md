@@ -22,7 +22,7 @@ For foreigners
 
 - [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/) — International divorce, children and alimony, recognition of foreign decisions.
 
-- [Get a consultation](https://mmlaw.ge/en/contact/) — Initial consultation is free
+- [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
 
 01
 
@@ -155,6 +155,22 @@ Before it can be enforced, a foreign court decision generally has to be recognis
 ### What if the other parent took our child abroad?
 
 If a child has been wrongfully removed to or kept in a country that is party to the Hague Convention, you can ask for the child's return. Act quickly — time is critical in these cases.
+
+### Which is better — a 1% sole trader or the virtual zone?
+
+For a freelancer working alone, the 1% sole trader is the simplest. The virtual zone is for companies and makes sense when you mainly supply IT abroad and plan to distribute profit. The right choice depends on income, clients and plans.
+
+### Can a newly formed company get international company status?
+
+Yes, if the 2 years of IT experience belong to the foreign company it represents, or to shareholder companies holding over 50%. The work must still really be done in Georgia.
+
+### How long does virtual zone status take?
+
+No later than 10 working days from the application, and the certificate within 2 working days of the status being granted.
+
+### Is registering as a sole trader enough to work in Georgia?
+
+Not since 1 March 2026. You also need the right to work and a suitable residence permit or visa.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge
