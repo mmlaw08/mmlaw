@@ -73,7 +73,7 @@
 - [ბავშვის საზღვარგარეთ გაყვანა: მშობლის თანხმობა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)

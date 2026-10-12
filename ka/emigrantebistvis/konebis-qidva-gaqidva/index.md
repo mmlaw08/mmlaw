@@ -70,7 +70,7 @@
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)

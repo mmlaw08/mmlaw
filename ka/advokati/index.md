@@ -205,7 +205,7 @@ MMLAW-ის ადვოკატები იცავენ ფიზიკ�
 
 [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
-### [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+### [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 სამკვიდროს მიღება, სამკვიდრო მოწმობა, ანდერძი და დავები მემკვიდრეებს შორის.
 
@@ -217,7 +217,7 @@ MMLAW-ის ადვოკატები იცავენ ფიზიკ�
 
 - დავები მემკვიდრეებს შორის და წილების გაყოფა
 
-[მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+[მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 ### [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 

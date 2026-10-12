@@ -91,7 +91,7 @@
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
 - [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)

@@ -107,7 +107,7 @@
 - [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 პრაქტიკის სფეროები
 

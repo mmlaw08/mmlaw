@@ -72,7 +72,7 @@
 - [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
 - [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)

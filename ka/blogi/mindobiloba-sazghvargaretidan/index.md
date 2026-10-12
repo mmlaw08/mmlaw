@@ -75,7 +75,7 @@
 - [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
 - [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)

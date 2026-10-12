@@ -150,7 +150,7 @@ WhatsApp-ით, ტელეფონით, ელფოსტით ან �
 - [#ოჯახი და ბავშვები](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 -
-- [მემკვიდრეობის ადვოკატი](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 -
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
