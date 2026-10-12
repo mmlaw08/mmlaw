@@ -148,7 +148,7 @@ In these cases, digital evidence decides everything — phones, computers, accou
 Our services:
 - Defense against cybercrime charges
 - Representing victims of online fraud
-- Hacked accounts and personal data cases
+- Account hacking and personal data cases
 - Help for victims of online blackmail and threats
 - Cryptocurrency fraud cases
 - Review of digital evidence and expert analysis
@@ -366,7 +366,7 @@ For employers, we help prevent risk by bringing contracts, internal regulations 
 Our services:
 - Unlawful dismissal and reinstatement
 - Recovery of unpaid salary and compensation
-- Discrimination and harassment at work
+- Protection from discrimination and harassment at work
 - Employment contracts and internal regulations
 - Collective disputes and negotiations
 - Compliance advice for employers
@@ -548,7 +548,7 @@ Our services:
 - Victim status and representation
 - Tracing property and requesting a freeze
 - Claiming compensation in the verdict
-- Exit ban until the damage is paid
+- Requesting an exit ban for the convicted person
 - A civil claim for the remaining loss
 - Recovering property passed to relatives
 
@@ -598,7 +598,7 @@ Our services:
 - Defence against money laundering charges
 - Challenging freezes on accounts and property
 - Proving the lawful origin of assets
-- Transactions suspended by banks
+- Help when a bank suspends a transaction
 - Defending companies and internal reviews
 - Reviewing financial expert reports
 
@@ -628,7 +628,7 @@ Our services:
 - Proving the lawful origin of assets
 - Defence against confiscation in a verdict
 - Unlawful and unexplained property cases
-- Freezes to secure victim compensation
+- Requesting a freeze to secure the victim's compensation
 
 ### My account has been frozen — what should I do?
 Find out in which case and on what grounds. The court order can be appealed — contact a lawyer straight away.
@@ -1010,11 +1010,11 @@ Under Article 413 of the Civil Code, money for non-pecuniary (moral) damage can 
 Other important cases are culpable harm to honour, dignity, business reputation or private life (Article 18), including publishing a photo or video without consent, and damage caused by the state through unlawful conviction or detention (Article 1005). A medical institution is liable unless it proves it was not at fault (Article 1007).
 
 Our services:
-- Moral damage for injury
-- Harm to dignity, reputation and private life
-- Publishing a photo or video without consent
-- Medical errors
-- Unlawful arrest, detention or conviction
+- Compensation for moral damage after an injury
+- Compensation for harm to dignity, reputation or private life
+- Compensation when a photo or video was published without consent
+- Compensation for medical errors
+- Compensation for unlawful arrest, detention or conviction
 - Claiming moral and material damage together
 
 ### When can I claim moral damage?
@@ -1123,7 +1123,7 @@ In immigration cases deadlines are counted in days: a deportation decision can b
 Often an appeal is not the only answer: we look for a lawful basis to stay — the right type of residence permit, a family tie or another route — and at the same time protect your property, job and family interests.
 
 - Appealing a refusal of entry at the border
-- Overstays: the fine, the entry ban and next steps
+- Help after an overstay: the fine, the entry ban and next steps
 - Deportation cases and the interview at the Ministry
 - Court hearings on placement in the temporary accommodation centre
 - Appealing a residence-permit refusal
@@ -1171,9 +1171,9 @@ Typical problems are missed completion dates, a flat that differs from the contr
 First we review the contract, the payments, the Public Registry records and the building permits. Then we choose the strategy: negotiation, a claim for the contractual penalty and damages, terminating the contract and recovering the money, securing the claim — for example, by freezing property — or filing a claim in the developer's insolvency.
 
 - Checking the contract and the developer before you sign
-- Missed completion dates and contractual penalties
+- Claiming the penalty when completion is late
 - Terminating the contract and recovering your money
-- Mortgages or seizures on the flat or the land
+- Disputes over a mortgage or seizure on the flat or land
 - Disputes when one flat was sold to two buyers
 - Claims when the developer is insolvent
 
@@ -1271,7 +1271,7 @@ Georgia is a party to the Hague Convention on international child abduction, and
 - Child residence and contact arrangements
 - Alimony, including from a parent living abroad
 - Recognition of foreign court decisions
-- International child abduction (Hague Convention)
+- Returning a child after international abduction (Hague Convention)
 - Legalisation and translation of family documents
 
 ### Can foreigners divorce in Georgia?

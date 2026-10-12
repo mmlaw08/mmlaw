@@ -45,7 +45,7 @@ Defense in cybercrime cases and help for victims of online fraud, hacked account
 
 - Representing victims of online fraud
 
-- Hacked accounts and personal data cases
+- Account hacking and personal data cases
 
 - Help for victims of online blackmail and threats
 
@@ -157,7 +157,7 @@ Unlawful dismissal, unpaid wages and employment contracts — for employees and 
 
 - Recovery of unpaid salary and compensation
 
-- Discrimination and harassment at work
+- Protection from discrimination and harassment at work
 
 - Employment contracts and internal regulations
 
@@ -257,7 +257,7 @@ Under the 2025 rules: compensation, freezing property and a ban on the convicted
 
 - Claiming compensation in the verdict
 
-- Exit ban until the damage is paid
+- Requesting an exit ban for the convicted person
 
 [Victims of financial crime](https://mmlaw.ge/en/financial-crime-victims/)
 
@@ -285,7 +285,7 @@ Defence against Article 194 charges, frozen bank accounts and proving the lawful
 
 - Proving the lawful origin of assets
 
-- Transactions suspended by banks
+- Help when a bank suspends a transaction
 
 [Money laundering defence lawyer](https://mmlaw.ge/en/money-laundering-lawyer/)
 
@@ -503,13 +503,13 @@ Appealing patrol, camera and other administrative fines within 10 days — to th
 
 When you can claim compensation for moral (non-pecuniary) damage — injury, harm to reputation, unlawful detention.
 
-- Moral damage for injury
+- Compensation for moral damage after an injury
 
-- Harm to dignity, reputation and private life
+- Compensation for harm to dignity, reputation or private life
 
-- Publishing a photo or video without consent
+- Compensation when a photo or video was published without consent
 
-- Medical errors
+- Compensation for medical errors
 
 [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
 

@@ -25,7 +25,7 @@ There is a separate civil procedure: certain people — for example, public offi
 
 - Unlawful and unexplained property cases
 
-- Freezes to secure victim compensation
+- Requesting a freeze to secure the victim's compensation
 
 ## Questions & answers
 

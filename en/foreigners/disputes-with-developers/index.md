@@ -17,11 +17,11 @@ First we review the contract, the payments, the Public Registry records and the 
 
 - Checking the contract and the developer before you sign
 
-- Missed completion dates and contractual penalties
+- Claiming the penalty when completion is late
 
 - Terminating the contract and recovering your money
 
-- Mortgages or seizures on the flat or the land
+- Disputes over a mortgage or seizure on the flat or land
 
 - Disputes when one flat was sold to two buyers
 

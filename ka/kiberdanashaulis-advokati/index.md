@@ -67,7 +67,7 @@
 
 - ონლაინ თაღლითობის მსხვერპლთა წარმომადგენლობა
 
-- [ანგარიშების გატეხვა და პერსონალურ მონაცემებთან დაკავშირებული საქმეები](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
+- [ანგარიშის გატეხვისა და პერსონალური მონაცემების საქმეები](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
 
 - [დახმარება ინტერნეტით შანტაჟისა და მუქარის მსხვერპლს](https://mmlaw.ge/ka/shantazhi-piradi-potoebit/)
 

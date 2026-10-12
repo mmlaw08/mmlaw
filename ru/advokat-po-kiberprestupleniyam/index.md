@@ -67,7 +67,7 @@
 
 - Представительство жертв онлайн-мошенничества
 
-- [Взлом аккаунтов и дела о персональных данных](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
+- [Дела о взломе аккаунтов и персональных данных](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
 
 - [Помощь жертвам шантажа и угроз в интернете](https://mmlaw.ge/ru/shantazh-lichnymi-foto/)
 

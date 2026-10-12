@@ -29,7 +29,7 @@ During an investigation a court can freeze property and bank accounts if there i
 
 - Proving the lawful origin of assets
 
-- Transactions suspended by banks
+- Help when a bank suspends a transaction
 
 - Defending companies and internal reviews
 

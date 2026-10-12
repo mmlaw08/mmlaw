@@ -67,7 +67,7 @@ In these cases, digital evidence decides everything — phones, computers, accou
 
 - Representing victims of online fraud
 
-- [Hacked accounts and personal data cases](https://mmlaw.ge/en/crimes/hacking-article-284/)
+- [Account hacking and personal data cases](https://mmlaw.ge/en/crimes/hacking-article-284/)
 
 - [Help for victims of online blackmail and threats](https://mmlaw.ge/en/blackmail-private-photos/)
 

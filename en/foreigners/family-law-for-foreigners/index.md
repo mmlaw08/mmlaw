@@ -23,7 +23,7 @@ Georgia is a party to the Hague Convention on international child abduction, and
 
 - Recognition of foreign court decisions
 
-- International child abduction (Hague Convention)
+- Returning a child after international abduction (Hague Convention)
 
 - Legalisation and translation of family documents
 

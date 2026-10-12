@@ -55,7 +55,7 @@ An employment lawyer protects the interests of employees or employers: reviews t
 
 - Recovery of unpaid salary and compensation
 
-- Discrimination and harassment at work
+- Protection from discrimination and harassment at work
 
 - Employment contracts and internal regulations
 

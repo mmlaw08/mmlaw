@@ -27,15 +27,15 @@ Other important cases are culpable harm to honour, dignity, business reputation 
 
 ## Our services
 
-- Moral damage for injury
+- Compensation for moral damage after an injury
 
-- Harm to dignity, reputation and private life
+- Compensation for harm to dignity, reputation or private life
 
-- Publishing a photo or video without consent
+- Compensation when a photo or video was published without consent
 
-- Medical errors
+- Compensation for medical errors
 
-- Unlawful arrest, detention or conviction
+- Compensation for unlawful arrest, detention or conviction
 
 - Claiming moral and material damage together
 

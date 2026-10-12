@@ -21,7 +21,7 @@ Compensation is paid first from the convicted person's own property, then from p
 
 - Claiming compensation in the verdict
 
-- Exit ban until the damage is paid
+- Requesting an exit ban for the convicted person
 
 - A civil claim for the remaining loss
 

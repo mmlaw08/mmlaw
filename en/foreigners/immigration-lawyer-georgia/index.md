@@ -17,7 +17,7 @@ Often an appeal is not the only answer: we look for a lawful basis to stay — t
 
 - Appealing a refusal of entry at the border
 
-- Overstays: the fine, the entry ban and next steps
+- Help after an overstay: the fine, the entry ban and next steps
 
 - Deportation cases and the interview at the Ministry
 
