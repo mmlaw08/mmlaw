@@ -1438,3 +1438,17 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   background: rgba(214,168,92,.20); animation: ph-drift 16s ease-in-out infinite alternate; }
 @keyframes ph-drift { to { transform: translate(-22%, 14%) scale(1.15); } }
 @media (prefers-reduced-motion: reduce) { .ph-beams .beam, .ph-aurora::after { animation: none; } }
+
+/* cookie banner: slim bar above the phone tab bar (long text and illustration on wider screens only) */
+.ck-short { display: none; }
+@media (max-width: 640px) {
+  .ck { left: 8px; right: 8px; width: auto; bottom: calc(76px + env(safe-area-inset-bottom)); border-radius: 14px; box-shadow: 0 10px 30px -10px rgba(0,0,0,.3); }
+  .ck::before, .ck-art, .ck .ck-t, .ck-long { display: none; }
+  .ck-short { display: inline; }
+  .ck-in { flex-direction: row; align-items: center; gap: 10px; padding: 10px 10px 10px 14px; }
+  .ck-head { flex: 1; min-width: 0; }
+  .ck p { font-size: 12.5px; line-height: 1.45; }
+  .ck-btns { display: flex; gap: 6px; flex: none; }
+  .ck-btn { height: 36px; padding: 0 12px; font-size: 13px; border-radius: 9px; }
+  .ck-btn svg { display: none; }
+}
