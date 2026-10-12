@@ -113,45 +113,57 @@
 
 ## Преступления и наказания
 
-- [Кража · Статья 177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
+### Имущественные преступления6
 
-- [Грабёж · Статья 178](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
+- [Кража177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
 
-- [Разбой · Статья 179](https://mmlaw.ge/ru/prestupleniya/razboy-statya-179/)
+- [Грабёж178](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
 
-- [Вымогательство · Статья 181](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
+- [Разбой179](https://mmlaw.ge/ru/prestupleniya/razboy-statya-179/)
 
-- [Присвоение или растрата · Статья 182](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
+- [Вымогательство181](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
 
-- [Повреждение имущества · Статья 187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
+- [Присвоение или растрата182](https://mmlaw.ge/ru/prestupleniya/prisvoenie-rastrata-statya-182/)
 
-- [Вред здоровью · Статья 117, 118, 120](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
+- [Повреждение имущества187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
 
-- [Хулиганство · Статья 239](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/)
+### Насильственные преступления3
 
-- [ДТП с вредом здоровью · Статья 276](https://mmlaw.ge/ru/prestupleniya/dtp-statya-276/)
+- [Вред здоровью117, 118, 120](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
 
-- [Получение взятки · Статья 338](https://mmlaw.ge/ru/prestupleniya/poluchenie-vzyatki-statya-338/)
+- [Хулиганство239](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/)
 
-- [Дача взятки · Статья 339](https://mmlaw.ge/ru/prestupleniya/dacha-vzyatki-statya-339/)
+- [Домашнее насилие126¹](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/)
 
-- [Торговля влиянием · Статья 339¹](https://mmlaw.ge/ru/prestupleniya/torgovlya-vliyaniem-statya-339-1/)
+### Киберпреступления3
 
-- [Получение запрещённого подарка · Статья 340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
+- [Неправомерный доступ к компьютерной системе284](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
 
-- [Служебный подлог · Статья 341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
+- [Компьютерное преступление ради выгоды286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
 
-- [Неповиновение полиции · Статья 173](https://mmlaw.ge/ru/prestupleniya/nepovinovenie-politsii-statya-173/)
+- [Посягательство на частную жизнь157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
 
-- [Мелкое хулиганство · Статья 166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
+### Транспортные преступления1
 
-- [Неправомерный доступ к компьютерной системе · Статья 284](https://mmlaw.ge/ru/prestupleniya/vzlom-akkaunta-statya-284/)
+- [ДТП с вредом здоровью276](https://mmlaw.ge/ru/prestupleniya/dtp-statya-276/)
 
-- [Компьютерное преступление ради выгоды · Статья 286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
+### Коррупционные преступления5
 
-- [Посягательство на частную жизнь · Статья 157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
+- [Получение взятки338](https://mmlaw.ge/ru/prestupleniya/poluchenie-vzyatki-statya-338/)
 
-- [Домашнее насилие · Статья 126¹](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/)
+- [Дача взятки339](https://mmlaw.ge/ru/prestupleniya/dacha-vzyatki-statya-339/)
+
+- [Торговля влиянием339¹](https://mmlaw.ge/ru/prestupleniya/torgovlya-vliyaniem-statya-339-1/)
+
+- [Получение запрещённого подарка340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
+
+- [Служебный подлог341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
+
+### Административные правонарушения2
+
+- [Неповиновение полиции173](https://mmlaw.ge/ru/prestupleniya/nepovinovenie-politsii-statya-173/)
+
+- [Мелкое хулиганство166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
 
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 

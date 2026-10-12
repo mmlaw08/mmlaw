@@ -53,9 +53,9 @@ By law, a bribe-giver is released from criminal liability if they voluntarily re
 
 ## Crimes and penalties
 
-- [Accepting a prohibited gift · Article 340](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/)
+- [Accepting a prohibited gift340](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/)
 
-- [Official forgery · Article 341](https://mmlaw.ge/en/crimes/official-forgery-article-341/)
+- [Official forgery341](https://mmlaw.ge/en/crimes/official-forgery-article-341/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 

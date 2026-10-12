@@ -57,11 +57,11 @@ By law, a person who harms an attacker while defending themselves or others agai
 
 ## Crimes and penalties
 
-- [Bodily harm · Article 117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
+- [Bodily harm117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
 
-- [Hooliganism · Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
+- [Hooliganism239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
 
-- [Domestic violence · Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
+- [Domestic violence126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 

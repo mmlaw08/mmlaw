@@ -59,15 +59,15 @@
 
 ## დანაშაულები და სასჯელები
 
-- [ქურდობა · მუხლი 177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
+- [ქურდობა177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
 
-- [ძარცვა · მუხლი 178](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
+- [ძარცვა178](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
 
-- [ყაჩაღობა · მუხლი 179](https://mmlaw.ge/ka/danashaulebi/qachaghoba-mukhli-179/)
+- [ყაჩაღობა179](https://mmlaw.ge/ka/danashaulebi/qachaghoba-mukhli-179/)
 
-- [გამოძალვა · მუხლი 181](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
+- [გამოძალვა181](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
 
-- [ნივთის დაზიანება · მუხლი 187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
+- [ნივთის დაზიანება187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

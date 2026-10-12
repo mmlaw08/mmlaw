@@ -77,9 +77,9 @@
 
 ## Преступления и наказания
 
-- [Компьютерное преступление ради выгоды · Статья 286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
+- [Компьютерное преступление ради выгоды286¹](https://mmlaw.ge/ru/prestupleniya/fishing-statya-286-1/)
 
-- [Посягательство на частную жизнь · Статья 157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
+- [Посягательство на частную жизнь157, 157¹](https://mmlaw.ge/ru/prestupleniya/rasprostranenie-lichnykh-foto-statya-157/)
 
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 

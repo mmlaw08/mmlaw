@@ -59,15 +59,15 @@
 
 ## Преступления и наказания
 
-- [Кража · Статья 177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
+- [Кража177](https://mmlaw.ge/ru/prestupleniya/krazha-statya-177/)
 
-- [Грабёж · Статья 178](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
+- [Грабёж178](https://mmlaw.ge/ru/prestupleniya/grabezh-statya-178/)
 
-- [Разбой · Статья 179](https://mmlaw.ge/ru/prestupleniya/razboy-statya-179/)
+- [Разбой179](https://mmlaw.ge/ru/prestupleniya/razboy-statya-179/)
 
-- [Вымогательство · Статья 181](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
+- [Вымогательство181](https://mmlaw.ge/ru/prestupleniya/vymogatelstvo-statya-181/)
 
-- [Повреждение имущества · Статья 187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
+- [Повреждение имущества187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
 
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 

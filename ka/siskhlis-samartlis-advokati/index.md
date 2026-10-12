@@ -113,45 +113,57 @@
 
 ## დანაშაულები და სასჯელები
 
-- [ქურდობა · მუხლი 177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
+### ქონებრივი დანაშაული6
 
-- [ძარცვა · მუხლი 178](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
+- [ქურდობა177](https://mmlaw.ge/ka/danashaulebi/kurdoba-mukhli-177/)
 
-- [ყაჩაღობა · მუხლი 179](https://mmlaw.ge/ka/danashaulebi/qachaghoba-mukhli-179/)
+- [ძარცვა178](https://mmlaw.ge/ka/danashaulebi/dzartsva-mukhli-178/)
 
-- [გამოძალვა · მუხლი 181](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
+- [ყაჩაღობა179](https://mmlaw.ge/ka/danashaulebi/qachaghoba-mukhli-179/)
 
-- [მითვისება ან გაფლანგვა · მუხლი 182](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
+- [გამოძალვა181](https://mmlaw.ge/ka/danashaulebi/gamodzalva-mukhli-181/)
 
-- [ნივთის დაზიანება · მუხლი 187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
+- [მითვისება ან გაფლანგვა182](https://mmlaw.ge/ka/danashaulebi/mitviseba-gaplangva-mukhli-182/)
 
-- [ჯანმრთელობის დაზიანება · მუხლი 117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
+- [ნივთის დაზიანება187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
 
-- [ხულიგნობა · მუხლი 239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
+### ძალადობრივი დანაშაული3
 
-- [ავტოსაგზაო შემთხვევა ჯანმრთელობის დაზიანებით · მუხლი 276](https://mmlaw.ge/ka/danashaulebi/avtosagzao-shemtkhveva-mukhli-276/)
+- [ჯანმრთელობის დაზიანება117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
 
-- [ქრთამის აღება · მუხლი 338](https://mmlaw.ge/ka/danashaulebi/krtamis-agheba-mukhli-338/)
+- [ხულიგნობა239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
 
-- [ქრთამის მიცემა · მუხლი 339](https://mmlaw.ge/ka/danashaulebi/krtamis-mitsema-mukhli-339/)
+- [ოჯახში ძალადობა126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
 
-- [ზეგავლენით ვაჭრობა · მუხლი 339¹](https://mmlaw.ge/ka/danashaulebi/zegavlenit-vachroba-mukhli-339-1/)
+### კიბერდანაშაული3
 
-- [აკრძალული საჩუქრის მიღება · მუხლი 340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
+- [კომპიუტერულ სისტემაში უნებართვო შეღწევა284](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
 
-- [სამსახურებრივი სიყალბე · მუხლი 341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
+- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
 
-- [პოლიციის მოთხოვნისადმი დაუმორჩილებლობა · მუხლი 173](https://mmlaw.ge/ka/danashaulebi/daumorchilebloba-mukhli-173/)
+- [პირადი ცხოვრების ხელყოფა157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
 
-- [წვრილმანი ხულიგნობა · მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
+### სატრანსპორტო დანაშაული1
 
-- [კომპიუტერულ სისტემაში უნებართვო შეღწევა · მუხლი 284](https://mmlaw.ge/ka/danashaulebi/kompiuterul-sistemashi-sheghtseva-mukhli-284/)
+- [ავტოსაგზაო შემთხვევა ჯანმრთელობის დაზიანებით276](https://mmlaw.ge/ka/danashaulebi/avtosagzao-shemtkhveva-mukhli-276/)
 
-- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის · მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
+### კორუფციული დანაშაული5
 
-- [პირადი ცხოვრების ხელყოფა · მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
+- [ქრთამის აღება338](https://mmlaw.ge/ka/danashaulebi/krtamis-agheba-mukhli-338/)
 
-- [ოჯახში ძალადობა · მუხლი 126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
+- [ქრთამის მიცემა339](https://mmlaw.ge/ka/danashaulebi/krtamis-mitsema-mukhli-339/)
+
+- [ზეგავლენით ვაჭრობა339¹](https://mmlaw.ge/ka/danashaulebi/zegavlenit-vachroba-mukhli-339-1/)
+
+- [აკრძალული საჩუქრის მიღება340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
+
+- [სამსახურებრივი სიყალბე341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
+
+### ადმინისტრაციული სამართალდარღვევები2
+
+- [პოლიციის მოთხოვნისადმი დაუმორჩილებლობა173](https://mmlaw.ge/ka/danashaulebi/daumorchilebloba-mukhli-173/)
+
+- [წვრილმანი ხულიგნობა166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

@@ -113,45 +113,57 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 ## Crimes and penalties
 
-- [Theft · Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)
+### Property crimes6
 
-- [Robbery (open theft) · Article 178](https://mmlaw.ge/en/crimes/robbery-article-178/)
+- [Theft177](https://mmlaw.ge/en/crimes/theft-article-177/)
 
-- [Violent robbery · Article 179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)
+- [Robbery (open theft)178](https://mmlaw.ge/en/crimes/robbery-article-178/)
 
-- [Extortion · Article 181](https://mmlaw.ge/en/crimes/extortion-article-181/)
+- [Violent robbery179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)
 
-- [Embezzlement · Article 182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
+- [Extortion181](https://mmlaw.ge/en/crimes/extortion-article-181/)
 
-- [Damage to property · Article 187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
+- [Embezzlement182](https://mmlaw.ge/en/crimes/embezzlement-article-182/)
 
-- [Bodily harm · Article 117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
+- [Damage to property187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
 
-- [Hooliganism · Article 239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
+### Violent crimes3
 
-- [Traffic accident causing injury · Article 276](https://mmlaw.ge/en/crimes/traffic-accident-article-276/)
+- [Bodily harm117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
 
-- [Bribe-taking · Article 338](https://mmlaw.ge/en/crimes/bribe-taking-article-338/)
+- [Hooliganism239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
 
-- [Bribe-giving · Article 339](https://mmlaw.ge/en/crimes/bribe-giving-article-339/)
+- [Domestic violence126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
 
-- [Trading in influence · Article 339¹](https://mmlaw.ge/en/crimes/trading-in-influence-article-339-1/)
+### Cybercrime3
 
-- [Accepting a prohibited gift · Article 340](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/)
+- [Unauthorised access to a computer system284](https://mmlaw.ge/en/crimes/hacking-article-284/)
 
-- [Official forgery · Article 341](https://mmlaw.ge/en/crimes/official-forgery-article-341/)
+- [Computer crime for financial gain286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
 
-- [Disobeying the police · Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+- [Violation of private life157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
 
-- [Petty hooliganism · Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
+### Traffic crimes1
 
-- [Unauthorised access to a computer system · Article 284](https://mmlaw.ge/en/crimes/hacking-article-284/)
+- [Traffic accident causing injury276](https://mmlaw.ge/en/crimes/traffic-accident-article-276/)
 
-- [Computer crime for financial gain · Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
+### Corruption crimes5
 
-- [Violation of private life · Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
+- [Bribe-taking338](https://mmlaw.ge/en/crimes/bribe-taking-article-338/)
 
-- [Domestic violence · Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
+- [Bribe-giving339](https://mmlaw.ge/en/crimes/bribe-giving-article-339/)
+
+- [Trading in influence339¹](https://mmlaw.ge/en/crimes/trading-in-influence-article-339-1/)
+
+- [Accepting a prohibited gift340](https://mmlaw.ge/en/crimes/prohibited-gift-article-340/)
+
+- [Official forgery341](https://mmlaw.ge/en/crimes/official-forgery-article-341/)
+
+### Administrative offences2
+
+- [Disobeying the police173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+
+- [Petty hooliganism166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 

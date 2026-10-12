@@ -67,9 +67,9 @@ An administrative law lawyer helps you challenge decisions of public authorities
 
 ## Administrative offences
 
-- [Disobeying the police · Article 173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
+- [Disobeying the police173](https://mmlaw.ge/en/crimes/disobeying-police-article-173/)
 
-- [Petty hooliganism · Article 166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
+- [Petty hooliganism166](https://mmlaw.ge/en/crimes/petty-hooliganism-article-166/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 

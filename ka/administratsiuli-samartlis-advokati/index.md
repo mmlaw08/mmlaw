@@ -67,9 +67,9 @@
 
 ## ადმინისტრაციული სამართალდარღვევები
 
-- [პოლიციის მოთხოვნისადმი დაუმორჩილებლობა · მუხლი 173](https://mmlaw.ge/ka/danashaulebi/daumorchilebloba-mukhli-173/)
+- [პოლიციის მოთხოვნისადმი დაუმორჩილებლობა173](https://mmlaw.ge/ka/danashaulebi/daumorchilebloba-mukhli-173/)
 
-- [წვრილმანი ხულიგნობა · მუხლი 166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
+- [წვრილმანი ხულიგნობა166](https://mmlaw.ge/ka/danashaulebi/tsvrilmani-khuliganoba-mukhli-166/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

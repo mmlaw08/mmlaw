@@ -53,9 +53,9 @@
 
 ## დანაშაულები და სასჯელები
 
-- [აკრძალული საჩუქრის მიღება · მუხლი 340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
+- [აკრძალული საჩუქრის მიღება340](https://mmlaw.ge/ka/danashaulebi/akrdzaluli-sachukris-migheba-mukhli-340/)
 
-- [სამსახურებრივი სიყალბე · მუხლი 341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
+- [სამსახურებრივი სიყალბე341](https://mmlaw.ge/ka/danashaulebi/samsakhurebrivi-siqalbe-mukhli-341/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

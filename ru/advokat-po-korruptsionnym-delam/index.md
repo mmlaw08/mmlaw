@@ -53,9 +53,9 @@
 
 ## Преступления и наказания
 
-- [Получение запрещённого подарка · Статья 340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
+- [Получение запрещённого подарка340](https://mmlaw.ge/ru/prestupleniya/zapreshchennyy-podarok-statya-340/)
 
-- [Служебный подлог · Статья 341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
+- [Служебный подлог341](https://mmlaw.ge/ru/prestupleniya/sluzhebnyy-podlog-statya-341/)
 
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 

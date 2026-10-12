@@ -77,9 +77,9 @@ In these cases, digital evidence decides everything — phones, computers, accou
 
 ## Crimes and penalties
 
-- [Computer crime for financial gain · Article 286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
+- [Computer crime for financial gain286¹](https://mmlaw.ge/en/crimes/phishing-online-theft-article-286-1/)
 
-- [Violation of private life · Article 157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
+- [Violation of private life157, 157¹](https://mmlaw.ge/en/crimes/private-photos-article-157/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 

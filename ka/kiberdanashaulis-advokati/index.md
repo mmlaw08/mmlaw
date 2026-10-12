@@ -77,9 +77,9 @@
 
 ## დანაშაულები და სასჯელები
 
-- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის · მუხლი 286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
+- [კომპიუტერული დანაშაული ფინანსური სარგებლისთვის286¹](https://mmlaw.ge/ka/danashaulebi/fishingi-mukhli-286-1/)
 
-- [პირადი ცხოვრების ხელყოფა · მუხლი 157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
+- [პირადი ცხოვრების ხელყოფა157, 157¹](https://mmlaw.ge/ka/danashaulebi/piradi-tskhovrebis-khelqopa-mukhli-157/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

@@ -1306,11 +1306,6 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .crime-boxes { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
 .crime-box { display: flex; flex-direction: column; gap: 12px; }
 .checklist.one { grid-template-columns: 1fr; }
-.crime-links { border: 1px solid var(--line); border-radius: 14px; padding: 20px; background: var(--surface); display: flex; flex-direction: column; gap: 12px; }
-.crime-links ul { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 6px 20px; }
-.crime-links li a { display: flex; gap: 8px; align-items: baseline; color: var(--fg); text-decoration: none; padding: 6px 0; font-size: 15px; }
-.crime-links li a:hover span:first-of-type { text-decoration: underline; }
-.crime-links li svg { flex: none; color: var(--accent); }
 @media (max-width: 640px) {
   .pun thead { display: none; }
   .pun tr { display: block; border-top: 1px solid var(--line); padding: 12px 14px; }
@@ -1366,3 +1361,19 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .pun-price th, .pun-price td, .pun-price tbody th { padding: 10px 8px; }
   .pun-price thead th { font-size: 11px; letter-spacing: .02em; }
 }
+
+/* crimes box: one card per crime group, article number as a small badge on the right */
+.crime-links { display: flex; flex-direction: column; gap: 14px; }
+.cg-grid { columns: 2 300px; column-gap: 16px; }
+.cg-grid.one { columns: 1; }
+.cg-card { break-inside: avoid; margin: 0 0 16px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); padding: 14px 16px 8px; }
+.cg-h { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; margin: 0 0 6px; padding-bottom: 10px; border-bottom: 1px solid var(--line);
+  font-size: 13px; font-weight: 600; letter-spacing: .02em; color: var(--muted); }
+.cg-h span { font-size: 12px; font-weight: 500; color: var(--faint); font-variant-numeric: tabular-nums; }
+.cg-card ul { list-style: none; padding: 0; margin: 0; }
+.cg-card li + li { border-top: 1px solid var(--line); }
+.cg-card li a { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; padding: 9px 0; color: var(--fg); text-decoration: none; font-size: 15px; line-height: 1.45; }
+.cg-card li a:hover .cg-name { color: var(--accent); }
+.cg-art { flex: none; margin-top: 1px; padding: 2px 8px; border-radius: 999px; background: var(--acc-soft); color: var(--acc-ink); font-size: 12.5px; font-weight: 600;
+  font-variant-numeric: tabular-nums; white-space: nowrap; }
+.crime-links > .link-arrow { margin-top: 0; }

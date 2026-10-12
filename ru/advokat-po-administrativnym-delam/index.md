@@ -67,9 +67,9 @@
 
 ## Административные правонарушения
 
-- [Неповиновение полиции · Статья 173](https://mmlaw.ge/ru/prestupleniya/nepovinovenie-politsii-statya-173/)
+- [Неповиновение полиции173](https://mmlaw.ge/ru/prestupleniya/nepovinovenie-politsii-statya-173/)
 
-- [Мелкое хулиганство · Статья 166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
+- [Мелкое хулиганство166](https://mmlaw.ge/ru/prestupleniya/melkoe-khuliganstvo-statya-166/)
 
 [Все преступления](https://mmlaw.ge/ru/prestupleniya/)
 

@@ -57,11 +57,11 @@
 
 ## დანაშაულები და სასჯელები
 
-- [ჯანმრთელობის დაზიანება · მუხლი 117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
+- [ჯანმრთელობის დაზიანება117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
 
-- [ხულიგნობა · მუხლი 239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
+- [ხულიგნობა239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
 
-- [ოჯახში ძალადობა · მუხლი 126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
+- [ოჯახში ძალადობა126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
 
 [ყველა დანაშაული](https://mmlaw.ge/ka/danashaulebi/)
 

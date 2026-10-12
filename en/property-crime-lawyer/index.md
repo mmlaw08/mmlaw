@@ -59,15 +59,15 @@ Compensating the damage and reaching agreement with the victim can affect the se
 
 ## Crimes and penalties
 
-- [Theft · Article 177](https://mmlaw.ge/en/crimes/theft-article-177/)
+- [Theft177](https://mmlaw.ge/en/crimes/theft-article-177/)
 
-- [Robbery (open theft) · Article 178](https://mmlaw.ge/en/crimes/robbery-article-178/)
+- [Robbery (open theft)178](https://mmlaw.ge/en/crimes/robbery-article-178/)
 
-- [Violent robbery · Article 179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)
+- [Violent robbery179](https://mmlaw.ge/en/crimes/violent-robbery-article-179/)
 
-- [Extortion · Article 181](https://mmlaw.ge/en/crimes/extortion-article-181/)
+- [Extortion181](https://mmlaw.ge/en/crimes/extortion-article-181/)
 
-- [Damage to property · Article 187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
+- [Damage to property187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
 
 [All crimes](https://mmlaw.ge/en/crimes/)
 
