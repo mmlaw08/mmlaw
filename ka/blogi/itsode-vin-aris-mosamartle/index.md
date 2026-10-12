@@ -56,6 +56,9 @@
 - [#თქვენი უფლებები](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
 
 -
+- [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -75,9 +78,6 @@
 
 -
 - [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
-
--
-- [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
 
 ბლოგი
 

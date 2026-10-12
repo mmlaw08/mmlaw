@@ -56,6 +56,9 @@ Hears and decides cases in court — administrative, civil and criminal.
 - [#Your rights](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 -
+- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -75,9 +78,6 @@ Hears and decides cases in court — administrative, civil and criminal.
 
 -
 - [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
-
--
-- [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
 
 Blog
 

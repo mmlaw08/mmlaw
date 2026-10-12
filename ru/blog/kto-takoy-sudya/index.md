@@ -56,6 +56,9 @@
 - [#Ваши права](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
 
 -
+- [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -75,9 +78,6 @@
 
 -
 - [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
-
--
-- [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
 
 Блог
 

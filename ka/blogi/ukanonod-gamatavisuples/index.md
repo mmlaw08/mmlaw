@@ -82,6 +82,9 @@
 - [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
 
 -
+- [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -92,9 +95,6 @@
 
 -
 - [განქორწინება საქართველოში: სამოქალაქო რეესტრი თუ სასამართლო?](https://mmlaw.ge/ka/blogi/gankortsineba-sakartveloshi/)
-
--
-- [აღკვეთის ღონისძიება: გირაო თუ პატიმრობა?](https://mmlaw.ge/ka/blogi/aghkvetis-ghonisdzieba/)
 
 ბლოგი
 

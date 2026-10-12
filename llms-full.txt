@@ -839,6 +839,34 @@ Yes. We use platforms' takedown tools and, where needed, legal routes — while 
 ### Will my name appear anywhere?
 We work in complete confidence. There are also ways to protect a victim's private life during the investigation and in court — your lawyer will ask for them.
 
+## Time-barred loans in Georgia: limitation period and defence
+URL: https://mmlaw.ge/en/time-barred-loans/
+
+An old loan — from a bank, a microfinance company or a private person — becomes time-barred after a period set by law. But nothing disappears automatically: the debtor must raise the time bar, and even one 'small' payment restarts the clock.
+
+Under Article 129 of the Civil Code, the limitation period for contractual claims — including loans — is 3 years, and 6 years for contracts concerning real estate. For periodic (e.g. monthly) payments it is 3 years, counted separately for each payment. The period starts when the creditor learned or should have learned of the breach — for a loan, usually from the missed payment date.
+Once the period has expired, the debtor may refuse to pay (Article 144). But the court does not check the time bar on its own — if you don't raise it when sued, the court may order you to pay even a time-barred debt. And if you pay after the period has expired, you cannot ask for the money back.
+
+Our services:
+- Calculating the limitation period in your case
+- Raising the time bar in court
+- Defence when sued by a bank, microfinance company or collector
+- Challenging a decision made in your absence
+- Enforcement and debtors' register issues
+- Negotiating with the creditor
+
+### How long until a loan is time-barred?
+The limitation period for a loan claim is 3 years, 6 years for contracts concerning real estate. If a court has already confirmed the debt — 10 years.
+
+### Is a time-barred loan cancelled automatically?
+No. After the period expires the debtor may refuse to pay, but must raise it in court themselves. The court does not apply the time bar on its own initiative.
+
+### A collector asked me to pay a small amount — what should I do?
+Check the period before you pay. Paying part of the debt or interest, or acknowledging it, restarts the limitation period.
+
+### Does a time-barred loan stay in my credit history?
+According to the National Bank's financial education portal, a time-barred debt stays in the credit history for 5 years, after which you can ask for it to be removed.
+
 ## Legal help for foreigners in Georgia
 URL: https://mmlaw.ge/en/foreigners/
 
@@ -1117,6 +1145,9 @@ For example, if you register new property or a vehicle, the enforcement bureau i
 
 ### Can I negotiate a debt from abroad?
 Yes. Under a power of attorney we negotiate with the bank or creditor and, if needed, handle the case in court.
+
+### I have an old loan — could it be time-barred?
+Possibly. The limitation period for a loan is 3 years, but paying part of it or acknowledging the debt restarts it, and for a debt confirmed by a court it is 10 years. Check the period with a lawyer before paying.
 
 ## Restoring and keeping Georgian citizenship
 URL: https://mmlaw.ge/en/georgians-abroad/restoring-georgian-citizenship/

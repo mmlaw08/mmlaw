@@ -415,6 +415,20 @@ Threatened with the release of private photos or information? We act for the vic
 
 [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
 
+### [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+
+When a loan becomes time-barred, what restarts the period and how to defend yourself in court or with a collector.
+
+- Calculating the limitation period in your case
+
+- Raising the time bar in court
+
+- Defence when sued by a bank, microfinance company or collector
+
+- Challenging a decision made in your absence
+
+[Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

@@ -568,6 +568,26 @@ Yes. We use platforms' takedown tools and, where needed, legal routes — while 
 
 We work in complete confidence. There are also ways to protect a victim's private life during the investigation and in court — your lawyer will ask for them.
 
+## Time-barred loan cases
+
+[Open page](https://mmlaw.ge/en/time-barred-loans/)
+
+### How long until a loan is time-barred?
+
+The limitation period for a loan claim is 3 years, 6 years for contracts concerning real estate. If a court has already confirmed the debt — 10 years.
+
+### Is a time-barred loan cancelled automatically?
+
+No. After the period expires the debtor may refuse to pay, but must raise it in court themselves. The court does not apply the time bar on its own initiative.
+
+### A collector asked me to pay a small amount — what should I do?
+
+Check the period before you pay. Paying part of the debt or interest, or acknowledging it, restarts the limitation period.
+
+### Does a time-barred loan stay in my credit history?
+
+According to the National Bank's financial education portal, a time-barred debt stays in the credit history for 5 years, after which you can ask for it to be removed.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

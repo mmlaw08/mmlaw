@@ -116,6 +116,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)Threatened with the release of private photos or information? We act for the victim: the case, content removal, compensation.
 
+- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)When a loan becomes time-barred, what restarts the period and how to defend yourself in court or with a collector.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)

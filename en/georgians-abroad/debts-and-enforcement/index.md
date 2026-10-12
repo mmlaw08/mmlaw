@@ -41,6 +41,10 @@ For example, if you register new property or a vehicle, the enforcement bureau i
 
 Yes. Under a power of attorney we negotiate with the bank or creditor and, if needed, handle the case in court.
 
+### I have an old loan — could it be time-barred?
+
+Possibly. The limitation period for a loan is 3 years, but paying part of it or acknowledging the debt restarts it, and for a debt confirmed by a court it is 10 years. Check the period with a lawyer before paying.
+
 ## Legal basis
 
 - [Law on Enforcement Proceedings](https://matsne.gov.ge/ka/document/view/18442)
@@ -61,6 +65,9 @@ Related practice area: [Civil litigation](https://mmlaw.ge/en/civil-litigation-l
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 -
+- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+
+-
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 -
@@ -77,9 +84,6 @@ Related practice area: [Civil litigation](https://mmlaw.ge/en/civil-litigation-l
 
 -
 - [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
-
--
-- [Restoring citizenship · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/restoring-georgian-citizenship/)
 
 Georgians abroad
 

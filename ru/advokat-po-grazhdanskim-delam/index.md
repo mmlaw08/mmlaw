@@ -83,6 +83,8 @@
 
 - Медиация и мировые соглашения
 
+- [Дела о просроченных по давности кредитах](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
+
 ## Вопросы и ответы
 
 ### Как устроены суды по гражданским делам в Грузии?
@@ -126,6 +128,9 @@
 - [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
 
 -
+- [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -133,9 +138,6 @@
 
 -
 - [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
-
--
-- [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
 
 Области практики
 

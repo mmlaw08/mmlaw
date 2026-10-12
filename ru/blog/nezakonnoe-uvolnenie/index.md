@@ -82,6 +82,9 @@
 - [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
 
 -
+- [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -92,9 +95,6 @@
 
 -
 - [Развод в Грузии: гражданский реестр или суд?](https://mmlaw.ge/ru/blog/razvod-v-gruzii/)
-
--
-- [Мера пресечения: залог или заключение под стражу?](https://mmlaw.ge/ru/blog/mera-presecheniya/)
 
 Блог
 

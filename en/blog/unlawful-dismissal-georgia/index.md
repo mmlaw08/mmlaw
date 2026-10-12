@@ -82,6 +82,9 @@ Not under pressure — it is one of the most common mistakes. Deadlines to chall
 - [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
 
 -
+- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -92,9 +95,6 @@ Not under pressure — it is one of the most common mistakes. Deadlines to chall
 
 -
 - [Divorce in Georgia: civil registry or court?](https://mmlaw.ge/en/blog/divorce-in-georgia/)
-
--
-- [Bail or pre-trial detention in Georgia: how courts decide](https://mmlaw.ge/en/blog/bail-and-pretrial-detention-georgia/)
 
 Blog
 

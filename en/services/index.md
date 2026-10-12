@@ -132,6 +132,12 @@ Threatened with the release of private photos or information? We act for the vic
 Several crimes can be involved at once: extortion (Article 181) if money or property is demanded; violation of the secret of private life (Article 157¹); spreading personal data (Article 157); secretly recording a private conversation (Article 158).
 [Blackmail with private photos](https://mmlaw.ge/en/blackmail-private-photos/)
 
+## [Time-barred loan cases](https://mmlaw.ge/en/time-barred-loans/)
+
+When a loan becomes time-barred, what restarts the period and how to defend yourself in court or with a collector.
+Under Article 129 of the Civil Code, the limitation period for contractual claims — including loans — is 3 years, and 6 years for contracts concerning real estate. For periodic (e.g. monthly) payments it is 3 years, counted separately for each payment. The period starts when the creditor learned or should have learned of the breach — for a loan, usually from the missed payment date.
+[Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

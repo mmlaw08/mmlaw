@@ -83,6 +83,8 @@
 
 - მედიაცია და მორიგება
 
+- [ხანდაზმული სესხის საქმეები](https://mmlaw.ge/ka/khandazmuli-seskhi/)
+
 ## კითხვები და პასუხები
 
 ### როგორ არის მოწყობილი სასამართლოები სამოქალაქო საქმეებზე?
@@ -126,6 +128,9 @@
 - [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
 
 -
+- [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -133,9 +138,6 @@
 
 -
 - [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
-
--
-- [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
 
 პრაქტიკის სფეროები
 

@@ -83,6 +83,8 @@ A civil litigation lawyer assesses your claim and evidence, tries to settle the 
 
 - Mediation and settlement
 
+- [Time-barred loan cases](https://mmlaw.ge/en/time-barred-loans/)
+
 ## Questions & answers
 
 ### How are civil courts organised in Georgia?
@@ -126,6 +128,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
 
 -
+- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -133,9 +138,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
-
--
-- [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
 
 Practice areas
 
