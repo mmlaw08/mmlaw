@@ -116,8 +116,8 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .btn { display: inline-flex; gap: 8px; align-items: center; justify-content: center; height: 40px; padding: 0 16px; border-radius: 8px; border: 1px solid transparent; font-size: 14px; font-weight: 500; white-space: nowrap; cursor: pointer; transition: background .15s, border-color .15s, color .15s; }
 .btn-lg { height: 48px; padding: 0 22px; font-size: 15px; }
 .btn-block { width: 100%; height: 44px; font-size: 15px; }
-.btn-primary { background: var(--ink); color: var(--on-ink); }
-.btn-primary:hover { background: var(--ink-hover); color: var(--on-ink); }
+.btn-primary { background-color: var(--ink); color: var(--on-ink); }
+.btn-primary:hover { background-color: var(--ink-hover); color: var(--on-ink); }
 .btn-primary:disabled { opacity: .6; cursor: progress; }
 .btn-outline { border-color: var(--line); background: var(--surface); color: var(--fg); }
 .btn-outline:hover { background: var(--soft2); color: var(--fg); }
@@ -1377,3 +1377,24 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .cg-art { flex: none; margin-top: 1px; padding: 2px 8px; border-radius: 999px; background: var(--acc-soft); color: var(--acc-ink); font-size: 12.5px; font-weight: 600;
   font-variant-numeric: tabular-nums; white-space: nowrap; }
 .crime-links > .link-arrow { margin-top: 0; }
+
+/* ---------- primary buttons: gold light that follows the mouse (inside + on the border) */
+@property --sp { syntax: "<number>"; initial-value: 0; inherits: false; }
+.btn-primary { position: relative; isolation: isolate;
+  background-image: radial-gradient(130px circle at var(--x, 50%) var(--y, 50%), rgba(214,168,92,calc(var(--sp) * .42)), transparent 70%);
+  transition: background-color .15s, color .15s, --sp .25s; }
+.btn-primary::after { content: ""; position: absolute; inset: -1px; border-radius: inherit; padding: 1px; pointer-events: none; opacity: 0; transition: opacity .25s;
+  background: radial-gradient(90px circle at var(--x, 50%) var(--y, 50%), #e8bf74, transparent 70%);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; }
+@media (hover: hover) { .btn-primary:hover { --sp: 1; } .btn-primary:hover::after { opacity: 1; } }
+
+/* ---------- hero's main button: a line of gold light slowly circling the border */
+@property --ang { syntax: "<angle>"; initial-value: 0deg; inherits: false; }
+:is(.hero, .page-hero) .btns > .btn-primary:first-child::before { content: ""; position: absolute; inset: -1px; border-radius: inherit; padding: 1.5px; pointer-events: none; z-index: -1;
+  background: conic-gradient(from var(--ang), rgba(214,168,92,.18) 0deg, #e8bf74 55deg, rgba(214,168,92,.18) 115deg, rgba(214,168,92,.18) 360deg);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude;
+  animation: btn-spin 4s linear infinite; }
+:is(.hero, .page-hero) .btns > .btn-primary:first-child { box-shadow: 0 8px 26px -14px rgba(214,168,92,.65); }
+@media (hover: hover) { :is(.hero, .page-hero) .btns > .btn-primary:first-child:hover { box-shadow: 0 0 0 1px rgba(214,168,92,.25), 0 10px 30px -8px rgba(214,168,92,.5); } }
+@keyframes btn-spin { to { --ang: 360deg; } }
+@media (prefers-reduced-motion: reduce) { :is(.hero, .page-hero) .btns > .btn-primary:first-child::before { animation: none; } }

@@ -731,3 +731,15 @@ document.addEventListener("click", function (ev) {
     });
   });
 })();
+
+// ---------- primary buttons: the gold light follows the mouse
+(function () {
+  if (!window.matchMedia || !matchMedia("(hover: hover)").matches) return;
+  document.addEventListener("pointermove", function (ev) {
+    var b = ev.target.closest && ev.target.closest(".btn-primary");
+    if (!b) return;
+    var r = b.getBoundingClientRect();
+    b.style.setProperty("--x", (ev.clientX - r.left) + "px");
+    b.style.setProperty("--y", (ev.clientY - r.top) + "px");
+  }, { passive: true });
+})();
