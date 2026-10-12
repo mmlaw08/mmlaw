@@ -8,7 +8,7 @@ Only what you choose to share with us: your name, phone, email and a description
 
 ## Analytics and cookies
 
-Only with your consent, we use Google Analytics 4 (Google Ireland Limited and Google LLC) to see which pages are useful and to improve the website. It collects general data: pages visited, device and browser type, approximate country and city, and how you reached the site. Google Analytics does not store IP addresses. It uses the cookies _ga and _ga_*, kept for up to 2 years. Advertising features and Google Signals are switched off. Data may be processed outside Georgia, including in the USA. Google's script is not loaded on the website until you consent.
+Only with your consent, we use Google Analytics 4 (Google Ireland Limited and Google LLC) to see which pages are useful and to improve the website. It collects general data: pages visited, device and browser type, approximate country and city, and how you reached the site. Google Analytics does not store IP addresses. It uses the cookies _ga and _ga_*, kept for up to 2 years. Advertising features and Google Signals are switched off. Data may be processed outside Georgia, including in the USA. Google's script is not loaded on the website until you consent. If your browser sends a Global Privacy Control (GPC) signal, we treat it as a refusal and Google Analytics is not switched on at all.
 
 ## Your choice
 

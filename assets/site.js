@@ -415,7 +415,8 @@
     box.classList.add("ck-out");
     setTimeout(function () { box.hidden = true; box.classList.remove("ck-out"); }, 260);
   }
-  if (!get()) setTimeout(show, 600);
+  // Global Privacy Control: the browser already said "no", so analytics stays off and we don't ask
+  if (!get() && !navigator.globalPrivacyControl) setTimeout(show, 600);
 })();
 
 // ---------- search (⌘K): searches all three languages; the indexes load the first time the box opens
