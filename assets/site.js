@@ -53,10 +53,15 @@
     window.addEventListener("resize", function () { if (window.innerWidth > 900 && !panel.hidden) setMenu(false); });
   }
 
-  // Services mega menu: open on hover with a short grace period when the pointer leaves
+  // Services mega menu: opens only when the mouse actually moves over it (a pointer resting there after
+  // a click or reload doesn't open it), with a short grace period when the pointer leaves
   document.querySelectorAll(".nav-dd").forEach(function (dd) {
     var timer;
-    dd.addEventListener("mouseenter", function () { clearTimeout(timer); dd.classList.add("open"); });
+    dd.addEventListener("pointermove", function (ev) {
+      if (ev.pointerType !== "mouse") return;
+      clearTimeout(timer); dd.classList.add("open");
+    });
+    window.addEventListener("pageshow", function () { clearTimeout(timer); dd.classList.remove("open"); });
     dd.addEventListener("mouseleave", function () {
       clearTimeout(timer);
       timer = setTimeout(function () { dd.classList.remove("open"); }, 280);
