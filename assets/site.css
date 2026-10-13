@@ -657,7 +657,6 @@ html.sheet-open { overflow: hidden; }
 .mega .wrap { padding-top: 32px; padding-bottom: 20px; }
 .mega-grid { display: grid; grid-template-columns: 1.85fr 1fr 1fr 1.3fr; gap: 28px; }
 .mega-h { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding-bottom: 12px; margin-bottom: 12px; border-bottom: 1px solid var(--line); font-size: 15px; font-weight: 600; color: var(--fg); }
-.mega-n { font-size: 12px; font-weight: 500; color: var(--faint); font-variant-numeric: tabular-nums; }
 .mega-col ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 2px; }
 .mega-wide ul { grid-template-columns: 1fr 1fr; column-gap: 24px; }
 .mega-col a { display: block; padding: 7px 0; font-size: 14px; line-height: 1.4; color: var(--fg2); white-space: normal; border-radius: 0; }
