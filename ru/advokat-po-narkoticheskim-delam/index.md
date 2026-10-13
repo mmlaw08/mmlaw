@@ -71,6 +71,14 @@
 
 - Процессуальное соглашение и обжалование приговора
 
+- [Ввоз лекарств в Грузию](https://mmlaw.ge/ru/vvoz-lekarstv-v-gruziyu/)
+
+- [Лирика, трамадол и психотропные таблетки](https://mmlaw.ge/ru/lirika-pregabalin-gruziya/)
+
+- [Сбыт наркотиков](https://mmlaw.ge/ru/sbyt-narkotikov-gruziya/)
+
+- [Наркотест и освидетельствование](https://mmlaw.ge/ru/narkotest-v-gruzii/)
+
 ## Вопросы и ответы
 
 ### Употребление наркотиков — уголовное преступление?

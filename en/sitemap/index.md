@@ -168,6 +168,14 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Building a house on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)Can you build a house on agricultural land in Georgia, how land designation and category change, who decides and what it costs.
 
+- [Bringing medication into Georgia](https://mmlaw.ge/en/bringing-medication-into-georgia/)Which medicines you can bring into Georgia, what documents you need and what happens if customs finds a controlled medicine without a prescription.
+
+- [Lyrica (pregabalin) and tramadol](https://mmlaw.ge/en/pregabalin-tramadol-georgia/)Illegally obtaining or keeping Lyrica (pregabalin), tramadol and other psychotropic or potent medicines: amounts and penalties under Article 261.
+
+- [Drug dealing charges](https://mmlaw.ge/en/drug-dealing-charges-georgia/)Selling, giving away or helping to sell drugs, marijuana or psychotropic substances after the 2025 reform — penalties up to life imprisonment.
+
+- [Drug test](https://mmlaw.ge/en/drug-test-georgia/)Drug-use tests in Georgia: can you refuse, the fine for avoiding a test, tests for drivers and losing your driving licence.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)

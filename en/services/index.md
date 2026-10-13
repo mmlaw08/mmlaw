@@ -270,6 +270,30 @@ Can you build a house on agricultural land in Georgia, how land designation and 
 Under the Law on Land Designation and Sustainable Management, an agricultural plot may carry an individual house, farm buildings or auxiliary buildings. Under the Spatial Planning Code, a house on a private agricultural plot is allowed if it fits the zone or existing buildings; outside settlements, no permit is issued for housing.
 [Building a house on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
 
+## [Bringing medication into Georgia](https://mmlaw.ge/en/bringing-medication-into-georgia/)
+
+Which medicines you can bring into Georgia, what documents you need and what happens if customs finds a controlled medicine without a prescription.
+Under Article 19 of the Law on Narcotic Drugs, Psychotropic Substances, Precursors and Narcological Assistance, an individual — including someone in transit — may carry narcotic and psychotropic medicines for treatment with proper medical and customs documents. This is not treated as import. The detailed procedure is approved by the Health Ministry with the Revenue Service.
+[Bringing medication into Georgia](https://mmlaw.ge/en/bringing-medication-into-georgia/)
+
+## [Lyrica, tramadol and prescription pills](https://mmlaw.ge/en/pregabalin-tramadol-georgia/)
+
+Illegally obtaining or keeping Lyrica (pregabalin), tramadol and other psychotropic or potent medicines: amounts and penalties under Article 261.
+The amounts are set in an annex to the law. Pregabalin: small amount up to 0.6 g, criminal-liability threshold up to 6 g, large amount up to 20 g. Tramadol: small up to 1 g, threshold up to 80 g, large up to 800 g. For pregabalin, tianeptine and ketamine the medicine form itself counts, not just the pure substance — so a few capsules can be enough.
+[Lyrica (pregabalin) and tramadol](https://mmlaw.ge/en/pregabalin-tramadol-georgia/)
+
+## [Drug dealing charges](https://mmlaw.ge/en/drug-dealing-charges-georgia/)
+
+Selling, giving away or helping to sell drugs, marijuana or psychotropic substances after the 2025 reform — penalties up to life imprisonment.
+Article 260 now covers only obtaining and keeping. Dealing has its own penalties — lighter for marijuana and psychotropic substances, much heavier for other narcotic drugs. Assisting a sale, such as packaging or acting as a go-between, is punished like the sale itself.
+[Drug dealing charges](https://mmlaw.ge/en/drug-dealing-charges-georgia/)
+
+## [Drug tests](https://mmlaw.ge/en/drug-test-georgia/)
+
+Drug-use tests in Georgia: can you refuse, the fine for avoiding a test, tests for drivers and losing your driving licence.
+Under Article 45 of the Administrative Offences Code, avoiding a drug-use test is punished exactly like drug use itself (other than marijuana): a fine of GEL 500–2,000 or up to 60 days' administrative detention. Marijuana use is covered by a separate article (45¹).
+[Drug test](https://mmlaw.ge/en/drug-test-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

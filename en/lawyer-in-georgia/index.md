@@ -737,6 +737,62 @@ Can you build a house on agricultural land in Georgia, how land designation and 
 
 [Building a house on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
 
+### [Bringing medication into Georgia](https://mmlaw.ge/en/bringing-medication-into-georgia/)
+
+Which medicines you can bring into Georgia, what documents you need and what happens if customs finds a controlled medicine without a prescription.
+
+- Checking your medicine against the controlled lists before travel
+
+- Preparing and translating documents
+
+- Defence if you are detained at the border
+
+- Getting seized medicine back
+
+[Bringing medication into Georgia](https://mmlaw.ge/en/bringing-medication-into-georgia/)
+
+### [Lyrica (pregabalin) and tramadol](https://mmlaw.ge/en/pregabalin-tramadol-georgia/)
+
+Illegally obtaining or keeping Lyrica (pregabalin), tramadol and other psychotropic or potent medicines: amounts and penalties under Article 261.
+
+- Defence against Article 261 charges
+
+- Checking the forensic examination and amount
+
+- Proving a prescription and treatment
+
+- Lawfulness of the search and seizure
+
+[Lyrica (pregabalin) and tramadol](https://mmlaw.ge/en/pregabalin-tramadol-georgia/)
+
+### [Drug dealing charges](https://mmlaw.ge/en/drug-dealing-charges-georgia/)
+
+Selling, giving away or helping to sell drugs, marijuana or psychotropic substances after the 2025 reform — penalties up to life imprisonment.
+
+- Defence against dealing charges
+
+- Keeping or dealing — the right classification
+
+- Checking covert investigative actions and controlled purchases
+
+- Checking the forensic examination and amount
+
+[Drug dealing charges](https://mmlaw.ge/en/drug-dealing-charges-georgia/)
+
+### [Drug test](https://mmlaw.ge/en/drug-test-georgia/)
+
+Drug-use tests in Georgia: can you refuse, the fine for avoiding a test, tests for drivers and losing your driving licence.
+
+- Advice on your rights during a test
+
+- Requesting an alternative test
+
+- Appealing the administrative case in court
+
+- Challenging a driving suspension
+
+[Drug test](https://mmlaw.ge/en/drug-test-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

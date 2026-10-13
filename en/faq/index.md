@@ -1020,6 +1020,66 @@ The Public Registry — where there is a justified need, based on a commission's
 
 The registration fee is GEL 50. Compensation applies only in Tbilisi and Batumi (GEL 34,001/ha) and special-regulation territories (GEL 100,000/ha).
 
+## Bringing medication into Georgia
+
+[Open page](https://mmlaw.ge/en/bringing-medication-into-georgia/)
+
+### Can I bring Lyrica (pregabalin) into Georgia?
+
+Yes, for treatment — with medical documents and a customs declaration. Without documents a criminal case can start, because pregabalin is controlled in Georgia.
+
+### Customs took my medicine — what should I do?
+
+Don't give a statement without a lawyer and keep all documents. We check which article applies and work to close the case if the medicine was for your treatment.
+
+### I'm only in transit — does this apply to me?
+
+Yes. The law covers people in transit too: carry the medicine with medical and customs documents.
+
+## Lyrica, tramadol and prescription pills
+
+[Open page](https://mmlaw.ge/en/pregabalin-tramadol-georgia/)
+
+### How much Lyrica is a crime?
+
+More than 0.6 g of pregabalin is already a criminal case; a large amount is over 6 g. The medicine form counts, so a few capsules can be enough.
+
+### I have a prescription — is it still a crime?
+
+Medicine prescribed by a doctor and lawfully obtained is not a crime. Keep the prescription and proof of purchase.
+
+### What is the penalty for tramadol?
+
+Basic — a fine or corrective labour up to 1 year; in a large amount — 3 to 7 years; especially large — 7 to 12 years.
+
+## Drug dealing charges
+
+[Open page](https://mmlaw.ge/en/drug-dealing-charges-georgia/)
+
+### I gave some to a friend for free — is that dealing?
+
+Free transfer is a separate crime (Article 260²) — 3 to 8 years for marijuana, 10 to 15 years for other narcotic drugs.
+
+### How is keeping different from dealing?
+
+Keeping falls under Article 260 and is punished less severely; for dealing, the prosecution must prove a sale or transfer. That is often the key issue for the defence.
+
+### What rights does a convicted person lose?
+
+A dealer loses the listed rights for 15 years, and medical and pharmaceutical work for 20 years. A plea agreement can reduce this.
+
+## Drug tests
+
+[Open page](https://mmlaw.ge/en/drug-test-georgia/)
+
+### The positive result is wrong — what can I do?
+
+Within 10 days ask for an alternative test of the sealed control sample, and contact us — the result can also be challenged in court.
+
+### Will I lose my driving licence?
+
+A court takes away the driving licence of a person punished for drug use for 3 years.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

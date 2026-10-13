@@ -71,6 +71,14 @@ A person must be charged within 48 hours of arrest, and within the following 24 
 
 - Plea agreements and appeals
 
+- [Bringing medication into Georgia](https://mmlaw.ge/en/bringing-medication-into-georgia/)
+
+- [Lyrica, tramadol and prescription pills](https://mmlaw.ge/en/pregabalin-tramadol-georgia/)
+
+- [Drug dealing charges](https://mmlaw.ge/en/drug-dealing-charges-georgia/)
+
+- [Drug tests](https://mmlaw.ge/en/drug-test-georgia/)
+
 ## Questions & answers
 
 ### Is using drugs a crime in Georgia?
