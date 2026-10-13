@@ -81,6 +81,9 @@ If you missed it for a valid reason, a court can extend it. Contact a lawyer as 
 - [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
 
 -
+- [Wills](https://mmlaw.ge/en/wills-in-georgia/)
+
+-
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 -
@@ -88,9 +91,6 @@ If you missed it for a valid reason, a court can extend it. Contact a lawyer as 
 
 -
 - [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
-
--
-- [Debts and enforcement · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/)
 
 Blog
 

@@ -107,5 +107,7 @@
 
 - [ოჯახში ძალადობა](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/) — მუხლი 126¹ ოჯახის წევრის მიმართ ძალადობა, სისტემატური შეურაცხყოფა, შანტაჟი ან დამცირება. სასჯელი 3 წლამდე და შემაკავებელი ორდერი.
 
+- [მკვლელობა](https://mmlaw.ge/ka/danashaulebi/mkvleloba-mukhli-108-109/) — მუხლი 108 განზრახ მკვლელობა, მკვლელობა დამამძიმებელ გარემოებაში, მცდელობა და გაუფრთხილებლობით სიცოცხლის მოსპობა. სასჯელი უვადომდე.
+
 ---
 Source: https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

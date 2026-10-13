@@ -71,7 +71,7 @@
 
 ## Наши услуги
 
-- Договорные споры и взыскание долгов
+- [Договорные споры и взыскание долгов](https://mmlaw.ge/ru/vozvrat-dolga/)
 
 - Споры о праве собственности
 
@@ -118,7 +118,13 @@
 - [#Бизнес](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
+- [Возврат долга](https://mmlaw.ge/ru/vozvrat-dolga/)
+
+-
 - [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
+
+-
+- [Составление и проверка договоров](https://mmlaw.ge/ru/sostavlenie-dogovorov/)
 
 -
 - [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
@@ -134,12 +140,6 @@
 
 -
 - [Снятие ареста с банковского счёта и имущества](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
-
--
-- [Возмещение морального вреда](https://mmlaw.ge/ru/vozmeshchenie-moralnogo-vreda/)
-
--
-- [Реестр должников Грузии: проверка и исключение](https://mmlaw.ge/ru/reestr-dolzhnikov/)
 
 Области практики
 

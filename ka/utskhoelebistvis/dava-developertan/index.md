@@ -80,10 +80,10 @@
 - [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
 
 -
-- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
+- [ვალის დაბრუნება](https://mmlaw.ge/ka/valis-dabruneba/)
 
 -
-- [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
+- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 უცხოელებისთვის
 

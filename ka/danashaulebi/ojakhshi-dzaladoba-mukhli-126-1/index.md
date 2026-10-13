@@ -111,5 +111,7 @@
 
 - [ხულიგნობა](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/) — მუხლი 239 საზოგადოებრივი წესრიგის უხეში დარღვევა ძალადობით ან მისი მუქარით. სასჯელი ჯარიმიდან 7 წლამდე.
 
+- [მკვლელობა](https://mmlaw.ge/ka/danashaulebi/mkvleloba-mukhli-108-109/) — მუხლი 108 განზრახ მკვლელობა, მკვლელობა დამამძიმებელ გარემოებაში, მცდელობა და გაუფრთხილებლობით სიცოცხლის მოსპობა. სასჯელი უვადომდე.
+
 ---
 Source: https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

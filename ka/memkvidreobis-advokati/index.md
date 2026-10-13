@@ -71,7 +71,7 @@
 
 - ქონების რეგისტრაცია მემკვიდრის სახელზე
 
-- ანდერძის შედგენა და გასაჩივრება
+- [ანდერძის შედგენა და გასაჩივრება](https://mmlaw.ge/ka/anderdzis-shedgena-da-gasachivreba/)
 
 - დავები მემკვიდრეებს შორის და წილების გაყოფა
 
@@ -123,6 +123,9 @@
 - [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
 
 -
+- [ანდერძის შედგენა და გასაჩივრება](https://mmlaw.ge/ka/anderdzis-shedgena-da-gasachivreba/)
+
+-
 - [მინდობილობა საზღვარგარეთიდან: როგორ გავცე საქართველოსთვის](https://mmlaw.ge/ka/blogi/mindobiloba-sazghvargaretidan/)
 
 -
@@ -139,9 +142,6 @@
 
 -
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
-
--
-- [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
 
 პრაქტიკის სფეროები
 

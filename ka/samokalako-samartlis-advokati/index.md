@@ -71,7 +71,7 @@
 
 ## ჩვენი მომსახურება
 
-- სახელშეკრულებო დავები და ვალის ამოღება
+- [სახელშეკრულებო დავები და ვალის ამოღება](https://mmlaw.ge/ka/valis-dabruneba/)
 
 - საკუთრებასთან დაკავშირებული დავები
 
@@ -118,7 +118,13 @@
 - [#ბიზნესი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
+- [ვალის დაბრუნება](https://mmlaw.ge/ka/valis-dabruneba/)
+
+-
 - [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
+
+-
+- [ხელშეკრულების შედგენა და შემოწმება](https://mmlaw.ge/ka/khelshekrulebis-shedgena/)
 
 -
 - [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
@@ -134,12 +140,6 @@
 
 -
 - [ყადაღის მოხსნა საბანკო ანგარიშზე და ქონებაზე](https://mmlaw.ge/ka/yadaghis-mokhsna/)
-
--
-- [მორალური ზიანის ანაზღაურება](https://mmlaw.ge/ka/moraluri-zianis-anazghaureba/)
-
--
-- [მოვალეთა რეესტრი: შემოწმება და ამორიცხვა](https://mmlaw.ge/ka/movaleta-reestri/)
 
 პრაქტიკის სფეროები
 

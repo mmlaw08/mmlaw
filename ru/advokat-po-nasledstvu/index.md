@@ -71,7 +71,7 @@
 
 - Регистрация имущества на имя наследника
 
-- Составление и оспаривание завещаний
+- [Составление и оспаривание завещаний](https://mmlaw.ge/ru/zaveshchanie-v-gruzii/)
 
 - Споры между наследниками и раздел долей
 
@@ -123,6 +123,9 @@
 - [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
 
 -
+- [Завещание](https://mmlaw.ge/ru/zaveshchanie-v-gruzii/)
+
+-
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 
 -
@@ -139,9 +142,6 @@
 
 -
 - [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
-
--
-- [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
 
 Области практики
 

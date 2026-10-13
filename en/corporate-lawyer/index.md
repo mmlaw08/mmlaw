@@ -49,7 +49,7 @@ A corporate lawyer helps you set up a company, draft the charter and shareholder
 
 - Mergers, acquisitions and legal due diligence
 
-- Commercial contracts
+- [Commercial contracts](https://mmlaw.ge/en/contract-drafting-review/)
 
 - Compliance and regulatory advice
 

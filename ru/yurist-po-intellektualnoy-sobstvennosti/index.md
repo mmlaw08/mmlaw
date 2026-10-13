@@ -92,10 +92,10 @@
 - [Финансовые пирамиды и инвестмошенничество](https://mmlaw.ge/ru/finansovye-piramidy/)
 
 -
-- [Обманули в интернете — как вернуть деньги?](https://mmlaw.ge/ru/blog/moshennichestvo-v-internete/)
+- [Составление и проверка договоров](https://mmlaw.ge/ru/sostavlenie-dogovorov/)
 
 -
-- [Шантаж личными фото и защита частной жизни](https://mmlaw.ge/ru/shantazh-lichnymi-foto/)
+- [Обманули в интернете — как вернуть деньги?](https://mmlaw.ge/ru/blog/moshennichestvo-v-internete/)
 
 Области практики
 

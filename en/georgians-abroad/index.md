@@ -159,6 +159,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Accepting an inheritance · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)
 
 -
+- [Wills](https://mmlaw.ge/en/wills-in-georgia/)
+
+-
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 -
@@ -169,9 +172,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
-
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 ---
 Source: https://mmlaw.ge/en/georgians-abroad/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

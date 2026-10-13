@@ -597,6 +597,48 @@ What counts as joint property, how a flat, loans and a business are divided, pro
 
 [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
+### [Wills](https://mmlaw.ge/en/wills-in-georgia/)
+
+How to make a valid will, which form to choose, who is entitled to a compulsory share and how to challenge a will within 2 years.
+
+- Drafting a will and having it certified by a notary
+
+- Joint will of spouses
+
+- Reviewing and changing an existing will
+
+- Lawsuit to invalidate a will
+
+[Wills](https://mmlaw.ge/en/wills-in-georgia/)
+
+### [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
+
+Someone won't pay you back? Demand letter, lawsuit, freezing assets, enforcement and a notary's writ of execution — even without court.
+
+- Assessing the chances of recovery and the evidence
+
+- Demand letter and negotiation with the debtor
+
+- Lawsuit to recover the debt with interest and penalties
+
+- Asking the court to freeze the debtor's property and accounts
+
+[Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
+
+### [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
+
+Sale, lease, loan, services, works — we draft contracts and review them before you sign. In Georgian, English and Russian.
+
+- Drafting a contract in your interest
+
+- Reviewing the other side's contract before signing
+
+- Negotiating the terms
+
+- Bilingual contracts — Georgian, English, Russian
+
+[Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

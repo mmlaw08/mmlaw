@@ -80,10 +80,10 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 - [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
 
 -
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
+- [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
 
 -
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
+- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 For foreigners
 

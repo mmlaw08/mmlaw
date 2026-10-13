@@ -111,5 +111,7 @@ Criminal law
 
 - [Hooliganism](https://mmlaw.ge/en/crimes/hooliganism-article-239/) — Article 239 A gross breach of public order with violence or the threat of violence. Penalties from a fine to 7 years.
 
+- [Murder](https://mmlaw.ge/en/crimes/murder-article-108-109/) — Article 108 Intentional murder, murder with aggravating circumstances, attempted murder and causing death by negligence. Up to life imprisonment.
+
 ---
 Source: https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

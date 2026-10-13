@@ -127,13 +127,19 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - [Damage to property187](https://mmlaw.ge/en/crimes/property-damage-article-187/)
 
-### Violent crimes3
+### Violent crimes4
 
 - [Bodily harm117, 118, 120](https://mmlaw.ge/en/crimes/bodily-harm/)
 
 - [Hooliganism239](https://mmlaw.ge/en/crimes/hooliganism-article-239/)
 
 - [Domestic violence126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
+
+- [Murder108](https://mmlaw.ge/en/crimes/murder-article-108-109/)
+
+### Weapons offences1
+
+- [Illegal firearms236](https://mmlaw.ge/en/crimes/illegal-firearms-article-236/)
 
 ### Cybercrime3
 

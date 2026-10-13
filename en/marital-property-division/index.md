@@ -91,6 +91,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
+- [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
+
+-
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
 
 -
@@ -98,9 +101,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
-
--
-- [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 Practice areas
 

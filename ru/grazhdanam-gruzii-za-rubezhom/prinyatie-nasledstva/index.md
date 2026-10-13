@@ -76,10 +76,10 @@
 - [Как принять наследство в Грузии из-за рубежа](https://mmlaw.ge/ru/blog/nasledstvo-iz-za-rubezha/)
 
 -
-- [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
+- [Завещание](https://mmlaw.ge/ru/zaveshchanie-v-gruzii/)
 
 -
-- [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
+- [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 Гражданам за рубежом
 

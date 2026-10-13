@@ -71,7 +71,7 @@ A civil litigation lawyer assesses your claim and evidence, tries to settle the 
 
 ## Our services
 
-- Contract disputes and debt recovery
+- [Contract disputes and debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
 
 - Property and ownership disputes
 
@@ -118,7 +118,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Business](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
+- [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
+
+-
 - [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
+
+-
+- [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
 
 -
 - [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
@@ -134,12 +140,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
-
--
-- [Compensation for moral damage](https://mmlaw.ge/en/moral-damage-compensation/)
-
--
-- [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
 
 Practice areas
 

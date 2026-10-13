@@ -92,10 +92,10 @@
 - [ფინანსური პირამიდა და საინვესტიციო თაღლითობა](https://mmlaw.ge/ka/finansuri-piramida/)
 
 -
-- [ინტერნეტით მომატყუეს — როგორ დავიბრუნო ფული?](https://mmlaw.ge/ka/blogi/onlain-taghlitoba/)
+- [ხელშეკრულების შედგენა და შემოწმება](https://mmlaw.ge/ka/khelshekrulebis-shedgena/)
 
 -
-- [შანტაჟი პირადი ფოტოებით და პირადი ცხოვრების დაცვა](https://mmlaw.ge/ka/shantazhi-piradi-potoebit/)
+- [ინტერნეტით მომატყუეს — როგორ დავიბრუნო ფული?](https://mmlaw.ge/ka/blogi/onlain-taghlitoba/)
 
 პრაქტიკის სფეროები
 

@@ -159,6 +159,9 @@
 - [Принятие наследства · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)
 
 -
+- [Завещание](https://mmlaw.ge/ru/zaveshchanie-v-gruzii/)
+
+-
 - [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 -
@@ -169,9 +172,6 @@
 
 -
 - [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
-
--
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 ---
 Source: https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

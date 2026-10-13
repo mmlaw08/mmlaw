@@ -76,10 +76,10 @@
 - [Налоговый адвокат](https://mmlaw.ge/ru/nalogovyy-advokat/)
 
 -
-- [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
+- [Составление и проверка договоров](https://mmlaw.ge/ru/sostavlenie-dogovorov/)
 
 -
-- [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
+- [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
 
 Области практики
 

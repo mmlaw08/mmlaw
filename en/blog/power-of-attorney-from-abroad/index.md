@@ -87,10 +87,10 @@ Yes, at any time. You should notify both the representative and third parties.
 - [Accepting an inheritance in Georgia from abroad](https://mmlaw.ge/en/blog/inheritance-from-abroad/)
 
 -
-- [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
+- [Wills](https://mmlaw.ge/en/wills-in-georgia/)
 
 -
-- [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
+- [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
 
 Blog
 

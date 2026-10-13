@@ -76,10 +76,10 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
 
 -
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
+- [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
 
 -
-- [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
+- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
 
 Practice areas
 

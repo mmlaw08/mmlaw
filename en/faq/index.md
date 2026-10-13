@@ -820,6 +820,66 @@ After divorce the limitation period is 3 years. When it starts running can be di
 
 Joint debts are split between the spouses in proportion to their shares of joint property. With the bank, though, the loan contract still applies — so this needs to be settled separately in the agreement or lawsuit.
 
+## Making and challenging a will
+
+[Open page](https://mmlaw.ge/en/wills-in-georgia/)
+
+### Is a handwritten will valid?
+
+Yes — a handwritten will is valid if the testator wrote it by hand and signed it. But it is easier to contest, so we recommend a notarial will.
+
+### Can I leave my child nothing at all?
+
+Children, parents and the spouse are entitled to a compulsory share regardless of the will — half of their share under the law. The exception is when an heir has lost the right to inherit under the law, for example as an unworthy heir.
+
+### How long do I have to challenge a will?
+
+2 years from the inheritance opening. After that, the will can no longer be challenged.
+
+### There are several wills — which one applies?
+
+A newer will revokes the older one to the extent they conflict. A notarial will, however, takes priority and cannot be revoked by a will in another form.
+
+## Debt recovery
+
+[Open page](https://mmlaw.ge/en/debt-recovery-georgia/)
+
+### I lent money without an IOU — can I get it back?
+
+Possibly. Evidence can be a bank transfer, messages, an audio recording or a witness. The sooner you contact us, the more evidence we can preserve.
+
+### How long do I have to claim the debt?
+
+The limitation period is 3 years — usually from the repayment date. After that the debtor can rely on the limitation period and the court will reject the claim.
+
+### How much does a lawsuit cost?
+
+The court fee is 3% of the amount claimed, but at least 100 GEL. If you win, the losing party usually reimburses the court costs.
+
+### The debtor has no assets — what happens?
+
+The judgment goes to enforcement and the debtor is entered into the debtors register: they can't register new property or a car without the enforcement bureau finding out. Money can also be deducted from their salary.
+
+## Contract drafting and review
+
+[Open page](https://mmlaw.ge/en/contract-drafting-review/)
+
+### Is a verbal agreement a contract?
+
+Often — yes, if the law doesn't require a particular form. But a verbal agreement is hard to prove. Real estate, however, can only be acquired with a written contract and registration.
+
+### Do I need to have a contract certified by a notary?
+
+Not always. Notarisation is required by law in some cases and useful in others: for example, a debt under a notarised loan agreement can be recovered even without going to court.
+
+### How high can a contractual penalty be?
+
+The parties set it freely, but the agreement must be in writing. If the penalty is excessive, a court can reduce it; for loans, the law sets a cap.
+
+### Is a contract in English valid?
+
+Yes, a contract can be made in any language. You may need a Georgian translation for the Public Registry or a court, so we often prepare a bilingual text.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

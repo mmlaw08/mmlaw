@@ -1927,6 +1927,142 @@ After divorce the limitation period is 3 years. When it starts running can be di
 ### Who pays the mortgage after division?
 Joint debts are split between the spouses in proportion to their shares of joint property. With the bank, though, the loan contract still applies — so this needs to be settled separately in the agreement or lawsuit.
 
+## Wills in Georgia — making and challenging a will
+URL: https://mmlaw.ge/en/wills-in-georgia/
+
+With a will, you decide who gets your property. We help you make a will that no one can successfully contest — and we protect heirs when a will is unfair or was made in breach of the law.
+
+A will can be made by an adult with legal capacity who, at that moment, can reasonably judge their own actions. A will must be made in person — it cannot be made through a representative. Only spouses can make a joint will, about inheriting from each other. You can change or revoke a will at any time.
+You can leave property to relatives, to other people or to organisations. But the deceased's children, parents and spouse are entitled to a compulsory share regardless of the will — half of what they would have received without a will (Civil Code, Article 1371).
+
+### Forms of a will
+
+| Form | How it is made | What to know |
+|---|---|---|
+| Notarial will | The testator writes and signs it, a notary certifies it | The most reliable; a notarial will takes priority and cannot be revoked by a will in another form |
+| Recorded by a notary | The notary writes down the testator's words with 2 witnesses present | The testator reads it and signs it in front of the notary and a witness |
+| Handwritten will | The testator writes it by hand and signs it | Can be handed to a notary in a sealed envelope for safekeeping, with 3 witnesses present |
+
+A witness cannot be a minor, an heir under the will or their close relatives — parents, children, siblings or spouse. The notary and witnesses may not disclose the content of the will before the inheritance opens.
+
+### When a will can be challenged
+
+- When making it, the testator could not understand the meaning of their actions — for example, because of a serious illness
+- The will was made in breach of the legal rules — form, witnesses, signature
+- The will was made through deception, coercion or another ground that makes a transaction void
+- The provisions of the will are unclear or contradict each other
+- The will ignores your compulsory share — in that case you claim the share separately
+
+A claim to invalidate a will must be filed within 2 years of the inheritance opening — usually the day the person died. Once the will is invalidated, the estate is divided under the law.
+
+Our services:
+- Drafting a will and having it certified by a notary
+- Joint will of spouses
+- Reviewing and changing an existing will
+- Lawsuit to invalidate a will
+- Claiming the compulsory share
+- Executing the will and registering property to the heir
+
+### Is a handwritten will valid?
+Yes — a handwritten will is valid if the testator wrote it by hand and signed it. But it is easier to contest, so we recommend a notarial will.
+
+### Can I leave my child nothing at all?
+Children, parents and the spouse are entitled to a compulsory share regardless of the will — half of their share under the law. The exception is when an heir has lost the right to inherit under the law, for example as an unworthy heir.
+
+### How long do I have to challenge a will?
+2 years from the inheritance opening. After that, the will can no longer be challenged.
+
+### There are several wills — which one applies?
+A newer will revokes the older one to the extent they conflict. A notarial will, however, takes priority and cannot be revoked by a will in another form.
+
+## Debt recovery in Georgia — loans, IOUs, enforcement
+URL: https://mmlaw.ge/en/debt-recovery-georgia/
+
+A debt can be recovered through the courts or — if the contract was certified by a notary — even without going to court. We assess your documents, choose the fastest route and make sure the debtor doesn't dispose of their assets.
+
+The limitation period for a claim to repay a loan is 3 years (Civil Code, Article 129) — usually from the day the money was due. So don't wait: once it has passed, the debtor can argue that the claim is time-barred.
+The law doesn't always require a loan agreement to be in writing, but in a dispute documents decide: the contract, an IOU, bank transfers, messages. The effective annual interest rate on a loan must not exceed 50% — this applies to every loan, including between private individuals.
+
+### Recovering a debt step by step
+
+1. We gather evidence — the contract, IOU, transfers, messages, witnesses.
+2. We send the debtor a written demand with a deadline — often this alone is enough.
+3. If they don't pay, we file a lawsuit. The court fee is 3% of the amount claimed, but at least 100 GEL.
+4. Together with the lawsuit we can ask the court to freeze the debtor's property or account so it isn't disposed of before the case is decided.
+5. After the judgment, the National Bureau of Enforcement collects the debt and the debtor is entered into the debtors register.
+
+### When you can skip the court
+
+If the loan agreement was certified by a notary and the parties agreed in it to the issue of a writ of execution, once the debt is due the notary issues the writ (Law on Notaries, Article 38) and enforcement starts without a court case. That is why we recommend signing larger loans before a notary.
+
+A claim based on a promissory note can be heard by the court under a simplified procedure — only documents and the parties' explanations are used as evidence.
+
+Our services:
+- Assessing the chances of recovery and the evidence
+- Demand letter and negotiation with the debtor
+- Lawsuit to recover the debt with interest and penalties
+- Asking the court to freeze the debtor's property and accounts
+- Obtaining a writ of execution from a notary
+- Managing the enforcement process
+
+### I lent money without an IOU — can I get it back?
+Possibly. Evidence can be a bank transfer, messages, an audio recording or a witness. The sooner you contact us, the more evidence we can preserve.
+
+### How long do I have to claim the debt?
+The limitation period is 3 years — usually from the repayment date. After that the debtor can rely on the limitation period and the court will reject the claim.
+
+### How much does a lawsuit cost?
+The court fee is 3% of the amount claimed, but at least 100 GEL. If you win, the losing party usually reimburses the court costs.
+
+### The debtor has no assets — what happens?
+The judgment goes to enforcement and the debtor is entered into the debtors register: they can't register new property or a car without the enforcement bureau finding out. Money can also be deducted from their salary.
+
+## Contract drafting and review in Georgia
+URL: https://mmlaw.ge/en/contract-drafting-review/
+
+A good contract keeps you out of disputes; a bad one causes them. We draft contracts in your interest and review the other side's text before you sign: the risks, deadlines, penalties and what happens if something is not delivered.
+
+A contract is concluded once the parties agree on all essential terms (Civil Code, Article 327). If the law or the parties themselves require a particular form, the contract takes effect only once that form is followed. For example, acquiring real estate requires a written contract and registration of ownership in the Public Registry.
+Most problems are visible before signing: vague obligations, missing deadlines, a one-sided right to terminate, an excessive penalty or an unexpected place for resolving disputes. That is why we review a contract before you sign it.
+
+### What we check in a contract
+
+- The parties and their authority — who signs and whether they are entitled to
+- Subject, price and payment terms — precise and unambiguous
+- Deadlines and what happens if they are missed
+- Penalties — they must be agreed in writing, and a court reduces an excessive penalty
+- Deposit — if the party who paid it breaches the contract, the deposit stays with the recipient
+- Termination, force majeure and where disputes are resolved — court or arbitration
+
+### Contracts we draft most often
+
+- Real estate sale and preliminary agreements
+- Leases — flats, offices, commercial premises
+- Loans and guarantees
+- Services and works — renovation, construction, IT services
+- Partners' agreements and share purchases
+- Bilingual contracts with foreign partners
+
+Our services:
+- Drafting a contract in your interest
+- Reviewing the other side's contract before signing
+- Negotiating the terms
+- Bilingual contracts — Georgian, English, Russian
+- Amending and terminating contracts
+- Claims and lawsuits for breach of contract
+
+### Is a verbal agreement a contract?
+Often — yes, if the law doesn't require a particular form. But a verbal agreement is hard to prove. Real estate, however, can only be acquired with a written contract and registration.
+
+### Do I need to have a contract certified by a notary?
+Not always. Notarisation is required by law in some cases and useful in others: for example, a debt under a notarised loan agreement can be recovered even without going to court.
+
+### How high can a contractual penalty be?
+The parties set it freely, but the agreement must be in writing. If the penalty is excessive, a court can reduce it; for loans, the law sets a cap.
+
+### Is a contract in English valid?
+Yes, a contract can be made in any language. You may need a Georgian translation for the Public Registry or a court, so we often prepare a bilingual text.
+
 ## Legal help for foreigners in Georgia
 URL: https://mmlaw.ge/en/foreigners/
 
@@ -2860,6 +2996,68 @@ A spouse and children, as well as parents, siblings, grandparents, grandchildren
 
 ### Does reconciliation end the case?
 Not automatically. The state investigates domestic violence, and reconciliation doesn't by itself cancel an order if there is still a threat.
+
+## Murder in Georgia — Articles 108, 109: penalties
+URL: https://mmlaw.ge/en/crimes/murder-article-108-109/ — Criminal Code of Georgia, Article 108
+
+Intentional murder is the most serious charge: under Article 108 — 10 to 15 years; with aggravating circumstances (Article 109) — 16 to 20 years or life imprisonment. Much depends on how the act is classified: intentional or negligent, self-defence or a state of sudden, strong emotional disturbance. That is why the defence has to start from the first interview.
+
+### Possible penalties
+
+- 108 — intentional murder: Imprisonment from 10 to 15 years
+- 109 — intentional murder with aggravating circumstances: for example, as a group, of a family member, a pregnant woman or a minor, of two or more people, for gain or to order, with particular cruelty: Imprisonment from 16 to 20 years or life imprisonment
+- 111 — murder in a state of sudden, strong emotional disturbance caused by the victim's violence, grave insult or other grossly immoral conduct: House arrest from 6 months to 1 year or 1 to 3 years in prison; of two or more people — house arrest from 1 to 2 years or 2 to 5 years in prison
+- 113 — murder exceeding the limits of self-defence: Corrective labour up to 2 years, house arrest from 6 months to 2 years or 1 to 3 years in prison
+- 116 — causing death by negligence: House arrest from 6 months to 2 years or 2 to 4 years in prison; of two or more people — 3 to 5 years
+- Attempted murder: Charged under the same article as the completed murder; life imprisonment cannot be imposed for an attempt
+
+- Self-defence — acting to protect yourself or someone else is not a crime (Article 28)
+- Intent or negligence — this decides the article and the penalty
+- Strong emotional disturbance caused by the victim's conduct (Article 111)
+- Forensic medical examination — the cause of death and its link to the act
+- Whether the arrest, search and questioning were lawful
+- Jury selection and presenting the case to a jury
+
+### What is the penalty for intentional murder?
+Under Article 108 — 10 to 15 years. With aggravating circumstances (Article 109) — 16 to 20 years or life imprisonment.
+
+### I was defending myself — is it still murder?
+If it was self-defence, it is not a crime. If the defence was clearly out of proportion to the attack, it is murder exceeding the limits of self-defence (Article 113) — up to 3 years. This is proven with evidence, so you need a lawyer from day one.
+
+### Are murder cases heard by a jury?
+Yes — completed murder (Articles 108 and 109) is heard by a jury unless the accused asks for the case to be heard by a judge. Our lawyer, Mariam Madzgharashvili, is a member of the Georgian Bar Association's Jury Trial Committee.
+
+### How is murder different from causing death by negligence?
+Murder is intentional. If the person did not want the death and did not foresee it, although they should have, it is causing death by negligence (Article 116) — up to 4 years.
+
+## Illegal firearms in Georgia — Article 236: penalties
+URL: https://mmlaw.ge/en/crimes/illegal-firearms-article-236/ — Criminal Code of Georgia, Article 236
+
+Illegally acquiring, keeping, carrying, making or selling a firearm, ammunition or explosives is a crime under Article 236. Carrying is punished most harshly — 4 to 7 years. Anyone who voluntarily hands the weapon in is released from liability, unless they committed another crime.
+
+### Possible penalties
+
+- Part 1 — illegally acquiring or keeping a hunting or sports firearm or its ammunition: A fine, house arrest from 6 months to 2 years or up to 2 years in prison
+- Part 2 — the same, as a group or repeatedly: Imprisonment from 2 to 5 years
+- Part 3 — illegally acquiring or keeping another firearm (for example, a pistol), ammunition, explosives or an explosive device: Imprisonment from 3 to 6 years
+- Part 4 — illegally carrying a firearm, ammunition or explosives: Imprisonment from 4 to 7 years
+- Part 5 — illegally making, transporting, sending or selling: Imprisonment from 6 to 9 years
+- Part 6 — acts under Parts 3–5 committed as a group or by someone previously convicted of them: Imprisonment from 8 to 11 years
+
+- Whether the item is a firearm or ammunition at all — ballistic examination
+- Whose weapon it was and whether you knew it was there
+- Whether the search and seizure were lawful
+- Voluntary surrender — release from liability
+- Keeping or carrying — the right part of the article changes the penalty
+
+### I have an old gun at home — what should I do?
+If you hand it in voluntarily, you are released from criminal liability, as long as there are no signs of another crime. Contact us before you do — we'll tell you how to do it properly.
+
+### Does this article cover hunting shotguns?
+Smoothbore hunting shotguns are not covered by Article 236. Illegally keeping other hunting or sports firearms falls under Part 1 — from a fine up to 2 years.
+
+### What is the penalty for carrying a pistol?
+Illegally carrying a firearm is punished with 4 to 7 years in prison; as a group or by a repeat offender — 8 to 11 years.
 
 ## Foreigner arrested in Georgia: rights and first steps
 URL: https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/ — published 2026-10-11

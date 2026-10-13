@@ -107,5 +107,7 @@
 
 - [Домашнее насилие](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/) — Статья 126¹ Насилие, систематические оскорбления, шантаж или унижение члена семьи. До 3 лет и охранный ордер.
 
+- [Убийство](https://mmlaw.ge/ru/prestupleniya/ubiystvo-statya-108-109/) — Статья 108 Умышленное убийство, убийство при отягчающих обстоятельствах, покушение и смерть по неосторожности. Вплоть до пожизненного.
+
 ---
 Source: https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -107,5 +107,7 @@ Criminal law
 
 - [Domestic violence](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/) — Article 126¹ Violence, systematic insults, blackmail or humiliation of a family member. Up to 3 years and a restraining order.
 
+- [Murder](https://mmlaw.ge/en/crimes/murder-article-108-109/) — Article 108 Intentional murder, murder with aggravating circumstances, attempted murder and causing death by negligence. Up to life imprisonment.
+
 ---
 Source: https://mmlaw.ge/en/crimes/bodily-harm/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

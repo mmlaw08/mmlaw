@@ -91,6 +91,9 @@
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
+- [Возврат долга](https://mmlaw.ge/ru/vozvrat-dolga/)
+
+-
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
-
--
-- [Признание иностранного судебного решения в Грузии](https://mmlaw.ge/ru/blog/priznanie-inostrannogo-resheniya-v-gruzii/)
 
 Области практики
 

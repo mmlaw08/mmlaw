@@ -111,5 +111,7 @@
 
 - [Хулиганство](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/) — Статья 239 Грубое нарушение общественного порядка с насилием или угрозой насилия. Наказание — от штрафа до 7 лет.
 
+- [Убийство](https://mmlaw.ge/ru/prestupleniya/ubiystvo-statya-108-109/) — Статья 108 Умышленное убийство, убийство при отягчающих обстоятельствах, покушение и смерть по неосторожности. Вплоть до пожизненного.
+
 ---
 Source: https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -71,7 +71,7 @@ An inheritance lawyer helps you accept the inheritance on time, gather the docum
 
 - Registering the property in the heir's name
 
-- Drafting and challenging wills
+- [Drafting and challenging wills](https://mmlaw.ge/en/wills-in-georgia/)
 
 - Disputes between heirs and division of shares
 
@@ -123,6 +123,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
 
 -
+- [Wills](https://mmlaw.ge/en/wills-in-georgia/)
+
+-
 - [Power of attorney from abroad for use in Georgia](https://mmlaw.ge/en/blog/power-of-attorney-from-abroad/)
 
 -
@@ -139,9 +142,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Recognising a foreign court decision in Georgia](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/)
-
--
-- [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
 
 Practice areas
 

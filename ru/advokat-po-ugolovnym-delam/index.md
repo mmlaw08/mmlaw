@@ -127,13 +127,19 @@
 
 - [Повреждение имущества187](https://mmlaw.ge/ru/prestupleniya/povrezhdenie-imushchestva-statya-187/)
 
-### Насильственные преступления3
+### Насильственные преступления4
 
 - [Вред здоровью117, 118, 120](https://mmlaw.ge/ru/prestupleniya/vred-zdorovyu/)
 
 - [Хулиганство239](https://mmlaw.ge/ru/prestupleniya/khuliganstvo-statya-239/)
 
 - [Домашнее насилие126¹](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/)
+
+- [Убийство108](https://mmlaw.ge/ru/prestupleniya/ubiystvo-statya-108-109/)
+
+### Преступления, связанные с оружием1
+
+- [Незаконное оружие236](https://mmlaw.ge/ru/prestupleniya/nezakonnoe-oruzhie-statya-236/)
 
 ### Киберпреступления3
 

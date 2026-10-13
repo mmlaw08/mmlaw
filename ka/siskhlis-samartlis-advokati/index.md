@@ -127,13 +127,19 @@
 
 - [ნივთის დაზიანება187](https://mmlaw.ge/ka/danashaulebi/nivtis-dazianeba-mukhli-187/)
 
-### ძალადობრივი დანაშაული3
+### ძალადობრივი დანაშაული4
 
 - [ჯანმრთელობის დაზიანება117, 118, 120](https://mmlaw.ge/ka/danashaulebi/janmrtelobis-dazianeba/)
 
 - [ხულიგნობა239](https://mmlaw.ge/ka/danashaulebi/khuliganoba-mukhli-239/)
 
 - [ოჯახში ძალადობა126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
+
+- [მკვლელობა108](https://mmlaw.ge/ka/danashaulebi/mkvleloba-mukhli-108-109/)
+
+### იარაღთან დაკავშირებული დანაშაული1
+
+- [იარაღის უკანონო შენახვა და ტარება236](https://mmlaw.ge/ka/danashaulebi/iaraghi-mukhli-236/)
 
 ### კიბერდანაშაული3
 

@@ -76,10 +76,10 @@
 - [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
 
 -
-- [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
+- [ხელშეკრულების შედგენა და შემოწმება](https://mmlaw.ge/ka/khelshekrulebis-shedgena/)
 
 -
-- [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
+- [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
 
 პრაქტიკის სფეროები
 

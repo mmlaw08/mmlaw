@@ -81,6 +81,9 @@
 - [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
 
 -
+- [ანდერძის შედგენა და გასაჩივრება](https://mmlaw.ge/ka/anderdzis-shedgena-da-gasachivreba/)
+
+-
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 -
@@ -88,9 +91,6 @@
 
 -
 - [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
-
--
-- [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
 
 ბლოგი
 

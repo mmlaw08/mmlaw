@@ -74,6 +74,10 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Domestic violence — Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)Violence, systematic insults, blackmail or humiliation of a family member. Up to 3 years and a restraining order.
 
+- [Murder — Article 108](https://mmlaw.ge/en/crimes/murder-article-108-109/)Intentional murder, murder with aggravating circumstances, attempted murder and causing death by negligence. Up to life imprisonment.
+
+- [Illegal firearms — Article 236](https://mmlaw.ge/en/crimes/illegal-firearms-article-236/)Illegally acquiring, keeping, carrying or selling a firearm, ammunition or explosives. Up to 11 years.
+
 ## Other practice areas
 
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)Contract, property and damages disputes — negotiated or argued in court.
@@ -143,6 +147,12 @@ Every page of the site in one place — services, articles and useful resources.
 - [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)What being on the debtors' register means, how to check it, what is restricted, and how to get removed.
 
 - [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)What counts as joint property, how a flat, loans and a business are divided, property in one spouse's name, and the 3-year deadline.
+
+- [Wills](https://mmlaw.ge/en/wills-in-georgia/)How to make a valid will, which form to choose, who is entitled to a compulsory share and how to challenge a will within 2 years.
+
+- [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)Someone won't pay you back? Demand letter, lawsuit, freezing assets, enforcement and a notary's writ of execution — even without court.
+
+- [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)Sale, lease, loan, services, works — we draft contracts and review them before you sign. In Georgian, English and Russian.
 
 ## For foreigners
 

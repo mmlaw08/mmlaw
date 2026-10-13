@@ -159,6 +159,9 @@ WhatsApp-ით, ტელეფონით, ელფოსტით ან �
 - [მემკვიდრეობის მიღება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/memkvidreobis-migheba/)
 
 -
+- [ანდერძის შედგენა და გასაჩივრება](https://mmlaw.ge/ka/anderdzis-shedgena-da-gasachivreba/)
+
+-
 - [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 -
@@ -169,9 +172,6 @@ WhatsApp-ით, ტელეფონით, ელფოსტით ან �
 
 -
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
-
--
-- [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 ---
 Source: https://mmlaw.ge/ka/emigrantebistvis/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

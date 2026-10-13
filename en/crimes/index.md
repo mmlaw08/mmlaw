@@ -32,6 +32,12 @@ Short and clear: what each crime means, which article of the Criminal Code cover
 
 - [Domestic violence](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/) — Article 126¹ Violence, systematic insults, blackmail or humiliation of a family member. Up to 3 years and a restraining order.
 
+- [Murder](https://mmlaw.ge/en/crimes/murder-article-108-109/) — Article 108 Intentional murder, murder with aggravating circumstances, attempted murder and causing death by negligence. Up to life imprisonment.
+
+## Weapons offences
+
+- [Illegal firearms](https://mmlaw.ge/en/crimes/illegal-firearms-article-236/) — Article 236 Illegally acquiring, keeping, carrying or selling a firearm, ammunition or explosives. Up to 11 years.
+
 ## Cybercrime and privacy
 
 - [Unauthorised access to a computer system](https://mmlaw.ge/en/crimes/hacking-article-284/) — Article 284 Unlawfully getting into someone else's account, email, phone or computer. From a fine to 6 years.

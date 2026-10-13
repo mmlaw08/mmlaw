@@ -76,10 +76,10 @@
 - [მემკვიდრეობის მიღება საზღვარგარეთიდან](https://mmlaw.ge/ka/blogi/memkvidreobis-migheba-sazghvargaretidan/)
 
 -
-- [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
+- [ანდერძის შედგენა და გასაჩივრება](https://mmlaw.ge/ka/anderdzis-shedgena-da-gasachivreba/)
 
 -
-- [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
+- [უცხო ქვეყნის სასამართლო გადაწყვეტილების ცნობა საქართველოში](https://mmlaw.ge/ka/blogi/utskhouri-gadatsqvetilebis-tsnoba/)
 
 ემიგრანტებისთვის
 

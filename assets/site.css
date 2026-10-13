@@ -1452,3 +1452,9 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .ck-btn { height: 36px; padding: 0 12px; font-size: 13px; border-radius: 9px; }
   .ck-btn svg { display: none; }
 }
+
+/* text tables (several wordy columns): normal table on wide screens, one card per row on phones */
+@media (min-width: 641px) { .pun-text tbody th { width: 22%; } }
+.pun-text tbody td { font-weight: 400; }
+.pun-text tbody td:nth-child(2) { font-weight: 500; }
+@media (max-width: 640px) { .pun-text tbody th { color: var(--accent); font-weight: 600; } .pun-text td { margin-top: 6px; } .pun-text tbody td:nth-child(2) { color: var(--fg); } .pun-text tbody td:nth-child(3) { color: var(--fg2); font-size: 14px; } }

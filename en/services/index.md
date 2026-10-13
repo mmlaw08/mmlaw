@@ -210,6 +210,24 @@ What counts as joint property, how a flat, loans and a business are divided, pro
 Under Article 1158 of the Civil Code, property acquired during marriage is the spouses' joint property unless a marriage contract says otherwise — even if one spouse looked after the home and children and had no income of their own. On division the shares are equal unless agreed otherwise.
 [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
+## [Making and challenging a will](https://mmlaw.ge/en/wills-in-georgia/)
+
+How to make a valid will, which form to choose, who is entitled to a compulsory share and how to challenge a will within 2 years.
+A will can be made by an adult with legal capacity who, at that moment, can reasonably judge their own actions. A will must be made in person — it cannot be made through a representative. Only spouses can make a joint will, about inheriting from each other. You can change or revoke a will at any time.
+[Wills](https://mmlaw.ge/en/wills-in-georgia/)
+
+## [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
+
+Someone won't pay you back? Demand letter, lawsuit, freezing assets, enforcement and a notary's writ of execution — even without court.
+The limitation period for a claim to repay a loan is 3 years (Civil Code, Article 129) — usually from the day the money was due. So don't wait: once it has passed, the debtor can argue that the claim is time-barred.
+[Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
+
+## [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
+
+Sale, lease, loan, services, works — we draft contracts and review them before you sign. In Georgian, English and Russian.
+A contract is concluded once the parties agree on all essential terms (Civil Code, Article 327). If the law or the parties themselves require a particular form, the contract takes effect only once that form is followed. For example, acquiring real estate requires a written contract and registration of ownership in the Public Registry.
+[Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

@@ -80,10 +80,10 @@
 - [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
 
 -
-- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
+- [Возврат долга](https://mmlaw.ge/ru/vozvrat-dolga/)
 
 -
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
+- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 Иностранцам
 

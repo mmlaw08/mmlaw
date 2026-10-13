@@ -49,7 +49,7 @@ By law, a person who harms an attacker while defending themselves or others agai
 
 - Defence against threat charges
 
-- Defence in murder and attempted murder cases
+- [Defence in murder and attempted murder cases](https://mmlaw.ge/en/crimes/murder-article-108-109/)
 
 - Proving self-defence
 
