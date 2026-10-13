@@ -104,10 +104,10 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Gambling licence · For foreigners](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)
 
 -
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
+- [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
 
 -
-- [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 Practice areas
 

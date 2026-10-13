@@ -904,6 +904,9 @@ Yes — for example if the will's form was not respected or the testator was not
 ### Am I liable for the deceased's debts?
 As a rule, an heir is liable for debts only up to the value of the property inherited. It's worth checking the debts before accepting — if needed, you can renounce the inheritance.
 
+### Is there inheritance tax in Georgia?
+There is no separate inheritance tax. First- and second-order heirs — children, spouse, parents, siblings — pay no tax on property received by inheritance or gift. Third- and fourth-order heirs (grandparents, uncles, aunts) are exempt up to GEL 150,000 a year. Otherwise the value is taxed as income at 20%.
+
 ## Intellectual property lawyer in Georgia
 URL: https://mmlaw.ge/en/intellectual-property-lawyer/
 
@@ -2252,7 +2255,7 @@ When buying, you pay the Public Registry registration fee. An individual seller 
 Yes. Foreign individuals and companies can buy apartments, houses, commercial premises and non-agricultural land. Agricultural land is restricted for foreigners, with limited exceptions set by law.
 
 ### Does buying property give me a residence permit?
-Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (currently USD 100,000). The permit is not automatic — you have to apply for it.
+Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (since 1 March 2026 — more than USD 150,000). The permit is not automatic — you have to apply for it.
 
 ### Can I buy property without coming to Georgia?
 Yes. You can give a notarised power of attorney (with an apostille if the country requires it) to your lawyer or a trusted person, who signs and registers the purchase for you.
@@ -2367,6 +2370,31 @@ We prepare and file residence permit applications for foreigners in Georgia, fol
 Citizens of many countries can stay in Georgia visa-free for up to a year, but living, working or doing business here long-term usually requires a residence permit. The right type depends on your situation: work, business, property ownership, family, study or investment.
 Refusals often come with little explanation. A carefully prepared application avoids most of them — and if you are refused, the decision can be challenged within short deadlines.
 
+### Residence through property and investment
+
+| Type | Condition | Duration |
+|---|---|---|
+| Short-term (property) | Real estate with a market value above USD 150,000 (since 1 March 2026; agricultural land doesn't count) | 1 year, renewable for 1 year each time; you must keep the property |
+| Investment | An investment of at least USD 300,000 or real estate worth over USD 300,000; for an investment, annual turnover of USD 50,000–120,000 | 5 years; no separate work permit needed |
+| Permanent | After 5 years of investment residence — with final-year turnover of at least USD 120,000 or 5 years of property ownership | Indefinite |
+
+### Renewal — deadlines
+
+- Apply to renew no earlier than 90 days before expiry
+- Apply for a new permit at least 40 days before your lawful stay ends
+- Staying on an expired permit is an overstay — a fine, and if unpaid, a risk of being refused entry
+- If you are abroad, you can apply to renew online
+
+### Processing time and fees
+
+| Processing | Fee |
+|---|---|
+| Within 30 days | 300 GEL |
+| Within 20 days | 450 GEL |
+| Within 10 days | 600 GEL |
+
+These fees apply to work, study, investment, family and short-term permits (Public Service Hall tariff from 1 September 2026). IT permit — 500/750/1,000 GEL; spouse of a Georgian citizen — 500 GEL, decided within 90 days. A refusal can be challenged in court within 10 calendar days.
+
 - Choosing the right type of residence permit
 - Preparing and filing the application
 - Work and business residence permits
@@ -2375,13 +2403,16 @@ Refusals often come with little explanation. A carefully prepared application av
 - Appeals against refusals
 
 ### How long does a residence permit application take?
-The standard review takes up to about 30 days; an expedited review is available for an extra fee. We tell you the current timelines when we prepare your application.
+Standard — 30 days (300 GEL). Expedited — 20 days (450 GEL) or 10 days (600 GEL). An application by a Georgian citizen's spouse — up to 90 days.
 
 ### Can a refusal be appealed?
-Yes. A refusal is an administrative decision and can be challenged — first administratively, then in court. Deadlines are short (usually one month), so contact a lawyer as soon as you receive it.
+Yes — in court, within 10 calendar days of receiving the decision. The deadline is very short, so contact us as soon as you are refused.
 
 ### Do I need a work permit to work in Georgia?
 Since 1 March 2026, foreigners need the right to labour activity to work or do business in Georgia — except holders of a permanent residence permit and other cases set by law. We'll check what applies to you before you start work.
+
+### How long can I stay without a visa?
+Citizens of listed countries — a full year; others — 90 days in any 180. The old 'Remotely from Georgia' digital-nomad programme is not currently active — for a longer stay you need a residence permit.
 
 ## Family lawyer for foreigners in Georgia
 URL: https://mmlaw.ge/en/foreigners/family-law-for-foreigners/
@@ -2549,6 +2580,138 @@ Special rules apply to people born in Georgia, but only until 1 January 2027. Th
 
 ### How long does the decision take?
 By law — 3 months. The President makes the decision.
+
+## Marriage in Georgia for foreigners — requirements
+URL: https://mmlaw.ge/en/foreigners/marriage-in-georgia-for-foreigners/
+
+Foreigners can register a marriage in Georgia — with a Georgian citizen or with each other, if they are in the country lawfully. There is no mandatory waiting period: a marriage is often registered on the day of application. We prepare the documents, translations and apostilles so you can use the marriage certificate in your own country.
+
+Marriage is a union of a woman and a man, and it has legal effect only once registered with the Public Service Development Agency (Public Service Hall) — a religious ceremony alone does not create a marriage. The minimum age is 18.
+The conditions of marriage are governed for each party by the law of their own country, and the form by Georgian law (Law on Private International Law, Article 44). That is why we check in advance whether your country has extra requirements.
+
+### Who cannot marry
+
+- Someone already married to another person
+- Close relatives — parent and child, grandparent and grandchild, siblings
+- Adoptive parent and adopted child
+- Two people of the same sex — a same-sex marriage registered abroad has no legal effect in Georgia
+
+### Documents you need
+
+- Passport — with a notarised Georgian translation
+- If previously married — proof of divorce or of the spouse's death, apostilled and translated
+- Every document issued abroad needs an apostille (or consular legalisation) and a certified translation
+- 2 adult witnesses at the registration
+
+### How registration works
+
+1. You file the application at the Public Service Hall — in person or through a representative. The application is valid for 2 months.
+2. The marriage is registered at the time stated in the application — often the same day. Same-day registration can be refused when the office is busy.
+3. Both spouses must attend in person with 2 witnesses — you cannot marry through a representative.
+4. The marriage certificate is issued in Georgian. To use it abroad, it needs an apostille and a translation.
+
+- Checking marriage conditions under your country's law
+- Translating, apostilling and preparing documents
+- Planning the registration at the Public Service Hall
+- Apostilling the marriage certificate for use abroad
+- Prenuptial (marriage) agreement
+- Residence permit based on marriage
+
+### Can two foreigners marry in Georgia?
+Yes, if both are in Georgia lawfully. There is no citizenship requirement.
+
+### How quickly can we get married?
+There is no mandatory waiting period. The marriage is registered at the time stated in the application — often the same day.
+
+### Will our marriage be recognised in our country?
+Many countries recognise a marriage concluded abroad under local law. The certificate needs an apostille and a translation. The exact recognition rules depend on your country's law — we check them in advance.
+
+### Is a church wedding enough?
+No. Only a marriage registered by the state has legal effect.
+
+## Driving in Georgia on a foreign licence — the rules
+URL: https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/
+
+A foreigner can drive in Georgia on their national licence, but not indefinitely — for 1 year from their last entry. After that you need to exchange it for a Georgian licence or get a Georgian one. We help prepare the documents and defend you in fine and driving-ban cases.
+
+You can drive on a foreign licence until it expires, but for no more than 1 year from your last entry into Georgia. If the licence isn't in Latin or Georgian letters, you also need a certified translation. A residence permit doesn't change this period.
+After the year, driving on a foreign licence can count as driving without a licence — a GEL 500 fine, and within a year repeatedly, GEL 1,500 or up to 15 days' administrative detention (Administrative Offences Code, Article 121).
+
+### Exchanging a foreign licence
+
+- No exam needed — exchange the licence before it expires
+- Apply to the MIA Service Agency — in person
+- You need: an application, passport or residence card, the foreign licence, a confirmation from the issuing country with an apostille or legalisation, a medical certificate and payment of the fee
+- The issuing country's confirmation must be no older than 90 days when submitted
+- The foreign licence loses its force and is handed to the Agency
+- The category must match the 1949 Geneva or 1968 Vienna Conventions or EU rules
+
+### Getting a Georgian licence
+
+- Theory and practical exams; for category B from age 18 a driving school is not compulsory
+- Since 27 May 2025 foreigners are admitted to the exam with a residence card or proof of at least 185 days' lawful stay in Georgia in the last 12 months
+- Besides Georgian, the theory test is available in English, Russian, Turkish, Azerbaijani and Armenian
+
+- Documents and apostille for exchanging a foreign licence
+- Checking the conditions for a Georgian licence
+- Appealing a fine for driving without a licence
+- Suspension and withdrawal of driving rights
+- Traffic accident cases
+- Translating and legalising documents
+
+### Can I drive in Georgia on my own country's licence?
+Yes — until it expires, but for no more than 1 year from your last entry into Georgia. A licence not in Latin or Georgian letters needs a certified translation.
+
+### Do I have to take an exam to exchange my licence?
+No. The exchange is done without an exam if the licence is valid and you submit the issuing country's confirmation.
+
+### What is the fine for driving without a licence?
+GEL 500; repeatedly within a year — GEL 1,500 or up to 15 days' administrative detention.
+
+### In which languages is the theory test available?
+Besides Georgian — English, Russian, Turkish, Azerbaijani, Armenian, Abkhaz and Ossetian.
+
+## Opening a bank account in Georgia as a foreigner
+URL: https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/
+
+A foreigner can open an account at a Georgian bank — sometimes with just a passport. But the bank must understand who you are and where your money comes from, and if it can't, it won't open the account. We prepare the documents, help you deal with the bank and open personal and business accounts.
+
+Under Article 10 of the anti-money-laundering law, a bank must identify and verify the customer and the beneficial owner, the purpose of the relationship and the expected transactions. If it can't, opening the account is prohibited. For high-risk customers the bank also looks into the origin of funds.
+That is why refusals often come without an explanation — and that is lawful. We can't promise that a bank will open an account — that is the bank's decision — but properly prepared documents greatly reduce the risk of refusal.
+
+### What to expect
+
+- Usually a passport and a Georgian mobile number; to complete registration you often need to visit a branch
+- The bank may ask for documents on the source of income, your business and the purpose of the account
+- Some products are available only to citizens of certain countries
+- To open a business account you usually need a personal account first
+- Remote identification is allowed by law, but not every bank offers it to every customer
+
+### How to reduce the risk of refusal
+
+1. Prepare proof of income — a contract, statements, a tax return.
+2. Explain clearly what you need the account for and what transactions you expect.
+3. For a business account, prepare the company documents and beneficial-owner information.
+4. If one bank refuses, another may assess you differently.
+
+- Preparing documents for the bank
+- Opening a personal account
+- Opening a business account for a company or sole trader
+- Company registration and account together
+- Representing you at the bank under a power of attorney
+- Blocked accounts and disputes with banks
+
+### Can a foreigner open an account at a Georgian bank?
+Yes. At some banks a passport and a mobile number are enough, though you often need to visit a branch to complete registration.
+
+### Why did the bank refuse me without a reason?
+By law a bank must refuse if it can't complete its checks on the customer and the funds, and it doesn't have to explain in detail. Reapplying with the right documents, or at another bank, often succeeds.
+
+### Can I open an account without coming to Georgia?
+In some cases — through a power of attorney or remote identification, but it depends on the bank. Often you still need to visit once in person.
+
+### How much does your service cost?
+Our prices for opening accounts are listed on the company registration page.
 
 ## Accepting an inheritance in Georgia from abroad
 URL: https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/

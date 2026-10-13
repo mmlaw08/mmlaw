@@ -91,10 +91,10 @@ Yes — foreign individuals and companies can be the sole partner and director.
 - [Gambling licence · For foreigners](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)
 
 -
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
+- [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
 
 -
-- [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
+- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 Blog
 

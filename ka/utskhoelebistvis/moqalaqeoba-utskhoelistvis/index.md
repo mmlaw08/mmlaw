@@ -129,5 +129,11 @@
 
 - [აზარტული ბიზნესის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/) — კაზინო, სლოტები, ტოტალიზატორი, ონლაინ და „საერთაშორისო“ ნებართვა საქართველოში: ვინ იღებს, რა პირობებით და რა ეკრძალება ორგანიზატორს.
 
+- [ქორწინება საქართველოში უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kortsineba-utskhoelebistvis/) — როგორ დაქორწინდნენ უცხოელები საქართველოში: პირობები, დოკუმენტები, აპოსტილი, მოწმეები და მოწმობის გამოყენება საზღვარგარეთ.
+
+- [მართვის მოწმობა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/martvis-motsmoba-utskhoelistvis/) — უცხოური მოწმობით მართვა 1 წელი, გაცვლა გამოცდის გარეშე, ქართული მოწმობა 185 დღის წესით და ჯარიმა მოწმობის გარეშე მართვისთვის.
+
+- [საბანკო ანგარიში არარეზიდენტისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/) — როგორ გახსნას უცხოელმა პირადი ან ბიზნეს ანგარიში ქართულ ბანკში, რას ითხოვს ბანკი, რატომ ამბობს უარს და როგორ მოემზადოთ.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

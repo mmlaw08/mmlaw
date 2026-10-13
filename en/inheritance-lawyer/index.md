@@ -101,6 +101,10 @@ Yes — for example if the will's form was not respected or the testator was not
 
 As a rule, an heir is liable for debts only up to the value of the property inherited. It's worth checking the debts before accepting — if needed, you can renounce the inheritance.
 
+### Is there inheritance tax in Georgia?
+
+There is no separate inheritance tax. First- and second-order heirs — children, spouse, parents, siblings — pay no tax on property received by inheritance or gift. Third- and fourth-order heirs (grandparents, uncles, aunts) are exempt up to GEL 150,000 a year. Otherwise the value is taxed as income at 20%.
+
 ## Legal basis
 
 - [Civil Code of Georgia](https://matsne.gov.ge/ka/document/view/31702)

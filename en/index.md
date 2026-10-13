@@ -179,6 +179,12 @@ Moving to Georgia, buying property, starting a business or facing a legal proble
 
 - [Georgian citizenship for foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/) — The ordinary route (10 years), through marriage (5 years), the exceptional route and the rule for those born in Georgia — until 2027.
 
+- [Marriage in Georgia for foreigners](https://mmlaw.ge/en/foreigners/marriage-in-georgia-for-foreigners/) — How foreigners marry in Georgia: conditions, documents, apostille, translation, witnesses and using the marriage certificate abroad.
+
+- [Driving licence for foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/) — A foreign licence is valid for 1 year: exchange without exams, the 185-day rule for a Georgian licence, fines for driving without one.
+
+- [Bank account for non-residents](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/) — How a foreigner opens a personal or business account at a Georgian bank, what the bank asks for, why it refuses and how to prepare.
+
 - [All services for foreigners](https://mmlaw.ge/en/foreigners/)
 
 Georgians abroad

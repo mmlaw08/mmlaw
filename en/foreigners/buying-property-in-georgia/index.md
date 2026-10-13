@@ -61,7 +61,7 @@ Yes. Foreign individuals and companies can buy apartments, houses, commercial pr
 
 ### Does buying property give me a residence permit?
 
-Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (currently USD 100,000). The permit is not automatic — you have to apply for it.
+Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (since 1 March 2026 — more than USD 150,000). The permit is not automatic — you have to apply for it.
 
 ### Can I buy property without coming to Georgia?
 
@@ -138,6 +138,12 @@ For foreigners
 - [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/) — Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
 
 - [Georgian citizenship for foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/) — The ordinary route (10 years), through marriage (5 years), the exceptional route and the rule for those born in Georgia — until 2027.
+
+- [Marriage in Georgia for foreigners](https://mmlaw.ge/en/foreigners/marriage-in-georgia-for-foreigners/) — How foreigners marry in Georgia: conditions, documents, apostille, translation, witnesses and using the marriage certificate abroad.
+
+- [Driving licence for foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/) — A foreign licence is valid for 1 year: exchange without exams, the 185-day rule for a Georgian licence, fines for driving without one.
+
+- [Bank account for non-residents](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/) — How a foreigner opens a personal or business account at a Georgian bank, what the bank asks for, why it refuses and how to prepare.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/buying-property-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

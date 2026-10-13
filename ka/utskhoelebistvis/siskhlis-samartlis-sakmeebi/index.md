@@ -63,6 +63,9 @@
 - [უცხოელი დააკავეს საქართველოში: უფლებები და პირველი ნაბიჯები](https://mmlaw.ge/ka/blogi/utskhoeli-dakaves-sakartveloshi/)
 
 -
+- [მართვის მოწმობა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/martvis-motsmoba-utskhoelistvis/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
 
 უცხოელებისთვის
 
@@ -106,6 +106,12 @@
 - [აზარტული ბიზნესის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/) — კაზინო, სლოტები, ტოტალიზატორი, ონლაინ და „საერთაშორისო“ ნებართვა საქართველოში: ვინ იღებს, რა პირობებით და რა ეკრძალება ორგანიზატორს.
 
 - [საქართველოს მოქალაქეობა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/) — ჩვეულებრივი წესი (10 წელი), ქორწინებით (5 წელი), საგამონაკლისო წესი და საქართველოში დაბადებულთა წესი — 2027 წლამდე.
+
+- [ქორწინება საქართველოში უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kortsineba-utskhoelebistvis/) — როგორ დაქორწინდნენ უცხოელები საქართველოში: პირობები, დოკუმენტები, აპოსტილი, მოწმეები და მოწმობის გამოყენება საზღვარგარეთ.
+
+- [მართვის მოწმობა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/martvis-motsmoba-utskhoelistvis/) — უცხოური მოწმობით მართვა 1 წელი, გაცვლა გამოცდის გარეშე, ქართული მოწმობა 185 დღის წესით და ჯარიმა მოწმობის გარეშე მართვისთვის.
+
+- [საბანკო ანგარიში არარეზიდენტისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/) — როგორ გახსნას უცხოელმა პირადი ან ბიზნეს ანგარიში ქართულ ბანკში, რას ითხოვს ბანკი, რატომ ამბობს უარს და როგორ მოემზადოთ.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

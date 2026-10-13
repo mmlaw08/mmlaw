@@ -63,6 +63,9 @@
 - [Иностранца задержали в Грузии: права и первые шаги](https://mmlaw.ge/ru/blog/inostranets-zaderzhan-v-gruzii/)
 
 -
+- [Водительские права для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
 
 Иностранцам
 
@@ -106,6 +106,12 @@
 - [Разрешение на игорный бизнес](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/) — Казино, слоты, тотализатор и онлайн-игры в Грузии: кто может получить разрешение, условия и что запрещено организатору.
 
 - [Гражданство Грузии для иностранцев](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/) — Общий порядок (10 лет), через брак (5 лет), исключительный порядок и правило для родившихся в Грузии — до 2027 года.
+
+- [Брак в Грузии для иностранцев](https://mmlaw.ge/ru/inostrantsam/brak-v-gruzii-dlya-inostrantsev/) — Как иностранцам заключить брак в Грузии: условия, документы, апостиль, свидетели и признание свидетельства за рубежом.
+
+- [Водительские права для иностранцев](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/) — Иностранные права действуют 1 год, обмен без экзаменов, получение грузинских прав по правилу 185 дней и штраф за езду без прав.
+
+- [Банковский счёт для нерезидента](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/) — Как иностранцу открыть личный или бизнес-счёт в грузинском банке, что требует банк, почему отказывает и как подготовиться.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

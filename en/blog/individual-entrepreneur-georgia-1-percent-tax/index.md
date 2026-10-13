@@ -131,6 +131,9 @@ Yes, under a notarised and apostilled power of attorney translated into Georgian
 - [Gambling licence · For foreigners](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)
 
 -
+- [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -138,9 +141,6 @@ Yes, under a notarised and apostilled power of attorney translated into Georgian
 
 -
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
-
--
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
 
 Blog
 

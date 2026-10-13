@@ -82,6 +82,9 @@ Yes. We sign the engagement remotely and step into the case right away.
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 -
+- [Driving licence for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -98,9 +101,6 @@ Yes. We sign the engagement remotely and step into the case right away.
 
 -
 - [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
-
--
-- [Theft charges in Georgia: penalties and your rights](https://mmlaw.ge/en/blog/theft-charges-in-georgia/)
 
 Blog
 

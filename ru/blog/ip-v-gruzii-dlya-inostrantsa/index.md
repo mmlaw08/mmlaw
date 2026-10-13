@@ -131,6 +131,9 @@
 - [Разрешение на игорный бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/)
 
 -
+- [Банковский счёт для нерезидента · Иностранцам](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -138,9 +141,6 @@
 
 -
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
-
--
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
 
 Блог
 

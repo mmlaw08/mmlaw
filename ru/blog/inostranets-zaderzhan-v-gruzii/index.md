@@ -82,6 +82,9 @@
 - [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 -
+- [Водительские права для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
-
--
-- [Обвинение в краже: наказание и ваши права](https://mmlaw.ge/ru/blog/obvinenie-v-krazhe/)
 
 Блог
 

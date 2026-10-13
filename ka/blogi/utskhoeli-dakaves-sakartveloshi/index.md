@@ -82,6 +82,9 @@
 - [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 -
+- [მართვის მოწმობა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/martvis-motsmoba-utskhoelistvis/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
-
--
-- [ქურდობის ბრალდება: სასჯელი და თქვენი უფლებები](https://mmlaw.ge/ka/blogi/kurdobis-braldeba/)
 
 ბლოგი
 

@@ -131,6 +131,9 @@
 - [აზარტული ბიზნესის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/)
 
 -
+- [საბანკო ანგარიში არარეზიდენტისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -138,9 +141,6 @@
 
 -
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
-
--
-- [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
 
 ბლოგი
 

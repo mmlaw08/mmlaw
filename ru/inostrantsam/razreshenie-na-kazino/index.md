@@ -88,6 +88,9 @@
 - [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
 
 -
+- [Банковский счёт для нерезидента · Иностранцам](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -95,9 +98,6 @@
 
 -
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
-
--
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
 
 Иностранцам
 
@@ -122,6 +122,12 @@
 - [IT-компании и IT-специалисты](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/) — Три налоговых режима для IT в Грузии: ИП 1%, виртуальная зона и международная компания 5% — условия и изменения 2026 года.
 
 - [Гражданство Грузии для иностранцев](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/) — Общий порядок (10 лет), через брак (5 лет), исключительный порядок и правило для родившихся в Грузии — до 2027 года.
+
+- [Брак в Грузии для иностранцев](https://mmlaw.ge/ru/inostrantsam/brak-v-gruzii-dlya-inostrantsev/) — Как иностранцам заключить брак в Грузии: условия, документы, апостиль, свидетели и признание свидетельства за рубежом.
+
+- [Водительские права для иностранцев](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/) — Иностранные права действуют 1 год, обмен без экзаменов, получение грузинских прав по правилу 185 дней и штраф за езду без прав.
+
+- [Банковский счёт для нерезидента](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/) — Как иностранцу открыть личный или бизнес-счёт в грузинском банке, что требует банк, почему отказывает и как подготовиться.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

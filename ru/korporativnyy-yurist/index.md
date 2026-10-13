@@ -104,10 +104,10 @@
 - [Разрешение на игорный бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/)
 
 -
-- [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
+- [Банковский счёт для нерезидента · Иностранцам](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/)
 
 -
-- [Налоговый адвокат](https://mmlaw.ge/ru/nalogovyy-advokat/)
+- [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 Области практики
 

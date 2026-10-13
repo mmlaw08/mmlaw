@@ -348,6 +348,10 @@ Yes — for example if the will's form was not respected or the testator was not
 
 As a rule, an heir is liable for debts only up to the value of the property inherited. It's worth checking the debts before accepting — if needed, you can renounce the inheritance.
 
+### Is there inheritance tax in Georgia?
+
+There is no separate inheritance tax. First- and second-order heirs — children, spouse, parents, siblings — pay no tax on property received by inheritance or gift. Third- and fourth-order heirs (grandparents, uncles, aunts) are exempt up to GEL 150,000 a year. Otherwise the value is taxed as income at 20%.
+
 ## Intellectual property
 
 [Open page](https://mmlaw.ge/en/intellectual-property-lawyer/)
@@ -966,7 +970,7 @@ No. For an overstay, the fine and the entry ban are imposed together.
 
 ### Does buying property give me a residence permit?
 
-Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (currently USD 100,000). The permit is not automatic — you have to apply for it.
+Owning property can be a basis for a short-term residence permit if its value meets the threshold set by law (since 1 March 2026 — more than USD 150,000). The permit is not automatic — you have to apply for it.
 
 ### Can I buy property without coming to Georgia?
 
@@ -1022,15 +1026,19 @@ From the start of that month until the end of the year, all income is taxed at 3
 
 ### How long does a residence permit application take?
 
-The standard review takes up to about 30 days; an expedited review is available for an extra fee. We tell you the current timelines when we prepare your application.
+Standard — 30 days (300 GEL). Expedited — 20 days (450 GEL) or 10 days (600 GEL). An application by a Georgian citizen's spouse — up to 90 days.
 
 ### Can a refusal be appealed?
 
-Yes. A refusal is an administrative decision and can be challenged — first administratively, then in court. Deadlines are short (usually one month), so contact a lawyer as soon as you receive it.
+Yes — in court, within 10 calendar days of receiving the decision. The deadline is very short, so contact us as soon as you are refused.
 
 ### Do I need a work permit to work in Georgia?
 
 Since 1 March 2026, foreigners need the right to labour activity to work or do business in Georgia — except holders of a permanent residence permit and other cases set by law. We'll check what applies to you before you start work.
+
+### How long can I stay without a visa?
+
+Citizens of listed countries — a full year; others — 90 days in any 180. The old 'Remotely from Georgia' digital-nomad programme is not currently active — for a longer stay you need a residence permit.
 
 ### Can foreigners divorce in Georgia?
 
@@ -1091,6 +1099,54 @@ Special rules apply to people born in Georgia, but only until 1 January 2027. Th
 ### How long does the decision take?
 
 By law — 3 months. The President makes the decision.
+
+### Can two foreigners marry in Georgia?
+
+Yes, if both are in Georgia lawfully. There is no citizenship requirement.
+
+### How quickly can we get married?
+
+There is no mandatory waiting period. The marriage is registered at the time stated in the application — often the same day.
+
+### Will our marriage be recognised in our country?
+
+Many countries recognise a marriage concluded abroad under local law. The certificate needs an apostille and a translation. The exact recognition rules depend on your country's law — we check them in advance.
+
+### Is a church wedding enough?
+
+No. Only a marriage registered by the state has legal effect.
+
+### Can I drive in Georgia on my own country's licence?
+
+Yes — until it expires, but for no more than 1 year from your last entry into Georgia. A licence not in Latin or Georgian letters needs a certified translation.
+
+### Do I have to take an exam to exchange my licence?
+
+No. The exchange is done without an exam if the licence is valid and you submit the issuing country's confirmation.
+
+### What is the fine for driving without a licence?
+
+GEL 500; repeatedly within a year — GEL 1,500 or up to 15 days' administrative detention.
+
+### In which languages is the theory test available?
+
+Besides Georgian — English, Russian, Turkish, Azerbaijani, Armenian, Abkhaz and Ossetian.
+
+### Can a foreigner open an account at a Georgian bank?
+
+Yes. At some banks a passport and a mobile number are enough, though you often need to visit a branch to complete registration.
+
+### Why did the bank refuse me without a reason?
+
+By law a bank must refuse if it can't complete its checks on the customer and the funds, and it doesn't have to explain in detail. Reapplying with the right documents, or at another bank, often succeeds.
+
+### Can I open an account without coming to Georgia?
+
+In some cases — through a power of attorney or remote identification, but it depends on the bank. Often you still need to visit once in person.
+
+### How much does your service cost?
+
+Our prices for opening accounts are listed on the company registration page.
 
 ## Georgians abroad
 

@@ -104,10 +104,10 @@
 - [აზარტული ბიზნესის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/)
 
 -
-- [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
+- [საბანკო ანგარიში არარეზიდენტისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/)
 
 -
-- [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
+- [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 
 პრაქტიკის სფეროები
 
