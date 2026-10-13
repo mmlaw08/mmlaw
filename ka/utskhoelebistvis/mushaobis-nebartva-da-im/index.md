@@ -65,6 +65,9 @@
 - [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
 
 -
+- [დისტანციური მუშაობა საქართველოდან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/)
+
+-
 - [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 -
@@ -81,9 +84,6 @@
 
 -
 - [საგადასახადო რეზიდენტობა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sagadasakhado-rezidentoba/)
-
--
-- [ორმაგი დაბეგვრის ხელშეკრულებები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/ormagi-dabegvris-khelshekrulebebi/)
 
 უცხოელებისთვის
 
@@ -124,6 +124,8 @@
 - [კომპანიის შემოწმება საქმიან ურთიერთობამდე](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-shemotsmeba/) — ქართული კომპანიის შემოწმება ხელშეკრულებამდე: მეწარმეთა რეესტრი, გირავნობა, მოვალეთა რეესტრი, სასამართლო და ვალები.
 
 - [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
+
+- [დისტანციური მუშაობა საქართველოდან](https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/) — უცხოელი, რომელიც საქართველოდან უცხოურ კომპანიას უმუშავებს: უვიზო ყოფნა, სამუშაო ნებართვა, 20% გადასახადი და ინდმეწარმის 1%.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

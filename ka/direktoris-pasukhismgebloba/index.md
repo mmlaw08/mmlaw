@@ -79,7 +79,7 @@
 - [ხელშეკრულების შედგენა და შემოწმება](https://mmlaw.ge/ka/khelshekrulebis-shedgena/)
 
 -
-- [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
+- [ფრილანსერის გადასახადი: Upwork, Fiverr, უცხოური ხელფასი](https://mmlaw.ge/ka/frilanseris-gadasakhadi/)
 
 პრაქტიკის სფეროები
 

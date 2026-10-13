@@ -300,6 +300,12 @@ Cocaine, ecstasy (MDMA), amphetamine, mephedrone, 'alpha', LSD, ketamine: how ma
 Obtaining or keeping a narcotic drug is punished under Article 260: above the small amount — up to 6 years in prison; a large amount — 5 to 8 years; especially large — 8 to 20 years or life. A small amount and use are an administrative offence — a GEL 500–2,000 fine or up to 60 days' detention. Ketamine and GHB are psychotropic substances, punished under Article 261.
 [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
 
+## [Tax on freelance and foreign income in Georgia](https://mmlaw.ge/en/freelancer-tax-georgia/)
+
+Working on Upwork, Fiverr or remotely for a foreign company from Georgia: how much tax, the 1% sole trader and tax returns.
+Under Article 104 of the Tax Code, services performed in Georgia and employment carried out in Georgia are Georgian-source income. It doesn't matter where the money arrives — on Upwork, Payoneer or a foreign bank. So money received from abroad is not tax-free.
+[Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

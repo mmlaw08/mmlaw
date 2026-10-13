@@ -79,7 +79,7 @@
 - [Составление и проверка договоров](https://mmlaw.ge/ru/sostavlenie-dogovorov/)
 
 -
-- [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
+- [Налоги фрилансера в Грузии: Upwork, Fiverr, зарплата](https://mmlaw.ge/ru/nalogi-frilanserov-v-gruzii/)
 
 Области практики
 

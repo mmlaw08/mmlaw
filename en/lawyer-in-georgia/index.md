@@ -807,6 +807,20 @@ Cocaine, ecstasy (MDMA), amphetamine, mephedrone, 'alpha', LSD, ketamine: how ma
 
 [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
 
+### [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
+
+Working on Upwork, Fiverr or remotely for a foreign company from Georgia: how much tax, the 1% sole trader and tax returns.
+
+- Assessing your tax — 20% or 1%
+
+- Registering as a sole trader with small business status
+
+- Choosing the right activity
+
+- Monthly and annual tax returns
+
+[Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

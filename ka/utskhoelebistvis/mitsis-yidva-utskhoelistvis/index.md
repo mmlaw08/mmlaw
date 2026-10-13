@@ -141,5 +141,7 @@
 
 - [კომპანიის შემოწმება საქმიან ურთიერთობამდე](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-shemotsmeba/) — ქართული კომპანიის შემოწმება ხელშეკრულებამდე: მეწარმეთა რეესტრი, გირავნობა, მოვალეთა რეესტრი, სასამართლო და ვალები.
 
+- [დისტანციური მუშაობა საქართველოდან](https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/) — უცხოელი, რომელიც საქართველოდან უცხოურ კომპანიას უმუშავებს: უვიზო ყოფნა, სამუშაო ნებართვა, 20% გადასახადი და ინდმეწარმის 1%.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -141,5 +141,7 @@ For foreigners
 
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
+- [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
+
 ---
 Source: https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

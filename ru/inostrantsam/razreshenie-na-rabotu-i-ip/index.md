@@ -65,6 +65,9 @@
 - [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
 
 -
+- [Удалённая работа из Грузии · Иностранцам](https://mmlaw.ge/ru/inostrantsam/udalennaya-rabota-iz-gruzii/)
+
+-
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 -
@@ -81,9 +84,6 @@
 
 -
 - [Налоговое резидентство Грузии · Иностранцам](https://mmlaw.ge/ru/inostrantsam/nalogovoe-rezidentstvo-gruzii/)
-
--
-- [Соглашения об избежании двойного налогообложения · Иностранцам](https://mmlaw.ge/ru/inostrantsam/dvoynoe-nalogooblozhenie-gruziya/)
 
 Иностранцам
 
@@ -124,6 +124,8 @@
 - [Проверка грузинской компании](https://mmlaw.ge/ru/inostrantsam/proverka-kompanii-v-gruzii/) — Проверка грузинской компании до сделки: реестр предпринимателей, залоги, реестр должников, суды и налоговые долги.
 
 - [Земля для иностранцев](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/) — Иностранец может купить несельхозземлю; сельхозземлю — только по наследству или по инвестиционному плану.
+
+- [Удалённая работа из Грузии](https://mmlaw.ge/ru/inostrantsam/udalennaya-rabota-iz-gruzii/) — Удалёнка из Грузии на иностранную компанию: безвиз, нужно ли разрешение на работу, ловушка с налогом 20% и ИП с 1%.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/razreshenie-na-rabotu-i-ip/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

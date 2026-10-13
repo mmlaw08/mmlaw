@@ -106,6 +106,9 @@
 - [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
 
 -
+- [ფრილანსერის გადასახადი: Upwork, Fiverr, უცხოური ხელფასი](https://mmlaw.ge/ka/frilanseris-gadasakhadi/)
+
+-
 - [მუშაობის ნებართვა და ი/მ · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/)
 
 -
@@ -113,9 +116,6 @@
 
 -
 - [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
-
--
-- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

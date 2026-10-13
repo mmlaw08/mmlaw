@@ -87,6 +87,9 @@
 - [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
 
 -
+- [Удалённая работа из Грузии · Иностранцам](https://mmlaw.ge/ru/inostrantsam/udalennaya-rabota-iz-gruzii/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
@@ -100,9 +103,6 @@
 
 -
 - [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
-
--
-- [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
 Блог
 

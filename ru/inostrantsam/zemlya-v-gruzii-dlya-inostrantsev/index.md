@@ -141,5 +141,7 @@
 
 - [Проверка грузинской компании](https://mmlaw.ge/ru/inostrantsam/proverka-kompanii-v-gruzii/) — Проверка грузинской компании до сделки: реестр предпринимателей, залоги, реестр должников, суды и налоговые долги.
 
+- [Удалённая работа из Грузии](https://mmlaw.ge/ru/inostrantsam/udalennaya-rabota-iz-gruzii/) — Удалёнка из Грузии на иностранную компанию: безвиз, нужно ли разрешение на работу, ловушка с налогом 20% и ИП с 1%.
+
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

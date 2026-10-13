@@ -161,5 +161,7 @@
 
 - [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
 
+- [დისტანციური მუშაობა საქართველოდან](https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/) — უცხოელი, რომელიც საქართველოდან უცხოურ კომპანიას უმუშავებს: უვიზო ყოფნა, სამუშაო ნებართვა, 20% გადასახადი და ინდმეწარმის 1%.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

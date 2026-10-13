@@ -104,10 +104,10 @@
 - [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
 
 -
-- [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
+- [ფრილანსერის გადასახადი: Upwork, Fiverr, უცხოური ხელფასი](https://mmlaw.ge/ka/frilanseris-gadasakhadi/)
 
 -
-- [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
+- [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 პრაქტიკის სფეროები
 

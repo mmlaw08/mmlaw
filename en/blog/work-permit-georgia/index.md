@@ -87,6 +87,9 @@ No. You can only apply while you are lawfully in Georgia.
 - [IT companies and IT specialists · For foreigners](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)
 
 -
+- [Working remotely from Georgia · For foreigners](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -100,9 +103,6 @@ No. You can only apply while you are lawfully in Georgia.
 
 -
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
-
--
-- [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 Blog
 

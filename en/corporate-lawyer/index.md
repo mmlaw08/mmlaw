@@ -55,6 +55,8 @@ A corporate lawyer helps you set up a company, draft the charter and shareholder
 
 - [Restructuring and liquidation](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
+- [Tax on freelance and foreign income in Georgia](https://mmlaw.ge/en/freelancer-tax-georgia/)
+
 ## Questions & answers
 
 ### How long does it take to register a company in Georgia?

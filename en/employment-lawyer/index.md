@@ -106,6 +106,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
 -
+- [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
+
+-
 - [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
 
 -
@@ -113,9 +116,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [IT companies and IT specialists · For foreigners](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)
-
--
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 Practice areas
 

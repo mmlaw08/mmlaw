@@ -44,6 +44,8 @@ For foreigners
 
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
+- [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
+
 - [Get a consultation](https://mmlaw.ge/en/contact/) — Initial consultation is free
 
 01
@@ -357,6 +359,26 @@ Yes. A dual citizen counts as a Georgian citizen under this law.
 ### Do I pay tax when I sell?
 
 A flat or house you owned for more than 2 years is sold tax-free. Other cases we check individually.
+
+### Is there a digital nomad visa in Georgia?
+
+Not a separate one today. Citizens of many countries can stay visa-free for a year; for a longer stay you need a residence permit.
+
+### Can I work remotely for a foreign employer while visa-free?
+
+Yes. The Labour Migration Law usually doesn't require the right to work when the work relates to a foreign company's business abroad. Tax, however, is due in Georgia.
+
+### Do digital nomads pay tax in Georgia?
+
+Yes, for work done while in Georgia: 20% through an annual return, or 1% as a sole trader where the activity qualifies. A non-resident who works here 30 days or less a year doesn't pay tax on the salary.
+
+### Can a foreign salary go through a 1% sole trader?
+
+No. Salary is excluded from the 1%. If you genuinely provide services rather than work as an employee, the contract must show it — we review the contract.
+
+### Will I still owe tax in my home country?
+
+Possibly. That depends on your home country's residency rules and on its tax treaty with Georgia. We check both sides.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

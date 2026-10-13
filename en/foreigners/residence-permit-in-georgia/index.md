@@ -146,5 +146,7 @@ For foreigners
 
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
+- [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
+
 ---
 Source: https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

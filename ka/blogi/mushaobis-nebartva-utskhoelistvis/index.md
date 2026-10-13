@@ -87,6 +87,9 @@
 - [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
 
 -
+- [დისტანციური მუშაობა საქართველოდან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/)
+
+-
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 -
@@ -100,9 +103,6 @@
 
 -
 - [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
-
--
-- [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
 
 ბლოგი
 

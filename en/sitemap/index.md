@@ -178,6 +178,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)Cocaine, ecstasy (MDMA), amphetamine, mephedrone, 'alpha', LSD, ketamine: how many grams is a crime, large amounts and penalties; 'spice' — any amount.
 
+- [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)Working on Upwork, Fiverr or remotely for a foreign company from Georgia: how much tax, the 1% sole trader and tax returns.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)
@@ -219,6 +221,8 @@ Every page of the site in one place — services, articles and useful resources.
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/)Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/)Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
+
+- [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/)Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
 
 - [Georgians abroad](https://mmlaw.ge/en/georgians-abroad/)We handle your matter in Georgia without you having to travel — by power of attorney, remote consultations and constant contact on WhatsApp.
 

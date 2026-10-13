@@ -2557,6 +2557,64 @@ Any amount of a new psychoactive substance is a crime — up to 6 years in priso
 ### I'm a foreigner — what happens?
 The rules are the same. You have the right to an interpreter and a lawyer; don't sign anything you don't understand. We work in English and Russian.
 
+## Freelancer tax in Georgia: Upwork, Fiverr, foreign salary
+URL: https://mmlaw.ge/en/freelancer-tax-georgia/
+
+If you live in Georgia and work remotely for foreign clients or a foreign company, the money comes from abroad, but the income is taxed in Georgia. We help you choose the right route, register and file returns — without overpaying tax or penalties.
+
+Under Article 104 of the Tax Code, services performed in Georgia and employment carried out in Georgia are Georgian-source income. It doesn't matter where the money arrives — on Upwork, Payoneer or a foreign bank. So money received from abroad is not tax-free.
+A foreign company does not withhold tax in Georgia. If you are not registered, you must report the income in an annual return by 31 March of the following year and pay 20% (Articles 81 and 153). Registering as a sole trader with small business status — 1% — is often cheaper.
+
+### Your options
+
+| Option | Tax | Good to know |
+|---|---|---|
+| Not registered | 20%, annual return by 31 March | No return — a penalty plus interest |
+| Sole trader with small business status | 1% up to GEL 500,000, 3% above | A return every month, by the 15th of the following month |
+| Employee of a foreign company (employment contract) | Salary — 20% | The 1% doesn't apply to salary |
+
+### Small business status — what to watch for
+
+- The 1% covers business income only, not salary (Article 90). If you work for one company with fixed hours and under its direction, it may be treated as salary
+- Consulting, legal, medical, audit, architecture and some other activities can't use the 1% (Government Resolution No. 415)
+- If annual income passes GEL 500,000, all income is taxed at 3% from that month until the end of the year
+- Services to foreign businesses are generally outside Georgian VAT — the place of supply is where the client is (Article 162¹)
+- Pensions: an employee of a foreign employer and a sole trader count as self-employed — joining the pension scheme is voluntary
+
+### For companies: an employee who lives abroad
+
+- An employment contract longer than 1 month must be in writing; state that the work is done remotely from abroad (Labour Code, Articles 12 and 14)
+- Services a non-resident performs abroad are not Georgian-source income, so as a rule no tax is withheld; the exception is management and financial services — 10%
+- How the salary of an employee working abroad is taxed depends on the details — we check it in advance, together with any double tax treaty
+- A foreigner who never enters Georgia and works fully remotely doesn't need the right to work (Labour Migration Law, Article 1)
+- The pension scheme doesn't cover foreigners without a permanent residence permit in Georgia
+
+Our services:
+- Assessing your tax — 20% or 1%
+- Registering as a sole trader with small business status
+- Choosing the right activity
+- Monthly and annual tax returns
+- For companies — contracts and tax for remote staff abroad
+- Disputes with the Revenue Service
+
+### Do I pay tax on money from Upwork or Fiverr?
+Yes, if you do the work in Georgia. As a sole trader with small business status — 1%; unregistered — 20% through an annual return.
+
+### How do I register as a sole trader?
+At the Public Service Hall, with your ID and an address. Then you apply for small business status to the Revenue Service on rs.ge.
+
+### What is the 1% limit?
+GEL 500,000 a year. Above it, all income is taxed at 3% from that month to the end of the year; if you exceed it 2 years in a row, the status is cancelled.
+
+### Can a foreign salary be taxed at 1%?
+No. Salary is excluded from the 1%. If you genuinely provide services rather than work as an employee, the contract must show it — we review the contract.
+
+### What if I don't file the annual return?
+The penalty is 5% of the tax, 10% if more than 2 months late, plus interest of 0.05% per day.
+
+### Do we withhold tax for a remote employee living abroad?
+For services performed abroad, as a rule, no; for management and financial services — 10%. Salary depends on the details — contact us before signing the contract.
+
 ## Legal help for foreigners in Georgia
 URL: https://mmlaw.ge/en/foreigners/
 
@@ -3306,6 +3364,65 @@ Yes. A dual citizen counts as a Georgian citizen under this law.
 
 ### Do I pay tax when I sell?
 A flat or house you owned for more than 2 years is sold tax-free. Other cases we check individually.
+
+## Working remotely from Georgia — tax, visa, work permit
+URL: https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/
+
+Many foreigners live in Georgia and work remotely for a foreign employer or foreign clients. Staying is simple — tax is where most people go wrong: pay for work you do while physically in Georgia is Georgian income, even if your employer and your bank are abroad. We assess your situation and set it up correctly.
+
+Georgia has no separate digital nomad visa today. Citizens of the countries on the Government's list (Resolution No. 255 of 2015) can stay visa-free for a full year; others need a visa or a residence permit. If you plan to stay longer or register as a sole trader, plan your residence permit in advance.
+Under Article 104 of the Tax Code, income from employment carried out in Georgia is Georgian-source income, and where the money is received does not matter. A foreign employer does not withhold Georgian tax (Article 154), so you must file an annual return yourself by 31 March of the following year and pay 20% (Articles 81 and 153). The exemption for foreign income (Article 82) doesn't help here — it covers only income that is not from a Georgian source.
+
+### Do you need a work permit?
+
+The Labour Migration Law does not apply when a foreigner works for or provides services to a non-resident and the work relates to that person's business outside Georgia (Article 1(4)(l)). So a remote employee of a foreign company usually doesn't need the right to work. A sole trader with clients in Georgia does need it since 1 March 2026; whether a sole trader serving only foreign clients falls under the exception should be checked case by case.
+
+### Your options
+
+| Option | Tax | Good to know |
+|---|---|---|
+| Employee of a foreign company | 20%, annual return by 31 March | Usually no right to work needed; no Georgian pension contributions |
+| Sole trader with small business status | 1% up to GEL 500,000, 3% above | Monthly return by the 15th; the 1% doesn't cover salary or consulting |
+| Short visit — up to 30 days a year | Salary not taxed in Georgia | If you are non-resident and the employer has no permanent establishment in Georgia (Article 82) |
+
+### The 1% sole trader — what to watch for
+
+- The 1% applies to business income, not salary (Article 90). If you work for one company with fixed hours and under its direction, the Revenue Service may treat it as salary and tax it at 20%
+- Consulting, legal, medical, audit, architecture and some other activities can't use the 1% (Government Resolution No. 415)
+- Services to foreign businesses are generally outside Georgian VAT — the place of supply is where the client is (Article 162¹)
+- Registering as a sole trader gives you neither a residence permit nor tax residency
+
+### Residency and your home country
+
+You become a Georgian tax resident if you spend 183 days or more in Georgia in any 12-month period. Your home country may still treat you as its resident and tax your worldwide income. Where a double tax treaty exists, it decides who taxes what, and a Georgian residence certificate is the proof.
+
+### If you do nothing
+
+- Late return — a penalty of 5% of the tax, 10% if more than 2 months late (Article 274)
+- Late payment — interest of 0.05% per day
+- Understated tax — a 10% to 50% penalty; large amounts can lead to a criminal case
+
+- Assessing your tax position and residency
+- Choosing between employment and sole trader status
+- Registering as a sole trader with small business status
+- Right to work and residence permit
+- Annual and monthly tax returns
+- Disputes with the Revenue Service
+
+### Is there a digital nomad visa in Georgia?
+Not a separate one today. Citizens of many countries can stay visa-free for a year; for a longer stay you need a residence permit.
+
+### Can I work remotely for a foreign employer while visa-free?
+Yes. The Labour Migration Law usually doesn't require the right to work when the work relates to a foreign company's business abroad. Tax, however, is due in Georgia.
+
+### Do digital nomads pay tax in Georgia?
+Yes, for work done while in Georgia: 20% through an annual return, or 1% as a sole trader where the activity qualifies. A non-resident who works here 30 days or less a year doesn't pay tax on the salary.
+
+### Can a foreign salary go through a 1% sole trader?
+No. Salary is excluded from the 1%. If you genuinely provide services rather than work as an employee, the contract must show it — we review the contract.
+
+### Will I still owe tax in my home country?
+Possibly. That depends on your home country's residency rules and on its tax treaty with Georgia. We check both sides.
 
 ## Accepting an inheritance in Georgia from abroad
 URL: https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/

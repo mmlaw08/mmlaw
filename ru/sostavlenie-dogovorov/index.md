@@ -104,10 +104,10 @@
 - [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
 
 -
-- [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
+- [Налоги фрилансера в Грузии: Upwork, Fiverr, зарплата](https://mmlaw.ge/ru/nalogi-frilanserov-v-gruzii/)
 
 -
-- [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
+- [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
 
 Области практики
 

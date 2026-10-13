@@ -103,6 +103,9 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 - [Work permit & sole trader · For foreigners](https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/)
 
 -
+- [Working remotely from Georgia · For foreigners](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/)
+
+-
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 -
@@ -119,9 +122,6 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
 - [Tax residency in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/tax-residency-georgia/)
-
--
-- [Double tax treaties · For foreigners](https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/)
 
 For foreigners
 
@@ -162,6 +162,8 @@ For foreigners
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
+
+- [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/it-companies-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

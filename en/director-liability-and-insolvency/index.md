@@ -79,7 +79,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
 
 -
-- [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
+- [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
 
 Practice areas
 

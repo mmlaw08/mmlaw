@@ -141,5 +141,7 @@
 
 - [Земля для иностранцев](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/) — Иностранец может купить несельхозземлю; сельхозземлю — только по наследству или по инвестиционному плану.
 
+- [Удалённая работа из Грузии](https://mmlaw.ge/ru/inostrantsam/udalennaya-rabota-iz-gruzii/) — Удалёнка из Грузии на иностранную компанию: безвиз, нужно ли разрешение на работу, ловушка с налогом 20% и ИП с 1%.
+
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/nalogovoe-rezidentstvo-gruzii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

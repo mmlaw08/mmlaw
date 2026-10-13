@@ -104,10 +104,10 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
 -
-- [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
+- [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
 
 -
-- [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
+- [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
 
 Practice areas
 
