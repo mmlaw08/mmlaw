@@ -63,6 +63,9 @@
 - [Иностранца задержали в Грузии: права и первые шаги](https://mmlaw.ge/ru/blog/inostranets-zaderzhan-v-gruzii/)
 
 -
+- [Кокаин, экстази, амфетамин](https://mmlaw.ge/ru/kokain-ekstazi-gruziya/)
+
+-
 - [Водительские права для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
 
 Иностранцам
 

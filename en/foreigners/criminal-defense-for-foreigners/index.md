@@ -63,6 +63,9 @@ Related practice area: [Criminal defense](https://mmlaw.ge/en/criminal-defense-l
 - [Foreigner arrested in Georgia: rights and first steps](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/)
 
 -
+- [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
+-
 - [Driving licence for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/)
 
 -
@@ -79,9 +82,6 @@ Related practice area: [Criminal defense](https://mmlaw.ge/en/criminal-defense-l
 
 -
 - [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
 
 For foreigners
 

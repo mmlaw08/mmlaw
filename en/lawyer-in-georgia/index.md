@@ -793,6 +793,20 @@ Drug-use tests in Georgia: can you refuse, the fine for avoiding a test, tests f
 
 [Drug test](https://mmlaw.ge/en/drug-test-georgia/)
 
+### [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
+Cocaine, ecstasy (MDMA), amphetamine, mephedrone, 'alpha', LSD, ketamine: how many grams is a crime, large amounts and penalties; 'spice' — any amount.
+
+- Defence in cocaine, ecstasy and amphetamine cases
+
+- Checking the forensic examination and amount
+
+- Keeping or transfer — the right classification
+
+- Lawfulness of the search and seizure
+
+[Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

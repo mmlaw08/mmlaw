@@ -82,6 +82,9 @@ Yes. We sign the engagement remotely and step into the case right away.
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 -
+- [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
+-
 - [Driving licence for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/)
 
 -
@@ -98,9 +101,6 @@ Yes. We sign the engagement remotely and step into the case right away.
 
 -
 - [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
 
 Blog
 

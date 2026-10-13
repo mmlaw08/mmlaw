@@ -294,6 +294,12 @@ Drug-use tests in Georgia: can you refuse, the fine for avoiding a test, tests f
 Under Article 45 of the Administrative Offences Code, avoiding a drug-use test is punished exactly like drug use itself (other than marijuana): a fine of GEL 500–2,000 or up to 60 days' administrative detention. Marijuana use is covered by a separate article (45¹).
 [Drug test](https://mmlaw.ge/en/drug-test-georgia/)
 
+## [Cocaine, ecstasy and other club drugs](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
+Cocaine, ecstasy (MDMA), amphetamine, mephedrone, 'alpha', LSD, ketamine: how many grams is a crime, large amounts and penalties; 'spice' — any amount.
+Obtaining or keeping a narcotic drug is punished under Article 260: above the small amount — up to 6 years in prison; a large amount — 5 to 8 years; especially large — 8 to 20 years or life. A small amount and use are an administrative offence — a GEL 500–2,000 fine or up to 60 days' detention. Ketamine and GHB are psychotropic substances, punished under Article 261.
+[Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

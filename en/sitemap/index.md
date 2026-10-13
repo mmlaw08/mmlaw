@@ -176,6 +176,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Drug test](https://mmlaw.ge/en/drug-test-georgia/)Drug-use tests in Georgia: can you refuse, the fine for avoiding a test, tests for drivers and losing your driving licence.
 
+- [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)Cocaine, ecstasy (MDMA), amphetamine, mephedrone, 'alpha', LSD, ketamine: how many grams is a crime, large amounts and penalties; 'spice' — any amount.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)

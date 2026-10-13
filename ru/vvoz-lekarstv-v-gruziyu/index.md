@@ -70,6 +70,9 @@
 - [#Иностранцам](https://mmlaw.ge/ru/inostrantsam/)
 
 -
+- [Кокаин, экстази, амфетамин](https://mmlaw.ge/ru/kokain-ekstazi-gruziya/)
+
+-
 - [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 -
@@ -89,9 +92,6 @@
 
 -
 - [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
 
 Области практики
 

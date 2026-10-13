@@ -1080,6 +1080,26 @@ Within 10 days ask for an alternative test of the sealed control sample, and con
 
 A court takes away the driving licence of a person punished for drug use for 3 years.
 
+## Cocaine, ecstasy and other club drugs
+
+[Open page](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
+### How many grams of cocaine is a crime?
+
+Up to 0.06 g is a small amount — an administrative case. Above 0.06 g it's a criminal case, above 0.6 g a large amount (5 to 8 years), above 2 g especially large (8 to 20 years or life).
+
+### How many ecstasy pills count as a large amount?
+
+A large amount is 0.5 g of MDMA, and the MDMA content of a pill varies — the forensic examination establishes it. So even a few pills can count as a large amount.
+
+### How much 'spice' is a crime?
+
+Any amount of a new psychoactive substance is a crime — up to 6 years in prison.
+
+### I'm a foreigner — what happens?
+
+The rules are the same. You have the right to an interpreter and a lawyer; don't sign anything you don't understand. We work in English and Russian.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

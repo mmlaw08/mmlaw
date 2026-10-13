@@ -70,6 +70,9 @@
 - [#უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/)
 
 -
+- [კოკაინი, ექსტაზი, ამფეტამინი](https://mmlaw.ge/ka/kokaini-ekstazi-amfetamini/)
+
+-
 - [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 -
@@ -89,9 +92,6 @@
 
 -
 - [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
 
 პრაქტიკის სფეროები
 

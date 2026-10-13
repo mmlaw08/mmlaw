@@ -79,6 +79,8 @@ A person must be charged within 48 hours of arrest, and within the following 24 
 
 - [Drug tests](https://mmlaw.ge/en/drug-test-georgia/)
 
+- [Cocaine, ecstasy and other club drugs](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
+
 ## Questions & answers
 
 ### Is using drugs a crime in Georgia?

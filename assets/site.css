@@ -1457,3 +1457,11 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .pun-text tbody td { font-weight: 400; }
 .pun-text tbody td:nth-child(2) { font-weight: 500; }
 @media (max-width: 640px) { .pun-text tbody th { color: var(--accent); font-weight: 600; } .pun-text td { margin-top: 6px; } .pun-text tbody td:nth-child(2) { color: var(--fg); } .pun-text tbody td:nth-child(3) { color: var(--fg2); font-size: 14px; } }
+
+/* number tables that must fit a phone screen (e.g. drug amounts): no sideways scroll */
+@media (max-width: 640px) {
+  .pun-fit { min-width: 0; font-size: 12.5px; }
+  .pun-fit th, .pun-fit td, .pun-fit tbody th { padding: 9px 7px; }
+  .pun-fit thead th { font-size: 10.5px; letter-spacing: .02em; white-space: normal; }
+  .pun-fit tbody th { white-space: normal; }
+}
