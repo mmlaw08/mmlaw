@@ -90,7 +90,7 @@
 - [Ипотека](https://mmlaw.ge/ru/ipoteka-v-gruzii/)
 
 -
-- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
+- [Регистрация земли](https://mmlaw.ge/ru/registratsiya-zemli-v-gruzii/)
 
 Блог
 

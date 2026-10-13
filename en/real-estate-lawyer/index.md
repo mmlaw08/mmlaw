@@ -61,6 +61,10 @@ A real estate lawyer checks the property and the seller, drafts and reviews cont
 
 - [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
 
+- [Land registration](https://mmlaw.ge/en/land-registration-georgia/)
+
+- [Building on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
+
 ## Questions & answers
 
 ### Where is property ownership registered?

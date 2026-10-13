@@ -90,7 +90,7 @@ Ownership arises on registration with the Public Registry. Until then, the apart
 - [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
 
 -
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
+- [Land registration](https://mmlaw.ge/en/land-registration-georgia/)
 
 Blog
 

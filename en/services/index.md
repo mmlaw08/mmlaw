@@ -258,6 +258,18 @@ Mortgage contracts in Georgia: notary and registration, ranking of several mortg
 A mortgage exists only once registered in the Public Registry. A mortgage securing a private loan must be notarised — this doesn't apply to banks, microbanks, microfinance organisations or credit unions (Civil Code, Article 289). With several mortgages, the one registered first has priority.
 [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
 
+## [Land registration](https://mmlaw.ge/en/land-registration-georgia/)
+
+Registering a land plot from 2026: systematic registration has ended, documents, surveying and fees, self-occupied land and boundary overlaps.
+According to the Public Registry, more than 2 million plots were surveyed free of charge in the 2022–2025 reform. From 2026, registration is sporadic — on the owner's application, anywhere in the country. Applications filed before the reform ended are processed free.
+[Land registration](https://mmlaw.ge/en/land-registration-georgia/)
+
+## [Building on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
+
+Can you build a house on agricultural land in Georgia, how land designation and category change, who decides and what it costs.
+Under the Law on Land Designation and Sustainable Management, an agricultural plot may carry an individual house, farm buildings or auxiliary buildings. Under the Spatial Planning Code, a house on a private agricultural plot is allowed if it fits the zone or existing buildings; outside settlements, no permit is issued for housing.
+[Building a house on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

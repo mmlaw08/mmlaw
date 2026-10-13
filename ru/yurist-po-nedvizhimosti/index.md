@@ -61,6 +61,10 @@
 
 - [Ипотека](https://mmlaw.ge/ru/ipoteka-v-gruzii/)
 
+- [Регистрация земли](https://mmlaw.ge/ru/registratsiya-zemli-v-gruzii/)
+
+- [Строительство на сельхозземле](https://mmlaw.ge/ru/stroitelstvo-na-selkhozzemle/)
+
 ## Вопросы и ответы
 
 ### Где регистрируется право собственности?

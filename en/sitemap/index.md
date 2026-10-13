@@ -164,6 +164,10 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)Mortgage contracts in Georgia: notary and registration, ranking of several mortgages, private-lender limits, the interest cap and enforcement disputes.
 
+- [Land registration](https://mmlaw.ge/en/land-registration-georgia/)Registering a land plot from 2026: systematic registration has ended, documents, surveying and fees, self-occupied land and boundary overlaps.
+
+- [Building a house on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)Can you build a house on agricultural land in Georgia, how land designation and category change, who decides and what it costs.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)

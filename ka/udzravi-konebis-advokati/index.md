@@ -61,6 +61,10 @@
 
 - [იპოთეკა](https://mmlaw.ge/ka/ipoteka/)
 
+- [მიწის რეგისტრაცია](https://mmlaw.ge/ka/mitsis-registratsia/)
+
+- [სასოფლო-სამეურნეო მიწაზე მშენებლობა](https://mmlaw.ge/ka/sasoplo-sameurneo-mitsaze-sakhlis-asheneba/)
+
 ## კითხვები და პასუხები
 
 ### სად რეგისტრირდება საკუთრების უფლება?

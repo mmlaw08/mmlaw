@@ -2279,6 +2279,88 @@ No. Ownership passes only on a joint application by owner and creditor; otherwis
 ### My loan has very high interest — what can I do?
 The effective annual rate must not exceed 50%, and the law caps penalties and charges. You can refuse to pay the excess — we'll check the contract.
 
+## Land registration in Georgia — sporadic and occupied land
+URL: https://mmlaw.ge/en/land-registration-georgia/
+
+The state's free systematic registration ended on 1 January 2026. Unregistered land is now registered on your own application — the sporadic procedure. We check your documents, prepare the application, resolve overlaps with neighbours and act for you if you are refused.
+
+According to the Public Registry, more than 2 million plots were surveyed free of charge in the 2022–2025 reform. From 2026, registration is sporadic — on the owner's application, anywhere in the country. Applications filed before the reform ended are processed free.
+Documents proving possession must date from before 20 September 2007: for example, a household book extract, a gardener's booklet, the 1992 land-reform distribution list, a land-tax list, a technical inventory record, an allocation act or a court act. Copies kept in an official archive are accepted too.
+
+### What the law provides
+
+- An unwritten sale can be confirmed by at least 3 owners in the same cadastral block
+- If the fenced area is up to 15% larger than in the document, the plot is registered by its actual boundary (except household plots)
+- Surveying by a certified surveyor or, since June 2026, by the Public Registry within 15 working days: agricultural plot up to 0.15 ha — GEL 300, 0.15–1 ha — 500, 1–5 ha — 700, over 5 ha — 1,000; non-agricultural — double
+- Registration within 4 working days: agricultural land — GEL 50 (GEL 300 in Tbilisi and Batumi), non-agricultural — GEL 300
+
+### Self-occupied land
+
+Ownership can be recognised if a person occupied state land before 20 September 2007 and it has a house or other building (even unfinished or ruined), or it adjoins land they already own. Area — up to 1.25 ha in the lowlands, up to 5 ha in high-mountain settlements. Evidence can be a document or witness testimony. Until 1 January 2027, in all municipalities except self-governing cities, the Public Registry decides — within 3 months, for GEL 600. Pastures, forests, protected areas, roads and cemeteries can't be recognised.
+
+### Overlap with a neighbour
+
+- In a dispute, notary mediation is compulsory — within 3 weeks; a signed agreement is the basis for registration
+- If the disputed strip is up to 30% of each plot, both are registered as claimed with a dispute note, and a court decides
+- Above 30%, or if mediation fails, the dispute goes to court
+- A Public Registry decision can be appealed within 30 calendar days
+
+Our services:
+- Finding and assessing documents
+- Sporadic registration application
+- Recognition of self-occupied land
+- Resolving overlaps and boundary disputes
+- Appealing a Public Registry refusal
+- Registering inherited land
+
+### Is systematic registration still free?
+No. The systematic registration reform ended on 1 January 2026. Land is now registered on your own application, by the sporadic procedure.
+
+### I have no documents — can I register my land?
+Possibly. The law accepts many old documents — from household books to land-tax lists. For self-occupied land, witness testimony can also count.
+
+### How much does land registration cost?
+Agricultural land — GEL 50 (300 in Tbilisi and Batumi), non-agricultural — GEL 300, plus surveying. Self-occupied land — GEL 600.
+
+### My neighbour's plot overlaps mine — what now?
+First notary mediation, within 3 weeks. If you can't agree, a court decides. We prepare the boundary evidence and represent you.
+
+## Building a house on agricultural land in Georgia
+URL: https://mmlaw.ge/en/building-on-agricultural-land-georgia/
+
+Building an individual house on a privately owned agricultural plot is often allowed — if it fits the zone or the surrounding buildings. For other non-farm uses, the land's designation has to change first. We check what is and isn't allowed and prepare the application.
+
+Under the Law on Land Designation and Sustainable Management, an agricultural plot may carry an individual house, farm buildings or auxiliary buildings. Under the Spatial Planning Code, a house on a private agricultural plot is allowed if it fits the zone or existing buildings; outside settlements, no permit is issued for housing.
+Changes of designation are decided by the Public Registry and require a justified need. If an approved development plan changes the zone, the owner's application is enough. A commission gives its opinion within 15 days and the decision follows within 5; the registration fee is GEL 50.
+
+### Compensation for a change of designation
+
+- Only in special-regulation territories — GEL 100,000 per hectare
+- In Tbilisi and Batumi — GEL 34,001 per hectare
+- Elsewhere no compensation; state and municipal land is exempt
+- Paid in proportion to the area, before the final decision
+
+### Changing the category
+
+Agricultural land can only move 'up' a category — e.g. pasture to hay meadow, arable or household plot, arable to household plot — on the owner's application. Building a house also needs a municipal building permit.
+
+Our services:
+- Checking the plot's zone and designation
+- Application to change designation
+- Changing the land category
+- Municipal building permit
+- Appealing a refusal
+- Unauthorised construction cases
+
+### Can I build a house on agricultural land?
+On a private plot — often yes, if it fits the zone or surrounding buildings. Outside settlements, no permit is issued for housing. We'll check your plot.
+
+### Who changes land designation?
+The Public Registry — where there is a justified need, based on a commission's opinion.
+
+### What does a change of designation cost?
+The registration fee is GEL 50. Compensation applies only in Tbilisi and Batumi (GEL 34,001/ha) and special-regulation territories (GEL 100,000/ha).
+
 ## Legal help for foreigners in Georgia
 URL: https://mmlaw.ge/en/foreigners/
 

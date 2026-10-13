@@ -709,6 +709,34 @@ Mortgage contracts in Georgia: notary and registration, ranking of several mortg
 
 [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
 
+### [Land registration](https://mmlaw.ge/en/land-registration-georgia/)
+
+Registering a land plot from 2026: systematic registration has ended, documents, surveying and fees, self-occupied land and boundary overlaps.
+
+- Finding and assessing documents
+
+- Sporadic registration application
+
+- Recognition of self-occupied land
+
+- Resolving overlaps and boundary disputes
+
+[Land registration](https://mmlaw.ge/en/land-registration-georgia/)
+
+### [Building a house on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
+
+Can you build a house on agricultural land in Georgia, how land designation and category change, who decides and what it costs.
+
+- Checking the plot's zone and designation
+
+- Application to change designation
+
+- Changing the land category
+
+- Municipal building permit
+
+[Building a house on agricultural land](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

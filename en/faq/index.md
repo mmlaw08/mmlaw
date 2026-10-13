@@ -984,6 +984,42 @@ No. Ownership passes only on a joint application by owner and creditor; otherwis
 
 The effective annual rate must not exceed 50%, and the law caps penalties and charges. You can refuse to pay the excess — we'll check the contract.
 
+## Land registration
+
+[Open page](https://mmlaw.ge/en/land-registration-georgia/)
+
+### Is systematic registration still free?
+
+No. The systematic registration reform ended on 1 January 2026. Land is now registered on your own application, by the sporadic procedure.
+
+### I have no documents — can I register my land?
+
+Possibly. The law accepts many old documents — from household books to land-tax lists. For self-occupied land, witness testimony can also count.
+
+### How much does land registration cost?
+
+Agricultural land — GEL 50 (300 in Tbilisi and Batumi), non-agricultural — GEL 300, plus surveying. Self-occupied land — GEL 600.
+
+### My neighbour's plot overlaps mine — what now?
+
+First notary mediation, within 3 weeks. If you can't agree, a court decides. We prepare the boundary evidence and represent you.
+
+## Building on agricultural land
+
+[Open page](https://mmlaw.ge/en/building-on-agricultural-land-georgia/)
+
+### Can I build a house on agricultural land?
+
+On a private plot — often yes, if it fits the zone or surrounding buildings. Outside settlements, no permit is issued for housing. We'll check your plot.
+
+### Who changes land designation?
+
+The Public Registry — where there is a justified need, based on a commission's opinion.
+
+### What does a change of designation cost?
+
+The registration fee is GEL 50. Compensation applies only in Tbilisi and Batumi (GEL 34,001/ha) and special-regulation territories (GEL 100,000/ha).
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

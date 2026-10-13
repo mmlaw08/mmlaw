@@ -105,7 +105,7 @@
 - [იპოთეკა](https://mmlaw.ge/ka/ipoteka/)
 
 -
-- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
+- [მიწის რეგისტრაცია](https://mmlaw.ge/ka/mitsis-registratsia/)
 
 პრაქტიკის სფეროები
 

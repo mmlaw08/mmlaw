@@ -105,7 +105,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
 
 -
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
+- [Land registration](https://mmlaw.ge/en/land-registration-georgia/)
 
 Practice areas
 
