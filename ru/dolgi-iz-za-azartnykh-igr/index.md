@@ -99,7 +99,7 @@
 - [Возврат долга](https://mmlaw.ge/ru/vozvrat-dolga/)
 
 -
-- [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
+- [Ипотека](https://mmlaw.ge/ru/ipoteka-v-gruzii/)
 
 Области практики
 

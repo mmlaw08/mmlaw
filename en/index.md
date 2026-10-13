@@ -193,6 +193,8 @@ Moving to Georgia, buying property, starting a business or facing a legal proble
 
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
+- [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
+
 - [All services for foreigners](https://mmlaw.ge/en/foreigners/)
 
 Georgians abroad

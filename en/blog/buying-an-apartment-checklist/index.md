@@ -72,25 +72,25 @@ Ownership arises on registration with the Public Registry. Until then, the apart
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
+- [Renting an apartment](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
 - [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
 
 -
+- [Land for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/)
+
+-
+- [Living in a flat for a lump sum (girao)](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)
+
+-
+- [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
+-
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
-
--
-- [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
-
--
-- [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
-
--
-- [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
-
--
-- [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 Blog
 

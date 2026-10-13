@@ -55,6 +55,12 @@
 
 - უცხოელი მყიდველების კონსულტირება
 
+- [ბინის გირაო](https://mmlaw.ge/ka/binis-girao/)
+
+- [ბინის ქირავნობის ხელშეკრულება](https://mmlaw.ge/ka/binis-kiravnobis-khelshekruleba/)
+
+- [იპოთეკა](https://mmlaw.ge/ka/ipoteka/)
+
 ## კითხვები და პასუხები
 
 ### სად რეგისტრირდება საკუთრების უფლება?
@@ -89,6 +95,9 @@
 - [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
 
 -
+- [ბინის ქირავნობის ხელშეკრულება](https://mmlaw.ge/ka/binis-kiravnobis-khelshekruleba/)
+
+-
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 -
@@ -105,9 +114,6 @@
 
 -
 - [ქონების ყიდვა-გაყიდვა · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/konebis-qidva-gaqidva/)
-
--
-- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
 
 პრაქტიკის სფეროები
 

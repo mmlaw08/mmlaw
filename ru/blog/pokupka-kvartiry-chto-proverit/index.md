@@ -72,25 +72,25 @@
 - [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
 
 -
+- [Договор аренды квартиры](https://mmlaw.ge/ru/dogovor-arendy-kvartiry/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
 - [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
 
 -
+- [Земля для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/)
+
+-
+- [Квартира в «гирао»](https://mmlaw.ge/ru/girao-kvartira-zalog/)
+
+-
+- [Ипотека](https://mmlaw.ge/ru/ipoteka-v-gruzii/)
+
+-
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
-
--
-- [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
-
--
-- [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
-
--
-- [Семейные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/)
-
--
-- [ВНЖ в Грузии: какой тип вам нужен?](https://mmlaw.ge/ru/blog/vnzh-v-gruzii-vidy/)
 
 Блог
 

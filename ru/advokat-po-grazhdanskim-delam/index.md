@@ -127,6 +127,9 @@
 - [Составление и проверка договоров](https://mmlaw.ge/ru/sostavlenie-dogovorov/)
 
 -
+- [Ипотека](https://mmlaw.ge/ru/ipoteka-v-gruzii/)
+
+-
 - [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
 
 -
@@ -137,9 +140,6 @@
 
 -
 - [Срок исковой давности по кредиту](https://mmlaw.ge/ru/srok-davnosti-po-kreditu/)
-
--
-- [Снятие ареста с банковского счёта и имущества](https://mmlaw.ge/ru/snyatie-aresta-so-scheta/)
 
 Области практики
 

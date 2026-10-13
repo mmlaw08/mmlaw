@@ -928,6 +928,62 @@ No, unless you are a guarantor or co-borrower. An adult child's debt is collecte
 
 A family member applies to the court to place the person on the dependent list — after that they cannot gamble at any licensed casino or betting operator for 5 years.
 
+## Apartment for a lump sum (girao)
+
+[Open page](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)
+
+### Is girao legal?
+
+Yes — the law expressly allows a home to secure a loan when it is handed to the lender to live in. The key is a notarised contract and a mortgage registered in the registry.
+
+### What if the owner doesn't give my money back?
+
+If the mortgage is registered, you recover the money from the flat through enforcement. Without registration you are an ordinary creditor, in line with everyone else.
+
+### Is a notary required?
+
+Yes. A mortgage securing a loan must be notarised, and it takes effect only when registered in the Public Registry.
+
+### The flat already has a bank mortgage — can I still do girao?
+
+You can, but the bank has priority and gets paid first. We advise against it, or recommend extra protection terms.
+
+## Apartment lease agreement
+
+[Open page](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+### Does a lease need a notary?
+
+No. But to register the lease, signatures must be certified or both parties must sign at the registry.
+
+### The flat was sold — do I have to move out?
+
+No. If the flat was already handed to you, the new owner takes over the lease.
+
+### What tax does the landlord pay?
+
+An individual renting out housing for living purposes without claiming expenses pays 5% of the rent.
+
+### Can the lease be in English or Russian?
+
+Yes. We usually prepare a bilingual text — Georgian plus English or Russian — for the registry and courts.
+
+## Mortgage
+
+[Open page](https://mmlaw.ge/en/mortgage-georgia/)
+
+### Can I borrow from a private person against my flat?
+
+As an individual, generally not — only a supervised or registered lender can make loans secured by real estate. Girao is the exception.
+
+### Can the flat pass to the creditor automatically?
+
+No. Ownership passes only on a joint application by owner and creditor; otherwise the money is recovered through enforcement.
+
+### My loan has very high interest — what can I do?
+
+The effective annual rate must not exceed 50%, and the law caps penalties and charges. You can refuse to pay the excess — we'll check the contract.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)
@@ -979,6 +1035,10 @@ Yes. You can give a notarised power of attorney (with an apostille if the countr
 ### Who pays tax when an apartment is bought?
 
 The buyer pays the Public Registry registration fee. An individual seller who has owned the flat for more than 2 years pays no income tax on the gain from the sale.
+
+### Can I buy a flat in Georgia without residence or citizenship?
+
+Yes. A foreigner can buy a flat, house or non-agricultural land without a residence permit or Georgian citizenship. Only agricultural land is restricted.
 
 ### The developer is late — what can I do?
 
@@ -1203,6 +1263,18 @@ The registry shows legal owners. Georgia has no public beneficial-ownership regi
 ### How long does a check take?
 
 A basic check usually takes a few working days; full due diligence depends on the size of the company.
+
+### Can a foreigner buy land in Georgia?
+
+Non-agricultural land — yes. Agricultural land — only through inheritance, or for a company with a foreign dominant partner, under an investment plan and Government decision.
+
+### I'm a dual citizen — can I buy agricultural land?
+
+Yes. A dual citizen counts as a Georgian citizen under this law.
+
+### Do I pay tax when I sell?
+
+A flat or house you owned for more than 2 years is sold tax-free. Other cases we check individually.
 
 ## Georgians abroad
 

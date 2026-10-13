@@ -667,6 +667,48 @@ A spouse or child ran up gambling debts? Who owes the debt, whether the family f
 
 [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
 
+### [Living in a flat for a lump sum (girao)](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)
+
+Girao — paying a lump sum to live in a flat rent-free: notarised contract, registry registration, checks and what if the owner won't repay.
+
+- Checking the flat in the registry before girao
+
+- Drafting the girao contract
+
+- Notarisation and registration
+
+- Claiming the money back
+
+[Living in a flat for a lump sum (girao)](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)
+
+### [Renting an apartment](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+Renting a flat in Georgia: what the lease must say, bilingual contracts, registering the lease, a sale during the lease and the 5% tax.
+
+- Drafting the lease
+
+- Bilingual lease — Georgian and English or Russian
+
+- Checking the flat in the Public Registry
+
+- Registering the lease
+
+[Renting an apartment](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+### [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
+Mortgage contracts in Georgia: notary and registration, ranking of several mortgages, private-lender limits, the interest cap and enforcement disputes.
+
+- Reviewing the mortgage contract before signing
+
+- Registering and removing a mortgage
+
+- Checking whether a private lender's contract is lawful
+
+- Challenging an auction or enforcement
+
+[Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

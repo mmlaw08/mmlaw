@@ -121,5 +121,7 @@
 
 - [Проверка грузинской компании](https://mmlaw.ge/ru/inostrantsam/proverka-kompanii-v-gruzii/) — Проверка грузинской компании до сделки: реестр предпринимателей, залоги, реестр должников, суды и налоговые долги.
 
+- [Земля для иностранцев](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/) — Иностранец может купить несельхозземлю; сельхозземлю — только по наследству или по инвестиционному плану.
+
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

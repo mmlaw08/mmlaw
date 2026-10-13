@@ -71,6 +71,10 @@ Yes. You can give a notarised power of attorney (with an apostille if the countr
 
 The buyer pays the Public Registry registration fee. An individual seller who has owned the flat for more than 2 years pays no income tax on the gain from the sale.
 
+### Can I buy a flat in Georgia without residence or citizenship?
+
+Yes. A foreigner can buy a flat, house or non-agricultural land without a residence permit or Georgian citizenship. Only agricultural land is restricted.
+
 ## Legal basis
 
 - [Civil Code of Georgia](https://matsne.gov.ge/ka/document/view/31702)
@@ -95,10 +99,16 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 - [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
 
 -
+- [Land for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/)
+
+-
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
 - [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
+
+-
+- [Renting an apartment](https://mmlaw.ge/en/apartment-lease-georgia/)
 
 -
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
@@ -108,12 +118,6 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
-
--
-- [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
-
--
-- [Residence permits in Georgia: which type do you need?](https://mmlaw.ge/en/blog/residence-permit-types-georgia/)
 
 For foreigners
 
@@ -152,6 +156,8 @@ For foreigners
 - [Crypto: tax and VASP registration](https://mmlaw.ge/en/foreigners/crypto-in-georgia/) — An individual's crypto income is tax-exempt; a crypto business needs National Bank VASP registration and capital.
 
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
+
+- [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/buying-property-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -125,5 +125,7 @@
 
 - [Криптовалюта: налоги и регистрация VASP](https://mmlaw.ge/ru/inostrantsam/kriptovalyuta-v-gruzii/) — Криптодоход физлица освобождён от подоходного налога; криптобизнесу нужна регистрация VASP в Нацбанке и капитал.
 
+- [Земля для иностранцев](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/) — Иностранец может купить несельхозземлю; сельхозземлю — только по наследству или по инвестиционному плану.
+
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/proverka-kompanii-v-gruzii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

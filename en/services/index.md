@@ -240,6 +240,24 @@ A spouse or child ran up gambling debts? Who owes the debt, whether the family f
 Under Article 1170 of the Civil Code, one spouse's debt is collected from their personal property and their share of joint property. Joint marital property can be used only if a court finds that the borrowed money served the common interests of the whole family — and money lost gambling usually doesn't.
 [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
 
+## [Apartment for a lump sum (girao)](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)
+
+Girao — paying a lump sum to live in a flat rent-free: notarised contract, registry registration, checks and what if the owner won't repay.
+Under Article 286 of the Civil Code, a private lender that isn't a supervised financial institution generally may not take real estate as security for a loan to an individual. Girao is the exception: when the mortgaged home is handed to the lender to live in. From the third mortgage in favour of the same person, the exception no longer applies.
+[Living in a flat for a lump sum (girao)](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)
+
+## [Apartment lease agreement](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+Renting a flat in Georgia: what the lease must say, bilingual contracts, registering the lease, a sale during the lease and the 5% tax.
+If a rented flat is sold after it was handed to the tenant, the new owner takes over the lease (Civil Code, Article 572) — the tenant doesn't have to leave because of the sale. A lease can also be registered in the Public Registry, which makes it visible to buyers and creditors — especially useful for long or commercial leases.
+[Renting an apartment](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+## [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
+Mortgage contracts in Georgia: notary and registration, ranking of several mortgages, private-lender limits, the interest cap and enforcement disputes.
+A mortgage exists only once registered in the Public Registry. A mortgage securing a private loan must be notarised — this doesn't apply to banks, microbanks, microfinance organisations or credit unions (Civil Code, Article 289). With several mortgages, the one registered first has priority.
+[Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

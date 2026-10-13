@@ -42,6 +42,10 @@ For foreigners
 
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
+- [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
+
+- [Get a consultation](https://mmlaw.ge/en/contact/) — Initial consultation is free
+
 01
 
 ### English and Russian
@@ -113,6 +117,10 @@ Yes. You can give a notarised power of attorney (with an apostille if the countr
 ### Who pays tax when an apartment is bought?
 
 The buyer pays the Public Registry registration fee. An individual seller who has owned the flat for more than 2 years pays no income tax on the gain from the sale.
+
+### Can I buy a flat in Georgia without residence or citizenship?
+
+Yes. A foreigner can buy a flat, house or non-agricultural land without a residence permit or Georgian citizenship. Only agricultural land is restricted.
 
 ### The developer is late — what can I do?
 
@@ -337,6 +345,18 @@ The registry shows legal owners. Georgia has no public beneficial-ownership regi
 ### How long does a check take?
 
 A basic check usually takes a few working days; full due diligence depends on the size of the company.
+
+### Can a foreigner buy land in Georgia?
+
+Non-agricultural land — yes. Agricultural land — only through inheritance, or for a company with a foreign dominant partner, under an investment plan and Government decision.
+
+### I'm a dual citizen — can I buy agricultural land?
+
+Yes. A dual citizen counts as a Georgian citizen under this law.
+
+### Do I pay tax when I sell?
+
+A flat or house you owned for more than 2 years is sold tax-free. Other cases we check individually.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -84,6 +84,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
+- [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
+-
 - [Who is a judge? Courts and judges in Georgia](https://mmlaw.ge/en/blog/who-is-a-judge-in-georgia/)
 
 -
@@ -100,9 +103,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Debtors' register in Georgia: checking and removal](https://mmlaw.ge/en/debtors-register/)
-
--
-- [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
 Practice areas
 

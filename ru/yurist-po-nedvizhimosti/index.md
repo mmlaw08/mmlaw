@@ -55,6 +55,12 @@
 
 - Консультации для иностранных покупателей
 
+- [Квартира в «гирао» (залог за проживание)](https://mmlaw.ge/ru/girao-kvartira-zalog/)
+
+- [Договор аренды квартиры](https://mmlaw.ge/ru/dogovor-arendy-kvartiry/)
+
+- [Ипотека](https://mmlaw.ge/ru/ipoteka-v-gruzii/)
+
 ## Вопросы и ответы
 
 ### Где регистрируется право собственности?
@@ -89,6 +95,9 @@
 - [Покупка квартиры в Грузии: что проверить](https://mmlaw.ge/ru/blog/pokupka-kvartiry-chto-proverit/)
 
 -
+- [Договор аренды квартиры](https://mmlaw.ge/ru/dogovor-arendy-kvartiry/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
@@ -105,9 +114,6 @@
 
 -
 - [Покупка и продажа недвижимости · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prodazha-nedvizhimosti/)
-
--
-- [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
 
 Области практики
 

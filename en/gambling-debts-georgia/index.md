@@ -99,7 +99,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
 
 -
-- [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
+- [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
 
 Practice areas
 

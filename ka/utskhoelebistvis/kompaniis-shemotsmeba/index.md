@@ -125,5 +125,7 @@
 
 - [კრიპტოვალუტა: გადასახადი და VASP რეგისტრაცია](https://mmlaw.ge/ka/utskhoelebistvis/kriptovaluta-sakartveloshi/) — ფიზიკური პირის კრიპტო შემოსავალი გადასახადისგან თავისუფალია; კრიპტო ბიზნესს ეროვნული ბანკის VASP რეგისტრაცია სჭირდება.
 
+- [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-shemotsmeba/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -84,6 +84,9 @@
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
+- [იპოთეკა](https://mmlaw.ge/ka/ipoteka/)
+
+-
 - [იცოდე, ვინ არის მოსამართლე](https://mmlaw.ge/ka/blogi/itsode-vin-aris-mosamartle/)
 
 -
@@ -100,9 +103,6 @@
 
 -
 - [მოვალეთა რეესტრი: შემოწმება და ამორიცხვა](https://mmlaw.ge/ka/movaleta-reestri/)
-
--
-- [მეუღლეთა ქონების გაყოფა განქორწინებისას](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
 
 პრაქტიკის სფეროები
 

@@ -71,6 +71,10 @@
 
 მყიდველი იხდის საჯარო რეესტრში რეგისტრაციის საფასურს. გამყიდველი ფიზიკური პირი, რომელსაც ბინა 2 წელზე მეტი ხნის განმავლობაში ჰქონდა, გაყიდვიდან მიღებულ ნამეტზე საშემოსავლო გადასახადს არ იხდის.
 
+### შეუძლია უცხოელს ბინის ყიდვა ბინადრობის ნებართვის გარეშე?
+
+დიახ. ბინის, სახლის და არასასოფლო-სამეურნეო მიწის ყიდვა ბინადრობის ნებართვისა და მოქალაქეობის გარეშეც შეიძლება. შეზღუდვა მხოლოდ სასოფლო-სამეურნეო მიწას ეხება.
+
 ## სამართლებრივი საფუძველი
 
 - [სამოქალაქო კოდექსი](https://matsne.gov.ge/ka/document/view/31702)
@@ -95,10 +99,16 @@
 - [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
 
 -
+- [მიწა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/)
+
+-
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
 
 -
 - [ბინის ყიდვა — რა უნდა შევამოწმოთ?](https://mmlaw.ge/ka/blogi/binis-qidva-ra-shevamotsmot/)
+
+-
+- [ბინის ქირავნობის ხელშეკრულება](https://mmlaw.ge/ka/binis-kiravnobis-khelshekruleba/)
 
 -
 - [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
@@ -108,12 +118,6 @@
 
 -
 - [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
-
--
-- [საოჯახო საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/)
-
--
-- [ბინადრობის ნებართვა: რომელი ტიპი გჭირდებათ?](https://mmlaw.ge/ka/blogi/binadrobis-nebartvis-tipebi/)
 
 უცხოელებისთვის
 
@@ -152,6 +156,8 @@
 - [კრიპტოვალუტა: გადასახადი და VASP რეგისტრაცია](https://mmlaw.ge/ka/utskhoelebistvis/kriptovaluta-sakartveloshi/) — ფიზიკური პირის კრიპტო შემოსავალი გადასახადისგან თავისუფალია; კრიპტო ბიზნესს ეროვნული ბანკის VASP რეგისტრაცია სჭირდება.
 
 - [კომპანიის შემოწმება საქმიან ურთიერთობამდე](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-shemotsmeba/) — ქართული კომპანიის შემოწმება ხელშეკრულებამდე: მეწარმეთა რეესტრი, გირავნობა, მოვალეთა რეესტრი, სასამართლო და ვალები.
+
+- [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

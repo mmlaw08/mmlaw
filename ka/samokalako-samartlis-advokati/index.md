@@ -127,6 +127,9 @@
 - [ხელშეკრულების შედგენა და შემოწმება](https://mmlaw.ge/ka/khelshekrulebis-shedgena/)
 
 -
+- [იპოთეკა](https://mmlaw.ge/ka/ipoteka/)
+
+-
 - [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
 
 -
@@ -137,9 +140,6 @@
 
 -
 - [ხანდაზმული სესხი: სესხის ხანდაზმულობის ვადა და დაცვა](https://mmlaw.ge/ka/khandazmuli-seskhi/)
-
--
-- [ყადაღის მოხსნა საბანკო ანგარიშზე და ქონებაზე](https://mmlaw.ge/ka/yadaghis-mokhsna/)
 
 პრაქტიკის სფეროები
 

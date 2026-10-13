@@ -144,5 +144,7 @@
 
 - [კომპანიის შემოწმება საქმიან ურთიერთობამდე](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-shemotsmeba/) — ქართული კომპანიის შემოწმება ხელშეკრულებამდე: მეწარმეთა რეესტრი, გირავნობა, მოვალეთა რეესტრი, სასამართლო და ვალები.
 
+- [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

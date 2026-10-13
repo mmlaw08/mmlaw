@@ -99,7 +99,7 @@
 - [ვალის დაბრუნება](https://mmlaw.ge/ka/valis-dabruneba/)
 
 -
-- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [იპოთეკა](https://mmlaw.ge/ka/ipoteka/)
 
 პრაქტიკის სფეროები
 

@@ -71,6 +71,9 @@
 - [Иммиграционные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/)
 
 -
+- [Земля для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
@@ -81,9 +84,6 @@
 
 -
 - [Возврат долга](https://mmlaw.ge/ru/vozvrat-dolga/)
-
--
-- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 Иностранцам
 
@@ -122,6 +122,8 @@
 - [Криптовалюта: налоги и регистрация VASP](https://mmlaw.ge/ru/inostrantsam/kriptovalyuta-v-gruzii/) — Криптодоход физлица освобождён от подоходного налога; криптобизнесу нужна регистрация VASP в Нацбанке и капитал.
 
 - [Проверка грузинской компании](https://mmlaw.ge/ru/inostrantsam/proverka-kompanii-v-gruzii/) — Проверка грузинской компании до сделки: реестр предпринимателей, залоги, реестр должников, суды и налоговые долги.
+
+- [Земля для иностранцев](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/) — Иностранец может купить несельхозземлю; сельхозземлю — только по наследству или по инвестиционному плану.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

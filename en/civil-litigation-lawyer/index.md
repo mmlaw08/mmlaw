@@ -127,6 +127,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
 
 -
+- [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
+-
 - [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
 
 -
@@ -137,9 +140,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Time-barred loans in Georgia: limitation period and defence](https://mmlaw.ge/en/time-barred-loans/)
-
--
-- [Removing a seizure on bank accounts and property](https://mmlaw.ge/en/removing-seizure-on-account/)
 
 Practice areas
 

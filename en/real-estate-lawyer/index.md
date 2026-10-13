@@ -55,6 +55,12 @@ A real estate lawyer checks the property and the seller, drafts and reviews cont
 
 - Advice for foreign buyers
 
+- [Apartment for a lump sum (girao)](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)
+
+- [Apartment lease agreement](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+- [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)
+
 ## Questions & answers
 
 ### Where is property ownership registered?
@@ -89,6 +95,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Buying an apartment in Georgia: what to check](https://mmlaw.ge/en/blog/buying-an-apartment-checklist/)
 
 -
+- [Renting an apartment](https://mmlaw.ge/en/apartment-lease-georgia/)
+
+-
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 -
@@ -105,9 +114,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Buying and selling property · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/selling-property-from-abroad/)
-
--
-- [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
 
 Practice areas
 

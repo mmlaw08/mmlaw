@@ -84,6 +84,9 @@
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
+- [Ипотека](https://mmlaw.ge/ru/ipoteka-v-gruzii/)
+
+-
 - [Знай, кто такой судья: суды и судьи в Грузии](https://mmlaw.ge/ru/blog/kto-takoy-sudya/)
 
 -
@@ -100,9 +103,6 @@
 
 -
 - [Реестр должников Грузии: проверка и исключение](https://mmlaw.ge/ru/reestr-dolzhnikov/)
-
--
-- [Раздел имущества супругов при разводе](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
 
 Области практики
 

@@ -71,6 +71,9 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 - [Immigration cases · For foreigners](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/)
 
 -
+- [Land for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -81,9 +84,6 @@ Related practice area: [Real estate](https://mmlaw.ge/en/real-estate-lawyer/)
 
 -
 - [Debt recovery](https://mmlaw.ge/en/debt-recovery-georgia/)
-
--
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 For foreigners
 
@@ -122,6 +122,8 @@ For foreigners
 - [Crypto: tax and VASP registration](https://mmlaw.ge/en/foreigners/crypto-in-georgia/) — An individual's crypto income is tax-exempt; a crypto business needs National Bank VASP registration and capital.
 
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
+
+- [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/disputes-with-developers/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

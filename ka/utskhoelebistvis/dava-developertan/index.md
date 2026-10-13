@@ -71,6 +71,9 @@
 - [იმიგრაციული საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/imigratsiuli-advokati/)
 
 -
+- [მიწა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
@@ -81,9 +84,6 @@
 
 -
 - [ვალის დაბრუნება](https://mmlaw.ge/ka/valis-dabruneba/)
-
--
-- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 უცხოელებისთვის
 
@@ -122,6 +122,8 @@
 - [კრიპტოვალუტა: გადასახადი და VASP რეგისტრაცია](https://mmlaw.ge/ka/utskhoelebistvis/kriptovaluta-sakartveloshi/) — ფიზიკური პირის კრიპტო შემოსავალი გადასახადისგან თავისუფალია; კრიპტო ბიზნესს ეროვნული ბანკის VASP რეგისტრაცია სჭირდება.
 
 - [კომპანიის შემოწმება საქმიან ურთიერთობამდე](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-shemotsmeba/) — ქართული კომპანიის შემოწმება ხელშეკრულებამდე: მეწარმეთა რეესტრი, გირავნობა, მოვალეთა რეესტრი, სასამართლო და ვალები.
+
+- [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

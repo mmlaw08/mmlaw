@@ -158,6 +158,12 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)A spouse or child ran up gambling debts? Who owes the debt, whether the family flat can be taken and how to protect your share.
 
+- [Living in a flat for a lump sum (girao)](https://mmlaw.ge/en/girao-apartment-lump-sum-georgia/)Girao — paying a lump sum to live in a flat rent-free: notarised contract, registry registration, checks and what if the owner won't repay.
+
+- [Renting an apartment](https://mmlaw.ge/en/apartment-lease-georgia/)Renting a flat in Georgia: what the lease must say, bilingual contracts, registering the lease, a sale during the lease and the 5% tax.
+
+- [Mortgage](https://mmlaw.ge/en/mortgage-georgia/)Mortgage contracts in Georgia: notary and registration, ranking of several mortgages, private-lender limits, the interest cap and enforcement disputes.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)
@@ -197,6 +203,8 @@ Every page of the site in one place — services, articles and useful resources.
 - [Crypto: tax and VASP registration](https://mmlaw.ge/en/foreigners/crypto-in-georgia/)An individual's crypto income is tax-exempt; a crypto business needs National Bank VASP registration and capital.
 
 - [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/)Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
+
+- [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/)Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
 - [Georgians abroad](https://mmlaw.ge/en/georgians-abroad/)We handle your matter in Georgia without you having to travel — by power of attorney, remote consultations and constant contact on WhatsApp.
 
