@@ -2063,6 +2063,95 @@ The parties set it freely, but the agreement must be in writing. If the penalty 
 ### Is a contract in English valid?
 Yes, a contract can be made in any language. You may need a Georgian translation for the Public Registry or a court, so we often prepare a bilingual text.
 
+## Banning a family member from gambling in Georgia
+URL: https://mmlaw.ge/en/gambling-ban-family-member/
+
+If a family member is addicted to gambling and harming the family, they can be placed on the list of gambling-dependent persons. For the next 5 years no casino, slot hall, betting shop or online casino can let them play. A family member files the application with the court — we prepare it and gather the evidence.
+
+The list of dependent persons is kept by the Revenue Service. A person can be added in two ways: by their own application to the Revenue Service, or by a judge's order issued on a family member's application. A family member means a parent, spouse, child or someone who lives with the person permanently (Administrative Procedure Code, Articles 21⁸⁵–21⁸⁶).
+For 5 years a listed person cannot enter a casino or slot hall, or bet or play online: operators check every player with the Revenue Service. Only Georgian citizens can be placed on the list.
+
+### How the court case works
+
+1. A family member files a written application with the magistrate or district (city) court where the person lives. The application is free of court fees.
+2. It is accompanied by proof of the family relationship and evidence: bank statements, transfers to betting sites and casinos, loans, messages, witnesses.
+3. The judge sends the application and materials to the person concerned; they have 48 hours from receipt to respond in writing.
+4. The judge issues an order within 3–5 working days — with or without a hearing, behind closed doors if needed. The burden of proof is on the applicant.
+5. The order takes effect immediately. It can be appealed to the Court of Appeal within 3 days; that court decides within 5 working days and its decision is final.
+
+### What the judge considers
+
+- How serious the addiction is — how often and for how much they gamble
+- The financial harm to the family member — debts, sold belongings, family money
+- The individual circumstances — for example, whether there were attempts at treatment or to stop
+
+### Coming off the list
+
+A person stays on the list for 5 years. Early removal is only possible on that person's own application, by court order, and no sooner than 3 years after being listed.
+
+Our services:
+- Court application to place a person on the dependent list
+- Gathering evidence — bank records, debts, messages
+- Representation in court and appeals
+- Advice on self-exclusion with the Revenue Service
+- Application for early removal from the list
+- Protecting family property from gambling debts
+
+### Who can apply to the court?
+A parent, spouse, child or someone who lives permanently with the person.
+
+### How much does it cost and how long does it take?
+The application is free of court fees. The judge issues an order within 3–5 working days and it takes effect immediately.
+
+### Does the ban cover online casinos?
+Yes. It covers casinos, slot halls, betting and online gambling — when the operator holds a Georgian permit.
+
+### Can a person ban themselves?
+Yes — by applying to the Revenue Service. They are also listed for 5 years.
+
+### Who is barred from gambling by law?
+Georgian citizens under 25, foreigners under 18, people employed in public institutions, the National Bank and regulators, and family members registered in the database of socially vulnerable families.
+
+## Gambling debts in Georgia — protecting family property
+URL: https://mmlaw.ge/en/gambling-debts-georgia/
+
+A loan taken for gambling is an ordinary debt — the bank or microfinance lender doesn't care what it was spent on. But one spouse's debt is not automatically the whole family's debt. We help you protect your share, deal with the debts and stop new ones.
+
+Under Article 1170 of the Civil Code, one spouse's debt is collected from their personal property and their share of joint property. Joint marital property can be used only if a court finds that the borrowed money served the common interests of the whole family — and money lost gambling usually doesn't.
+If a spouse spent joint property against the family's interests, a court can increase the other spouse's share on division (Article 1168). Joint property can be divided during the marriage too — protecting your share from new debts.
+
+### What to do
+
+1. Don't sign as a guarantor or co-borrower — then the debt is yours too.
+2. Get the full list of debts: banks, microfinance lenders, private lenders, the debtors register.
+3. Check whether a debt is time-barred and whether interest and penalties exceed the legal limits — the effective annual rate on a loan must not exceed 50%.
+4. If the family flat or car faces enforcement, prove your share and ask for the property to be divided.
+5. To stop new debts, ask the court to place the family member on the list of gambling-dependent persons.
+
+### When the debt is a child's or parent's
+
+Other family members are not liable for an adult child's or parent's debt unless they signed as guarantor or co-borrower. The debt is collected only from the debtor's property. The problem arises when the flat is in the debtor's name — so property matters should be settled early.
+
+Our services:
+- Assessing the debts — limitation, interest, penalties
+- Negotiating restructuring with banks and microfinance lenders
+- Defence in court and at enforcement
+- Protecting the spouse's share when joint property is targeted
+- Dividing joint property during the marriage
+- Banning a family member from gambling
+
+### Can my spouse's gambling debt be collected from our flat?
+Only from their share. Joint property can be used only if a court finds the money served the family's common interests. Money lost gambling usually doesn't.
+
+### Is a loan taken for gambling void?
+No — the purpose of a loan doesn't affect its validity. But interest and penalties above the legal limits can be reduced, and you can refuse to pay a time-barred debt.
+
+### Am I liable for my child's debt?
+No, unless you are a guarantor or co-borrower. An adult child's debt is collected only from their own property.
+
+### How do I stop new debts?
+A family member applies to the court to place the person on the dependent list — after that they cannot gamble at any licensed casino or betting operator for 5 years.
+
 ## Legal help for foreigners in Georgia
 URL: https://mmlaw.ge/en/foreigners/
 
@@ -2373,6 +2462,43 @@ No later than 10 working days from the application, and the certificate within 2
 
 ### Is registering as a sole trader enough to work in Georgia?
 Not since 1 March 2026. You also need the right to work and a suitable residence permit or visa.
+
+## Gambling licence in Georgia — casino, betting, online
+URL: https://mmlaw.ge/en/foreigners/gambling-licence-georgia/
+
+In Georgia, organising any game of chance or prize game — from a casino to online betting — requires a permit issued by the Revenue Service. Permits are issued only to businesses registered in Georgia. We help register the company, choose and obtain the right permit, and then comply with the permit conditions.
+
+Permits are needed for casinos, slot halls, gambling clubs, betting (totalisator), lotto, bingo, promotional draws and their online forms, and for supplying games to other operators. Operating without a permit or breaching permit conditions leads to sanctions.
+For online casinos and slot games, one permit covers only one website on one domain name. There are also separate 'international' online permits — Georgian citizens may not take part in games run under them.
+
+### Key conditions
+
+- The Revenue Service issues permits and supervises operators; inspections can happen at any time during the year
+- Permits are issued only to businesses registered in Georgia — a foreign company needs a Georgian company
+- A casino must have at least 5 gaming tables
+- Gambling is not allowed in children's, medical and educational institutions, places of worship, libraries, museums, government buildings or zones banned by the municipality
+
+### Player checks
+
+- Georgian citizens under 25 and foreigners under 18 may not play — the operator must check age against an ID document
+- People on the dependent or banned persons lists may not be admitted; the Revenue Service gives operators this information
+- Information collected about players is kept for 5 years and is confidential
+
+- Choosing the permit type — land-based, online or international
+- Registering a Georgian company for a foreign investor
+- Preparing the permit application for the Revenue Service
+- Setting up age and list checks for players
+- Representation during inspections and appeals against fines
+- Contracts with game suppliers and partners
+
+### Can a foreign company get a permit?
+Not directly. Permits are issued only to businesses registered in Georgia, so a Georgian company has to be registered first — we can handle that.
+
+### What is an 'international' online permit?
+It is an online casino, slots or betting permit under which Georgian citizens may not be admitted to play.
+
+### How many websites does one online permit cover?
+For online casino and slot games, one permit covers only one website on one domain name.
 
 ## Accepting an inheritance in Georgia from abroad
 URL: https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/

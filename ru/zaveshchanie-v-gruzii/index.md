@@ -90,6 +90,9 @@
 - [Раздел имущества супругов при разводе](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
 
 -
+- [Долги из-за азартных игр](https://mmlaw.ge/ru/dolgi-iz-za-azartnykh-igr/)
+
+-
 - [Как принять наследство в Грузии из-за рубежа](https://mmlaw.ge/ru/blog/nasledstvo-iz-za-rubezha/)
 
 -
@@ -100,9 +103,6 @@
 
 -
 - [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
-
--
-- [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 Области практики
 

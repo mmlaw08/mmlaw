@@ -112,6 +112,9 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 - [Individual entrepreneur in Georgia: the 1% tax for foreigners](https://mmlaw.ge/en/blog/individual-entrepreneur-georgia-1-percent-tax/)
 
 -
+- [Gambling licence · For foreigners](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)
+
+-
 - [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
 
 -
@@ -119,9 +122,6 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
 - [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
-
--
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 For foreigners
 
@@ -142,6 +142,8 @@ For foreigners
 - [Residence permits](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/) — Work, business, property, family and investment residence permits — applications, extensions and appeals.
 
 - [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/) — International divorce, children and alimony, recognition of foreign decisions.
+
+- [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/) — Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/it-companies-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

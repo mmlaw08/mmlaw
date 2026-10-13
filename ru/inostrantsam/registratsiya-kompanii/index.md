@@ -95,6 +95,9 @@
 - [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
 
 -
+- [Разрешение на игорный бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -105,9 +108,6 @@
 
 -
 - [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
-
--
-- [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 Иностранцам
 
@@ -128,6 +128,8 @@
 - [Семейные дела](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/) — Международный развод, дети и алименты, признание иностранных решений.
 
 - [IT-компании и IT-специалисты](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/) — Три налоговых режима для IT в Грузии: ИП 1%, виртуальная зона и международная компания 5% — условия и изменения 2026 года.
+
+- [Разрешение на игорный бизнес](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/) — Казино, слоты, тотализатор и онлайн-игры в Грузии: кто может получить разрешение, условия и что запрещено организатору.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -87,6 +87,9 @@
 - [ოჯახში ძალადობა — მუხლი 126¹](https://mmlaw.ge/ka/danashaulebi/ojakhshi-dzaladoba-mukhli-126-1/)
 
 -
+- [აზარტული თამაშების აკრძალვა ოჯახის წევრისთვის](https://mmlaw.ge/ka/azartuli-tamashebis-akrdzalva/)
+
+-
 - [სისხლის სამართლის ადვოკატი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
 
 -
@@ -97,9 +100,6 @@
 
 -
 - [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
-
--
-- [თაღლითობის ბრალდება: რა სასჯელია და როგორ დავიცვათ თავი](https://mmlaw.ge/ka/blogi/taghlitobis-braldeba/)
 
 პრაქტიკის სფეროები
 

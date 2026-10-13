@@ -88,13 +88,13 @@
 - [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
 
 -
+- [აზარტული ბიზნესის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/)
+
+-
 - [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
 
 -
 - [საგადასახადო ადვოკატი](https://mmlaw.ge/ka/sagadasakhado-advokati/)
-
--
-- [დირექტორის პასუხისმგებლობა და კომპანიის გაკოტრება](https://mmlaw.ge/ka/direktoris-pasukhismgebloba/)
 
 ბლოგი
 

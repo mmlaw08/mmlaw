@@ -24,6 +24,10 @@ For foreigners
 
 - [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
 
+- [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/) — Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
+
+- [Get a consultation](https://mmlaw.ge/en/contact/) — Initial consultation is free
+
 01
 
 ### English and Russian
@@ -179,6 +183,18 @@ No later than 10 working days from the application, and the certificate within 2
 ### Is registering as a sole trader enough to work in Georgia?
 
 Not since 1 March 2026. You also need the right to work and a suitable residence permit or visa.
+
+### Can a foreign company get a permit?
+
+Not directly. Permits are issued only to businesses registered in Georgia, so a Georgian company has to be registered first — we can handle that.
+
+### What is an 'international' online permit?
+
+It is an online casino, slots or betting permit under which Georgian citizens may not be admitted to play.
+
+### How many websites does one online permit cover?
+
+For online casino and slot games, one permit covers only one website on one domain name.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

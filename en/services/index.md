@@ -228,6 +228,18 @@ Sale, lease, loan, services, works — we draft contracts and review them before
 A contract is concluded once the parties agree on all essential terms (Civil Code, Article 327). If the law or the parties themselves require a particular form, the contract takes effect only once that form is followed. For example, acquiring real estate requires a written contract and registration of ownership in the Public Registry.
 [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
 
+## [Gambling ban for a family member](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+A family member addicted to gambling? A court order bars them for 5 years from casinos, slots, betting and online gambling.
+The list of dependent persons is kept by the Revenue Service. A person can be added in two ways: by their own application to the Revenue Service, or by a judge's order issued on a family member's application. A family member means a parent, spouse, child or someone who lives with the person permanently (Administrative Procedure Code, Articles 21⁸⁵–21⁸⁶).
+[Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+## [Gambling debts and family property](https://mmlaw.ge/en/gambling-debts-georgia/)
+
+A spouse or child ran up gambling debts? Who owes the debt, whether the family flat can be taken and how to protect your share.
+Under Article 1170 of the Civil Code, one spouse's debt is collected from their personal property and their share of joint property. Joint marital property can be used only if a court finds that the borrowed money served the common interests of the whole family — and money lost gambling usually doesn't.
+[Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

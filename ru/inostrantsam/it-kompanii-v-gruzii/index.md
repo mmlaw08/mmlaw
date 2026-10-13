@@ -112,6 +112,9 @@
 - [Открыть ИП в Грузии иностранцу: налог 1% в 2026 году](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
 
 -
+- [Разрешение на игорный бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/)
+
+-
 - [Адвокат по трудовым спорам](https://mmlaw.ge/ru/advokat-po-trudovym-sporam/)
 
 -
@@ -119,9 +122,6 @@
 
 -
 - [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
-
--
-- [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 Иностранцам
 
@@ -142,6 +142,8 @@
 - [Вид на жительство](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/) — Рабочий, бизнес-, имущественный, семейный и инвестиционный ВНЖ — подача, продление и обжалование.
 
 - [Семейные дела](https://mmlaw.ge/ru/inostrantsam/semeynye-dela/) — Международный развод, дети и алименты, признание иностранных решений.
+
+- [Разрешение на игорный бизнес](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/) — Казино, слоты, тотализатор и онлайн-игры в Грузии: кто может получить разрешение, условия и что запрещено организатору.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

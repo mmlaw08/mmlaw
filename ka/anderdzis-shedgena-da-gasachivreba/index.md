@@ -90,6 +90,9 @@
 - [მეუღლეთა ქონების გაყოფა განქორწინებისას](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
 
 -
+- [აზარტული თამაშის ვალები](https://mmlaw.ge/ka/azartuli-tamashis-valebi/)
+
+-
 - [მემკვიდრეობის მიღება საზღვარგარეთიდან](https://mmlaw.ge/ka/blogi/memkvidreobis-migheba-sazghvargaretidan/)
 
 -
@@ -100,9 +103,6 @@
 
 -
 - [უძრავი ქონების ადვოკატი](https://mmlaw.ge/ka/udzravi-konebis-advokati/)
-
--
-- [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

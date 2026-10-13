@@ -95,6 +95,9 @@
 - [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
 
 -
+- [აზარტული ბიზნესის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -105,9 +108,6 @@
 
 -
 - [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
-
--
-- [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 უცხოელებისთვის
 
@@ -128,6 +128,8 @@
 - [საოჯახო საქმეები](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/) — საერთაშორისო განქორწინება, ბავშვები და ალიმენტი, უცხოური გადაწყვეტილებების ცნობა.
 
 - [IT კომპანიები და სპეციალისტები](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/) — IT-ის სამი საგადასახადო რეჟიმი: ინდმეწარმე 1%, ვირტუალური ზონა და საერთაშორისო კომპანია 5% — პირობები და 2026 წლის ცვლილება.
+
+- [აზარტული ბიზნესის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/) — კაზინო, სლოტები, ტოტალიზატორი, ონლაინ და „საერთაშორისო“ ნებართვა საქართველოში: ვინ იღებს, რა პირობებით და რა ეკრძალება ორგანიზატორს.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

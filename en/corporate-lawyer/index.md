@@ -101,13 +101,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [IT companies and IT specialists · For foreigners](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)
 
 -
+- [Gambling licence · For foreigners](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)
+
+-
 - [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
 
 -
 - [Tax lawyer](https://mmlaw.ge/en/tax-lawyer/)
-
--
-- [Director liability and company insolvency](https://mmlaw.ge/en/director-liability-and-insolvency/)
 
 Practice areas
 

@@ -880,6 +880,50 @@ The parties set it freely, but the agreement must be in writing. If the penalty 
 
 Yes, a contract can be made in any language. You may need a Georgian translation for the Public Registry or a court, so we often prepare a bilingual text.
 
+## Gambling ban for a family member
+
+[Open page](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+### Who can apply to the court?
+
+A parent, spouse, child or someone who lives permanently with the person.
+
+### How much does it cost and how long does it take?
+
+The application is free of court fees. The judge issues an order within 3–5 working days and it takes effect immediately.
+
+### Does the ban cover online casinos?
+
+Yes. It covers casinos, slot halls, betting and online gambling — when the operator holds a Georgian permit.
+
+### Can a person ban themselves?
+
+Yes — by applying to the Revenue Service. They are also listed for 5 years.
+
+### Who is barred from gambling by law?
+
+Georgian citizens under 25, foreigners under 18, people employed in public institutions, the National Bank and regulators, and family members registered in the database of socially vulnerable families.
+
+## Gambling debts and family property
+
+[Open page](https://mmlaw.ge/en/gambling-debts-georgia/)
+
+### Can my spouse's gambling debt be collected from our flat?
+
+Only from their share. Joint property can be used only if a court finds the money served the family's common interests. Money lost gambling usually doesn't.
+
+### Is a loan taken for gambling void?
+
+No — the purpose of a loan doesn't affect its validity. But interest and penalties above the legal limits can be reduced, and you can refuse to pay a time-barred debt.
+
+### Am I liable for my child's debt?
+
+No, unless you are a guarantor or co-borrower. An adult child's debt is collected only from their own property.
+
+### How do I stop new debts?
+
+A family member applies to the court to place the person on the dependent list — after that they cannot gamble at any licensed casino or betting operator for 5 years.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)
@@ -1015,6 +1059,18 @@ No later than 10 working days from the application, and the certificate within 2
 ### Is registering as a sole trader enough to work in Georgia?
 
 Not since 1 March 2026. You also need the right to work and a suitable residence permit or visa.
+
+### Can a foreign company get a permit?
+
+Not directly. Permits are issued only to businesses registered in Georgia, so a Georgian company has to be registered first — we can handle that.
+
+### What is an 'international' online permit?
+
+It is an online casino, slots or betting permit under which Georgian citizens may not be admitted to play.
+
+### How many websites does one online permit cover?
+
+For online casino and slot games, one permit covers only one website on one domain name.
 
 ## Georgians abroad
 

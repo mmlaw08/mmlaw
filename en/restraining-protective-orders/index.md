@@ -87,6 +87,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Domestic violence — Article 126¹](https://mmlaw.ge/en/crimes/domestic-violence-article-126-1/)
 
 -
+- [Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+-
 - [Criminal defence lawyer](https://mmlaw.ge/en/criminal-defense-lawyer/)
 
 -
@@ -97,9 +100,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
 
 Practice areas
 

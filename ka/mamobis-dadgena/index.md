@@ -70,6 +70,12 @@
 - [მეუღლეთა ქონების გაყოფა განქორწინებისას](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
 
 -
+- [აზარტული თამაშების აკრძალვა ოჯახის წევრისთვის](https://mmlaw.ge/ka/azartuli-tamashebis-akrdzalva/)
+
+-
+- [აზარტული თამაშის ვალები](https://mmlaw.ge/ka/azartuli-tamashis-valebi/)
+
+-
 - [ალიმენტი საქართველოში: როგორ განისაზღვრება ოდენობა](https://mmlaw.ge/ka/blogi/alimentis-odenoba/)
 
 -
@@ -77,12 +83,6 @@
 
 -
 - [შემაკავებელი და დამცავი ორდერი](https://mmlaw.ge/ka/shemakavebeli-da-damtsavi-orderi/)
-
--
-- [ბავშვის საზღვარგარეთ გაყვანა: მშობლის თანხმობა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
-
--
-- [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 პრაქტიკის სფეროები
 

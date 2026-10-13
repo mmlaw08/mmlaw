@@ -106,6 +106,9 @@
 - [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
 
 -
+- [Разрешение на игорный бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/)
+
+-
 - [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
 
 -
@@ -116,9 +119,6 @@
 
 -
 - [Вид на жительство · Иностранцам](https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/)
-
--
-- [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 Блог
 

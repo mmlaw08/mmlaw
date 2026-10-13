@@ -105,5 +105,7 @@
 
 - [IT-компании и IT-специалисты](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/) — Три налоговых режима для IT в Грузии: ИП 1%, виртуальная зона и международная компания 5% — условия и изменения 2026 года.
 
+- [Разрешение на игорный бизнес](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/) — Казино, слоты, тотализатор и онлайн-игры в Грузии: кто может получить разрешение, условия и что запрещено организатору.
+
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

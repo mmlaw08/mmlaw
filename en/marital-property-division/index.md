@@ -79,6 +79,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#Court cases](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
+- [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
+
+-
 - [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 -
@@ -88,6 +91,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Establishing paternity in court](https://mmlaw.ge/en/establishing-paternity/)
 
 -
+- [Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+-
 - [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 -
@@ -95,12 +101,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
-
--
-- [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
-
--
-- [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
 
 Practice areas
 

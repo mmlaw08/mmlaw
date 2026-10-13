@@ -105,5 +105,7 @@ For foreigners
 
 - [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
 
+- [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/) — Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
+
 ---
 Source: https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

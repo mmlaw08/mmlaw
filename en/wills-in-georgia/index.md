@@ -90,6 +90,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
 -
+- [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
+
+-
 - [Accepting an inheritance in Georgia from abroad](https://mmlaw.ge/en/blog/inheritance-from-abroad/)
 
 -
@@ -100,9 +103,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
-
--
-- [Family and divorce lawyer](https://mmlaw.ge/en/family-lawyer/)
 
 Practice areas
 

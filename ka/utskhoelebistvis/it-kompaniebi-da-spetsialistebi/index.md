@@ -112,6 +112,9 @@
 - [ინდივიდუალური მეწარმე და 1% გადასახადი უცხოელისთვის](https://mmlaw.ge/ka/blogi/individualuri-metsarme-utskhoelistvis/)
 
 -
+- [აზარტული ბიზნესის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/)
+
+-
 - [შრომის სამართლის ადვოკატი](https://mmlaw.ge/ka/shromis-samartlis-advokati/)
 
 -
@@ -119,9 +122,6 @@
 
 -
 - [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
-
--
-- [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 უცხოელებისთვის
 
@@ -142,6 +142,8 @@
 - [ბინადრობის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/) — სამუშაო, ბიზნეს, ქონებრივი, საოჯახო და საინვესტიციო ბინადრობა — განაცხადი, გაგრძელება და გასაჩივრება.
 
 - [საოჯახო საქმეები](https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/) — საერთაშორისო განქორწინება, ბავშვები და ალიმენტი, უცხოური გადაწყვეტილებების ცნობა.
+
+- [აზარტული ბიზნესის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/) — კაზინო, სლოტები, ტოტალიზატორი, ონლაინ და „საერთაშორისო“ ნებართვა საქართველოში: ვინ იღებს, რა პირობებით და რა ეკრძალება ორგანიზატორს.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -81,10 +81,10 @@
 - [მეუღლეთა ქონების გაყოფა განქორწინებისას](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
 
 -
-- [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
+- [აზარტული თამაშების აკრძალვა ოჯახის წევრისთვის](https://mmlaw.ge/ka/azartuli-tamashebis-akrdzalva/)
 
 -
-- [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
+- [აზარტული თამაშის ვალები](https://mmlaw.ge/ka/azartuli-tamashis-valebi/)
 
 ბლოგი
 

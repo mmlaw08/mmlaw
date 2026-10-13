@@ -79,6 +79,10 @@ If both spouses agree and there is no dispute about children or property, the di
 
 - [Taking a child abroad — consent and disputes](https://mmlaw.ge/en/taking-a-child-abroad/)
 
+- [Gambling ban for a family member](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+- [Gambling debts and family property](https://mmlaw.ge/en/gambling-debts-georgia/)
+
 ## Questions & answers
 
 ### Can we divorce without going to court?
@@ -125,13 +129,13 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
 -
+- [Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+-
+- [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
+
+-
 - [Legal help for Georgians living abroad](https://mmlaw.ge/en/georgians-abroad/)
-
--
-- [Divorce from abroad: without coming to Georgia](https://mmlaw.ge/en/blog/divorce-from-abroad-georgia/)
-
--
-- [Debts and enforcement · Georgians abroad](https://mmlaw.ge/en/georgians-abroad/debts-and-enforcement/)
 
 Practice areas
 

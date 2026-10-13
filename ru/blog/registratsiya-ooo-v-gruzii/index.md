@@ -88,13 +88,13 @@
 - [IT-компании и IT-специалисты · Иностранцам](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/)
 
 -
+- [Разрешение на игорный бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/)
+
+-
 - [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
 
 -
 - [Налоговый адвокат](https://mmlaw.ge/ru/nalogovyy-advokat/)
-
--
-- [Ответственность директора и банкротство компании](https://mmlaw.ge/ru/otvetstvennost-direktora/)
 
 Блог
 

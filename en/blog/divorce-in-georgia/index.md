@@ -78,6 +78,12 @@ The parents agree on this; in a dispute, the court decides in the child's best i
 - [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
 -
+- [Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+-
+- [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
+
+-
 - [Child support (alimony) in Georgia: how the amount is set](https://mmlaw.ge/en/blog/alimony-in-georgia/)
 
 -
@@ -85,12 +91,6 @@ The parents agree on this; in a dispute, the court decides in the child's best i
 
 -
 - [Restraining and protective orders](https://mmlaw.ge/en/restraining-protective-orders/)
-
--
-- [Taking a child abroad from Georgia: parental consent](https://mmlaw.ge/en/taking-a-child-abroad/)
-
--
-- [Civil litigation lawyer](https://mmlaw.ge/en/civil-litigation-lawyer/)
 
 Blog
 

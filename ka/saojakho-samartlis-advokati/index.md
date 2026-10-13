@@ -79,6 +79,10 @@
 
 - [ბავშვის საზღვარგარეთ გაყვანა — თანხმობა და დავა](https://mmlaw.ge/ka/bavshvis-sazghvargaret-gayvana/)
 
+- [ოჯახის წევრისთვის აზარტული თამაშების აკრძალვა](https://mmlaw.ge/ka/azartuli-tamashebis-akrdzalva/)
+
+- [აზარტული თამაშის ვალები და ოჯახის ქონება](https://mmlaw.ge/ka/azartuli-tamashis-valebi/)
+
 ## კითხვები და პასუხები
 
 ### შეიძლება განქორწინება სასამართლოს გარეშე?
@@ -125,13 +129,13 @@
 - [მეუღლეთა ქონების გაყოფა განქორწინებისას](https://mmlaw.ge/ka/meughleta-konebis-gayofa/)
 
 -
+- [აზარტული თამაშების აკრძალვა ოჯახის წევრისთვის](https://mmlaw.ge/ka/azartuli-tamashebis-akrdzalva/)
+
+-
+- [აზარტული თამაშის ვალები](https://mmlaw.ge/ka/azartuli-tamashis-valebi/)
+
+-
 - [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
-
--
-- [განქორწინება საზღვარგარეთიდან: საქართველოში ჩამოსვლის გარეშე](https://mmlaw.ge/ka/blogi/gankortsineba-sazghvargaretidan/)
-
--
-- [ვალები და აღსრულება · ემიგრანტებისთვის](https://mmlaw.ge/ka/emigrantebistvis/valebi-da-aghsruleba/)
 
 პრაქტიკის სფეროები
 

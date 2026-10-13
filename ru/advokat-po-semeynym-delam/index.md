@@ -79,6 +79,10 @@
 
 - [Выезд ребёнка за границу — согласие и споры](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
 
+- [Запрет азартных игр для члена семьи](https://mmlaw.ge/ru/zapret-azartnykh-igr/)
+
+- [Игровые долги и имущество семьи](https://mmlaw.ge/ru/dolgi-iz-za-azartnykh-igr/)
+
 ## Вопросы и ответы
 
 ### Можно ли развестись без суда?
@@ -125,13 +129,13 @@
 - [Раздел имущества супругов при разводе](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
 
 -
+- [Запрет азартных игр для члена семьи](https://mmlaw.ge/ru/zapret-azartnykh-igr/)
+
+-
+- [Долги из-за азартных игр](https://mmlaw.ge/ru/dolgi-iz-za-azartnykh-igr/)
+
+-
 - [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
-
--
-- [Развод из-за границы: без приезда в Грузию](https://mmlaw.ge/ru/blog/razvod-iz-za-rubezha/)
-
--
-- [Долги и исполнительное производство · Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/dolgi-i-ispolnenie/)
 
 Области практики
 

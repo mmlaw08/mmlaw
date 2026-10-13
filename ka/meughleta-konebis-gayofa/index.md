@@ -79,6 +79,9 @@
 - [#სასამართლო დავები](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
+- [აზარტული თამაშის ვალები](https://mmlaw.ge/ka/azartuli-tamashis-valebi/)
+
+-
 - [საოჯახო სამართლის ადვოკატი](https://mmlaw.ge/ka/saojakho-samartlis-advokati/)
 
 -
@@ -88,6 +91,9 @@
 - [მამობის დადგენა სასამართლოს გზით](https://mmlaw.ge/ka/mamobis-dadgena/)
 
 -
+- [აზარტული თამაშების აკრძალვა ოჯახის წევრისთვის](https://mmlaw.ge/ka/azartuli-tamashebis-akrdzalva/)
+
+-
 - [სამოქალაქო სამართლის ადვოკატი](https://mmlaw.ge/ka/samokalako-samartlis-advokati/)
 
 -
@@ -95,12 +101,6 @@
 
 -
 - [მემკვიდრეობა და სამკვიდროს მიღება](https://mmlaw.ge/ka/memkvidreobis-advokati/)
-
--
-- [იურიდიული დახმარება საზღვარგარეთ მცხოვრები ქართველებისთვის](https://mmlaw.ge/ka/emigrantebistvis/)
-
--
-- [ალიმენტი საქართველოში: როგორ განისაზღვრება ოდენობა](https://mmlaw.ge/ka/blogi/alimentis-odenoba/)
 
 პრაქტიკის სფეროები
 

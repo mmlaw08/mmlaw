@@ -105,5 +105,7 @@
 
 - [IT კომპანიები და სპეციალისტები](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/) — IT-ის სამი საგადასახადო რეჟიმი: ინდმეწარმე 1%, ვირტუალური ზონა და საერთაშორისო კომპანია 5% — პირობები და 2026 წლის ცვლილება.
 
+- [აზარტული ბიზნესის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/) — კაზინო, სლოტები, ტოტალიზატორი, ონლაინ და „საერთაშორისო“ ნებართვა საქართველოში: ვინ იღებს, რა პირობებით და რა ეკრძალება ორგანიზატორს.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

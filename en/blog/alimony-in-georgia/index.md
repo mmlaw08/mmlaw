@@ -81,10 +81,10 @@ As a rule, the parent who doesn't live with the child.
 - [Dividing marital property in a Georgian divorce](https://mmlaw.ge/en/marital-property-division/)
 
 -
-- [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+- [Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
 
 -
-- [Inheritance lawyer](https://mmlaw.ge/en/inheritance-lawyer/)
+- [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
 
 Blog
 

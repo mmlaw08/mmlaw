@@ -639,6 +639,34 @@ Sale, lease, loan, services, works — we draft contracts and review them before
 
 [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
 
+### [Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+A family member addicted to gambling? A court order bars them for 5 years from casinos, slots, betting and online gambling.
+
+- Court application to place a person on the dependent list
+
+- Gathering evidence — bank records, debts, messages
+
+- Representation in court and appeals
+
+- Advice on self-exclusion with the Revenue Service
+
+[Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)
+
+### [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
+
+A spouse or child ran up gambling debts? Who owes the debt, whether the family flat can be taken and how to protect your share.
+
+- Assessing the debts — limitation, interest, penalties
+
+- Negotiating restructuring with banks and microfinance lenders
+
+- Defence in court and at enforcement
+
+- Protecting the spouse's share when joint property is targeted
+
+[Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

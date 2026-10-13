@@ -87,6 +87,9 @@
 - [Домашнее насилие — Статья 126¹](https://mmlaw.ge/ru/prestupleniya/domashnee-nasilie-statya-126-1/)
 
 -
+- [Запрет азартных игр для члена семьи](https://mmlaw.ge/ru/zapret-azartnykh-igr/)
+
+-
 - [Адвокат по уголовным делам](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
 
 -
@@ -97,9 +100,6 @@
 
 -
 - [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
 
 Области практики
 

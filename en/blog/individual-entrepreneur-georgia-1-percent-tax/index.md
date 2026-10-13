@@ -106,6 +106,9 @@ When your VAT-taxable transactions exceed GEL 100,000 in any 12 months — withi
 - [IT companies and IT specialists · For foreigners](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)
 
 -
+- [Gambling licence · For foreigners](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)
+
+-
 - [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
 
 -
@@ -116,9 +119,6 @@ When your VAT-taxable transactions exceed GEL 100,000 in any 12 months — withi
 
 -
 - [Residence permits · For foreigners](https://mmlaw.ge/en/foreigners/residence-permit-in-georgia/)
-
--
-- [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 Blog
 

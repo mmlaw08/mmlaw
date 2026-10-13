@@ -81,10 +81,10 @@
 - [Раздел имущества супругов при разводе](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
 
 -
-- [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
+- [Запрет азартных игр для члена семьи](https://mmlaw.ge/ru/zapret-azartnykh-igr/)
 
 -
-- [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
+- [Долги из-за азартных игр](https://mmlaw.ge/ru/dolgi-iz-za-azartnykh-igr/)
 
 Блог
 

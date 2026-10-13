@@ -79,6 +79,9 @@
 - [#Судебные споры](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
+- [Долги из-за азартных игр](https://mmlaw.ge/ru/dolgi-iz-za-azartnykh-igr/)
+
+-
 - [Адвокат по семейным делам и разводам](https://mmlaw.ge/ru/advokat-po-semeynym-delam/)
 
 -
@@ -88,6 +91,9 @@
 - [Установление отцовства в суде](https://mmlaw.ge/ru/ustanovlenie-ottsovstva/)
 
 -
+- [Запрет азартных игр для члена семьи](https://mmlaw.ge/ru/zapret-azartnykh-igr/)
+
+-
 - [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 -
@@ -95,12 +101,6 @@
 
 -
 - [Адвокат по наследству](https://mmlaw.ge/ru/advokat-po-nasledstvu/)
-
--
-- [Юридическая помощь гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)
-
--
-- [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
 
 Области практики
 

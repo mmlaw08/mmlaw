@@ -154,6 +154,10 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)Sale, lease, loan, services, works — we draft contracts and review them before you sign. In Georgian, English and Russian.
 
+- [Banning a family member from gambling](https://mmlaw.ge/en/gambling-ban-family-member/)A family member addicted to gambling? A court order bars them for 5 years from casinos, slots, betting and online gambling.
+
+- [Gambling debts](https://mmlaw.ge/en/gambling-debts-georgia/)A spouse or child ran up gambling debts? Who owes the debt, whether the family flat can be taken and how to protect your share.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)
@@ -175,6 +179,8 @@ Every page of the site in one place — services, articles and useful resources.
 - [Family cases](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)International divorce, children and alimony, recognition of foreign decisions.
 
 - [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/)Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
+
+- [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
 
 - [Georgians abroad](https://mmlaw.ge/en/georgians-abroad/)We handle your matter in Georgia without you having to travel — by power of attorney, remote consultations and constant contact on WhatsApp.
 

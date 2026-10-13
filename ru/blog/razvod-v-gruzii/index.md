@@ -78,6 +78,12 @@
 - [Раздел имущества супругов при разводе](https://mmlaw.ge/ru/razdel-imushchestva-suprugov/)
 
 -
+- [Запрет азартных игр для члена семьи](https://mmlaw.ge/ru/zapret-azartnykh-igr/)
+
+-
+- [Долги из-за азартных игр](https://mmlaw.ge/ru/dolgi-iz-za-azartnykh-igr/)
+
+-
 - [Алименты в Грузии: как определяется размер](https://mmlaw.ge/ru/blog/alimenty-v-gruzii/)
 
 -
@@ -85,12 +91,6 @@
 
 -
 - [Охранный и защитный ордер](https://mmlaw.ge/ru/okhrannyy-i-zashchitnyy-order/)
-
--
-- [Выезд ребёнка за границу из Грузии: согласие родителя](https://mmlaw.ge/ru/vyezd-rebenka-za-granitsu/)
-
--
-- [Адвокат по гражданским делам](https://mmlaw.ge/ru/advokat-po-grazhdanskim-delam/)
 
 Блог
 

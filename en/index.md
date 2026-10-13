@@ -175,6 +175,8 @@ Moving to Georgia, buying property, starting a business or facing a legal proble
 
 - [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
 
+- [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/) — Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
+
 - [All services for foreigners](https://mmlaw.ge/en/foreigners/)
 
 Georgians abroad

@@ -106,6 +106,9 @@
 - [IT კომპანიები და სპეციალისტები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/)
 
 -
+- [აზარტული ბიზნესის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/)
+
+-
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
@@ -116,9 +119,6 @@
 
 -
 - [ბინადრობის ნებართვა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/binadrobis-nebartva/)
-
--
-- [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 ბლოგი
 
