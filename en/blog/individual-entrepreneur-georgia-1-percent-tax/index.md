@@ -134,13 +134,13 @@ Yes, under a notarised and apostilled power of attorney translated into Georgian
 - [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
 
 -
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [Tax residency in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/tax-residency-georgia/)
 
 -
-- [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
+- [Double tax treaties · For foreigners](https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/)
 
 -
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
+- [Crypto: tax and VASP registration · For foreigners](https://mmlaw.ge/en/foreigners/crypto-in-georgia/)
 
 Blog
 

@@ -2694,6 +2694,13 @@ That is why refusals often come without an explanation — and that is lawful. W
 3. For a business account, prepare the company documents and beneficial-owner information.
 4. If one bank refuses, another may assess you differently.
 
+### Deposits for foreigners
+
+- A foreigner can open a deposit just like a Georgian citizen — in GEL, USD or EUR
+- Deposits are insured up to GEL 50,000 per depositor per bank, rising to GEL 100,000 from 1 January 2027; payout in GEL within 20 calendar days
+- Insurance covers all types of accounts and includes accrued interest
+- Interest an individual receives from a bank is not taxed in Georgia (Tax Code, Article 131(5)) — check your home country's tax separately
+
 - Preparing documents for the bank
 - Opening a personal account
 - Opening a business account for a company or sole trader
@@ -2712,6 +2719,152 @@ In some cases — through a power of attorney or remote identification, but it d
 
 ### How much does your service cost?
 Our prices for opening accounts are listed on the company registration page.
+
+### How much of my deposit is insured?
+Up to GEL 50,000 per depositor per bank, rising to GEL 100,000 from 1 January 2027.
+
+## Tax residency in Georgia — 183 days, certificate, HNWI
+URL: https://mmlaw.ge/en/foreigners/tax-residency-georgia/
+
+You become a Georgian tax resident if you spend 183 days or more in Georgia in any continuous 12-month period. A resident individual's foreign-source income is not taxed in Georgia. We help confirm residency, obtain the certificate, apply for HNWI status and handle disputes with the Revenue Service.
+
+Under Article 34 of the Tax Code, a person is resident for the whole tax year if they are in Georgia 183 days or more in any continuous 12 calendar months ending in that year. Any part of a day counts as a full day. Time abroad for treatment, holidays, business trips or study counts as time in Georgia. The status is determined separately for each year.
+A resident individual's income from sources outside Georgia is exempt (Article 82(1)(f)). Income earned in Georgia is generally taxed at 20%, dividends at 5%, and interest from a licensed bank is not taxed (Article 131(5)).
+
+### The residence certificate
+
+- The Revenue Service issues it — you can also request it online
+- Decision or certificate within 30 calendar days; up to 30 days to fix any defects
+- On request, the Revenue Service sends the certificate directly to the foreign tax authority and signs the other country's form
+- You need it for treaty relief, for banks and for CRS purposes
+
+### High-net-worth individual (HNWI)
+
+Residency can also be granted without 183 days to a high-net-worth individual (Article 34(6); Finance Minister Order No. 60 of 2023). The main conditions are assets above GEL 3,000,000 or income above GEL 200,000 in each of the last 3 years, property in Georgia worth at least USD 500,000 and, in addition, a residence permit or at least GEL 25,000 of Georgian-source income in the previous year. The status must be applied for again each tax year.
+
+- Assessing residency and counting days
+- Requesting the residence certificate from the Revenue Service
+- HNWI status application
+- Claiming relief under double tax treaties
+- Tax planning for sole traders and companies
+- Disputes with the Revenue Service
+
+### Do I become resident automatically after 183 days?
+Yes — 183 days in any continuous 12-month period ending in the tax year makes you resident for that whole year. The certificate, however, has to be requested separately.
+
+### As a resident, do I pay Georgian tax on foreign income?
+No. A resident individual's foreign-source income is exempt in Georgia. Your home country's law may see it differently — we check that separately.
+
+### Is deposit interest taxed?
+Interest an individual receives from a licensed financial institution, such as a bank, is not taxed and is not included in taxable income.
+
+### How long does the certificate take?
+Within 30 calendar days. If that isn't possible, the Revenue Service tells you the expected date.
+
+## Georgia double tax treaties — US, UK, Germany
+URL: https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/
+
+If you are connected to two countries, both may try to tax your income. A double tax treaty decides which country taxes it and at what rate. Georgia has 58 such treaties. We help you claim treaty relief and prove your residency.
+
+According to the Ministry of Finance's official list, Georgia has 58 double tax treaties in force — including with every EU country, the UK, Switzerland, Turkey, China, Israel and the UAE. The United States and Russia are not on that list.
+If both countries treat you as resident, the treaty resolves it with a sequence of tests: permanent home, centre of vital interests, habitual abode, nationality and, finally, agreement between the two tax authorities.
+
+### Withholding rates
+
+| Country | Dividends | Interest and royalties |
+|---|---|---|
+| United Kingdom (2004, protocol 2010) | 0% (15% on dividends paid out of property income, e.g. by a REIT) | 0% |
+| Germany (2006, protocol 2014) | 0% — company holding ≥50% with over €3m invested; 5% — ≥10% with over €100,000; otherwise 10% | 0% |
+
+### The United States
+
+Georgia's Ministry of Finance does not list a treaty with the US. However, the IRS states officially that the 1973 US–USSR treaty covers Georgia — a treaty much narrower than modern ones. Also, US citizens are taxed by the US on their worldwide income wherever they live, so Georgian tax residency does not end US tax obligations.
+
+- Assessing which country taxes you
+- Residence certificates and foreign forms
+- Reclaiming tax withheld at source
+- Resolving dual residency
+- Planning tax on dividends, interest and royalties
+- Disputes with the Revenue Service
+
+### How many double tax treaties does Georgia have?
+58 according to the Ministry of Finance, including with every EU country and the UK.
+
+### Is there a US–Georgia tax treaty?
+Not on Georgia's list, but the IRS considers the 1973 US–USSR treaty to apply to Georgia. In any case, US citizens are taxed by the US on worldwide income.
+
+### How do I use a treaty?
+You need a residence certificate from the country where you are resident. The Georgian certificate is issued by the Revenue Service within 30 days.
+
+## Crypto in Georgia — tax and VASP registration
+URL: https://mmlaw.ge/en/foreigners/crypto-in-georgia/
+
+In Georgia, income an individual receives from supplying crypto assets is exempt from personal income tax — as the Ministry of Finance has ruled. A crypto business — exchange, conversion, transfers, custody — may operate only after registering with the National Bank. We help set up the company, obtain VASP registration and meet AML requirements.
+
+Under the Ministry of Finance's Public Decision No. 201 of 2019, crypto assets have no location, so an individual's income from supplying them is not Georgian-source income and is exempt from personal income tax. Exchanging crypto for money is not subject to VAT. A public decision binds the Revenue Service until the underlying rules change.
+A company's profits from crypto, however, are taxed under the usual rules. And mind your home country's law — if you are resident there, you may owe tax there.
+
+### VASP registration with the National Bank
+
+- Only an LLC or JSC registered in Georgia can register
+- Registration fee — GEL 5,000
+- Minimum capital: GEL 150,000 — exchange or transfers; GEL 250,000 — other services; GEL 350,000 — a trading platform
+- The National Bank decides within 60 calendar days (which can be extended)
+- Lending virtual assets to individuals is banned, and so are privacy coins
+- A VASP is an obliged entity under the AML law: customer identification and automated transaction monitoring are mandatory
+
+- Assessing tax on crypto income
+- Registering a crypto company
+- VASP registration with the National Bank
+- AML policy and customer due diligence rules
+- Dealing with banks about crypto income
+- Disputes with the Revenue Service and the National Bank
+
+### Do I pay tax on income from selling crypto?
+As an individual — no: under the Ministry of Finance's 2019 public decision, this income is exempt from personal income tax. Different rules apply to companies.
+
+### Can I run a crypto exchange as a sole trader?
+No. Only an LLC or JSC can register as a VASP.
+
+### How much capital does a VASP need?
+From GEL 150,000 to GEL 350,000, depending on the service. Providers registered earlier must meet this by 1 September 2027.
+
+## Checking a Georgian company — registry, debts, courts
+URL: https://mmlaw.ge/en/foreigners/checking-a-georgian-company/
+
+Before you do business with a Georgian company, buy property or pay an advance, check who stands behind it and what risks it carries. In Georgia, much of this information is public. We check the company in every source and give you a clear report — in English, Russian or Georgian.
+
+Business registry data is public (Law on Entrepreneurs, Article 13): it shows the partners, director and representatives, legal form, status and change history, and the extract also covers tax liens and mortgages, public-law restrictions, pledges over movable property and debtors-register information.
+Georgia has no public register of beneficial owners — the registry shows legal owners only. Companies with complex structures therefore need further checks.
+
+### Where we check
+
+| Source | What it shows |
+|---|---|
+| Business registry (napr.gov.ge) | Partners, director, status (including liquidation), change history, registration documents |
+| Movable property and pledges registry | Pledges over company assets, tax liens, leasing |
+| Real estate registry | Who owns property, mortgages, seizures |
+| Debtors register (National Bureau of Enforcement) | Whether the company has debts in enforcement |
+| Court decisions (ecd.court.ge) | Disputes where the company is a party |
+| Revenue Service | VAT status, tax debt and tax liens |
+| Insolvency cases | Rehabilitation or bankruptcy — published on matsne.gov.ge |
+| Public procurement blacklist | Companies banned for dishonest conduct |
+
+- Full company due diligence and report
+- Checking partners and directors
+- Checking property, mortgages and seizures
+- Searching court and enforcement cases
+- Drafting contracts that address the risks
+- Checks before buying a share or a company
+
+### Is information on Georgian companies public?
+Yes. Business registry data and copies of registration documents are public; an official extract is issued for a fee.
+
+### Can I find out who really owns a company?
+The registry shows legal owners. Georgia has no public beneficial-ownership register, so complex structures need further checks.
+
+### How long does a check take?
+A basic check usually takes a few working days; full due diligence depends on the size of the company.
 
 ## Accepting an inheritance in Georgia from abroad
 URL: https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/

@@ -35,6 +35,16 @@ That is why refusals often come without an explanation — and that is lawful. W
 
 - If one bank refuses, another may assess you differently.
 
+## Deposits for foreigners
+
+- A foreigner can open a deposit just like a Georgian citizen — in GEL, USD or EUR
+
+- Deposits are insured up to GEL 50,000 per depositor per bank, rising to GEL 100,000 from 1 January 2027; payout in GEL within 20 calendar days
+
+- Insurance covers all types of accounts and includes accrued interest
+
+- Interest an individual receives from a bank is not taxed in Georgia (Tax Code, Article 131(5)) — check your home country's tax separately
+
 ## Our services
 
 - Preparing documents for the bank
@@ -67,9 +77,15 @@ In some cases — through a power of attorney or remote identification, but it d
 
 Our prices for opening accounts are listed on the company registration page.
 
+### How much of my deposit is insured?
+
+Up to GEL 50,000 per depositor per bank, rising to GEL 100,000 from 1 January 2027.
+
 ## Legal basis
 
 - [Law on Facilitating the Prevention of Money Laundering and Terrorism Financing](https://matsne.gov.ge/ka/document/view/4690334)
+
+- [Law on the Deposit Insurance System](https://matsne.gov.ge/ka/document/view/3679200)
 
 Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
@@ -97,13 +113,13 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 - [Gambling licence · For foreigners](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)
 
 -
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [Tax residency in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/tax-residency-georgia/)
 
 -
-- [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
+- [Double tax treaties · For foreigners](https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/)
 
 -
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
+- [Crypto: tax and VASP registration · For foreigners](https://mmlaw.ge/en/foreigners/crypto-in-georgia/)
 
 For foreigners
 
@@ -134,6 +150,14 @@ For foreigners
 - [Marriage in Georgia for foreigners](https://mmlaw.ge/en/foreigners/marriage-in-georgia-for-foreigners/) — How foreigners marry in Georgia: conditions, documents, apostille, translation, witnesses and using the marriage certificate abroad.
 
 - [Driving licence for foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/) — A foreign licence is valid for 1 year: exchange without exams, the 185-day rule for a Georgian licence, fines for driving without one.
+
+- [Tax residency in Georgia](https://mmlaw.ge/en/foreigners/tax-residency-georgia/) — When you become a Georgian tax resident, the residence certificate, HNWI status and the exemption for foreign income.
+
+- [Double tax treaties](https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/) — Georgia's 58 double tax treaties: how they work, dual residency and the rates with the UK, Germany and the US.
+
+- [Crypto: tax and VASP registration](https://mmlaw.ge/en/foreigners/crypto-in-georgia/) — An individual's crypto income is tax-exempt; a crypto business needs National Bank VASP registration and capital.
+
+- [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

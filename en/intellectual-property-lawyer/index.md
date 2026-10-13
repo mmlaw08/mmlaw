@@ -95,7 +95,7 @@ No — copyright arises automatically when a work is created. Depositing the wor
 - [Contract drafting and review](https://mmlaw.ge/en/contract-drafting-review/)
 
 -
-- [Scammed online? How to try to get your money back](https://mmlaw.ge/en/blog/online-fraud-what-to-do/)
+- [Crypto: tax and VASP registration · For foreigners](https://mmlaw.ge/en/foreigners/crypto-in-georgia/)
 
 Practice areas
 

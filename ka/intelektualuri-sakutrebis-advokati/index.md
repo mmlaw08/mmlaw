@@ -95,7 +95,7 @@
 - [ხელშეკრულების შედგენა და შემოწმება](https://mmlaw.ge/ka/khelshekrulebis-shedgena/)
 
 -
-- [ინტერნეტით მომატყუეს — როგორ დავიბრუნო ფული?](https://mmlaw.ge/ka/blogi/onlain-taghlitoba/)
+- [კრიპტოვალუტა: გადასახადი და VASP რეგისტრაცია · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kriptovaluta-sakartveloshi/)
 
 პრაქტიკის სფეროები
 

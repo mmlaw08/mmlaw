@@ -1148,6 +1148,62 @@ In some cases — through a power of attorney or remote identification, but it d
 
 Our prices for opening accounts are listed on the company registration page.
 
+### How much of my deposit is insured?
+
+Up to GEL 50,000 per depositor per bank, rising to GEL 100,000 from 1 January 2027.
+
+### Do I become resident automatically after 183 days?
+
+Yes — 183 days in any continuous 12-month period ending in the tax year makes you resident for that whole year. The certificate, however, has to be requested separately.
+
+### As a resident, do I pay Georgian tax on foreign income?
+
+No. A resident individual's foreign-source income is exempt in Georgia. Your home country's law may see it differently — we check that separately.
+
+### Is deposit interest taxed?
+
+Interest an individual receives from a licensed financial institution, such as a bank, is not taxed and is not included in taxable income.
+
+### How long does the certificate take?
+
+Within 30 calendar days. If that isn't possible, the Revenue Service tells you the expected date.
+
+### How many double tax treaties does Georgia have?
+
+58 according to the Ministry of Finance, including with every EU country and the UK.
+
+### Is there a US–Georgia tax treaty?
+
+Not on Georgia's list, but the IRS considers the 1973 US–USSR treaty to apply to Georgia. In any case, US citizens are taxed by the US on worldwide income.
+
+### How do I use a treaty?
+
+You need a residence certificate from the country where you are resident. The Georgian certificate is issued by the Revenue Service within 30 days.
+
+### Do I pay tax on income from selling crypto?
+
+As an individual — no: under the Ministry of Finance's 2019 public decision, this income is exempt from personal income tax. Different rules apply to companies.
+
+### Can I run a crypto exchange as a sole trader?
+
+No. Only an LLC or JSC can register as a VASP.
+
+### How much capital does a VASP need?
+
+From GEL 150,000 to GEL 350,000, depending on the service. Providers registered earlier must meet this by 1 September 2027.
+
+### Is information on Georgian companies public?
+
+Yes. Business registry data and copies of registration documents are public; an official extract is issued for a fee.
+
+### Can I find out who really owns a company?
+
+The registry shows legal owners. Georgia has no public beneficial-ownership register, so complex structures need further checks.
+
+### How long does a check take?
+
+A basic check usually takes a few working days; full due diligence depends on the size of the company.
+
 ## Georgians abroad
 
 [Open page](https://mmlaw.ge/en/georgians-abroad/)

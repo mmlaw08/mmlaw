@@ -134,13 +134,13 @@
 - [Банковский счёт для нерезидента · Иностранцам](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/)
 
 -
-- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
+- [Налоговое резидентство Грузии · Иностранцам](https://mmlaw.ge/ru/inostrantsam/nalogovoe-rezidentstvo-gruzii/)
 
 -
-- [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
+- [Соглашения об избежании двойного налогообложения · Иностранцам](https://mmlaw.ge/ru/inostrantsam/dvoynoe-nalogooblozhenie-gruziya/)
 
 -
-- [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
+- [Криптовалюта: налоги и регистрация VASP · Иностранцам](https://mmlaw.ge/ru/inostrantsam/kriptovalyuta-v-gruzii/)
 
 Блог
 

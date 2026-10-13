@@ -118,10 +118,10 @@ Related practice area: [Corporate law](https://mmlaw.ge/en/corporate-lawyer/)
 - [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
 
 -
-- [Employment and labour lawyer](https://mmlaw.ge/en/employment-lawyer/)
+- [Tax residency in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/tax-residency-georgia/)
 
 -
-- [Corporate lawyer](https://mmlaw.ge/en/corporate-lawyer/)
+- [Double tax treaties · For foreigners](https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/)
 
 For foreigners
 
@@ -152,6 +152,14 @@ For foreigners
 - [Driving licence for foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/) — A foreign licence is valid for 1 year: exchange without exams, the 185-day rule for a Georgian licence, fines for driving without one.
 
 - [Bank account for non-residents](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/) — How a foreigner opens a personal or business account at a Georgian bank, what the bank asks for, why it refuses and how to prepare.
+
+- [Tax residency in Georgia](https://mmlaw.ge/en/foreigners/tax-residency-georgia/) — When you become a Georgian tax resident, the residence certificate, HNWI status and the exemption for foreign income.
+
+- [Double tax treaties](https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/) — Georgia's 58 double tax treaties: how they work, dual residency and the rates with the UK, Germany and the US.
+
+- [Crypto: tax and VASP registration](https://mmlaw.ge/en/foreigners/crypto-in-georgia/) — An individual's crypto income is tax-exempt; a crypto business needs National Bank VASP registration and capital.
+
+- [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/it-companies-in-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -91,13 +91,13 @@
 - [საბანკო ანგარიში არარეზიდენტისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/)
 
 -
-- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
+- [საგადასახადო რეზიდენტობა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sagadasakhado-rezidentoba/)
 
 -
-- [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
+- [ორმაგი დაბეგვრის ხელშეკრულებები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/ormagi-dabegvris-khelshekrulebebi/)
 
 -
-- [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
+- [კრიპტოვალუტა: გადასახადი და VASP რეგისტრაცია · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kriptovaluta-sakartveloshi/)
 
 უცხოელებისთვის
 
@@ -128,6 +128,14 @@
 - [მართვის მოწმობა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/martvis-motsmoba-utskhoelistvis/) — უცხოური მოწმობით მართვა 1 წელი, გაცვლა გამოცდის გარეშე, ქართული მოწმობა 185 დღის წესით და ჯარიმა მოწმობის გარეშე მართვისთვის.
 
 - [საბანკო ანგარიში არარეზიდენტისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/) — როგორ გახსნას უცხოელმა პირადი ან ბიზნეს ანგარიში ქართულ ბანკში, რას ითხოვს ბანკი, რატომ ამბობს უარს და როგორ მოემზადოთ.
+
+- [საგადასახადო რეზიდენტობა](https://mmlaw.ge/ka/utskhoelebistvis/sagadasakhado-rezidentoba/) — როდის ხდებით საქართველოს საგადასახადო რეზიდენტი, რეზიდენტობის ცნობა, HNWI სტატუსი და უცხოური შემოსავლის გათავისუფლება.
+
+- [ორმაგი დაბეგვრის ხელშეკრულებები](https://mmlaw.ge/ka/utskhoelebistvis/ormagi-dabegvris-khelshekrulebebi/) — საქართველოს 58 ორმაგი დაბეგვრის ხელშეკრულება: როგორ მუშაობს და რა განაკვეთებია ბრიტანეთთან, გერმანიასთან და აშშ-თან.
+
+- [კრიპტოვალუტა: გადასახადი და VASP რეგისტრაცია](https://mmlaw.ge/ka/utskhoelebistvis/kriptovaluta-sakartveloshi/) — ფიზიკური პირის კრიპტო შემოსავალი გადასახადისგან თავისუფალია; კრიპტო ბიზნესს ეროვნული ბანკის VASP რეგისტრაცია სჭირდება.
+
+- [კომპანიის შემოწმება საქმიან ურთიერთობამდე](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-shemotsmeba/) — ქართული კომპანიის შემოწმება ხელშეკრულებამდე: მეწარმეთა რეესტრი, გირავნობა, მოვალეთა რეესტრი, სასამართლო და ვალები.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

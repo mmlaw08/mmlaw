@@ -107,7 +107,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
 
 -
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
+- [Tax residency in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/tax-residency-georgia/)
 
 Practice areas
 

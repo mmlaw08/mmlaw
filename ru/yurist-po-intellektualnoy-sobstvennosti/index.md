@@ -95,7 +95,7 @@
 - [Составление и проверка договоров](https://mmlaw.ge/ru/sostavlenie-dogovorov/)
 
 -
-- [Обманули в интернете — как вернуть деньги?](https://mmlaw.ge/ru/blog/moshennichestvo-v-internete/)
+- [Криптовалюта: налоги и регистрация VASP · Иностранцам](https://mmlaw.ge/ru/inostrantsam/kriptovalyuta-v-gruzii/)
 
 Области практики
 

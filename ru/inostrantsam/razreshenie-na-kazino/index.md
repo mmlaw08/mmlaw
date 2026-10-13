@@ -91,13 +91,13 @@
 - [Банковский счёт для нерезидента · Иностранцам](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/)
 
 -
-- [Корпоративный юрист](https://mmlaw.ge/ru/korporativnyy-yurist/)
+- [Налоговое резидентство Грузии · Иностранцам](https://mmlaw.ge/ru/inostrantsam/nalogovoe-rezidentstvo-gruzii/)
 
 -
-- [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
+- [Соглашения об избежании двойного налогообложения · Иностранцам](https://mmlaw.ge/ru/inostrantsam/dvoynoe-nalogooblozhenie-gruziya/)
 
 -
-- [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
+- [Криптовалюта: налоги и регистрация VASP · Иностранцам](https://mmlaw.ge/ru/inostrantsam/kriptovalyuta-v-gruzii/)
 
 Иностранцам
 
@@ -128,6 +128,14 @@
 - [Водительские права для иностранцев](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/) — Иностранные права действуют 1 год, обмен без экзаменов, получение грузинских прав по правилу 185 дней и штраф за езду без прав.
 
 - [Банковский счёт для нерезидента](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/) — Как иностранцу открыть личный или бизнес-счёт в грузинском банке, что требует банк, почему отказывает и как подготовиться.
+
+- [Налоговое резидентство Грузии](https://mmlaw.ge/ru/inostrantsam/nalogovoe-rezidentstvo-gruzii/) — Когда вы становитесь налоговым резидентом Грузии, сертификат резидентства, статус HNWI и освобождение иностранного дохода.
+
+- [Соглашения об избежании двойного налогообложения](https://mmlaw.ge/ru/inostrantsam/dvoynoe-nalogooblozhenie-gruziya/) — 58 соглашений Грузии об избежании двойного налогообложения: как работают и какие ставки с Великобританией, Германией и США.
+
+- [Криптовалюта: налоги и регистрация VASP](https://mmlaw.ge/ru/inostrantsam/kriptovalyuta-v-gruzii/) — Криптодоход физлица освобождён от подоходного налога; криптобизнесу нужна регистрация VASP в Нацбанке и капитал.
+
+- [Проверка грузинской компании](https://mmlaw.ge/ru/inostrantsam/proverka-kompanii-v-gruzii/) — Проверка грузинской компании до сделки: реестр предпринимателей, залоги, реестр должников, суды и налоговые долги.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

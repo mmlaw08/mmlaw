@@ -34,7 +34,13 @@ For foreigners
 
 - [Bank account for non-residents](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/) — How a foreigner opens a personal or business account at a Georgian bank, what the bank asks for, why it refuses and how to prepare.
 
-- [Get a consultation](https://mmlaw.ge/en/contact/) — Initial consultation is free
+- [Tax residency in Georgia](https://mmlaw.ge/en/foreigners/tax-residency-georgia/) — When you become a Georgian tax resident, the residence certificate, HNWI status and the exemption for foreign income.
+
+- [Double tax treaties](https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/) — Georgia's 58 double tax treaties: how they work, dual residency and the rates with the UK, Germany and the US.
+
+- [Crypto: tax and VASP registration](https://mmlaw.ge/en/foreigners/crypto-in-georgia/) — An individual's crypto income is tax-exempt; a crypto business needs National Bank VASP registration and capital.
+
+- [Checking a Georgian company](https://mmlaw.ge/en/foreigners/checking-a-georgian-company/) — Before you pay or sign with a Georgian company: business registry, pledges, debtors register, court cases and tax debt.
 
 01
 
@@ -275,6 +281,62 @@ In some cases — through a power of attorney or remote identification, but it d
 ### How much does your service cost?
 
 Our prices for opening accounts are listed on the company registration page.
+
+### How much of my deposit is insured?
+
+Up to GEL 50,000 per depositor per bank, rising to GEL 100,000 from 1 January 2027.
+
+### Do I become resident automatically after 183 days?
+
+Yes — 183 days in any continuous 12-month period ending in the tax year makes you resident for that whole year. The certificate, however, has to be requested separately.
+
+### As a resident, do I pay Georgian tax on foreign income?
+
+No. A resident individual's foreign-source income is exempt in Georgia. Your home country's law may see it differently — we check that separately.
+
+### Is deposit interest taxed?
+
+Interest an individual receives from a licensed financial institution, such as a bank, is not taxed and is not included in taxable income.
+
+### How long does the certificate take?
+
+Within 30 calendar days. If that isn't possible, the Revenue Service tells you the expected date.
+
+### How many double tax treaties does Georgia have?
+
+58 according to the Ministry of Finance, including with every EU country and the UK.
+
+### Is there a US–Georgia tax treaty?
+
+Not on Georgia's list, but the IRS considers the 1973 US–USSR treaty to apply to Georgia. In any case, US citizens are taxed by the US on worldwide income.
+
+### How do I use a treaty?
+
+You need a residence certificate from the country where you are resident. The Georgian certificate is issued by the Revenue Service within 30 days.
+
+### Do I pay tax on income from selling crypto?
+
+As an individual — no: under the Ministry of Finance's 2019 public decision, this income is exempt from personal income tax. Different rules apply to companies.
+
+### Can I run a crypto exchange as a sole trader?
+
+No. Only an LLC or JSC can register as a VASP.
+
+### How much capital does a VASP need?
+
+From GEL 150,000 to GEL 350,000, depending on the service. Providers registered earlier must meet this by 1 September 2027.
+
+### Is information on Georgian companies public?
+
+Yes. Business registry data and copies of registration documents are public; an official extract is issued for a fee.
+
+### Can I find out who really owns a company?
+
+The registry shows legal owners. Georgia has no public beneficial-ownership register, so complex structures need further checks.
+
+### How long does a check take?
+
+A basic check usually takes a few working days; full due diligence depends on the size of the company.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

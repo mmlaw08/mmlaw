@@ -94,7 +94,7 @@ Yes — foreign individuals and companies can be the sole partner and director.
 - [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
 
 -
-- [Intellectual property lawyer](https://mmlaw.ge/en/intellectual-property-lawyer/)
+- [Tax residency in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/tax-residency-georgia/)
 
 Blog
 

@@ -94,7 +94,7 @@
 - [საბანკო ანგარიში არარეზიდენტისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/)
 
 -
-- [ინტელექტუალური საკუთრების ადვოკატი](https://mmlaw.ge/ka/intelektualuri-sakutrebis-advokati/)
+- [საგადასახადო რეზიდენტობა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sagadasakhado-rezidentoba/)
 
 ბლოგი
 

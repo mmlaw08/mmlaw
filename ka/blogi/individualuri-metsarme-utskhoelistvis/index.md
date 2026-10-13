@@ -134,13 +134,13 @@
 - [საბანკო ანგარიში არარეზიდენტისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/)
 
 -
-- [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
+- [საგადასახადო რეზიდენტობა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sagadasakhado-rezidentoba/)
 
 -
-- [შპს-ის რეგისტრაცია საქართველოში: რა გჭირდებათ](https://mmlaw.ge/ka/blogi/shps-is-registratsia/)
+- [ორმაგი დაბეგვრის ხელშეკრულებები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/ormagi-dabegvris-khelshekrulebebi/)
 
 -
-- [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
+- [კრიპტოვალუტა: გადასახადი და VASP რეგისტრაცია · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kriptovaluta-sakartveloshi/)
 
 ბლოგი
 

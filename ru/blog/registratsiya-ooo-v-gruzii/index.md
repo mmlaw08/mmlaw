@@ -94,7 +94,7 @@
 - [Банковский счёт для нерезидента · Иностранцам](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/)
 
 -
-- [Юрист по интеллектуальной собственности](https://mmlaw.ge/ru/yurist-po-intellektualnoy-sobstvennosti/)
+- [Налоговое резидентство Грузии · Иностранцам](https://mmlaw.ge/ru/inostrantsam/nalogovoe-rezidentstvo-gruzii/)
 
 Блог
 
