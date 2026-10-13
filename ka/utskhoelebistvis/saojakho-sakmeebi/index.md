@@ -103,5 +103,7 @@
 
 - [აზარტული ბიზნესის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/) — კაზინო, სლოტები, ტოტალიზატორი, ონლაინ და „საერთაშორისო“ ნებართვა საქართველოში: ვინ იღებს, რა პირობებით და რა ეკრძალება ორგანიზატორს.
 
+- [საქართველოს მოქალაქეობა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/) — ჩვეულებრივი წესი (10 წელი), ქორწინებით (5 წელი), საგამონაკლისო წესი და საქართველოში დაბადებულთა წესი — 2027 წლამდე.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

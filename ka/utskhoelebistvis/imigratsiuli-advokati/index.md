@@ -80,10 +80,10 @@
 - [დავა დეველოპერთან · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/dava-developertan/)
 
 -
-- [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
+- [საქართველოს მოქალაქეობა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/)
 
 -
-- [როგორ გავასაჩივრო ჯარიმა?](https://mmlaw.ge/ka/blogi/jarimis-gasachivreba/)
+- [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
 
 უცხოელებისთვის
 
@@ -106,6 +106,8 @@
 - [IT კომპანიები და სპეციალისტები](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/) — IT-ის სამი საგადასახადო რეჟიმი: ინდმეწარმე 1%, ვირტუალური ზონა და საერთაშორისო კომპანია 5% — პირობები და 2026 წლის ცვლილება.
 
 - [აზარტული ბიზნესის ნებართვა](https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/) — კაზინო, სლოტები, ტოტალიზატორი, ონლაინ და „საერთაშორისო“ ნებართვა საქართველოში: ვინ იღებს, რა პირობებით და რა ეკრძალება ორგანიზატორს.
+
+- [საქართველოს მოქალაქეობა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/) — ჩვეულებრივი წესი (10 წელი), ქორწინებით (5 წელი), საგამონაკლისო წესი და საქართველოში დაბადებულთა წესი — 2027 წლამდე.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/imigratsiuli-advokati/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

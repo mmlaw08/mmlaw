@@ -1,4 +1,4 @@
-# Immigration lawyer in Georgia
+# Immigration lawyer in Tbilisi — entry bans, deportation
 
 When you are turned away at the border, have overstayed or face deportation, time is very short. We act from day one — in English or Russian, in Georgia or remotely.
 
@@ -80,10 +80,10 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [Disputes with developers · For foreigners](https://mmlaw.ge/en/foreigners/disputes-with-developers/)
 
 -
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
+- [Georgian citizenship for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/)
 
 -
-- [How to appeal a fine in Georgia](https://mmlaw.ge/en/blog/how-to-appeal-a-fine/)
+- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
 
 For foreigners
 
@@ -106,6 +106,8 @@ For foreigners
 - [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
 
 - [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/) — Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
+
+- [Georgian citizenship for foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/) — The ordinary route (10 years), through marriage (5 years), the exceptional route and the rule for those born in Georgia — until 2027.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

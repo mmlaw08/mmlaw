@@ -182,6 +182,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/)Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
 
+- [Georgian citizenship for foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/)The ordinary route (10 years), through marriage (5 years), the exceptional route and the rule for those born in Georgia — until 2027.
+
 - [Georgians abroad](https://mmlaw.ge/en/georgians-abroad/)We handle your matter in Georgia without you having to travel — by power of attorney, remote consultations and constant contact on WhatsApp.
 
 - [Accepting an inheritance](https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/)Accepting the estate through a notary by power of attorney, the certificate of inheritance and registering the property.

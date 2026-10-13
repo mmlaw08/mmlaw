@@ -182,6 +182,8 @@
 
 - [Разрешение на игорный бизнес](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/)Казино, слоты, тотализатор и онлайн-игры в Грузии: кто может получить разрешение, условия и что запрещено организатору.
 
+- [Гражданство Грузии для иностранцев](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/)Общий порядок (10 лет), через брак (5 лет), исключительный порядок и правило для родившихся в Грузии — до 2027 года.
+
 - [Гражданам Грузии за рубежом](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/)Мы ведём ваше дело в Грузии без вашего приезда — по доверенности, с удалёнными консультациями и постоянной связью в WhatsApp.
 
 - [Принятие наследства](https://mmlaw.ge/ru/grazhdanam-gruzii-za-rubezhom/prinyatie-nasledstva/)Принятие наследства у нотариуса по доверенности, свидетельство о наследстве и регистрация имущества — без приезда.
@@ -210,7 +212,7 @@
 
 - [Разрешение на работу в Грузии для иностранцев с 2026 года](https://mmlaw.ge/ru/blog/razreshenie-na-rabotu-v-gruzii/)
 
-- [Открыть ИП в Грузии иностранцу: налог 1% в 2026 году](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
+- [Открыть ИП в Грузии иностранцу удалённо: 1% в 2026](https://mmlaw.ge/ru/blog/ip-v-gruzii-dlya-inostrantsa/)
 
 - [Доверенность из-за рубежа для Грузии: как оформить](https://mmlaw.ge/ru/blog/doverennost-iz-za-rubezha/)
 

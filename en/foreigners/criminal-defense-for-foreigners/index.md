@@ -105,5 +105,7 @@ For foreigners
 
 - [Gambling licence](https://mmlaw.ge/en/foreigners/gambling-licence-georgia/) — Casino, slots, betting and online permits in Georgia: who can get one, the conditions and what operators may not do.
 
+- [Georgian citizenship for foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/) — The ordinary route (10 years), through marriage (5 years), the exceptional route and the rule for those born in Georgia — until 2027.
+
 ---
 Source: https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

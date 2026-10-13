@@ -75,13 +75,13 @@
 - [Иммиграционные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/immigratsionnyy-advokat/)
 
 -
+- [Гражданство Грузии для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/)
+
+-
 - [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 -
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
-
--
-- [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 Иностранцам
 
@@ -104,6 +104,8 @@
 - [IT-компании и IT-специалисты](https://mmlaw.ge/ru/inostrantsam/it-kompanii-v-gruzii/) — Три налоговых режима для IT в Грузии: ИП 1%, виртуальная зона и международная компания 5% — условия и изменения 2026 года.
 
 - [Разрешение на игорный бизнес](https://mmlaw.ge/ru/inostrantsam/razreshenie-na-kazino/) — Казино, слоты, тотализатор и онлайн-игры в Грузии: кто может получить разрешение, условия и что запрещено организатору.
+
+- [Гражданство Грузии для иностранцев](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/) — Общий порядок (10 лет), через брак (5 лет), исключительный порядок и правило для родившихся в Грузии — до 2027 года.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/vid-na-zhitelstvo/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

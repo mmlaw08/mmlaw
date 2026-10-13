@@ -121,5 +121,7 @@
 
 - [IT კომპანიები და სპეციალისტები](https://mmlaw.ge/ka/utskhoelebistvis/it-kompaniebi-da-spetsialistebi/) — IT-ის სამი საგადასახადო რეჟიმი: ინდმეწარმე 1%, ვირტუალური ზონა და საერთაშორისო კომპანია 5% — პირობები და 2026 წლის ცვლილება.
 
+- [საქართველოს მოქალაქეობა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/) — ჩვეულებრივი წესი (10 წელი), ქორწინებით (5 წელი), საგამონაკლისო წესი და საქართველოში დაბადებულთა წესი — 2027 წლამდე.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/kazinos-da-totalizatoris-nebartva/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

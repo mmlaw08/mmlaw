@@ -1,7 +1,7 @@
 # Individual entrepreneur in Georgia: the 1% tax for foreigners
 
 How a foreigner registers as an individual entrepreneur in Georgia, gets small business status with the 1% tax, and what changed in 2026.
-[Corporate law](https://mmlaw.ge/en/corporate-lawyer/) · October 11, 2026 · 5 min read · Updated: October 12, 2026
+[Corporate law](https://mmlaw.ge/en/corporate-lawyer/) · October 11, 2026 · 5 min read · Updated: October 13, 2026
 
 An individual entrepreneur (IE) with small business status is the simplest way to start a business in Georgia, so it is popular with foreigners — especially freelancers. But there are details you should know in advance.
 
@@ -47,6 +47,24 @@ You become a Georgian tax resident if you spend 183 days or more in Georgia in a
 
 If your VAT-taxable transactions exceed GEL 100,000 in any continuous 12 months, you must apply to the Revenue Service for VAT registration within 2 working days (Tax Code, Article 165). Services to foreign clients may not count towards this amount — it depends on the type of service and should be checked in advance.
 
+## Can you register remotely?
+
+Yes. You don't have to come to Georgia: your representative registers you under a power of attorney. The power of attorney must be notarised abroad, apostilled (or legalised by a consulate) and translated into Georgian. Opening a bank account, however, usually requires you to attend in person.
+
+## Pitfalls to watch for
+
+- Above GEL 500,000, all income is taxed at 3% until the end of the year — not just the excess
+
+- Not every activity qualifies for 1% — check the activity code before registering
+
+- A declaration every month by the 15th of the next month — even a zero one
+
+- A bank may refuse to open an account — prepare documents on the source of your income
+
+- Registering as a sole trader doesn't give you residence or the right to work — since 2026 that is needed separately
+
+- A sole trader doesn't automatically become a tax resident — that takes 183 days in Georgia
+
 ## How we help
 
 - Choosing the right activity and registering
@@ -89,6 +107,10 @@ Yes. The declaration and the tax are due by the 15th of the following month.
 ### When do I have to register for VAT?
 
 When your VAT-taxable transactions exceed GEL 100,000 in any 12 months — within 2 working days after that. Services to foreign clients may not count towards the amount.
+
+### Can I register as a sole trader remotely?
+
+Yes, under a notarised and apostilled power of attorney translated into Georgian. Opening a bank account usually requires attending in person.
 
 ## Related topics
 

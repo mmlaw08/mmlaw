@@ -1072,6 +1072,26 @@ It is an online casino, slots or betting permit under which Georgian citizens ma
 
 For online casino and slot games, one permit covers only one website on one domain name.
 
+### How many years must I live in Georgia to get citizenship?
+
+By the ordinary route — the last 10 years, lawfully and continuously. The spouse of a Georgian citizen — 5 years. A stateless person with status — 5 years.
+
+### Can I keep my own citizenship?
+
+Only with an exceptional grant. Through the ordinary route or marriage you must give up your previous citizenship.
+
+### My father is Georgian — am I entitled to citizenship?
+
+If a parent was a Georgian citizen when you were born, you are a citizen by birth. For adults, Georgian roots count only for an exceptional grant.
+
+### I was born in Georgia in the Soviet era — what can I get?
+
+Special rules apply to people born in Georgia, but only until 1 January 2027. The conditions depend on your date of birth, your situation in 1993 and whether you hold another citizenship — contact us in good time.
+
+### How long does the decision take?
+
+By law — 3 months. The President makes the decision.
+
 ## Georgians abroad
 
 [Open page](https://mmlaw.ge/en/georgians-abroad/)

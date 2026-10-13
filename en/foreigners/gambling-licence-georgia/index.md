@@ -121,5 +121,7 @@ For foreigners
 
 - [IT companies and IT specialists](https://mmlaw.ge/en/foreigners/it-companies-in-georgia/) — Three tax regimes for IT in Georgia: 1% sole trader, virtual zone and 5% international company — conditions and the 2026 change.
 
+- [Georgian citizenship for foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/) — The ordinary route (10 years), through marriage (5 years), the exceptional route and the rule for those born in Georgia — until 2027.
+
 ---
 Source: https://mmlaw.ge/en/foreigners/gambling-licence-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

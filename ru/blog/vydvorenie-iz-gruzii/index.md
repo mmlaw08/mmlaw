@@ -105,10 +105,10 @@
 - [Споры с застройщиком · Иностранцам](https://mmlaw.ge/ru/inostrantsam/spory-s-zastroyshchikom/)
 
 -
-- [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
+- [Гражданство Грузии для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/)
 
 -
-- [Как обжаловать штраф в Грузии](https://mmlaw.ge/ru/blog/obzhalovanie-shtrafa/)
+- [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
 
 Блог
 

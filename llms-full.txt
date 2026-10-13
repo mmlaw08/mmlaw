@@ -2190,7 +2190,7 @@ Yes, if you ask. A detained foreigner has the right to request that the consulat
 ### Can my family hire a lawyer from abroad?
 Yes. A family member can contact us by phone or WhatsApp; we sign the engagement remotely and step into the case immediately.
 
-## Immigration lawyer in Georgia
+## Immigration lawyer in Tbilisi — entry bans, deportation
 URL: https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/
 
 When you are turned away at the border, have overstayed or face deportation, time is very short. We act from day one — in English or Russian, in Georgia or remotely.
@@ -2499,6 +2499,56 @@ It is an online casino, slots or betting permit under which Georgian citizens ma
 
 ### How many websites does one online permit cover?
 For online casino and slot games, one permit covers only one website on one domain name.
+
+## Georgian citizenship for foreigners — how to get it
+URL: https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/
+
+A foreigner can become a Georgian citizen in several ways — through residence, marriage, birth in Georgia or an exceptional grant. The President of Georgia decides; applications go to the Public Service Development Agency or a consulate. We choose the right route for you, prepare the documents and defend your interests if you are refused.
+
+Since a 2025 amendment, the ordinary route requires lawful, continuous residence in Georgia for the last 10 years (it used to be 5). Residence stops being continuous if you spend more than 90 days in total abroad in a year — study (up to 2 years) and medical treatment don't count.
+Georgia allows dual citizenship only as an exception. For ordinary or marriage-based grants, the decree takes effect only once you prove you have given up your other citizenship. Keeping your own citizenship is possible with an exceptional grant.
+
+### Routes to citizenship
+
+| Route | Conditions | Dual citizenship |
+|---|---|---|
+| Ordinary route (Article 12) | Lawful, continuous residence for the last 10 years; knowledge of Georgian, Georgian history and basic law; a job, real estate, a business or a share in a Georgian company | No — you must give up your citizenship |
+| Marriage to a Georgian citizen (Article 14) | Lawful, continuous residence in Georgia for the last 5 years; language, history and law tests | No — you must give up your citizenship |
+| Exceptional grant (Article 17) | Special merit or state interest: a significant investment, success in sport, science or art, or Georgian roots | Yes |
+| People born in Georgia (Articles 30², 31¹) | A person born in Georgia who doesn't meet the Article 30² conditions, with the language and history/law tests; open until 1 January 2027 | Needs to be checked case by case |
+
+### How the process works
+
+1. The language, history and basic law tests are taken before applying; a pass is valid for 1 year.
+2. You apply to the Public Service Development Agency or a Georgian consulate abroad — in person or through a representative.
+3. The Agency and the Citizenship Commission review the application and the President decides — within 3 months.
+4. On being granted citizenship, you take an oath of loyalty in Georgian.
+
+### When applications are refused
+
+Grounds for refusal include involvement in international or especially grave crimes, state security interests, being wanted, or extradition proceedings. After a refusal you can reapply on the same ground after 6 months. Following a 2025 Constitutional Court decision, a refusal can also be challenged in court.
+
+- Choosing the right route to citizenship
+- Checking your residence period and continuity
+- Preparing and filing documents with the Agency or a consulate
+- Exceptional-grant applications — for investors and people of Georgian origin
+- Citizenship for people born in Georgia before 2027
+- Challenging a refusal
+
+### How many years must I live in Georgia to get citizenship?
+By the ordinary route — the last 10 years, lawfully and continuously. The spouse of a Georgian citizen — 5 years. A stateless person with status — 5 years.
+
+### Can I keep my own citizenship?
+Only with an exceptional grant. Through the ordinary route or marriage you must give up your previous citizenship.
+
+### My father is Georgian — am I entitled to citizenship?
+If a parent was a Georgian citizen when you were born, you are a citizen by birth. For adults, Georgian roots count only for an exceptional grant.
+
+### I was born in Georgia in the Soviet era — what can I get?
+Special rules apply to people born in Georgia, but only until 1 January 2027. The conditions depend on your date of birth, your situation in 1993 and whether you hold another citizenship — contact us in good time.
+
+### How long does the decision take?
+By law — 3 months. The President makes the decision.
 
 ## Accepting an inheritance in Georgia from abroad
 URL: https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/
@@ -3470,6 +3520,19 @@ You become a Georgian tax resident if you spend 183 days or more in Georgia in a
 ### VAT — when registration is mandatory
 
 If your VAT-taxable transactions exceed GEL 100,000 in any continuous 12 months, you must apply to the Revenue Service for VAT registration within 2 working days (Tax Code, Article 165). Services to foreign clients may not count towards this amount — it depends on the type of service and should be checked in advance.
+
+### Can you register remotely?
+
+Yes. You don't have to come to Georgia: your representative registers you under a power of attorney. The power of attorney must be notarised abroad, apostilled (or legalised by a consulate) and translated into Georgian. Opening a bank account, however, usually requires you to attend in person.
+
+### Pitfalls to watch for
+
+- Above GEL 500,000, all income is taxed at 3% until the end of the year — not just the excess
+- Not every activity qualifies for 1% — check the activity code before registering
+- A declaration every month by the 15th of the next month — even a zero one
+- A bank may refuse to open an account — prepare documents on the source of your income
+- Registering as a sole trader doesn't give you residence or the right to work — since 2026 that is needed separately
+- A sole trader doesn't automatically become a tax resident — that takes 183 days in Georgia
 
 ### How we help
 
