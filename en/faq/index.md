@@ -2,6 +2,8 @@
 
 Short, clear answers to the questions clients ask us most often. Can't find yours? Get in touch — the first consultation is free.
 
+Nothing found. Try another word or contact us.
+
 ## General questions
 
 ### How do I choose a lawyer in Georgia?

@@ -796,3 +796,57 @@ document.addEventListener("click", function (ev) {
   dlg.querySelector(".rv-close").addEventListener("click", function () { dlg.close(); });
   dlg.addEventListener("click", function (ev) { if (ev.target === dlg) dlg.close(); });
 })();
+
+// ---------- FAQ page: filter the questions as you type, highlight the words, open answers that match
+(function () {
+  var input = document.querySelector("[data-faq-find]");
+  if (!input) return;
+  var items = [].slice.call(document.querySelectorAll(".faq-group .faq-item"));
+  var groups = [].slice.call(document.querySelectorAll(".faq-group"));
+  var chips = document.querySelector(".faq-chips"), count = document.querySelector("[data-faq-count]"), none = document.querySelector("[data-faq-none]");
+  function norm(s) { return (s || "").toLowerCase().replace(/[«»„“"'.,:;!?()—–\-\/]+/g, " "); }
+  function stem(w) { return w.length >= 7 ? w.slice(0, -2) : w.length >= 5 ? w.slice(0, -1) : w; }
+  function esc(s) { return s.replace(/[&<>]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]; }); }
+  items.forEach(function (it) {
+    var q = it.querySelector("summary h3"), a = it.querySelector(".faq-a p");
+    it._q = q; it._a = a; it._qt = q.textContent; it._at = a ? a.textContent : "";
+    it._s = norm(it._qt + " " + it._at);
+  });
+  function mark(text, stems) {
+    var low = text.toLowerCase(), rs = [];
+    stems.forEach(function (f) {
+      for (var p = low.indexOf(f); p > -1; p = low.indexOf(f, p + f.length)) {
+        var end = p + f.length;
+        while (end < low.length && /[a-z0-9ა-ჰа-яё]/.test(low.charAt(end))) end++;
+        rs.push([p, end]);
+      }
+    });
+    if (!rs.length) return esc(text);
+    rs.sort(function (x, y) { return x[0] - y[0]; });
+    var out = "", at = 0;
+    rs.forEach(function (r) { if (r[0] < at) return; out += esc(text.slice(at, r[0])) + "<mark>" + esc(text.slice(r[0], r[1])) + "</mark>"; at = r[1]; });
+    return out + esc(text.slice(at));
+  }
+  var timer;
+  function run() {
+    var stems = norm(input.value).split(/\s+/).filter(function (w) { return w.length > 1; }).map(stem), n = 0;
+    items.forEach(function (it) {
+      var ok = !stems.length || stems.every(function (f) { return it._s.indexOf(f) > -1; });
+      it.hidden = !ok;
+      if (ok) n++;
+      it._q.innerHTML = stems.length && ok ? mark(it._qt, stems) : esc(it._qt);
+      if (it._a) it._a.innerHTML = stems.length && ok ? mark(it._at, stems) : esc(it._at);
+      // open an answer when the words are only in the answer, so the reader sees why it matched
+      if (stems.length && ok) it.open = !stems.every(function (f) { return norm(it._qt).indexOf(f) > -1; });
+      else if (!stems.length) it.open = false;
+    });
+    groups.forEach(function (g) { g.hidden = !g.querySelector(".faq-item:not([hidden])"); });
+    if (chips) chips.hidden = !!stems.length;
+    count.hidden = !stems.length || !n;
+    count.textContent = n === 1 ? count.getAttribute("data-one") : count.getAttribute("data-many").replace("{n}", n);
+    none.hidden = !stems.length || n > 0;
+  }
+  input.addEventListener("input", function () { clearTimeout(timer); timer = setTimeout(run, 120); });
+  var q0 = new URLSearchParams(location.search).get("q");
+  if (q0) { input.value = q0; run(); }
+})();
