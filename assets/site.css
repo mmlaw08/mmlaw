@@ -1500,3 +1500,5 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 }
 /* "full profile" button: white icon on the dark button */
 .lw-links .btn.lw-prof svg { color: #fff; }
+/* small phones: a long large button wraps instead of pushing the page wider */
+@media (max-width: 400px) { .btn-lg { white-space: normal; height: auto; min-height: 48px; padding-top: 10px; padding-bottom: 10px; text-align: center; line-height: 1.35; max-width: 100%; } }
