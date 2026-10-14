@@ -51,7 +51,7 @@ Grounds for refusal include involvement in international or especially grave cri
 
 By the ordinary route — the last 10 years, lawfully and continuously. The spouse of a Georgian citizen — 5 years. A stateless person with status — 5 years.
 
-### Can I keep my own citizenship?
+### Can I keep my own citizenship (dual citizenship)?
 
 Only with an exceptional grant. Through the ordinary route or marriage you must give up your previous citizenship.
 

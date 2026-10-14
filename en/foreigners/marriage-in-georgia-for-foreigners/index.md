@@ -97,6 +97,10 @@ No. Only a marriage registered by the state has legal effect.
 
 Yes. Under Article 158 of the RF Family Code, a marriage concluded abroad under local law is valid in Russia without re-registration. The certificate needs an apostille and a notarised Russian translation.
 
+### Is a Georgian marriage valid in Germany, Italy or the UK?
+
+Generally yes — a marriage validly concluded in Georgia is recognised if your home country's law has no impediment, for example an earlier marriage. You will need the certificate with an apostille and a certified translation; some countries let you, or require you to, record the marriage with the local registry office.
+
 ## Legal basis
 
 - [Civil Code of Georgia](https://matsne.gov.ge/ka/document/view/31702)

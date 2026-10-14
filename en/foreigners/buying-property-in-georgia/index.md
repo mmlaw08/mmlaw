@@ -75,6 +75,10 @@ The buyer pays the Public Registry registration fee. An individual seller who ha
 
 Yes. A foreigner can buy a flat, house or non-agricultural land without a residence permit or Georgian citizenship. Only agricultural land is restricted.
 
+### Buying an apartment in Batumi off-plan — what should I check?
+
+That the developer owns the land in the Public Registry and the land isn't mortgaged; the construction permit and the number of floors allowed; the developer's finished projects and court cases. Pay in stages tied to construction, and make sure the contract sets a completion date and a penalty for delay. We check all of this before you pay.
+
 ## Legal basis
 
 - [Civil Code of Georgia](https://matsne.gov.ge/ka/document/view/31702)

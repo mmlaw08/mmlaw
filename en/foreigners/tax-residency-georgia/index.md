@@ -59,6 +59,10 @@ Interest an individual receives from a licensed financial institution, such as a
 
 Within 30 calendar days. If that isn't possible, the Revenue Service tells you the expected date.
 
+### Is Georgia a tax haven? Will I still pay tax at home?
+
+Georgian taxes are low and simple — 20% personal income tax, profit tax only when profit is distributed, 1% for small businesses, and no Georgian tax on a resident's foreign income or on bank interest. But Georgia is not a secrecy jurisdiction: it has double tax treaties (including with Germany, France, Italy, Spain and the UK) and exchanges financial account information under CRS. Whether you still owe tax at home depends on your home country's residency rules — leave residence there properly.
+
 ## Legal basis
 
 - [Tax Code of Georgia](https://matsne.gov.ge/ka/document/view/1043717)

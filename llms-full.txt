@@ -2776,6 +2776,9 @@ The buyer pays the Public Registry registration fee. An individual seller who ha
 ### Can I buy a flat in Georgia without residence or citizenship?
 Yes. A foreigner can buy a flat, house or non-agricultural land without a residence permit or Georgian citizenship. Only agricultural land is restricted.
 
+### Buying an apartment in Batumi off-plan — what should I check?
+That the developer owns the land in the Public Registry and the land isn't mortgaged; the construction permit and the number of floors allowed; the developer's finished projects and court cases. Pay in stages tied to construction, and make sure the contract sets a completion date and a penalty for delay. We check all of this before you pay.
+
 ## Disputes with property developers in Georgia
 URL: https://mmlaw.ge/en/foreigners/disputes-with-developers/
 
@@ -3082,7 +3085,7 @@ Grounds for refusal include involvement in international or especially grave cri
 ### How many years must I live in Georgia to get citizenship?
 By the ordinary route — the last 10 years, lawfully and continuously. The spouse of a Georgian citizen — 5 years. A stateless person with status — 5 years.
 
-### Can I keep my own citizenship?
+### Can I keep my own citizenship (dual citizenship)?
 Only with an exceptional grant. Through the ordinary route or marriage you must give up your previous citizenship.
 
 ### My father is Georgian — am I entitled to citizenship?
@@ -3157,6 +3160,9 @@ No. Only a marriage registered by the state has legal effect.
 
 ### Is a marriage in Georgia recognised in Russia?
 Yes. Under Article 158 of the RF Family Code, a marriage concluded abroad under local law is valid in Russia without re-registration. The certificate needs an apostille and a notarised Russian translation.
+
+### Is a Georgian marriage valid in Germany, Italy or the UK?
+Generally yes — a marriage validly concluded in Georgia is recognised if your home country's law has no impediment, for example an earlier marriage. You will need the certificate with an apostille and a certified translation; some countries let you, or require you to, record the marriage with the local registry office.
 
 ## Driving in Georgia on a foreign licence — the rules
 URL: https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/
@@ -3289,6 +3295,9 @@ Interest an individual receives from a licensed financial institution, such as a
 
 ### How long does the certificate take?
 Within 30 calendar days. If that isn't possible, the Revenue Service tells you the expected date.
+
+### Is Georgia a tax haven? Will I still pay tax at home?
+Georgian taxes are low and simple — 20% personal income tax, profit tax only when profit is distributed, 1% for small businesses, and no Georgian tax on a resident's foreign income or on bank interest. But Georgia is not a secrecy jurisdiction: it has double tax treaties (including with Germany, France, Italy, Spain and the UK) and exchanges financial account information under CRS. Whether you still owe tax at home depends on your home country's residency rules — leave residence there properly.
 
 ## Georgia double tax treaties — US, UK, Germany
 URL: https://mmlaw.ge/en/foreigners/double-tax-treaties-georgia/
