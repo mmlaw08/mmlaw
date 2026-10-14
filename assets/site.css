@@ -360,7 +360,14 @@ html.menu-open { overflow: hidden; }
 .nf-links a { text-decoration: underline; text-underline-offset: 3px; }
 
 /* ---------- footer */
-.ftr { border-top: 1px solid var(--line); background: var(--soft); }
+.ftr { position: relative; overflow: hidden; border-top: 1px solid var(--line); background: var(--soft); isolation: isolate; }
+/* footer decoration (CSS only): a gold hairline on top, a fine grid that fades out, a soft gold glow and a faint monogram */
+.ftr::before { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+  background-image: linear-gradient(to right, var(--line) 1px, transparent 1px), linear-gradient(to bottom, var(--line) 1px, transparent 1px);
+  background-size: 56px 56px; opacity: .55;
+  -webkit-mask-image: radial-gradient(ellipse 70% 90% at 100% 0%, #000 0%, transparent 70%); mask-image: radial-gradient(ellipse 70% 90% at 100% 0%, #000 0%, transparent 70%); }
+.ftr::after { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+  background: radial-gradient(600px 300px at 0% 0%, rgba(214,168,92,.14), transparent 70%), linear-gradient(90deg, transparent, rgba(214,168,92,.7), transparent) top / 100% 1px no-repeat; }
 .ftr-in { padding-top: 56px; padding-bottom: 32px; display: flex; flex-direction: column; gap: 32px; }
 .ftr-top { display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between; }
 .ftr-brand { flex: 1 1 280px; display: flex; flex-direction: column; gap: 12px; max-width: 22rem; }
@@ -369,10 +376,21 @@ html.menu-open { overflow: hidden; }
 .socials { display: flex; gap: 8px; }
 .socials a { width: 36px; height: 36px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); display: inline-flex; align-items: center; justify-content: center; color: var(--muted); }
 .socials a:hover { color: var(--fg); background: var(--soft2); }
-.ftr-cols { display: flex; flex-wrap: wrap; gap: 48px; }
-.ftr-cols > div { display: flex; flex-direction: column; gap: 10px; font-size: 14px; }
-.ftr-cols a, .ftr-cols span:not(.ftr-h) { color: var(--muted); }
-.ftr-cols a:hover { color: var(--fg); }
+.ftr-cols { display: grid; grid-template-columns: repeat(4, minmax(0, auto)); gap: 40px; }
+.ftr-col > summary { list-style: none; cursor: default; display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 12px; }
+.ftr-col > summary::-webkit-details-marker { display: none; }
+.ftr-col > summary svg { display: none; }
+.ftr-links { display: flex; flex-direction: column; gap: 10px; font-size: 14px; }
+.ftr-links a, .ftr-links span { display: inline-flex; align-items: center; gap: 8px; }
+.ftr-links svg { flex: none; color: var(--accent); opacity: .85; }
+.ftr-lawyer { display: flex; align-items: center; gap: 12px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); align-self: flex-start; }
+.ftr-lawyer:hover { border-color: var(--accent); }
+.ftr-lawyer img { width: 44px; height: 44px; border-radius: 10px; object-fit: cover; flex: none; border: 1px solid var(--acc-line); }
+.ftr-lawyer > span { display: flex; flex-direction: column; gap: 2px; }
+.ftr-lawyer b { font-size: 14.5px; font-weight: 600; color: var(--fg); }
+.ftr-lawyer > span > span { font-size: 12.5px; color: var(--muted); }
+.ftr-links a, .ftr-links span { color: var(--muted); }
+.ftr-links a:hover { color: var(--fg); }
 .ftr-h { font-weight: 600; }
 .ftr-disc { font-size: 12px; color: var(--muted); }
 .ftr-bottom { display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; padding-top: 24px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); }
@@ -517,8 +535,12 @@ html.menu-open { overflow: hidden; }
   /* footer */
   .ftr-in { padding-top: 40px; padding-bottom: 24px; gap: 24px; }
   .ftr-top { gap: 28px; }
-  .ftr-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 16px; width: 100%; }
-  .ftr-cols > div:last-child { grid-column: 1 / -1; }
+  .ftr-cols { display: flex; flex-direction: column; gap: 0; width: 100%; border-top: 1px solid var(--line); }
+  .ftr-col { border-bottom: 1px solid var(--line); }
+  .ftr-col > summary { cursor: pointer; margin: 0; padding: 14px 0; }
+  .ftr-col > summary svg { display: block; color: var(--muted); transition: transform .2s; }
+  .ftr-col[open] > summary svg { transform: rotate(180deg); }
+  .ftr-col .ftr-links { padding-bottom: 16px; }
   .ftr-bottom { flex-direction: column; gap: 8px; }
 }
 @media (max-width: 360px) {
@@ -1519,3 +1541,19 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .faq-find-box input { flex: 1; min-width: 0; height: 100%; border: 0; outline: 0; background: none; font: inherit; font-size: 16px; color: var(--fg); }
 .faq-find-n, .faq-find-none { margin: 0; font-size: 13.5px; color: var(--muted); }
 .faq-item mark { background: var(--acc-soft); color: inherit; border-radius: 3px; padding: 0 1px; box-shadow: inset 0 -1px 0 rgba(214,168,92,.6); }
+
+/* footer: tablets — brand on top, four columns in two rows */
+@media (max-width: 1100px) and (min-width: 641px) { .ftr-cols { grid-template-columns: repeat(2, minmax(0, 1fr)); width: 100%; } }
+
+/* footer layout: identity band (about · lawyer · actions) above four even link columns */
+.ftr-top { flex-direction: column; gap: 36px; }
+.ftr-brand { max-width: none; display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr) auto; gap: 20px 40px; align-items: center; padding-bottom: 32px; border-bottom: 1px solid var(--line); }
+.ftr-id { display: flex; flex-direction: column; gap: 10px; }
+.ftr-id p { max-width: 30rem; }
+.ftr-lawyer { align-self: center; justify-self: start; }
+.ftr-act { display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }
+.ftr-cols { grid-template-columns: repeat(4, minmax(0, 1fr)); width: 100%; }
+@media (max-width: 1100px) { .ftr-brand { grid-template-columns: 1fr 1fr; } .ftr-id { grid-column: 1 / -1; } }
+@media (max-width: 640px) { .ftr-brand { grid-template-columns: 1fr; padding-bottom: 24px; } .ftr-act { flex-direction: row; flex-wrap: wrap; align-items: center; } }
+.ftr-brand { flex: none; }
+@media (max-width: 640px) { .ftr-cols { border-top: 0; } .ftr-top { gap: 8px; } }

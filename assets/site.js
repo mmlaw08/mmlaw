@@ -850,3 +850,12 @@ document.addEventListener("click", function (ev) {
   var q0 = new URLSearchParams(location.search).get("q");
   if (q0) { input.value = q0; run(); }
 })();
+
+// ---------- footer: link groups start open (so they work without JS); on phones they fold into tap-to-open sections
+(function () {
+  if (!window.matchMedia || !matchMedia("(max-width: 640px)").matches) {
+    document.querySelectorAll(".ftr-col > summary").forEach(function (s) { s.addEventListener("click", function (ev) { if (!matchMedia("(max-width: 640px)").matches) ev.preventDefault(); }); });
+    return;
+  }
+  document.querySelectorAll(".ftr-col").forEach(function (d) { d.open = false; });
+})();
