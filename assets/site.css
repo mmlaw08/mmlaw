@@ -1557,3 +1557,7 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 @media (max-width: 640px) { .ftr-brand { grid-template-columns: 1fr; padding-bottom: 24px; } .ftr-act { flex-direction: row; flex-wrap: wrap; align-items: center; } }
 .ftr-brand { flex: none; }
 @media (max-width: 640px) { .ftr-cols { border-top: 0; } .ftr-top { gap: 8px; } }
+/* lawyer photo in the menu card and footer: a CSS background, so search engines don't treat it as every page's image */
+.mc-photo, .ftr-photo { flex: none; background: url(/assets/team/mariam-madzgharashvili.webp) center / cover no-repeat; }
+.mc-photo { width: 52px; height: 52px; border-radius: 12px; border: 1px solid rgba(214,168,92,.45); }
+.ftr-photo { width: 44px; height: 44px; border-radius: 10px; border: 1px solid var(--acc-line); }
