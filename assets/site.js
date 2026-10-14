@@ -682,26 +682,10 @@ document.addEventListener("click", function (ev) {
   document.querySelectorAll(".lang-dd[open]").forEach(function (d) { if (!d.contains(ev.target)) d.removeAttribute("open"); });
 });
 
-// ---------- reading tools: text size (all languages) and listen (English / Russian)
+// ---------- reading tools: listen (English / Russian); text size is left to the browser's zoom
 (function () {
-  var root = document.documentElement, STEPS = [0.9, 1, 1.12, 1.25, 1.4];
-  var level = 1;
-  try { var sv = parseInt(localStorage.getItem("fs"), 10); if (sv >= 0 && sv < STEPS.length) level = sv; } catch (e) {}
-  function applyFs() {
-    root.style.setProperty("--fsx", STEPS[level]);
-    document.querySelectorAll('[data-fs="-1"]').forEach(function (b) { b.disabled = level === 0; });
-    document.querySelectorAll('[data-fs="1"]').forEach(function (b) { b.disabled = level === STEPS.length - 1; });
-    document.querySelectorAll('[data-fs="0"]').forEach(function (b) { b.textContent = Math.round(STEPS[level] * 100) + "%"; b.classList.toggle("is-changed", level !== 1); });
-  }
-  applyFs();
-  document.querySelectorAll("[data-fs]").forEach(function (b) {
-    b.addEventListener("click", function () {
-      var d = parseInt(b.getAttribute("data-fs"), 10);
-      level = d === 0 ? 1 : Math.max(0, Math.min(STEPS.length - 1, level + d));
-      try { localStorage.setItem("fs", level); } catch (e) {}
-      applyFs();
-    });
-  });
+  var root = document.documentElement;
+  try { localStorage.removeItem("fs"); } catch (e) {}   // forget the old text-size setting
 
   var btn = document.querySelector("[data-listen]"), stopBtn = document.querySelector("[data-listen-stop]");
   var synth = window.speechSynthesis;

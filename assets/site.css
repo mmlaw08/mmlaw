@@ -1561,3 +1561,5 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .mc-photo, .ftr-photo { flex: none; background: url(/assets/team/mariam-madzgharashvili.webp) center / cover no-repeat; }
 .mc-photo { width: 52px; height: 52px; border-radius: 12px; border: 1px solid rgba(214,168,92,.45); }
 .ftr-photo { width: 44px; height: 44px; border-radius: 10px; border: 1px solid var(--acc-line); }
+/* no voice on this device: the Listen bar takes no space */
+.read-tools:not(:has(.rt-btn:not([hidden]))) { display: none; }
