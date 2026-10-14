@@ -521,13 +521,45 @@
       .map(function (r) { return r.it; })
       .filter(function (it) { var k = it.g + "|" + it._t; if (seen[k]) return false; seen[k] = 1; return true; });
   }
+  // highlight the typed words (and their stems) in a result's title and description
+  var hlToks = [];
+  function marks(text) {
+    var low = String(text).toLowerCase(), rs = [];
+    hlToks.forEach(function (w) {
+      stems(w).forEach(function (f) {
+        if (f.length < 2) return;
+        for (var p = low.indexOf(f); p > -1; p = low.indexOf(f, p + f.length)) {
+          var end = p + f.length;
+          while (end < low.length && /[a-z0-9ა-ჰа-яё]/.test(low.charAt(end))) end++;   // mark the whole word, not just the stem
+          rs.push([p, end]);
+        }
+      });
+    });
+    if (!rs.length) return esc(text);
+    rs.sort(function (a, b) { return a[0] - b[0]; });
+    var out = "", at = 0, cur = null;
+    rs.forEach(function (r) { if (cur && r[0] <= cur[1]) cur[1] = Math.max(cur[1], r[1]); else { if (cur) { out += esc(text.slice(at, cur[0])) + "<mark>" + esc(text.slice(cur[0], cur[1])) + "</mark>"; at = cur[1]; } cur = r.slice(); } });
+    out += esc(text.slice(at, cur[0])) + "<mark>" + esc(text.slice(cur[0], cur[1])) + "</mark>" + esc(text.slice(cur[1]));
+    return out;
+  }
+  // when the words are only in the page text, show the sentence around them instead of the description
+  function snippet(it) {
+    var hit = function (s) { var l = String(s || "").toLowerCase(); return hlToks.some(function (w) { return stems(w).some(function (f) { return l.indexOf(f) > -1; }); }); };
+    if (!hlToks.length || hit(it.t) || hit(it.d) || !it.k) return it.d;
+    var l = it.k.toLowerCase(), p = -1;
+    hlToks.some(function (w) { return stems(w).some(function (f) { p = l.indexOf(f); return p > -1; }); });
+    if (p < 0) return it.d;
+    var a = Math.max(0, it.k.lastIndexOf(" ", Math.max(0, p - 50)) + 1), b = it.k.indexOf(" ", Math.min(it.k.length, p + 90));
+    return (a > 0 ? "… " : "") + it.k.slice(a, b < 0 ? it.k.length : b).trim() + (b > -1 ? " …" : "");
+  }
   function item(it, n) {
     var data = idx[it._lang];
+    var desc = snippet(it);
     var ext = it.u.indexOf("http") === 0;
     return '<a class="cmd-item" role="option" id="cmd-o' + n + '" data-i="' + n + '" href="' + esc(it.u) + '"' +
       (ext ? ' target="_blank" rel="noopener"' : "") + (it.s ? " data-sheet" : "") + (it._lang !== cur ? ' hreflang="' + it._lang + '"' : "") + ">" +
-      '<span class="cmd-ic' + (it.c ? " cmd-ic-" + it.c : "") + '">' + ico(data, it.i) + '</span><span class="cmd-tx"><span class="cmd-t">' + esc(it.t) + "</span>" +
-      (it.d ? '<span class="cmd-d">' + esc(it.d) + "</span>" : "") + "</span>" +
+      '<span class="cmd-ic' + (it.c ? " cmd-ic-" + it.c : "") + '">' + ico(data, it.i) + '</span><span class="cmd-tx"><span class="cmd-t">' + marks(it.t) + "</span>" +
+      (desc ? '<span class="cmd-d">' + marks(desc) + "</span>" : "") + "</span>" +
       (it._lang !== cur ? '<span class="cmd-lang">' + it._lang.toUpperCase() + "</span>" : "") + "</a>";
   }
   function render() {
@@ -538,6 +570,7 @@
       list.innerHTML = sk + "</div>"; empty.hidden = true; return;
     }
     var q = norm(input.value).trim(), toks = q.split(/\s+/).filter(Boolean);
+    hlToks = toks;
     var groups = [];   // [label, items]
     if (!toks.length) {
       var feat = main.items.filter(function (it) { return it.f; }).sort(function (a, b) { return (a.g === "act" ? 0 : a.f) - (b.g === "act" ? 0 : b.f); });

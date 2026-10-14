@@ -1510,3 +1510,5 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .mc-more:hover { color: #e8c07a; }
 .mc-more:hover svg { transform: translateX(2px); }
 .mc-more svg { transition: transform .15s; }
+/* search: highlighted matches */
+.cmd-item mark { background: var(--acc-soft); color: inherit; border-radius: 3px; padding: 0 1px; box-shadow: inset 0 -1px 0 rgba(214,168,92,.6); }
