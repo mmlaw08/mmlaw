@@ -312,6 +312,12 @@ A Georgian criminal record (police clearance) certificate: how to get it online,
 The certificate shows information on convictions and on whether the person is wanted (MIA Order No. 892, Article 15). It is issued to the person, to someone else with their written consent, or to a representative with a power of attorney. You can order it online on the Service Agency's website or app, or at any Agency branch.
 [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
 
+## [Extradition from Georgia — defence](https://mmlaw.ge/en/extradition-from-georgia/)
+
+Facing extradition from Georgia (the country): arrest, the 9-month detention limit, grounds for refusal, asylum and appeal deadlines.
+A Georgian citizen cannot be handed over to another state except where an international treaty provides for it (Constitution, Article 32). A foreigner can be extradited if the act is a crime in both countries and carries at least 1 year in prison (Law on International Cooperation in Criminal Matters, Article 18).
+[Does Georgia extradite? Extradition lawyer in Tbilisi](https://mmlaw.ge/en/extradition-from-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

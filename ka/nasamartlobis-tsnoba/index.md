@@ -87,6 +87,9 @@
 - [კოკაინი, ექსტაზი, ამფეტამინი](https://mmlaw.ge/ka/kokaini-ekstazi-amfetamini/)
 
 -
+- [ექსტრადიცია საქართველოდან](https://mmlaw.ge/ka/ekstraditsia/)
+
+-
 - [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 -
@@ -103,9 +106,6 @@
 
 -
 - [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
-
--
-- [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
 
 პრაქტიკის სფეროები
 

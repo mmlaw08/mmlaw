@@ -88,6 +88,9 @@ Yes. We sign the engagement remotely and step into the case right away.
 - [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
 
 -
+- [Does Georgia extradite? Extradition lawyer in Tbilisi](https://mmlaw.ge/en/extradition-from-georgia/)
+
+-
 - [Driving licence for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/)
 
 -
@@ -98,9 +101,6 @@ Yes. We sign the engagement remotely and step into the case right away.
 
 -
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 Blog
 

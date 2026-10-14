@@ -76,6 +76,9 @@
 - [ნასამართლობის ცნობა](https://mmlaw.ge/ka/nasamartlobis-tsnoba/)
 
 -
+- [ექსტრადიცია საქართველოდან](https://mmlaw.ge/ka/ekstraditsia/)
+
+-
 - [სისხლის სამართლის საქმეები · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 -
@@ -89,9 +92,6 @@
 
 -
 - [არასრულწლოვანთა მართლმსაჯულების ადვოკატი](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
-
--
-- [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
 
 პრაქტიკის სფეროები
 

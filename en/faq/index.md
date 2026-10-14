@@ -1150,6 +1150,26 @@ Yes — with your written consent or a power of attorney.
 
 We check whether it has expired. If not, it may be possible to have it removed early through the court.
 
+## Extradition from Georgia — defence
+
+[Open page](https://mmlaw.ge/en/extradition-from-georgia/)
+
+### Does Georgia extradite to the US?
+
+There is no extradition treaty in force between Georgia and the US that we know of; extradition then needs a separate agreement for the individual case, and every refusal ground still applies. Georgian citizens are not extradited.
+
+### Does Georgia extradite to the UK?
+
+Yes, it can — both are parties to the European Convention on Extradition. A court reviews each request, and the grounds for refusal apply.
+
+### Is Georgia a non-extradition country?
+
+No. Georgia does extradite foreigners in some cases, including to Russia; only its own citizens are protected. Each case turns on the treaty, the charge and the refusal grounds.
+
+### How long can I be held pending extradition?
+
+Up to 9 months in total — 3 months, extendable twice. Bail or another milder measure is possible.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)

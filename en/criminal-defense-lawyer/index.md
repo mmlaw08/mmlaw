@@ -113,6 +113,8 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
 
+- [Extradition from Georgia — defence](https://mmlaw.ge/en/extradition-from-georgia/)
+
 ## Crimes and penalties
 
 ### Property crimes6

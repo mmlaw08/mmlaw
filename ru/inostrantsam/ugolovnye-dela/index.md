@@ -69,6 +69,9 @@
 - [Справка о несудимости](https://mmlaw.ge/ru/spravka-o-nesudimosti/)
 
 -
+- [Экстрадиция из Грузии](https://mmlaw.ge/ru/ekstraditsiya-iz-gruzii/)
+
+-
 - [Водительские права для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [Адвокат по делам несовершеннолетних](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
-
--
-- [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
 
 Иностранцам
 

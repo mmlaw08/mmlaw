@@ -113,6 +113,8 @@
 
 - [Справка о несудимости](https://mmlaw.ge/ru/spravka-o-nesudimosti/)
 
+- [Экстрадиция из Грузии — защита](https://mmlaw.ge/ru/ekstraditsiya-iz-gruzii/)
+
 ## Преступления и наказания
 
 ### Имущественные преступления6

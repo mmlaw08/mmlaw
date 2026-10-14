@@ -76,6 +76,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
 
 -
+- [Does Georgia extradite? Extradition lawyer in Tbilisi](https://mmlaw.ge/en/extradition-from-georgia/)
+
+-
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 -
@@ -89,9 +92,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Juvenile lawyer in Georgia: legal help for minors](https://mmlaw.ge/en/juvenile-justice-lawyer/)
-
--
-- [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
 
 Practice areas
 

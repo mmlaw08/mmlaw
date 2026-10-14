@@ -835,6 +835,20 @@ A Georgian criminal record (police clearance) certificate: how to get it online,
 
 [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
 
+### [Does Georgia extradite? Extradition lawyer in Tbilisi](https://mmlaw.ge/en/extradition-from-georgia/)
+
+Facing extradition from Georgia (the country): arrest, the 9-month detention limit, grounds for refusal, asylum and appeal deadlines.
+
+- Defence at the extradition arrest and detention hearing
+
+- Appeals to the Court of Appeals and the Supreme Court
+
+- Arguing the grounds for refusal — political persecution, risk of torture
+
+- Filing for asylum within the deadline
+
+[Does Georgia extradite? Extradition lawyer in Tbilisi](https://mmlaw.ge/en/extradition-from-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

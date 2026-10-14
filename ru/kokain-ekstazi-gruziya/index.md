@@ -82,6 +82,9 @@
 - [Справка о несудимости](https://mmlaw.ge/ru/spravka-o-nesudimosti/)
 
 -
+- [Экстрадиция из Грузии](https://mmlaw.ge/ru/ekstraditsiya-iz-gruzii/)
+
+-
 - [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
 
 Области практики
 
