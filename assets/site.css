@@ -1505,6 +1505,7 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 /* text read by screen readers only */
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 /* menu lawyer card: shows that the box opens her profile */
-.mc-more { display: inline-flex; align-items: center; gap: 5px; margin-top: 4px; font-size: 12.5px; font-weight: 600; color: #d6a85c; }
-.mc-person:hover .mc-more svg { transform: translateX(2px); }
+.mc-more { position: relative; align-self: flex-start; display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; font-weight: 600; color: #d6a85c; }
+.mc-more:hover { color: #e8c07a; }
+.mc-more:hover svg { transform: translateX(2px); }
 .mc-more svg { transition: transform .15s; }
