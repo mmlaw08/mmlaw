@@ -744,15 +744,20 @@ document.addEventListener("click", function (ev) {
   }, { passive: true });
 })();
 
-// ---------- reviews: "read more" only where the text is actually cut
+// ---------- reviews: "read more" only where the text is cut; the full review opens in a dialog (the grid stays put)
 (function () {
-  document.querySelectorAll(".rv").forEach(function (card) {
+  var dlg = document.querySelector(".rv-dlg");
+  if (!dlg || !dlg.showModal) return;
+  var box = dlg.querySelector(".rv-full");
+  document.querySelectorAll(".rv-grid .rv").forEach(function (card) {
     var t = card.querySelector(".rv-t"), b = card.querySelector(".rv-more");
     if (!t || !b || t.scrollHeight <= t.clientHeight + 2) return;
     b.hidden = false;
     b.addEventListener("click", function () {
-      var open = card.classList.toggle("open");
-      b.textContent = open ? b.dataset.less : b.dataset.more;
+      box.innerHTML = card.innerHTML;
+      dlg.showModal();
     });
   });
+  dlg.querySelector(".rv-close").addEventListener("click", function () { dlg.close(); });
+  dlg.addEventListener("click", function (ev) { if (ev.target === dlg) dlg.close(); });
 })();
