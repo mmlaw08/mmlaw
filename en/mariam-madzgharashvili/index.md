@@ -92,12 +92,12 @@ Reviews
 
 ## What clients say
 
-RRamaz Ts.★★★★★ Thank you so much for the qualified and thorough answers. Thanks to your help, today I can confidently say that I won. I fully recommend Ms Mariam. Thank you very much for everything. Translated from Georgian
-BBoris Q.★★★★★ An experienced, professional lawyer who knows her work well. Her many years of experience and responsible approach truly deserve trust. Especially valuable is her ability to assess difficult situations correctly and find an effective way out. Translated from Georgian
-TTsisia A.★★★★★ Thank you so much for your help. An honest and qualified lawyer like you is rare. Translated from Georgian
-LLasha S.★★★★★ Many thanks for the quick response and the professionally handled case! Translated from Georgian
-BBeka B.★★★★★ The team stands out for its competent approach, in-depth analysis and ability to solve legal problems effectively. The communication culture and the search for the best legal solution for every client are especially notable. Translated from Georgian
-SShergil M.★★★★★ The best law office! High responsibility and expertise were felt from the very first day. Thank you very much. Translated from Georgian
+RRamaz Ts. Thank you so much for the qualified and thorough answers. Thanks to your help, today I can confidently say that I won. I fully recommend Ms Mariam. Thank you very much for everything. Translated from Georgian
+BBoris Q. An experienced, professional lawyer who knows her work well. Her many years of experience and responsible approach truly deserve trust. Especially valuable is her ability to assess difficult situations correctly and find an effective way out. Translated from Georgian
+TTsisia A. Thank you so much for your help. An honest and qualified lawyer like you is rare. Translated from Georgian
+LLasha S. Many thanks for the quick response and the professionally handled case! Translated from Georgian
+BBeka B. The team stands out for its competent approach, in-depth analysis and ability to solve legal problems effectively. The communication culture and the search for the best legal solution for every client are especially notable. Translated from Georgian
+SShergil M. The best law office! High responsibility and expertise were felt from the very first day. Thank you very much. Translated from Georgian
 
 10+Years of legal practice
 16Areas of practice
