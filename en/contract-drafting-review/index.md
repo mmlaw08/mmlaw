@@ -107,7 +107,7 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
 
 -
-- [Real estate lawyer](https://mmlaw.ge/en/real-estate-lawyer/)
+- [LLC or sole trader in Georgia — which to choose](https://mmlaw.ge/en/blog/llc-vs-sole-trader-georgia/)
 
 Practice areas
 

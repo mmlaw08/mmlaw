@@ -303,11 +303,11 @@ Blog
 
 ## Legal insights
 
+- [Corporate law](https://mmlaw.ge/en/blog/llc-vs-sole-trader-georgia/) — LLC or sole trader in Georgia — which to choose October 14, 2026 · 5 min read
+
 - [Criminal defense](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/) — Foreigner arrested in Georgia: rights and first steps October 11, 2026 · 5 min read
 
 - [Administrative law](https://mmlaw.ge/en/blog/deportation-from-georgia/) — Deportation from Georgia: grounds, deadlines and appeal October 11, 2026 · 5 min read
-
-- [Family law](https://mmlaw.ge/en/blog/recognition-of-foreign-judgments-georgia/) — Recognising a foreign court decision in Georgia October 11, 2026 · 4 min read
 
 ---
 Source: https://mmlaw.ge/en/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -246,6 +246,8 @@
 
 - [Блог](https://mmlaw.ge/ru/blog/)
 
+- [ИП или ООО в Грузии — в чём разница и что выбрать](https://mmlaw.ge/ru/blog/ip-ili-ooo-v-gruzii/)
+
 - [Иностранца задержали в Грузии: права и первые шаги](https://mmlaw.ge/ru/blog/inostranets-zaderzhan-v-gruzii/)
 
 - [Выдворение из Грузии: основания, сроки и обжалование](https://mmlaw.ge/ru/blog/vydvorenie-iz-gruzii/)

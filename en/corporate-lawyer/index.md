@@ -91,6 +91,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [Registering an LLC in Georgia: what you need](https://mmlaw.ge/en/blog/how-to-register-llc-in-georgia/)
 
 -
+- [LLC or sole trader in Georgia — which to choose](https://mmlaw.ge/en/blog/llc-vs-sole-trader-georgia/)
+
+-
 - [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
 
 -
@@ -107,9 +110,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Bank account for non-residents · For foreigners](https://mmlaw.ge/en/foreigners/bank-account-in-georgia-for-foreigners/)
-
--
-- [Tax residency in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/tax-residency-georgia/)
 
 Practice areas
 

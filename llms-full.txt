@@ -4336,6 +4336,54 @@ Smoothbore hunting shotguns are not covered by Article 236. Illegally keeping ot
 ### What is the penalty for carrying a pistol?
 Illegally carrying a firearm is punished with 4 to 7 years in prison; as a group or by a repeat offender — 8 to 11 years.
 
+## LLC or sole trader in Georgia — which to choose
+URL: https://mmlaw.ge/en/blog/llc-vs-sole-trader-georgia/ — published 2026-10-14
+
+In short: an individual entrepreneur (sole trader) is you, registered as a business — simple, but you are liable for debts with all your personal property. An LLC is a separate company — more formalities, but your personal property is protected and profit is taxed only when you take it out. For a small business, the sole trader's 1% regime is the cheapest — if your activity qualifies.
+
+### The main differences
+
+|   | Sole trader | LLC |
+|---|---|---|
+| Liability | With all your personal property | Partners are not personally liable (except abuse) |
+| What it is | You yourself, registered as a business | A separate legal entity |
+| Partners | One person only | One or several, with shares |
+| Registration | ID/passport and an address | Also a charter and a director |
+| Accounting | Minimal | Bookkeeping and annual reports |
+| Standard tax | 20% on profit | 15% profit tax only when distributed + 5% on dividends |
+| Special regime | 1% of turnover up to GEL 500,000 (3% above) | None |
+| VAT | Above GEL 100,000 — registration, 18% | The same |
+
+### Taxes — an example
+
+Say the annual profit is GEL 100,000. A sole trader without the 1% status pays 20% — GEL 20,000. An LLC that pays out all the profit as dividends pays GEL 15,000 profit tax and GEL 4,250 on the dividends — GEL 19,250 in total; if half the profit stays in the company, tax is due only on the part paid out. A sole trader with small business status pays 1% of turnover — GEL 1,000 on GEL 100,000 of turnover.
+
+### The 1% regime isn't for everyone
+
+- Small business status is only for individual entrepreneurs; annual turnover up to GEL 500,000, 3% above
+- A return and payment every month, by the 15th of the following month
+- Excluded: activities that need a licence or permit, making excise goods, currency exchange, medical, architectural, legal, notarial, audit and consulting work, gambling business, staffing (Government Resolution No. 415)
+- The 1% doesn't cover rent, loan interest, dividends, selling real estate or a car, or salary
+
+### When to choose a sole trader
+
+- You work alone and your activity qualifies for the 1%
+- Annual turnover stays under GEL 500,000
+- The risk of debts or claims is small
+- You want minimal paperwork
+
+### When to choose an LLC
+
+- You have a partner or an investor
+- Your activity doesn't qualify for the 1%
+- You sign large contracts or carry real risk and need to protect your personal property
+- You keep part of the profit in the business — tax only when it is paid out
+- Banks and large clients prefer to deal with a company
+
+### For foreigners
+
+A foreigner can register either form, also remotely — with a notarised, apostilled power of attorney and a Georgian translation. Since 1 March 2026, a foreigner working in Georgia — as a sole trader or as an LLC director — needs the right to work. Registration itself does not give a residence permit.
+
 ## Foreigner arrested in Georgia: rights and first steps
 URL: https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/ — published 2026-10-11
 

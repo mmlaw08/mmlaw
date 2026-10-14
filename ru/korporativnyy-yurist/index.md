@@ -91,6 +91,9 @@
 - [Регистрация ООО в Грузии: что нужно](https://mmlaw.ge/ru/blog/registratsiya-ooo-v-gruzii/)
 
 -
+- [ИП или ООО в Грузии — в чём разница и что выбрать](https://mmlaw.ge/ru/blog/ip-ili-ooo-v-gruzii/)
+
+-
 - [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
 
 -
@@ -107,9 +110,6 @@
 
 -
 - [Банковский счёт для нерезидента · Иностранцам](https://mmlaw.ge/ru/inostrantsam/schet-v-banke-gruzii/)
-
--
-- [Налоговое резидентство Грузии · Иностранцам](https://mmlaw.ge/ru/inostrantsam/nalogovoe-rezidentstvo-gruzii/)
 
 Области практики
 

@@ -246,6 +246,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Blog](https://mmlaw.ge/en/blog/)
 
+- [LLC or sole trader in Georgia — which to choose](https://mmlaw.ge/en/blog/llc-vs-sole-trader-georgia/)
+
 - [Foreigner arrested in Georgia: rights and first steps](https://mmlaw.ge/en/blog/foreigner-arrested-in-georgia/)
 
 - [Deportation from Georgia: grounds, deadlines and appeal](https://mmlaw.ge/en/blog/deportation-from-georgia/)

@@ -246,6 +246,8 @@
 
 - [ბლოგი](https://mmlaw.ge/ka/blogi/)
 
+- [შპს თუ ინდმეწარმე — რა განსხვავებაა და რომელი ავირჩიოთ](https://mmlaw.ge/ka/blogi/shps-tu-indmetsarme/)
+
 - [უცხოელი დააკავეს საქართველოში: უფლებები და პირველი ნაბიჯები](https://mmlaw.ge/ka/blogi/utskhoeli-dakaves-sakartveloshi/)
 
 - [საქართველოდან გაძევება: საფუძვლები, ვადები და გასაჩივრება](https://mmlaw.ge/ka/blogi/sakartvelodan-gadzeveba/)

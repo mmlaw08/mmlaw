@@ -76,6 +76,9 @@
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
+- [შპს თუ ინდმეწარმე — რა განსხვავებაა და რომელი ავირჩიოთ](https://mmlaw.ge/ka/blogi/shps-tu-indmetsarme/)
+
+-
 - [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
 
 -
@@ -92,9 +95,6 @@
 
 -
 - [საბანკო ანგარიში არარეზიდენტისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sabanko-angarishi-utskhoelistvis/)
-
--
-- [საგადასახადო რეზიდენტობა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/sagadasakhado-rezidentoba/)
 
 ბლოგი
 

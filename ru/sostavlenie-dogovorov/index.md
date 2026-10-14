@@ -107,7 +107,7 @@
 - [Налоги фрилансера в Грузии: Upwork, Fiverr, зарплата](https://mmlaw.ge/ru/nalogi-frilanserov-v-gruzii/)
 
 -
-- [Юрист по недвижимости](https://mmlaw.ge/ru/yurist-po-nedvizhimosti/)
+- [ИП или ООО в Грузии — в чём разница и что выбрать](https://mmlaw.ge/ru/blog/ip-ili-ooo-v-gruzii/)
 
 Области практики
 
