@@ -1563,3 +1563,8 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
 .ftr-photo { width: 44px; height: 44px; border-radius: 10px; border: 1px solid var(--acc-line); }
 /* no voice on this device: the Listen bar takes no space */
 .read-tools:not(:has(.rt-btn:not([hidden]))) { display: none; }
+/* phones: comparison cards name the column of each value (the header row is hidden there) */
+@media (max-width: 640px) {
+  .pun-text.pun-multi tbody td:nth-child(n+2) { color: var(--fg); font-size: 15px; font-weight: 400; }
+  .pun-text.pun-multi td[data-label]::before { content: attr(data-label); display: block; margin-bottom: 2px; font-size: 12px; font-weight: 600; letter-spacing: .02em; color: var(--muted); }
+}
