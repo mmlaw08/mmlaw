@@ -743,3 +743,16 @@ document.addEventListener("click", function (ev) {
     b.style.setProperty("--y", (ev.clientY - r.top) + "px");
   }, { passive: true });
 })();
+
+// ---------- reviews: "read more" only where the text is actually cut
+(function () {
+  document.querySelectorAll(".rv").forEach(function (card) {
+    var t = card.querySelector(".rv-t"), b = card.querySelector(".rv-more");
+    if (!t || !b || t.scrollHeight <= t.clientHeight + 2) return;
+    b.hidden = false;
+    b.addEventListener("click", function () {
+      var open = card.classList.toggle("open");
+      b.textContent = open ? b.dataset.less : b.dataset.more;
+    });
+  });
+})();
