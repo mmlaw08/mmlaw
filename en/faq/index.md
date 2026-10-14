@@ -520,7 +520,7 @@ The certificate is issued by the MIA Service Agency — online on its website or
 
 ### When will my criminal record expire?
 
-It depends on the sentence and the category of crime: for a suspended sentence — after the probation period; for imprisonment — 3, 6 or 8 years after serving it.
+It depends on the sentence and the category of crime: for a suspended sentence — after the probation period; for a sentence lighter than imprisonment — 1 year after serving it; for imprisonment — 3, 6 or 8 years after serving it.
 
 ### Can a criminal record be removed early?
 

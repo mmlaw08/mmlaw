@@ -111,7 +111,7 @@ Unlawfully buying or keeping a narcotic drug is punished under Article 260 of th
 ## [Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)
 
 When a criminal record expires automatically and how to have it removed early through the court.
-Under Article 79 of the Criminal Code, a person has a criminal record from the day the guilty verdict enters into force until the record expires or is removed. An expired or removed record is no longer taken into account.
+Under Article 79 of the Criminal Code, a person has a criminal record from the day the guilty verdict enters into force until the record expires or is removed. An expired or removed record is no longer taken into account. A person released from punishment is considered to have no criminal record (Article 79(2)).
 [Removing a criminal record](https://mmlaw.ge/en/criminal-record-removal/)
 
 ## [Early release on parole](https://mmlaw.ge/en/early-release-on-parole/)

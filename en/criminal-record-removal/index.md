@@ -10,7 +10,7 @@ A criminal record gets in the way of jobs, visas, emigration and much more. By l
 
 - Courts of all instances
 
-Under Article 79 of the Criminal Code, a person has a criminal record from the day the guilty verdict enters into force until the record expires or is removed. An expired or removed record is no longer taken into account.
+Under Article 79 of the Criminal Code, a person has a criminal record from the day the guilty verdict enters into force until the record expires or is removed. An expired or removed record is no longer taken into account. A person released from punishment is considered to have no criminal record (Article 79(2)).
 Before the period ends, a court decides on removal at your request if you have behaved impeccably since serving the sentence. We prepare the application and the evidence — work, family, references — and represent you in court.
 
 ## When a criminal record expires
@@ -25,7 +25,7 @@ Before the period ends, a court decides on removal at your request if you have b
 
 - Imprisonment for an especially serious crime — 8 years after serving it
 
-A less serious crime carries a maximum of up to 5 years, a serious crime up to 10 years, and an especially serious crime more than 10 years or life. If you were released early or your sentence was replaced with a lighter one, the period runs from the sentence actually served.
+A less serious crime is one punishable by no more than 5 years in prison; a serious crime is an intentional crime punishable by no more than 10 years (a negligent one — by more than 5 years); an especially serious crime is an intentional crime punishable by more than 10 years or life (Article 12). If you were released early or your sentence was replaced with a lighter one, the period runs from the sentence actually served or from serving the lighter sentence.
 
 ## Our services
 
@@ -49,7 +49,7 @@ The certificate is issued by the MIA Service Agency — online on its website or
 
 ### When will my criminal record expire?
 
-It depends on the sentence and the category of crime: for a suspended sentence — after the probation period; for imprisonment — 3, 6 or 8 years after serving it.
+It depends on the sentence and the category of crime: for a suspended sentence — after the probation period; for a sentence lighter than imprisonment — 1 year after serving it; for imprisonment — 3, 6 or 8 years after serving it.
 
 ### Can a criminal record be removed early?
 
