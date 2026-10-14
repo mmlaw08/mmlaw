@@ -88,6 +88,12 @@ Georgian · English · Russian
 
 The first consultation is free. We reply within one business day.
 
+Reviews
+
+## What clients say
+
+★★★★★Thank you so much for the qualified and thorough answers. Thanks to your help, today I can confidently say that I won. I fully recommend Ms Mariam. Thank you very much for everything.Ramaz Ts.Google review · Translated from Georgian★★★★★An experienced, professional lawyer who knows her work well. Her many years of experience and responsible approach truly deserve trust. Especially valuable is her ability to assess difficult situations correctly and find an effective way out.Boris Q.Google review · Translated from Georgian★★★★★Thank you so much for your help. An honest and qualified lawyer like you is rare.Tsisia A.Google review · Translated from Georgian★★★★★Many thanks for the quick response and the professionally handled case!Lasha S.Google review · Translated from Georgian★★★★★The team stands out for its competent approach, in-depth analysis and ability to solve legal problems effectively. The communication culture and the search for the best legal solution for every client are especially notable.Beka B.Google review · Translated from Georgian★★★★★The best law office! High responsibility and expertise were felt from the very first day. Thank you very much.Shergil M.Google review · Translated from Georgian
+
 10+Years of legal practice
 16Areas of practice
 3Working languages
