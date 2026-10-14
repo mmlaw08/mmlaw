@@ -35,7 +35,13 @@
 
 ## Какие дела веду
 
-- [Уголовная защита](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
+- [Защита в суде присяжных — от отбора присяжных до вердикта](https://mmlaw.ge/ru/advokat-po-ugolovnym-delam/)
+
+- [Дела несовершеннолетних и права детей](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
+
+- [Дела об экстрадиции](https://mmlaw.ge/ru/ekstraditsiya-iz-gruzii/)
+
+- [Защита иностранцев по уголовным делам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 - [Наркотические преступления](https://mmlaw.ge/ru/advokat-po-narkoticheskim-delam/)
 
@@ -48,8 +54,6 @@
 - [Коррупционные и должностные преступления](https://mmlaw.ge/ru/advokat-po-korruptsionnym-delam/)
 
 - [Насильственные преступления](https://mmlaw.ge/ru/advokat-po-nasilstvennym-prestupleniyam/)
-
-- [Ювенальная юстиция](https://mmlaw.ge/ru/advokat-po-delam-nesovershennoletnikh/)
 
 ## Независимые источники
 

@@ -35,7 +35,13 @@ I am a mentor in the Georgian Bar Association's Professional Adaptation Programm
 
 ## Cases I handle
 
-- [Criminal defense](https://mmlaw.ge/en/criminal-defense-lawyer/)
+- [Jury trials — from jury selection to the verdict](https://mmlaw.ge/en/criminal-defense-lawyer/)
+
+- [Juvenile cases and children's rights](https://mmlaw.ge/en/juvenile-justice-lawyer/)
+
+- [Extradition cases](https://mmlaw.ge/en/extradition-from-georgia/)
+
+- [Defending foreigners in criminal cases](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 - [Drug offences](https://mmlaw.ge/en/drug-crime-lawyer/)
 
@@ -48,8 +54,6 @@ I am a mentor in the Georgian Bar Association's Professional Adaptation Programm
 - [Corruption and official crimes](https://mmlaw.ge/en/corruption-crime-lawyer/)
 
 - [Violent crimes](https://mmlaw.ge/en/violent-crime-lawyer/)
-
-- [Juvenile justice](https://mmlaw.ge/en/juvenile-justice-lawyer/)
 
 ## Independent sources
 

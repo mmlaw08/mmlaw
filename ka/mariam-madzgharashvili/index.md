@@ -35,7 +35,13 @@
 
 ## რა საქმეებს ვაწარმოებ
 
-- [სისხლის სამართალი](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
+- [ნაფიც მსაჯულთა სასამართლოში დაცვა — ნაფიც მსაჯულთა შერჩევიდან ვერდიქტამდე](https://mmlaw.ge/ka/siskhlis-samartlis-advokati/)
+
+- [არასრულწლოვანთა საქმეები და ბავშვთა უფლებები](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
+
+- [ექსტრადიციის საქმეები](https://mmlaw.ge/ka/ekstraditsia/)
+
+- [უცხოელების დაცვა სისხლის სამართლის საქმეებში](https://mmlaw.ge/ka/utskhoelebistvis/siskhlis-samartlis-sakmeebi/)
 
 - [ნარკოტიკული დანაშაული](https://mmlaw.ge/ka/narkotikuli-danashaulis-advokati/)
 
@@ -48,8 +54,6 @@
 - [კორუფციული და სამსახურებრივი დანაშაული](https://mmlaw.ge/ka/koruptsiuli-danashaulis-advokati/)
 
 - [ძალადობრივი დანაშაული](https://mmlaw.ge/ka/dzaladobrivi-danashaulis-advokati/)
-
-- [არასრულწლოვანთა მართლმსაჯულება](https://mmlaw.ge/ka/arasrultslovanta-advokati/)
 
 ## დამოუკიდებელი წყაროები
 
