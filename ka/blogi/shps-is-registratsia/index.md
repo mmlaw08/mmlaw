@@ -76,7 +76,7 @@
 - [კორპორატიული სამართლის ადვოკატი](https://mmlaw.ge/ka/korporatiuli-samartlis-advokati/)
 
 -
-- [შპს თუ ინდმეწარმე — რა განსხვავებაა და რომელი ავირჩიოთ](https://mmlaw.ge/ka/blogi/shps-tu-indmetsarme/)
+- [შპს თუ ინდ. მეწარმე — რა განსხვავებაა და რომელი ავირჩიოთ](https://mmlaw.ge/ka/blogi/shps-tu-indmetsarme/)
 
 -
 - [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)

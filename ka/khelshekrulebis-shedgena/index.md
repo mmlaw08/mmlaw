@@ -107,7 +107,7 @@
 - [ფრილანსერის გადასახადი: Upwork, Fiverr, უცხოური ხელფასი](https://mmlaw.ge/ka/frilanseris-gadasakhadi/)
 
 -
-- [შპს თუ ინდმეწარმე — რა განსხვავებაა და რომელი ავირჩიოთ](https://mmlaw.ge/ka/blogi/shps-tu-indmetsarme/)
+- [შპს თუ ინდ. მეწარმე — რა განსხვავებაა და რომელი ავირჩიოთ](https://mmlaw.ge/ka/blogi/shps-tu-indmetsarme/)
 
 პრაქტიკის სფეროები
 
