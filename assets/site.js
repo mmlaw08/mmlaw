@@ -449,7 +449,7 @@
     if (loading[lang]) return loading[lang];
     loading[lang] = fetch(dlg.getAttribute("data-src").replace("{lang}", lang)).then(function (r) { return r.json(); }).then(function (j) {
       j.items.forEach(function (it) {
-        it._t = norm(it.t); it._d = norm(it.d); it._k = norm(it.k); it._w = norm(it.w);
+        it._t = norm(it.t); it._d = norm(it.d); it._k = norm(it.k); it._w = norm(it.w); it._s = norm(it.kw);
         it._lt = latin(it._t); it._ld = latin(it._d); it._lk = latin(it._k);
         it._lang = lang;
       });
@@ -471,6 +471,8 @@
     return f;
   }
   function find(it, x, a, b, c) {
+    // an exact keyword the page was tagged with beats a word that merely starts the same way ("ип" vs "ипотека")
+    if (a === "_t" && it._s && (" " + it._s + " ").indexOf(" " + x + " ") > -1) return 13;
     var p = it[a].indexOf(x);
     if (p > -1) return p === 0 || it[a].charAt(p - 1) === " " ? 12 : 9;
     if (a === "_t" && it._w && it._w.indexOf(x) > -1) return 8;
