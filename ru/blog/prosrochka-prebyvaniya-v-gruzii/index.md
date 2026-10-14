@@ -87,10 +87,10 @@
 - [Гражданство Грузии для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/)
 
 -
-- [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
+- [Авто на иностранных номерах и растаможка · Иностранцам](https://mmlaw.ge/ru/inostrantsam/avto-na-inostrannykh-nomerakh/)
 
 -
-- [Компания и бизнес · Иностранцам](https://mmlaw.ge/ru/inostrantsam/registratsiya-kompanii/)
+- [Покупка недвижимости · Иностранцам](https://mmlaw.ge/ru/inostrantsam/pokupka-nedvizhimosti/)
 
 Блог
 

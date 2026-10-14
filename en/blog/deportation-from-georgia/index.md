@@ -108,7 +108,7 @@ Not on its own. An appeal does not give you a residence permit or postpone your 
 - [Georgian citizenship for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/)
 
 -
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
+- [Car with foreign plates and customs clearance · For foreigners](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/)
 
 Blog
 

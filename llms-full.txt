@@ -1278,7 +1278,7 @@ Our services:
 - Appealing a refusal
 
 ### How do I get a criminal record certificate?
-The certificate is issued by the Ministry of Internal Affairs; you can request it at a Public Service Hall or online at my.gov.ge. For use abroad it usually needs an apostille. If the certificate still shows a conviction, we check whether it has expired and whether it can be removed early.
+The certificate is issued by the MIA Service Agency — online on its website or app, or at a branch; GEL 20, 3 working days. For use abroad it usually needs an apostille. If the certificate still shows a conviction, we check whether it has expired and whether it can be removed early.
 
 ### When will my criminal record expire?
 It depends on the sentence and the category of crime: for a suspended sentence — after the probation period; for imprisonment — 3, 6 or 8 years after serving it.
@@ -2615,6 +2615,56 @@ The penalty is 5% of the tax, 10% if more than 2 months late, plus interest of 0
 ### Do we withhold tax for a remote employee living abroad?
 For services performed abroad, as a rule, no; for management and financial services — 10%. Salary depends on the details — contact us before signing the contract.
 
+## Criminal record certificate in Georgia — fee, apostille
+URL: https://mmlaw.ge/en/criminal-record-certificate-georgia/
+
+Georgian criminal record certificates (police clearance) are issued by the Service Agency of the Ministry of Internal Affairs. You may need one for a job, a visa or abroad. We help obtain it, apostille it and — if it shows a conviction — have the record expunged or removed.
+
+The certificate shows information on convictions and on whether the person is wanted (MIA Order No. 892, Article 15). It is issued to the person, to someone else with their written consent, or to a representative with a power of attorney. You can order it online on the Service Agency's website or app, or at any Agency branch.
+The fee is GEL 20 and it takes 3 working days; in 1 day it costs GEL 40. An apostille costs GEL 20 (5 working days) or GEL 50 in 1 day; translation is GEL 20 per page. A separate certificate on expunged or removed convictions costs GEL 30.
+
+### At a glance
+
+| Service | Fee | Time |
+|---|---|---|
+| Criminal record certificate | GEL 20 | 3 working days |
+| Certificate — urgent | GEL 40 | 1 working day |
+| Apostille | GEL 20 | 5 working days |
+| Apostille — urgent | GEL 50 | 1 working day |
+| Translation | GEL 20 per page | — |
+| Certificate on expunged or removed convictions | GEL 30 | — |
+
+### Good to know
+
+- The certificate is valid for 15 calendar days — order it when you actually need it
+- For use abroad, it usually needs an apostille and a translation
+- If you are abroad, a representative can collect it with a power of attorney
+- If it shows a conviction, we check whether it has expired and whether it can be removed early
+
+### For foreigners
+
+The general residence permit rules (Government Resolution No. 520) don't require a criminal record certificate from your home country — the Agency checks the information itself. A permit can be refused if you are wanted or have a conviction in Georgia. If you lived in Georgia, you can get a Georgian certificate — for example, for a visa or a job in another country.
+
+Our services:
+- Requesting the certificate under a power of attorney
+- Apostille and translation for use abroad
+- Checking whether a conviction has expired
+- Early removal of a conviction
+- Correcting errors in the certificate
+- Certificates for foreigners — residence and visas
+
+### How do I get a criminal record certificate online?
+On the MIA Service Agency website or app, after registering. It costs GEL 20 and takes 3 working days.
+
+### How long is the certificate valid?
+15 calendar days.
+
+### Can someone else get it for me?
+Yes — with your written consent or a power of attorney.
+
+### The certificate shows an old conviction — what can I do?
+We check whether it has expired. If not, it may be possible to have it removed early through the court.
+
 ## Legal help for foreigners in Georgia
 URL: https://mmlaw.ge/en/foreigners/
 
@@ -3073,6 +3123,19 @@ The conditions of marriage are governed for each party by the law of their own c
 3. Both spouses must attend in person with 2 witnesses — you cannot marry through a representative.
 4. The marriage certificate is issued in Georgian. To use it abroad, it needs an apostille and a translation.
 
+### Recognition abroad
+
+- A marriage registered in Georgia is generally valid in other countries — unless their law has an impediment to the marriage
+- Russia treats such a marriage as valid without re-registration (RF Family Code, Article 158)
+- The certificate needs an apostille (at the Public Service Hall, also electronically) and a notarised translation
+- For Germany and other EU countries an apostille is enough — no consular legalisation
+
+### New rules from 2026
+
+- Since 1 July 2026, a fictitious marriage is a crime (Criminal Code, Article 344³): marriage between a Georgian citizen and a foreigner to obtain citizenship or residence. Penalty — up to 2 years in prison; for the foreigner, expulsion and an entry ban of 2 to 10 years
+- Since 1 September 2026, the spouse of a Georgian citizen first gets a temporary permit — for 1 year, then 2 years at a time, up to 5 years; after that, permanent residence if the marriage continues
+- An interagency commission interviews the spouses together and separately and may inspect the home; refusing to cooperate is a ground for refusal
+
 - Checking marriage conditions under your country's law
 - Translating, apostilling and preparing documents
 - Planning the registration at the Public Service Hall
@@ -3091,6 +3154,9 @@ Many countries recognise a marriage concluded abroad under local law. The certif
 
 ### Is a church wedding enough?
 No. Only a marriage registered by the state has legal effect.
+
+### Is a marriage in Georgia recognised in Russia?
+Yes. Under Article 158 of the RF Family Code, a marriage concluded abroad under local law is valid in Russia without re-registration. The certificate needs an apostille and a notarised Russian translation.
 
 ## Driving in Georgia on a foreign licence — the rules
 URL: https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/
@@ -3423,6 +3489,99 @@ No. Salary is excluded from the 1%. If you genuinely provide services rather tha
 
 ### Will I still owe tax in my home country?
 Possibly. That depends on your home country's residency rules and on its tax treaty with Georgia. We check both sides.
+
+## Baby born in Georgia to foreign parents — papers, citizenship
+URL: https://mmlaw.ge/en/foreigners/baby-born-in-georgia/
+
+If your child is born in Georgia, the birth is registered here — whatever the parents' citizenship. But a child does not become a Georgian citizen just by being born here. We help with the documents, the apostille, the child's status and registration in your own country.
+
+Every child born in Georgia has the birth registered (Law on Civil Acts, Article 22) — even if the parents have no legal basis to stay (Article 10). The maternity hospital sends the birth notice electronically within 5 working days; if it doesn't, or the child was born at home, the parents must apply themselves within 1 month. The birth certificate is free and issued in Georgian.
+Under Article 10 of the Law on Citizenship, a child is a Georgian citizen by birth if one parent is a Georgian citizen, or if the parents are stateless persons with status in Georgia. If both parents are foreigners, the child takes the parents' citizenship — under the law of their country.
+
+### Step by step
+
+1. Birth registration — based on the hospital's notice; you collect the certificate at a Public Service Hall
+2. Entering the parents — by joint application or with the marriage document; a foreign marriage certificate needs an apostille and a notarised translation
+3. Apostille and translation of the birth certificate — for use in your country
+4. Registering the child at your country's consulate and getting a passport
+5. The child's status in Georgia — visa-free stay on their own passport, or a residence permit
+
+### The child's residence permit
+
+A foreigner's minor child is a family member, so if a parent holds a residence permit, the child can get a family reunification permit (Law on the Legal Status of Aliens, Article 15). Investment permits also cover family members.
+
+### Leaving Georgia with the child
+
+Georgian law does not require the other parent's consent for a foreign child to leave; exit can be restricted by a court decision. If the parents are in dispute, the other parent can go to court, and the Hague Convention applies to wrongful removal. Your country or the destination country may require consent — check in advance.
+
+- Birth registration and entering the parents
+- Translations and apostilles
+- Establishing and acknowledging paternity
+- Residence permit for the child
+- Citizenship questions
+- Disputes over the child's residence and travel
+
+### Does a child born in Georgia become a Georgian citizen?
+Not by birth alone. The child is a citizen if one parent is Georgian, or if the parents are stateless persons with status in Georgia.
+
+### How much does a birth certificate cost?
+The birth certificate is free. Registration is usually done by the next working day.
+
+### How do I get the certificate recognised in my country?
+It needs an apostille and a translation; then you register the child at your country's consulate.
+
+### Do I need the other parent's consent to leave with the child?
+For a foreign child, Georgian law doesn't require it unless a court has restricted exit. Your country's rules may differ.
+
+## Foreign car in Georgia — 90 days, insurance, import tax
+URL: https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/
+
+A foreigner can drive their own foreign-registered car in Georgia for 90 days. Overstaying, selling the car or handing it over without customs clearance leads to penalties. We help with the time limit, insurance, customs clearance and fines.
+
+Under Finance Minister Order No. 257, a foreign-registered car or motorcycle brought in by a foreign citizen (including dual citizens) may stay in Georgia for 90 calendar days. Within that time it must leave, be cleared through customs or be placed under temporary import. For longer use, the Customs Code allows temporary import for up to 3 years with partial relief — 3% of the import tax for each month.
+Border insurance covering the whole stay is compulsory on entry: for a car, 15 days — GEL 30, 30 days — GEL 50, 90 days — GEL 90, 1 year — GEL 295. Driving without it is fined GEL 100 (Administrative Offences Code, Article 191¹).
+
+### Penalties and risks
+
+| Breach | Consequence |
+|---|---|
+| Overstaying / late declaration | GEL 50 a day, up to GEL 1,000 (Customs Code, Article 165) |
+| Breaking the conditions of a customs procedure | GEL 500, repeat — GEL 1,000 (Article 171) |
+| Selling or handing over the car without clearance | 100% of the import duties (Article 172) |
+| Driving without border insurance | GEL 100 |
+
+### Customs clearance from 2026
+
+Since 2 April 2026, excise on passenger cars depends on engine size and age (Tax Code, Article 188). A car recorded in the MIA database, or whose shipment began, before 2 April is taxed at the old rates. Importing a passenger car is exempt from VAT.
+
+| Car | Excise |
+|---|---|
+| 0–6 years old | GEL 1.50 per cm³ |
+| Over 6 years old | GEL 4.50 per cm³ |
+| Right-hand drive | Three times the rate |
+| Hybrid, 0–6 years (left-hand drive) | 60% less |
+| Electric (left-hand drive) | Exempt |
+
+Import tax is added: GEL 0.05 per cm³, plus 5% of that amount for each year of use. For example, an 8-year-old car with a 2,000 cm³ engine pays GEL 9,000 excise and GEL 140 import tax.
+
+- Assessing the 90-day limit and temporary import
+- Temporary import procedure for up to 3 years
+- Customs clearance and tax calculation
+- Appealing customs fines
+- Selling or transferring the car lawfully
+- Border insurance and driving licence questions
+
+### How long can a foreign-registered car stay in Georgia?
+90 calendar days. Then it must leave, be cleared or be placed under temporary import — for up to 3 years.
+
+### What is the fine for overstaying 90 days?
+GEL 50 a day, up to GEL 1,000.
+
+### Can I sell my foreign-plated car in Georgia?
+Only after customs clearance. Selling or handing it over without clearance is fined 100% of the import duties.
+
+### How much is car import tax in Georgia in 2026?
+Excise is GEL 1.50 per cm³ for cars up to 6 years old and GEL 4.50 for older ones; right-hand drive pays triple. Import tax is added; there is no VAT.
 
 ## Accepting an inheritance in Georgia from abroad
 URL: https://mmlaw.ge/en/georgians-abroad/accepting-an-inheritance/

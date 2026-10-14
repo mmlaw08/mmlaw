@@ -85,6 +85,9 @@
 - [Кокаин, экстази, амфетамин](https://mmlaw.ge/ru/kokain-ekstazi-gruziya/)
 
 -
+- [Справка о несудимости](https://mmlaw.ge/ru/spravka-o-nesudimosti/)
+
+-
 - [Водительские права для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
 
 Блог
 

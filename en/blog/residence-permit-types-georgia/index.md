@@ -83,10 +83,10 @@ Choosing the wrong type is a common reason. A refusal can be appealed — deadli
 - [Georgian citizenship for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/)
 
 -
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
+- [Car with foreign plates and customs clearance · For foreigners](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/)
 
 -
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
+- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 Blog
 

@@ -197,6 +197,10 @@ Moving to Georgia, buying property, starting a business or facing a legal proble
 
 - [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
 
+- [A child of foreign parents born in Georgia](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/) — A child of foreign parents born in Georgia: birth certificate, apostille, citizenship, residence and leaving Georgia with the child.
+
+- [Car with foreign plates and customs clearance](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/) — Driving a foreign-registered car in Georgia: the 90-day limit, border insurance, fines, selling the car and import excise from 2026.
+
 - [All services for foreigners](https://mmlaw.ge/en/foreigners/)
 
 Georgians abroad

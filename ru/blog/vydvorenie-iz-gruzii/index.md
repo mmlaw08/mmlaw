@@ -108,7 +108,7 @@
 - [Гражданство Грузии для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/grazhdanstvo-gruzii/)
 
 -
-- [Адвокат по административным делам](https://mmlaw.ge/ru/advokat-po-administrativnym-delam/)
+- [Авто на иностранных номерах и растаможка · Иностранцам](https://mmlaw.ge/ru/inostrantsam/avto-na-inostrannykh-nomerakh/)
 
 Блог
 

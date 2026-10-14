@@ -66,6 +66,9 @@ Related practice area: [Criminal defense](https://mmlaw.ge/en/criminal-defense-l
 - [Cocaine, MDMA, amphetamine](https://mmlaw.ge/en/cocaine-mdma-amphetamine-georgia/)
 
 -
+- [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
+-
 - [Driving licence for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/driving-licence-georgia-foreigners/)
 
 -
@@ -79,9 +82,6 @@ Related practice area: [Criminal defense](https://mmlaw.ge/en/criminal-defense-l
 
 -
 - [Detained in Georgia? Your rights and what to do](https://mmlaw.ge/en/blog/what-to-do-if-detained/)
-
--
-- [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
 
 For foreigners
 
@@ -124,6 +124,10 @@ For foreigners
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
 - [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
+
+- [A child of foreign parents born in Georgia](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/) — A child of foreign parents born in Georgia: birth certificate, apostille, citizenship, residence and leaving Georgia with the child.
+
+- [Car with foreign plates and customs clearance](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/) — Driving a foreign-registered car in Georgia: the 90-day limit, border insurance, fines, selling the car and import excise from 2026.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -85,6 +85,9 @@
 - [კოკაინი, ექსტაზი, ამფეტამინი](https://mmlaw.ge/ka/kokaini-ekstazi-amfetamini/)
 
 -
+- [ნასამართლობის ცნობა](https://mmlaw.ge/ka/nasamartlobis-tsnoba/)
+
+-
 - [მართვის მოწმობა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/martvis-motsmoba-utskhoelistvis/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [დაგაკავეს საქართველოში? თქვენი უფლებები და რა უნდა გააკეთოთ](https://mmlaw.ge/ka/blogi/tkveni-uplebebi-dakavebisas/)
-
--
-- [ჩხრეკა: რა უფლებები გაქვთ და როგორ მოიქცეთ](https://mmlaw.ge/ka/blogi/chkhreka-tkveni-uplebebi/)
 
 ბლოგი
 

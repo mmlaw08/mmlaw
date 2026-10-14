@@ -45,7 +45,7 @@ A less serious crime carries a maximum of up to 5 years, a serious crime up to 1
 
 ### How do I get a criminal record certificate?
 
-The certificate is issued by the Ministry of Internal Affairs; you can request it at a Public Service Hall or online at my.gov.ge. For use abroad it usually needs an apostille. If the certificate still shows a conviction, we check whether it has expired and whether it can be removed early.
+The certificate is issued by the MIA Service Agency — online on its website or app, or at a branch; GEL 20, 3 working days. For use abroad it usually needs an apostille. If the certificate still shows a conviction, we check whether it has expired and whether it can be removed early.
 
 ### When will my criminal record expire?
 

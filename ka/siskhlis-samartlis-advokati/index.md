@@ -111,6 +111,8 @@
 
 - [შეწყალება და ამნისტია](https://mmlaw.ge/ka/shetsqaleba-da-amnistia/)
 
+- [ნასამართლობის ცნობა](https://mmlaw.ge/ka/nasamartlobis-tsnoba/)
+
 ## დანაშაულები და სასჯელები
 
 ### ქონებრივი დანაშაული6

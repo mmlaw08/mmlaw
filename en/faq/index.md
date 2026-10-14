@@ -514,7 +514,7 @@ No. By law the quantity is the pure substance, without fillers. That is why chec
 
 ### How do I get a criminal record certificate?
 
-The certificate is issued by the Ministry of Internal Affairs; you can request it at a Public Service Hall or online at my.gov.ge. For use abroad it usually needs an apostille. If the certificate still shows a conviction, we check whether it has expired and whether it can be removed early.
+The certificate is issued by the MIA Service Agency — online on its website or app, or at a branch; GEL 20, 3 working days. For use abroad it usually needs an apostille. If the certificate still shows a conviction, we check whether it has expired and whether it can be removed early.
 
 ### When will my criminal record expire?
 
@@ -1128,6 +1128,26 @@ The penalty is 5% of the tax, 10% if more than 2 months late, plus interest of 0
 
 For services performed abroad, as a rule, no; for management and financial services — 10%. Salary depends on the details — contact us before signing the contract.
 
+## Criminal record certificate
+
+[Open page](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
+### How do I get a criminal record certificate online?
+
+On the MIA Service Agency website or app, after registering. It costs GEL 20 and takes 3 working days.
+
+### How long is the certificate valid?
+
+15 calendar days.
+
+### Can someone else get it for me?
+
+Yes — with your written consent or a power of attorney.
+
+### The certificate shows an old conviction — what can I do?
+
+We check whether it has expired. If not, it may be possible to have it removed early through the court.
+
 ## For foreigners
 
 [Open page](https://mmlaw.ge/en/foreigners/)
@@ -1320,6 +1340,10 @@ Many countries recognise a marriage concluded abroad under local law. The certif
 
 No. Only a marriage registered by the state has legal effect.
 
+### Is a marriage in Georgia recognised in Russia?
+
+Yes. Under Article 158 of the RF Family Code, a marriage concluded abroad under local law is valid in Russia without re-registration. The certificate needs an apostille and a notarised Russian translation.
+
 ### Can I drive in Georgia on my own country's licence?
 
 Yes — until it expires, but for no more than 1 year from your last entry into Georgia. A licence not in Latin or Georgian letters needs a certified translation.
@@ -1439,6 +1463,38 @@ No. Salary is excluded from the 1%. If you genuinely provide services rather tha
 ### Will I still owe tax in my home country?
 
 Possibly. That depends on your home country's residency rules and on its tax treaty with Georgia. We check both sides.
+
+### Does a child born in Georgia become a Georgian citizen?
+
+Not by birth alone. The child is a citizen if one parent is Georgian, or if the parents are stateless persons with status in Georgia.
+
+### How much does a birth certificate cost?
+
+The birth certificate is free. Registration is usually done by the next working day.
+
+### How do I get the certificate recognised in my country?
+
+It needs an apostille and a translation; then you register the child at your country's consulate.
+
+### Do I need the other parent's consent to leave with the child?
+
+For a foreign child, Georgian law doesn't require it unless a court has restricted exit. Your country's rules may differ.
+
+### How long can a foreign-registered car stay in Georgia?
+
+90 calendar days. Then it must leave, be cleared or be placed under temporary import — for up to 3 years.
+
+### What is the fine for overstaying 90 days?
+
+GEL 50 a day, up to GEL 1,000.
+
+### Can I sell my foreign-plated car in Georgia?
+
+Only after customs clearance. Selling or handing it over without clearance is fined 100% of the import duties.
+
+### How much is car import tax in Georgia in 2026?
+
+Excise is GEL 1.50 per cm³ for cars up to 6 years old and GEL 4.50 for older ones; right-hand drive pays triple. Import tax is added; there is no VAT.
 
 ## Georgians abroad
 

@@ -821,6 +821,20 @@ Working on Upwork, Fiverr or remotely for a foreign company from Georgia: how mu
 
 [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
 
+### [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
+A Georgian criminal record (police clearance) certificate: how to get it online, fee and time, apostille, translation, and what to do if it shows a conviction.
+
+- Requesting the certificate under a power of attorney
+
+- Apostille and translation for use abroad
+
+- Checking whether a conviction has expired
+
+- Early removal of a conviction
+
+[Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
 ### [Legal help for foreigners in Georgia](https://mmlaw.ge/en/foreigners/)
 
 Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.

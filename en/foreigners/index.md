@@ -46,6 +46,10 @@ For foreigners
 
 - [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
 
+- [A child of foreign parents born in Georgia](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/) — A child of foreign parents born in Georgia: birth certificate, apostille, citizenship, residence and leaving Georgia with the child.
+
+- [Car with foreign plates and customs clearance](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/) — Driving a foreign-registered car in Georgia: the 90-day limit, border insurance, fines, selling the car and import excise from 2026.
+
 - [Get a consultation](https://mmlaw.ge/en/contact/) — Initial consultation is free
 
 01
@@ -260,6 +264,10 @@ Many countries recognise a marriage concluded abroad under local law. The certif
 
 No. Only a marriage registered by the state has legal effect.
 
+### Is a marriage in Georgia recognised in Russia?
+
+Yes. Under Article 158 of the RF Family Code, a marriage concluded abroad under local law is valid in Russia without re-registration. The certificate needs an apostille and a notarised Russian translation.
+
 ### Can I drive in Georgia on my own country's licence?
 
 Yes — until it expires, but for no more than 1 year from your last entry into Georgia. A licence not in Latin or Georgian letters needs a certified translation.
@@ -379,6 +387,38 @@ No. Salary is excluded from the 1%. If you genuinely provide services rather tha
 ### Will I still owe tax in my home country?
 
 Possibly. That depends on your home country's residency rules and on its tax treaty with Georgia. We check both sides.
+
+### Does a child born in Georgia become a Georgian citizen?
+
+Not by birth alone. The child is a citizen if one parent is Georgian, or if the parents are stateless persons with status in Georgia.
+
+### How much does a birth certificate cost?
+
+The birth certificate is free. Registration is usually done by the next working day.
+
+### How do I get the certificate recognised in my country?
+
+It needs an apostille and a translation; then you register the child at your country's consulate.
+
+### Do I need the other parent's consent to leave with the child?
+
+For a foreign child, Georgian law doesn't require it unless a court has restricted exit. Your country's rules may differ.
+
+### How long can a foreign-registered car stay in Georgia?
+
+90 calendar days. Then it must leave, be cleared or be placed under temporary import — for up to 3 years.
+
+### What is the fine for overstaying 90 days?
+
+GEL 50 a day, up to GEL 1,000.
+
+### Can I sell my foreign-plated car in Georgia?
+
+Only after customs clearance. Selling or handing it over without clearance is fined 100% of the import duties.
+
+### How much is car import tax in Georgia in 2026?
+
+Excise is GEL 1.50 per cm³ for cars up to 6 years old and GEL 4.50 for older ones; right-hand drive pays triple. Import tax is added; there is no VAT.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

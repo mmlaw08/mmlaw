@@ -127,5 +127,9 @@
 
 - [დისტანციური მუშაობა საქართველოდან](https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/) — უცხოელი, რომელიც საქართველოდან უცხოურ კომპანიას უმუშავებს: უვიზო ყოფნა, სამუშაო ნებართვა, 20% გადასახადი და ინდმეწარმის 1%.
 
+- [ბავშვის დაბადება საქართველოში უცხოელი მშობლებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/bavshvis-dabadeba-sakartveloshi/) — უცხოელი მშობლების ბავშვი საქართველოში: დაბადების მოწმობა, აპოსტილი, მოქალაქეობა, ბინადრობა და ბავშვთან ერთად ქვეყნიდან გასვლა.
+
+- [უცხოური ნომრებით ავტომობილი და განბაჟება](https://mmlaw.ge/ka/utskhoelebistvis/utskhouri-nomrit-manqana/) — უცხოური ნომრით ავტომობილი საქართველოში: 90 დღე, სასაზღვრო დაზღვევა, ჯარიმები, გაყიდვა და განბაჟების აქციზი 2026 წლიდან.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/mushaobis-nebartva-da-im/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

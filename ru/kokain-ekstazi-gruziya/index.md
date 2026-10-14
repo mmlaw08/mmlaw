@@ -79,6 +79,9 @@
 - [#Иностранцам](https://mmlaw.ge/ru/inostrantsam/)
 
 -
+- [Справка о несудимости](https://mmlaw.ge/ru/spravka-o-nesudimosti/)
+
+-
 - [Уголовные дела · Иностранцам](https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/)
 
 -
@@ -98,9 +101,6 @@
 
 -
 - [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
-
--
-- [Обвинение в мошенничестве: наказание и защита](https://mmlaw.ge/ru/blog/obvinenie-v-moshennichestve/)
 
 Области практики
 

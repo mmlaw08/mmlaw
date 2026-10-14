@@ -108,7 +108,7 @@
 - [საქართველოს მოქალაქეობა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/)
 
 -
-- [ადმინისტრაციული სამართლის ადვოკატი](https://mmlaw.ge/ka/administratsiuli-samartlis-advokati/)
+- [უცხოური ნომრებით ავტომობილი და განბაჟება · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/utskhouri-nomrit-manqana/)
 
 ბლოგი
 

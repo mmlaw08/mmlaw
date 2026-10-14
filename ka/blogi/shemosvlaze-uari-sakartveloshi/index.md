@@ -107,10 +107,10 @@
 - [საქართველოს მოქალაქეობა უცხოელისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/moqalaqeoba-utskhoelistvis/)
 
 -
-- [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
+- [უცხოური ნომრებით ავტომობილი და განბაჟება · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/utskhouri-nomrit-manqana/)
 
 -
-- [კომპანია და ბიზნესი · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kompaniis-registratsia/)
+- [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 ბლოგი
 

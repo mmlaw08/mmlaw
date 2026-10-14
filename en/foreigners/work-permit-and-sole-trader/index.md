@@ -127,5 +127,9 @@ For foreigners
 
 - [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
 
+- [A child of foreign parents born in Georgia](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/) — A child of foreign parents born in Georgia: birth certificate, apostille, citizenship, residence and leaving Georgia with the child.
+
+- [Car with foreign plates and customs clearance](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/) — Driving a foreign-registered car in Georgia: the 90-day limit, border insurance, fines, selling the car and import excise from 2026.
+
 ---
 Source: https://mmlaw.ge/en/foreigners/work-permit-and-sole-trader/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -66,6 +66,9 @@
 - [Кокаин, экстази, амфетамин](https://mmlaw.ge/ru/kokain-ekstazi-gruziya/)
 
 -
+- [Справка о несудимости](https://mmlaw.ge/ru/spravka-o-nesudimosti/)
+
+-
 - [Водительские права для иностранцев · Иностранцам](https://mmlaw.ge/ru/inostrantsam/prava-v-gruzii-dlya-inostrantsev/)
 
 -
@@ -79,9 +82,6 @@
 
 -
 - [Задержали в Грузии? Ваши права и что делать](https://mmlaw.ge/ru/blog/zaderzhanie-v-gruzii-vashi-prava/)
-
--
-- [Обыск в Грузии: ваши права и что делать](https://mmlaw.ge/ru/blog/obysk-vashi-prava/)
 
 Иностранцам
 
@@ -124,6 +124,10 @@
 - [Земля для иностранцев](https://mmlaw.ge/ru/inostrantsam/zemlya-v-gruzii-dlya-inostrantsev/) — Иностранец может купить несельхозземлю; сельхозземлю — только по наследству или по инвестиционному плану.
 
 - [Удалённая работа из Грузии](https://mmlaw.ge/ru/inostrantsam/udalennaya-rabota-iz-gruzii/) — Удалёнка из Грузии на иностранную компанию: безвиз, нужно ли разрешение на работу, ловушка с налогом 20% и ИП с 1%.
+
+- [Ребёнок иностранцев родился в Грузии](https://mmlaw.ge/ru/inostrantsam/rebenok-rodilsya-v-gruzii/) — Ребёнок иностранцев родился в Грузии: свидетельство о рождении, апостиль, гражданство, ВНЖ и выезд с ребёнком.
+
+- [Авто на иностранных номерах и растаможка](https://mmlaw.ge/ru/inostrantsam/avto-na-inostrannykh-nomerakh/) — Машина на иностранных номерах в Грузии: 90 дней, пограничная страховка, штрафы, продажа и акциз при растаможке с 2026 года.
 
 ---
 Source: https://mmlaw.ge/ru/inostrantsam/ugolovnye-dela/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

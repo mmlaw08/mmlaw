@@ -87,10 +87,10 @@ Citizens of many countries — up to one year. The exact rule depends on your ci
 - [Georgian citizenship for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/)
 
 -
-- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
+- [Car with foreign plates and customs clearance · For foreigners](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/)
 
 -
-- [Company & business · For foreigners](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/)
+- [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
 
 Blog
 

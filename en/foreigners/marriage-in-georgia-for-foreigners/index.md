@@ -43,6 +43,24 @@ The conditions of marriage are governed for each party by the law of their own c
 
 - The marriage certificate is issued in Georgian. To use it abroad, it needs an apostille and a translation.
 
+## Recognition abroad
+
+- A marriage registered in Georgia is generally valid in other countries — unless their law has an impediment to the marriage
+
+- Russia treats such a marriage as valid without re-registration (RF Family Code, Article 158)
+
+- The certificate needs an apostille (at the Public Service Hall, also electronically) and a notarised translation
+
+- For Germany and other EU countries an apostille is enough — no consular legalisation
+
+## New rules from 2026
+
+- Since 1 July 2026, a fictitious marriage is a crime (Criminal Code, Article 344³): marriage between a Georgian citizen and a foreigner to obtain citizenship or residence. Penalty — up to 2 years in prison; for the foreigner, expulsion and an entry ban of 2 to 10 years
+
+- Since 1 September 2026, the spouse of a Georgian citizen first gets a temporary permit — for 1 year, then 2 years at a time, up to 5 years; after that, permanent residence if the marriage continues
+
+- An interagency commission interviews the spouses together and separately and may inspect the home; refusing to cooperate is a ground for refusal
+
 ## Our services
 
 - Checking marriage conditions under your country's law
@@ -75,6 +93,10 @@ Many countries recognise a marriage concluded abroad under local law. The certif
 
 No. Only a marriage registered by the state has legal effect.
 
+### Is a marriage in Georgia recognised in Russia?
+
+Yes. Under Article 158 of the RF Family Code, a marriage concluded abroad under local law is valid in Russia without re-registration. The certificate needs an apostille and a notarised Russian translation.
+
 ## Legal basis
 
 - [Civil Code of Georgia](https://matsne.gov.ge/ka/document/view/31702)
@@ -82,6 +104,10 @@ No. Only a marriage registered by the state has legal effect.
 - [Law on Civil Acts](https://matsne.gov.ge/ka/document/view/1541247)
 
 - [Law on Private International Law](https://matsne.gov.ge/ka/document/view/93712)
+
+- [Law on the Legal Status of Aliens and Stateless Persons](https://matsne.gov.ge/ka/document/view/2278806)
+
+- [Criminal Code of Georgia](https://matsne.gov.ge/ka/document/view/16426)
 
 Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
@@ -95,6 +121,9 @@ Related practice area: [Family law](https://mmlaw.ge/en/family-lawyer/)
 
 -
 - [Family cases · For foreigners](https://mmlaw.ge/en/foreigners/family-law-for-foreigners/)
+
+-
+- [A child of foreign parents born in Georgia · For foreigners](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/)
 
 -
 - [Buying property · For foreigners](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/)
@@ -113,9 +142,6 @@ Related practice area: [Family law](https://mmlaw.ge/en/family-lawyer/)
 
 -
 - [Refused entry to Georgia: reasons and what to do](https://mmlaw.ge/en/blog/refused-entry-to-georgia/)
-
--
-- [Overstaying in Georgia: fines and entry bans](https://mmlaw.ge/en/blog/overstay-in-georgia-fines/)
 
 For foreigners
 
@@ -158,6 +184,10 @@ For foreigners
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
 - [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
+
+- [A child of foreign parents born in Georgia](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/) — A child of foreign parents born in Georgia: birth certificate, apostille, citizenship, residence and leaving Georgia with the child.
+
+- [Car with foreign plates and customs clearance](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/) — Driving a foreign-registered car in Georgia: the 90-day limit, border insurance, fines, selling the car and import excise from 2026.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/marriage-in-georgia-for-foreigners/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

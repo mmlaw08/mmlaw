@@ -61,6 +61,9 @@
 - [ქორწინება საქართველოში უცხოელებისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/kortsineba-utskhoelebistvis/)
 
 -
+- [ბავშვის დაბადება საქართველოში უცხოელი მშობლებისთვის · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/bavshvis-dabadeba-sakartveloshi/)
+
+-
 - [ქონების შეძენა · უცხოელებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/konebis-shedzena/)
 
 -
@@ -77,9 +80,6 @@
 
 -
 - [საქართველოში შემოსვლაზე უარი: მიზეზები და რა ვქნა](https://mmlaw.ge/ka/blogi/shemosvlaze-uari-sakartveloshi/)
-
--
-- [საქართველოში ყოფნის ვადის გადაცილება: ჯარიმა და აკრძალვა](https://mmlaw.ge/ka/blogi/qopnis-vadis-gadatsileba/)
 
 უცხოელებისთვის
 
@@ -122,6 +122,10 @@
 - [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
 
 - [დისტანციური მუშაობა საქართველოდან](https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/) — უცხოელი, რომელიც საქართველოდან უცხოურ კომპანიას უმუშავებს: უვიზო ყოფნა, სამუშაო ნებართვა, 20% გადასახადი და ინდმეწარმის 1%.
+
+- [ბავშვის დაბადება საქართველოში უცხოელი მშობლებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/bavshvis-dabadeba-sakartveloshi/) — უცხოელი მშობლების ბავშვი საქართველოში: დაბადების მოწმობა, აპოსტილი, მოქალაქეობა, ბინადრობა და ბავშვთან ერთად ქვეყნიდან გასვლა.
+
+- [უცხოური ნომრებით ავტომობილი და განბაჟება](https://mmlaw.ge/ka/utskhoelebistvis/utskhouri-nomrit-manqana/) — უცხოური ნომრით ავტომობილი საქართველოში: 90 დღე, სასაზღვრო დაზღვევა, ჯარიმები, გაყიდვა და განბაჟების აქციზი 2026 წლიდან.
 
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/saojakho-sakmeebi/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

@@ -83,7 +83,7 @@ Related practice area: [Administrative law](https://mmlaw.ge/en/administrative-l
 - [Georgian citizenship for foreigners · For foreigners](https://mmlaw.ge/en/foreigners/georgian-citizenship-for-foreigners/)
 
 -
-- [Administrative law lawyer](https://mmlaw.ge/en/administrative-law-lawyer/)
+- [Car with foreign plates and customs clearance · For foreigners](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/)
 
 For foreigners
 
@@ -126,6 +126,10 @@ For foreigners
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/) — Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
 - [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/) — Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
+
+- [A child of foreign parents born in Georgia](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/) — A child of foreign parents born in Georgia: birth certificate, apostille, citizenship, residence and leaving Georgia with the child.
+
+- [Car with foreign plates and customs clearance](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/) — Driving a foreign-registered car in Georgia: the 90-day limit, border insurance, fines, selling the car and import excise from 2026.
 
 ---
 Source: https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

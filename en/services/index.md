@@ -306,6 +306,12 @@ Working on Upwork, Fiverr or remotely for a foreign company from Georgia: how mu
 Under Article 104 of the Tax Code, services performed in Georgia and employment carried out in Georgia are Georgian-source income. It doesn't matter where the money arrives — on Upwork, Payoneer or a foreign bank. So money received from abroad is not tax-free.
 [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)
 
+## [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
+A Georgian criminal record (police clearance) certificate: how to get it online, fee and time, apostille, translation, and what to do if it shows a conviction.
+The certificate shows information on convictions and on whether the person is wanted (MIA Order No. 892, Article 15). It is issued to the person, to someone else with their written consent, or to a representative with a power of attorney. You can order it online on the Service Agency's website or app, or at any Agency branch.
+[Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
 Other practice areas
 
 ## [Civil litigation](https://mmlaw.ge/en/civil-litigation-lawyer/)

@@ -79,6 +79,9 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 - [#For foreigners](https://mmlaw.ge/en/foreigners/)
 
 -
+- [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
+-
 - [Criminal cases · For foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/)
 
 -
@@ -98,9 +101,6 @@ Official texts (in Georgian) — Legislative Herald of Georgia, matsne.gov.ge.
 
 -
 - [Police search in Georgia: your rights and what to do](https://mmlaw.ge/en/blog/police-search-your-rights/)
-
--
-- [Fraud charges in Georgia: penalties and your defence](https://mmlaw.ge/en/blog/fraud-charges-in-georgia/)
 
 Practice areas
 

@@ -111,6 +111,8 @@
 
 - [Помилование и амнистия](https://mmlaw.ge/ru/pomilovanie-i-amnistiya/)
 
+- [Справка о несудимости](https://mmlaw.ge/ru/spravka-o-nesudimosti/)
+
 ## Преступления и наказания
 
 ### Имущественные преступления6

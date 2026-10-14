@@ -111,6 +111,8 @@ We defend clients in cases of serious and particularly serious crimes, economic 
 
 - [Pardon and amnesty](https://mmlaw.ge/en/pardon-and-amnesty/)
 
+- [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)
+
 ## Crimes and penalties
 
 ### Property crimes6

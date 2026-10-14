@@ -167,5 +167,9 @@
 
 - [მიწა უცხოელისთვის](https://mmlaw.ge/ka/utskhoelebistvis/mitsis-yidva-utskhoelistvis/) — უცხოელს არასასოფლო-სამეურნეო მიწის ყიდვა შეუძლია; სასოფლო-სამეურნეო მიწა — მხოლოდ მემკვიდრეობით ან საინვესტიციო გეგმით.
 
+- [ბავშვის დაბადება საქართველოში უცხოელი მშობლებისთვის](https://mmlaw.ge/ka/utskhoelebistvis/bavshvis-dabadeba-sakartveloshi/) — უცხოელი მშობლების ბავშვი საქართველოში: დაბადების მოწმობა, აპოსტილი, მოქალაქეობა, ბინადრობა და ბავშვთან ერთად ქვეყნიდან გასვლა.
+
+- [უცხოური ნომრებით ავტომობილი და განბაჟება](https://mmlaw.ge/ka/utskhoelebistvis/utskhouri-nomrit-manqana/) — უცხოური ნომრით ავტომობილი საქართველოში: 90 დღე, სასაზღვრო დაზღვევა, ჯარიმები, გაყიდვა და განბაჟების აქციზი 2026 წლიდან.
+
 ---
 Source: https://mmlaw.ge/ka/utskhoelebistvis/distantsiuri-mushaoba-utskhoelistvis/ · MMLAW · +995 551 00 43 00 · info@mmlaw.ge

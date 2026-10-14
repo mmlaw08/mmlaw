@@ -180,6 +180,8 @@ Every page of the site in one place — services, articles and useful resources.
 
 - [Freelancer tax in Georgia: Upwork, Fiverr, foreign salary](https://mmlaw.ge/en/freelancer-tax-georgia/)Working on Upwork, Fiverr or remotely for a foreign company from Georgia: how much tax, the 1% sole trader and tax returns.
 
+- [Criminal record certificate](https://mmlaw.ge/en/criminal-record-certificate-georgia/)A Georgian criminal record (police clearance) certificate: how to get it online, fee and time, apostille, translation, and what to do if it shows a conviction.
+
 ## For foreigners
 
 - [For foreigners](https://mmlaw.ge/en/foreigners/)
@@ -223,6 +225,10 @@ Every page of the site in one place — services, articles and useful resources.
 - [Land for foreigners](https://mmlaw.ge/en/foreigners/can-foreigners-buy-land-in-georgia/)Foreigners can buy non-agricultural land; agricultural land only through inheritance or an investment plan.
 
 - [Working remotely from Georgia](https://mmlaw.ge/en/foreigners/working-remotely-from-georgia/)Digital nomads and remote employees in Georgia: visa-free stay, the work permit question, the 20% tax trap and the 1% sole trader.
+
+- [A child of foreign parents born in Georgia](https://mmlaw.ge/en/foreigners/baby-born-in-georgia/)A child of foreign parents born in Georgia: birth certificate, apostille, citizenship, residence and leaving Georgia with the child.
+
+- [Car with foreign plates and customs clearance](https://mmlaw.ge/en/foreigners/foreign-car-in-georgia/)Driving a foreign-registered car in Georgia: the 90-day limit, border insurance, fines, selling the car and import excise from 2026.
 
 - [Georgians abroad](https://mmlaw.ge/en/georgians-abroad/)We handle your matter in Georgia without you having to travel — by power of attorney, remote consultations and constant contact on WhatsApp.
 
