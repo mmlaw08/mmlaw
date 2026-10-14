@@ -14,6 +14,8 @@ Lawyer · MMLAW
 
 - Jury Trial Committee member
 
+- Mentor lawyer — Georgian Bar Association
+
 **Specialisation**
 
 - Criminal law

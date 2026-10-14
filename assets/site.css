@@ -1466,3 +1466,6 @@ main .page-hero .lead { font-size: calc(19px * var(--fsx)); }
   .pun-fit thead th { font-size: 10.5px; letter-spacing: .02em; white-space: normal; }
   .pun-fit tbody th { white-space: normal; }
 }
+/* lawyer card in a narrow sidebar (profile page): labels above values */
+.lw-narrow .lw-card { margin-top: 0; }
+.lw-narrow .lw-rows > div { grid-template-columns: 1fr; gap: 6px; }
