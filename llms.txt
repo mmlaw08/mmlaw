@@ -12,7 +12,6 @@
 
 - Three languages: Georgian, English, Russian — every page exists in all three.
 - Site search across all three languages (also finds Georgian words typed in Latin letters, e.g. "advokati").
-- Text size control (A− / 100% / A+) on articles, practice-area and foreigner pages; the choice is remembered.
 - "Listen": English and Russian pages can be read aloud with the device's built-in voice.
 - Light and dark mode; works on phones with a bottom navigation bar (home, services, search, call).
 - Contact: call, WhatsApp, or a call-back request form on every page.
@@ -86,7 +85,7 @@
 
 - [Legal help for foreigners](https://mmlaw.ge/en/foreigners/): Moving to Georgia, buying property, starting a business or facing a legal problem here? We advise foreigners in English and Russian — at our Tbilisi office or remotely.
 - [Criminal defense lawyer for foreigners](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/): When a foreigner faces a criminal case in Georgia, language and unfamiliar procedure are the first obstacles. We defend you in English or Russian — from the moment of arrest to trial.
-- [Immigration lawyer in Tbilisi — entry bans, deportation](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/): When you are turned away at the border, have overstayed or face deportation, time is very short. We act from day one — in English or Russian, in Georgia or remotely.
+- [Immigration lawyer in Tbilisi — entry bans, deportation](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/): When you are turned away at the border, have overstayed or face deportation, time is very short. We act from day one — in English or Russian, in Georgia or remotely. Prices (GEL): Refused entry: finding out the reason and requesting information 1 300.
 - [Buying property in Georgia as a foreigner](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/): Foreigners can buy apartments, houses and non-agricultural land in Georgia on the same terms as Georgians. We check the property, prepare the contract and register your ownership — even if you are abroad.
 - [Disputes with property developers in Georgia](https://mmlaw.ge/en/foreigners/disputes-with-developers/): When you buy a flat in a new build, the biggest risk is the developer. We help buyers — including foreigners — get their flat or their money back, through negotiation or in court.
 - [How to register a business in Georgia as a foreigner](https://mmlaw.ge/en/foreigners/company-registration-in-georgia/): Foreigners can own 100% of a Georgian company and run it from abroad. We register LLCs, branches and individual entrepreneurs, prepare corporate documents and support you with banks, contracts and tax registration. Prices (GEL, VAT included): Company (LLC) registration 1 800; Company (LLC) registration  remote 2 700; Virtual business address 500 per year; Personal bank account opening 700; Personal bank account opening  remote 1 050; Business bank account opening 1 000; Business bank account opening  remote 1 500; Personal and business accounts together 1 500; Personal and business accounts together  remote 2 250.

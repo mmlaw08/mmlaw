@@ -1198,6 +1198,10 @@ Yes, if you ask. A detained foreigner has the right to request that the consulat
 
 Yes. A family member can contact us by phone or WhatsApp; we sign the engagement remotely and step into the case immediately.
 
+### How much does it cost if I was refused entry at the border?
+
+1 300 ₾. The price covers finding out the reason for the refusal and gathering information, contacting the authorities on your behalf and requesting official information in writing. We will need a power of attorney from you.
+
 ### How many days do I have to appeal a deportation decision?
 
 10 days from when it is served. Contact a lawyer right away.

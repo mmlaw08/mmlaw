@@ -8,7 +8,7 @@ For foreigners
 
 - [Criminal cases](https://mmlaw.ge/en/foreigners/criminal-defense-for-foreigners/) — Defense if you are detained or charged — with an interpreter and contact with your consulate.
 
-- [Immigration cases](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/) — Refused entry, overstays, deportation and appeals against residence-permit refusals — fast and in your language.
+- [Immigration cases](https://mmlaw.ge/en/foreigners/immigration-lawyer-georgia/) — Refused entry? We find out why for 1 300 ₾. Also overstays, deportation and residence-permit appeals — fast and in your language.
 
 - [Buying property](https://mmlaw.ge/en/foreigners/buying-property-in-georgia/) — Check the property, sign a safe contract and register ownership — in person or remotely.
 
@@ -95,6 +95,10 @@ Yes, if you ask. A detained foreigner has the right to request that the consulat
 ### Can my family hire a lawyer from abroad?
 
 Yes. A family member can contact us by phone or WhatsApp; we sign the engagement remotely and step into the case immediately.
+
+### How much does it cost if I was refused entry at the border?
+
+1 300 ₾. The price covers finding out the reason for the refusal and gathering information, contacting the authorities on your behalf and requesting official information in writing. We will need a power of attorney from you.
 
 ### How many days do I have to appeal a deportation decision?
 

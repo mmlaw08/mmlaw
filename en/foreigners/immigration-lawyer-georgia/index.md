@@ -29,6 +29,10 @@ Often an appeal is not the only answer: we look for a lawful basis to stay — t
 
 ## Questions & answers
 
+### How much does it cost if I was refused entry at the border?
+
+1 300 ₾. The price covers finding out the reason for the refusal and gathering information, contacting the authorities on your behalf and requesting official information in writing. We will need a power of attorney from you.
+
 ### How many days do I have to appeal a deportation decision?
 
 10 days from when it is served. Contact a lawyer right away.

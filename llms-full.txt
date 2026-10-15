@@ -12,7 +12,6 @@
 
 - Three languages: Georgian, English, Russian — every page exists in all three.
 - Site search across all three languages (also finds Georgian words typed in Latin letters, e.g. "advokati").
-- Text size control (A− / 100% / A+) on articles, practice-area and foreigner pages; the choice is remembered.
 - "Listen": English and Russian pages can be read aloud with the device's built-in voice.
 - Light and dark mode; works on phones with a bottom navigation bar (home, services, search, call).
 - Contact: call, WhatsApp, or a call-back request form on every page.
@@ -2770,12 +2769,23 @@ When you are turned away at the border, have overstayed or face deportation, tim
 In immigration cases deadlines are counted in days: a deportation decision can be appealed in court within 10 days of being served. So the first step is to get a copy of the decision and understand exactly what it is based on.
 Often an appeal is not the only answer: we look for a lawful basis to stay — the right type of residence permit, a family tie or another route — and at the same time protect your property, job and family interests.
 
+### Refused entry — how we help and what it costs
+
+- Finding out the reason for the refusal and gathering information
+- Contacting the authorities on your behalf
+- Requesting official information in writing
+
+Service fee: 1 300 ₾. We will need a power of attorney from you.
+
 - Appealing a refusal of entry at the border
 - Help after an overstay: the fine, the entry ban and next steps
 - Deportation cases and the interview at the Ministry
 - Court hearings on placement in the temporary accommodation centre
 - Appealing a residence-permit refusal
 - A new application on the right basis
+
+### How much does it cost if I was refused entry at the border?
+1 300 ₾. The price covers finding out the reason for the refusal and gathering information, contacting the authorities on your behalf and requesting official information in writing. We will need a power of attorney from you.
 
 ### How many days do I have to appeal a deportation decision?
 10 days from when it is served. Contact a lawyer right away.
