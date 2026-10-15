@@ -1,7 +1,7 @@
 # Refused entry to Georgia: reasons and what to do
 
 Why foreigners are refused entry to Georgia, what to do at the border, whether you can appeal the decision and when it makes sense to try again.
-[Administrative law](https://mmlaw.ge/en/administrative-law-lawyer/) · October 11, 2026 · 5 min read
+[Administrative law](https://mmlaw.ge/en/administrative-law-lawyer/) · October 11, 2026 · 5 min read · Updated: October 15, 2026
 
 Being turned away at the border is a shock — especially if you have family, a home or a business in Georgia. The decision is made by the Border Police, and the person is sent back. Here is what the reason may be and what you can do.
 
