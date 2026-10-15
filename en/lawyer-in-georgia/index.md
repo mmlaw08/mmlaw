@@ -2,7 +2,7 @@
 
 MMLAW lawyers represent individuals and companies before courts of every instance in Georgia, public authorities and in negotiations. Choose an area — the first consultation is free.
 
-10+Years of legal practice
+7+Years of legal practice
 16Areas of practice
 3Working languages
 FreeInitial consultation

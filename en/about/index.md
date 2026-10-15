@@ -1,6 +1,6 @@
 # Loyalty to the law. Integrity in every case.
 
-MMLAW is a law firm in Georgia whose team brings more than 10 years of legal practice.
+MMLAW is a law firm in Georgia whose team brings more than 7 years of legal practice.
 
 We represent individuals and companies in criminal, civil, administrative, labour, corporate, real estate, family and intellectual property matters — in negotiations, before public authorities and in courts of every instance in Georgia.
 Our approach is simple: every client works directly with an attorney, gets an honest assessment of their case and a clear plan of action. We work in Georgian, English and Russian, so foreign clients and companies can get legal help in a language they understand.
@@ -36,7 +36,7 @@ Georgian · English · Russian
 
 The first consultation is free. We reply within one business day.
 
-10+Years of legal practice
+7+Years of legal practice
 16Areas of practice
 3Working languages
 FreeInitial consultation

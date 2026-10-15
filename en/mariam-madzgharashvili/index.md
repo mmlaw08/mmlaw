@@ -103,7 +103,7 @@ LLasha S. Many thanks for the quick response and the professionally handled case
 BBeka B. The team stands out for its competent approach, in-depth analysis and ability to solve legal problems effectively. The communication culture and the search for the best legal solution for every client are especially notable. Translated from Georgian
 SShergil M. The best law office! High responsibility and expertise were felt from the very first day. Thank you very much. Translated from Georgian
 
-10+Years of legal practice
+7+Years of legal practice
 16Areas of practice
 3Working languages
 FreeInitial consultation

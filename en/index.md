@@ -12,7 +12,7 @@ We defend accused and convicted persons, witnesses and victims — from the firs
 
 - Representation in courts of all instances
 
-10+Years of legal practice
+7+Years of legal practice
 16Areas of practice
 3Working languages
 FreeInitial consultation
@@ -232,7 +232,7 @@ About MMLAW
 ## Loyalty to the law.
 Integrity in every case.
 
-For more than 10 years MMLAW has represented individuals and companies in criminal, civil and corporate matters. We combine deep courtroom experience with a personal approach — every client works directly with an attorney.
+For more than 7 years MMLAW has represented individuals and companies in criminal, civil and corporate matters. We combine deep courtroom experience with a personal approach — every client works directly with an attorney.
 
 01
 
