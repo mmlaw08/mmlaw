@@ -1,4 +1,4 @@
-# Accepting an inheritance in Georgia from abroad
+# Inherit in Georgia from abroad without travelling
 
 A family member has died in Georgia and you live abroad? You can accept the inheritance without coming — the key is not to miss the 6-month deadline.
 
